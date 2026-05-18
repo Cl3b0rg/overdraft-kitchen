@@ -90,6 +90,16 @@ The build script validates: total cost ≤ $15, servings ≥ 4, calories ≥ 400
 }
 ```
 
+## Footer price date
+
+The site footer in `build.js` reads:
+> "Prices are estimates based on Ottawa and Ontario grocery store averages. Nutritional values are estimates. Regional prices vary."
+
+**Whenever recipe prices are updated, also update this footer line in `build.js` to append the date prices were last verified**, e.g.:
+> "Prices are estimates based on Ottawa and Ontario grocery store averages. Last verified May 2026. Nutritional values are estimates. Regional prices vary."
+
+The footer text is in the `pageLayout` function inside `build.js`. Update it as part of any pricing commit.
+
 ## Pricing rules
 
 - Use the validated price list below for ALL ingredient costs — do not guess
