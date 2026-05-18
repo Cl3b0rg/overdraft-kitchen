@@ -289,7 +289,7 @@ function renderIndexPage(recipes) {
 
   const content = `
     <section class="site-about">
-      <p>Straightforward recipes for when money is tight. Every recipe feeds at least four people, costs under $15, and provides at least 400 calories per serving. Prices are based on Ottawa and Ontario grocery store averages for 2026.</p>
+      <p>You know how groceries are right now. These recipes feed four people for under $15 and hit at least 400 calories per serving — no premium ingredients, no lifestyle branding, just meals that work when the bank account doesn't. Priced against Ottawa and Ontario grocery store averages for 2026, which is, frankly, a lot to ask of anyone.</p>
     </section>
     <div class="site-stats" role="list">
       <div class="stat" role="listitem">
