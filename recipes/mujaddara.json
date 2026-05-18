@@ -1,0 +1,66 @@
+{
+  "id": "mujaddara",
+  "name": "Mujaddara",
+  "summary": "Brown lentils and rice cooked together, topped with deeply caramelized onions — a Middle Eastern staple that costs almost nothing to make.",
+  "totalCost": 5.45,
+  "costPerServing": 1.36,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "55 min",
+  "tags": ["vegan", "vegetarian", "beans", "rice", "one-pot", "gluten-free", "high-protein", "meal-prep"],
+
+  "ingredients": [
+    { "quantity": "200 g",         "name": "green or brown lentils, dry",          "costContribution": 0.84 },
+    { "quantity": "200 g",         "name": "long-grain white rice, dry",           "costContribution": 0.50 },
+    { "quantity": "3 medium",      "name": "yellow onions, halved and thinly sliced", "costContribution": 3.69 },
+    { "quantity": "4 tbsp",        "name": "vegetable oil",                        "costContribution": 0.24 },
+    { "quantity": "1.5 tsp",       "name": "ground cumin",                        "costContribution": 0.08 },
+    { "quantity": "0.5 tsp",       "name": "ground coriander",                    "costContribution": 0.03 },
+    { "quantity": "0.5 tsp",       "name": "allspice",                            "costContribution": 0.03 },
+    { "quantity": "1 tsp",         "name": "salt",                                "costContribution": 0.02 },
+    { "quantity": "0.5 tsp",       "name": "black pepper",                        "costContribution": 0.02 },
+    { "quantity": "800 mL",        "name": "water",                               "costContribution": 0.00 }
+  ],
+
+  "instructions": [
+    "Rinse the lentils. Place in a pot with 600 mL of the water. Bring to a boil, reduce heat, and simmer 15 minutes until par-cooked but still firm. Drain and set aside.",
+    "Meanwhile, heat 3 tablespoons of oil in a large wide pot over medium-high heat. Add the sliced onions with a pinch of salt.",
+    "Cook the onions, stirring often, for 30–40 minutes until they are a deep amber-brown. Reduce heat if they are burning rather than caramelizing. This step cannot be rushed.",
+    "Remove about half the caramelized onions and set aside for topping.",
+    "To the remaining onions in the pot, add the cumin, coriander, and allspice. Stir 1 minute.",
+    "Add the par-cooked lentils and rice. Add 800 mL of water and 1 tsp salt. Stir to combine.",
+    "Bring to a boil, then reduce heat to the lowest setting. Cover tightly and cook 20 minutes without lifting the lid.",
+    "Remove from heat. Let rest, covered, 5 minutes. Fluff with a fork.",
+    "Serve topped with the reserved caramelized onions. Plain yogurt alongside is traditional but not included in the budget."
+  ],
+
+  "nutrition": {
+    "calories": 430,
+    "protein": 16,
+    "carbs": 72,
+    "fat": 10,
+    "fiber": 11,
+    "sodium": 300,
+    "iron": "~30% DV",
+    "calcium": "~6% DV",
+    "vitaminC": "~8% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "All ingredients are naturally gluten-free."
+  },
+
+  "budgetNotes": [
+    "Three onions at $1.23 each is the main cost. The caramelized onions are the entire flavor of this dish — do not reduce the quantity.",
+    "The caramelization takes 30–40 minutes over medium heat. This is not optional. Onions that are only softened produce a completely different result.",
+    "At $1.36 per serving, this is one of the cheapest complete meals on the site. Lentils and rice together provide a complete amino acid profile."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills"],
+    "notes": "Green lentils PC Blue Menu $0.42/100g, 200g = $0.84. Rice $0.25/100g, 200g = $0.50. Onions $1.23 each × 3 = $3.69. Oil $0.06/tbsp × 4 = $0.24. Spices estimated $0.16. Total verified at $5.43 plus spices."
+  }
+}

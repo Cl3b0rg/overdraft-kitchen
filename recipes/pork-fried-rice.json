@@ -1,0 +1,67 @@
+{
+  "id": "pork-fried-rice",
+  "name": "Pork Fried Rice",
+  "summary": "Ground pork, egg, and frozen vegetables fried with day-old rice in soy sauce and sesame oil.",
+  "totalCost": 6.35,
+  "costPerServing": 1.59,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "tags": ["pork", "rice", "fast", "meal-prep", "gluten-free"],
+
+  "ingredients": [
+    { "quantity": "300 g",         "name": "ground pork",                          "costContribution": 2.65 },
+    { "quantity": "400 g",         "name": "cooked rice (day-old preferred), from 200g dry", "costContribution": 0.50 },
+    { "quantity": "3 large",       "name": "eggs, beaten",                         "costContribution": 0.99 },
+    { "quantity": "200 g",         "name": "frozen mixed vegetables (peas, corn, carrots)", "costContribution": 0.80 },
+    { "quantity": "3 tbsp",        "name": "soy sauce",                            "costContribution": 0.23 },
+    { "quantity": "1 tbsp",        "name": "sesame oil",                           "costContribution": 0.30 },
+    { "quantity": "2 tbsp",        "name": "vegetable oil",                        "costContribution": 0.12 },
+    { "quantity": "3 cloves",      "name": "garlic, minced",                       "costContribution": 0.24 },
+    { "quantity": "3 stalks",      "name": "green onions, sliced (whites and greens separated)", "costContribution": 0.50 },
+    { "quantity": "0.5 tsp",       "name": "white pepper or black pepper",         "costContribution": 0.02 }
+  ],
+
+  "instructions": [
+    "If cooking rice fresh, make it ahead and spread on a tray to cool and dry. Day-old refrigerated rice works best because it is dry.",
+    "Heat 1 tablespoon oil in a large wok or wide skillet over very high heat. Add ground pork and cook, breaking apart, until browned — about 6 minutes. Push to the side.",
+    "Add the remaining oil. Add garlic and white parts of the green onions. Cook 30 seconds.",
+    "Add frozen vegetables. Cook 2 minutes until thawed and heated through.",
+    "Push everything to the sides. Pour beaten eggs into the center. Scramble until just set, then break into chunks and mix into the pork and vegetables.",
+    "Add the rice. Break up any clumps. Stir-fry over high heat 3–4 minutes, pressing the rice down and letting it sit briefly to get some toasted bits on the bottom.",
+    "Pour soy sauce over everything. Toss to coat evenly.",
+    "Remove from heat. Drizzle with sesame oil. Top with green onion greens. Serve immediately."
+  ],
+
+  "nutrition": {
+    "calories": 490,
+    "protein": 24,
+    "carbs": 50,
+    "fat": 19,
+    "fiber": 3,
+    "sodium": 640,
+    "iron": "~15% DV",
+    "calcium": "~6% DV",
+    "vitaminC": "~10% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "soy sauce", "substitute": "tamari (same amount)", "costNote": "Minimal cost difference." }
+    ],
+    "notes": "All other ingredients are naturally gluten-free. Swap soy sauce for tamari if needed."
+  },
+
+  "budgetNotes": [
+    "Day-old rice is essential. Fresh hot rice has too much moisture and steams instead of frying, producing a mushy result. Cook rice the day before, or spread fresh-cooked rice on a sheet pan and refrigerate 30 minutes.",
+    "The high heat is also essential. If the pan is not hot enough, the rice steams. Use the highest burner setting and do not overcrowd the pan.",
+    "200g dry rice makes about 400g cooked. Cost contribution reflects the dry rice price."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills"],
+    "notes": "Ground pork Butcher's Choice club pack $8.82/kg, 300g = $2.65. Rice 200g dry = $0.50 (yields ~400g cooked). Eggs $0.33 × 3 = $0.99. Frozen mixed veg No Name 750g = $3.00, 200g = $0.80. Soy sauce $0.51/100mL, 3 tbsp = 45mL = $0.23. Sesame oil $2.00/100mL, 1 tbsp = 15mL = $0.30. Oil $0.06 × 2 = $0.12. Garlic $0.08 × 3 = $0.24. Green onions $1.99/bunch, 3 stalks ≈ $0.50. Pepper $0.02."
+  }
+}

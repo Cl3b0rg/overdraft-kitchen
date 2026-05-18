@@ -1,0 +1,72 @@
+{
+  "id": "minestrone",
+  "name": "Minestrone",
+  "summary": "A thick Italian vegetable soup with kidney beans, pasta, and canned tomatoes — uses whatever cheap vegetables are on hand.",
+  "totalCost": 9.54,
+  "costPerServing": 2.39,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "30 min",
+  "tags": ["vegan", "vegetarian", "beans", "pasta", "soup", "one-pot", "meal-prep"],
+
+  "ingredients": [
+    { "quantity": "1 can (540 mL)","name": "red kidney beans, drained and rinsed", "costContribution": 1.50 },
+    { "quantity": "1 can (796 mL)","name": "diced tomatoes",                        "costContribution": 2.00 },
+    { "quantity": "200 g",         "name": "dry small pasta (ditalini or elbows)",  "costContribution": 0.44 },
+    { "quantity": "2 medium",      "name": "carrots, diced",                        "costContribution": 0.59 },
+    { "quantity": "2 stalks",      "name": "celery, diced",                         "costContribution": 1.00 },
+    { "quantity": "1 medium",      "name": "yellow onion, diced",                   "costContribution": 1.23 },
+    { "quantity": "200 g",         "name": "green cabbage, shredded (about 2 cups)","costContribution": 0.60 },
+    { "quantity": "1 can (900 mL)","name": "chicken or vegetable broth",            "costContribution": 1.50 },
+    { "quantity": "500 mL",        "name": "water",                                 "costContribution": 0.00 },
+    { "quantity": "4 cloves",      "name": "garlic, minced",                        "costContribution": 0.32 },
+    { "quantity": "1 tbsp",        "name": "tomato paste",                          "costContribution": 0.10 },
+    { "quantity": "2 tbsp",        "name": "vegetable oil",                         "costContribution": 0.12 },
+    { "quantity": "1 tsp",         "name": "dried oregano",                         "costContribution": 0.05 },
+    { "quantity": "1 tsp",         "name": "dried basil",                           "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",       "name": "salt",                                  "costContribution": 0.02 },
+    { "quantity": "0.5 tsp",       "name": "black pepper",                          "costContribution": 0.02 }
+  ],
+
+  "instructions": [
+    "Heat oil in a large pot over medium heat. Add onion, carrot, and celery. Cook 6 minutes until softened.",
+    "Add garlic, oregano, and basil. Cook 1 minute.",
+    "Stir in the tomato paste and cook 1 minute.",
+    "Add diced tomatoes, broth, and water. Bring to a boil.",
+    "Add the kidney beans and cabbage. Reduce heat to a simmer and cook 10 minutes.",
+    "Add the dry pasta. Cook 10–12 minutes, stirring occasionally, until pasta is just tender.",
+    "Taste and adjust salt. The soup will thicken as it sits — add a splash of water when reheating."
+  ],
+
+  "nutrition": {
+    "calories": 410,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 6,
+    "fiber": 12,
+    "sodium": 640,
+    "iron": "~20% DV",
+    "calcium": "~10% DV",
+    "vitaminC": "~25% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "small pasta", "substitute": "gluten-free pasta or an extra 100g of rice", "costNote": "GF pasta adds $1–2 to the total." }
+    ],
+    "notes": "Use vegetable broth and verify it is GF. All other ingredients are naturally gluten-free."
+  },
+
+  "budgetNotes": [
+    "Cabbage replaces zucchini here because zucchini runs $2–4 each in Ottawa and is seasonal. Cabbage is $2.99 a head; 200g is about one-fifth of it.",
+    "Use vegetable broth instead of chicken broth to make this fully vegan. Same price.",
+    "This freezes well before the pasta is added. Freeze the soup base, then cook fresh pasta when reheating."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills"],
+    "notes": "Kidney beans $1.50. Diced tomatoes $2.00. Pasta $0.22/100g, 150g = $0.33. Carrots $2.93/kg, 200g = $0.59. Celery $2.99/bunch, 2 stalks ≈ $1.00. Onion $1.23. Cabbage $2.99/kg, 200g = $0.60. Broth $1.50. Garlic $0.08 × 4 = $0.32. Oil $0.06/tbsp × 2 = $0.12. Tomato paste $0.10 estimate. Spices $0.14."
+  }
+}

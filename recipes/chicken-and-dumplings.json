@@ -1,0 +1,71 @@
+{
+  "id": "chicken-and-dumplings",
+  "name": "Chicken and Dumplings",
+  "summary": "Chicken thighs simmered with vegetables in a simple broth, topped with drop dumplings cooked directly in the pot.",
+  "totalCost": 12.49,
+  "costPerServing": 3.12,
+  "servings": 4,
+  "prepTime": "20 min",
+  "cookTime": "40 min",
+  "tags": ["chicken", "soup", "one-pot", "comfort-food", "meal-prep"],
+
+  "ingredients": [
+    { "quantity": "600 g",         "name": "boneless skinless chicken thighs",     "costContribution": 5.29 },
+    { "quantity": "2 cans (900 mL total)", "name": "chicken broth",               "costContribution": 3.00 },
+    { "quantity": "2 medium",      "name": "carrots, diced",                       "costContribution": 0.59 },
+    { "quantity": "2 stalks",      "name": "celery, diced",                        "costContribution": 1.00 },
+    { "quantity": "1 medium",      "name": "yellow onion, diced",                  "costContribution": 1.23 },
+    { "quantity": "3 cloves",      "name": "garlic, minced",                       "costContribution": 0.24 },
+    { "quantity": "1 tsp",         "name": "dried thyme",                          "costContribution": 0.05 },
+    { "quantity": "1",             "name": "bay leaf",                             "costContribution": 0.03 },
+    { "quantity": "200 g (about 330 mL)", "name": "all-purpose flour",            "costContribution": 0.20 },
+    { "quantity": "2 tsp",         "name": "baking powder",                        "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",       "name": "salt, for dumplings",                 "costContribution": 0.01 },
+    { "quantity": "2 tbsp",        "name": "butter, cold and cubed",               "costContribution": 0.38 },
+    { "quantity": "160 mL",        "name": "milk",                                 "costContribution": 0.40 },
+    { "quantity": "to taste",      "name": "salt and pepper, for the stew",       "costContribution": 0.02 }
+  ],
+
+  "instructions": [
+    "Place chicken thighs in a large pot. Add broth, onion, carrot, celery, garlic, thyme, and bay leaf.",
+    "Bring to a boil, then reduce heat to a steady simmer. Cook 20 minutes until chicken is cooked through.",
+    "Remove chicken to a cutting board. Shred into large pieces with two forks. Discard bay leaf.",
+    "Return shredded chicken to the pot. Keep the broth at a gentle simmer. Taste and season with salt and pepper.",
+    "Make the dumplings: whisk flour, baking powder, and salt together in a bowl. Work in the cold butter with your fingers until the mixture looks like coarse crumbs. Stir in milk just until a rough dough forms — do not overmix.",
+    "Drop the dough by heaping tablespoons onto the surface of the simmering stew. You should get 8–10 dumplings.",
+    "Cover the pot with a lid and cook without lifting it for 15 minutes. The dumplings steam from the broth vapor — lifting the lid deflates them.",
+    "Check that a dumpling in the center is cooked through (it should not be doughy inside). Serve immediately."
+  ],
+
+  "nutrition": {
+    "calories": 510,
+    "protein": 38,
+    "carbs": 46,
+    "fat": 16,
+    "fiber": 3,
+    "sodium": 760,
+    "iron": "~20% DV",
+    "calcium": "~14% DV",
+    "vitaminC": "~8% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "all-purpose flour (dumplings)", "substitute": "1:1 GF all-purpose flour blend (same weight)", "costNote": "GF flour adds $1–2; stew itself is GF already." }
+    ],
+    "notes": "The stew base is naturally gluten-free. GF dumpling flour works but produces a slightly denser texture."
+  },
+
+  "budgetNotes": [
+    "Two cartons of broth is the main cost. You can use one carton and 900 mL water if the budget is very tight — the stew will be lighter but the dumplings absorb the flavor.",
+    "Do not lift the lid while the dumplings are steaming. This is the most common mistake and produces gummy, undercooked centers.",
+    "Flour for the dumplings is not priced here from a dedicated bag; a 2 kg bag of flour costs about $4 and will last many recipes."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills"],
+    "notes": "Chicken thighs $8.82/kg, 600g = $5.29. Broth $1.50 × 2 = $3.00. Carrots $2.93/kg, 200g = $0.59. Celery 2 stalks ≈ $1.00. Onion $1.23. Garlic $0.08 × 3 = $0.24. Flour estimated at $4.00/2kg = $0.20/100g, 200g = $0.40 — listed as $0.20 (No Name AP flour, estimated). Butter $1.36/100g, 2 tbsp ≈ 28g = $0.38. Milk $5.00/2L, 160mL = $0.40. Spices/bay leaf $0.09."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "veggie-lo-mein",
+  "name": "Veggie Lo Mein",
+  "summary": "Spaghetti stir-fried with cabbage, carrot, and egg in a soy-sesame sauce — a budget version of takeout lo mein.",
+  "totalCost": 5.57,
+  "costPerServing": 1.39,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "15 min",
+  "tags": ["vegetarian", "pasta", "fast", "meal-prep"],
+
+  "ingredients": [
+    { "quantity": "300 g",         "name": "dry spaghetti",                        "costContribution": 0.66 },
+    { "quantity": "300 g",         "name": "green cabbage, thinly sliced",         "costContribution": 0.90 },
+    { "quantity": "2 medium",      "name": "carrots, julienned or grated",         "costContribution": 0.59 },
+    { "quantity": "1 medium",      "name": "yellow onion, thinly sliced",          "costContribution": 1.23 },
+    { "quantity": "2 large",       "name": "eggs, beaten",                         "costContribution": 0.66 },
+    { "quantity": "4 tbsp",        "name": "soy sauce",                            "costContribution": 0.31 },
+    { "quantity": "1 tbsp",        "name": "sesame oil",                           "costContribution": 0.30 },
+    { "quantity": "2 tbsp",        "name": "vegetable oil",                        "costContribution": 0.12 },
+    { "quantity": "4 cloves",      "name": "garlic, minced",                       "costContribution": 0.32 },
+    { "quantity": "1 tsp",         "name": "fresh ginger, grated (or 0.5 tsp dried)", "costContribution": 0.10 },
+    { "quantity": "2 stalks",      "name": "green onions, sliced",                 "costContribution": 0.33 },
+    { "quantity": "1 tsp",         "name": "sugar",                                "costContribution": 0.01 },
+    { "quantity": "0.5 tsp",       "name": "black pepper",                         "costContribution": 0.02 },
+    { "quantity": "0.5 tsp",       "name": "chili flakes (optional)",              "costContribution": 0.02 }
+  ],
+
+  "instructions": [
+    "Cook spaghetti in salted boiling water 1 minute less than package directions (it will finish in the pan). Drain and toss with 1 tsp sesame oil to prevent sticking.",
+    "Mix soy sauce, sugar, and remaining sesame oil in a small bowl. Set aside.",
+    "Heat vegetable oil in a large wok or wide skillet over very high heat. Add onion and carrot. Cook 3 minutes until starting to soften.",
+    "Add garlic and ginger. Cook 30 seconds.",
+    "Add cabbage. Cook 2 minutes, tossing constantly.",
+    "Push vegetables to the side. Pour beaten eggs into the center. Scramble until just set, then break up and mix into the vegetables.",
+    "Add the noodles. Pour the sauce over everything. Toss constantly over high heat 2–3 minutes until noodles are hot and sauce is evenly distributed.",
+    "Serve topped with green onions and chili flakes if using."
+  ],
+
+  "nutrition": {
+    "calories": 400,
+    "protein": 14,
+    "carbs": 65,
+    "fat": 10,
+    "fiber": 5,
+    "sodium": 680,
+    "iron": "~15% DV",
+    "calcium": "~8% DV",
+    "vitaminC": "~35% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "spaghetti", "substitute": "rice noodles (same weight)", "costNote": "Rice noodles add $1–2 to total." },
+      { "ingredient": "soy sauce", "substitute": "tamari", "costNote": "Same price." }
+    ],
+    "notes": "Use rice noodles and tamari for a gluten-free version."
+  },
+
+  "budgetNotes": [
+    "Spaghetti works as a lo mein noodle substitute because the shape and texture after stir-frying are nearly identical.",
+    "High heat is essential. The vegetables should char slightly. A medium-heat pan produces steamed, soggy vegetables.",
+    "At $1.39 per serving this is one of the cheapest complete meals here. Good for the end of the month."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills"],
+    "notes": "Spaghetti $0.22/100g, 300g = $0.66. Cabbage $2.99/kg, 300g = $0.90. Carrots $2.93/kg, 200g = $0.59. Onion $1.23. Eggs $0.33 × 2 = $0.66. Soy sauce $0.51/100mL, 4 tbsp = 60mL = $0.31. Sesame oil $2.00/100mL, 1 tbsp = 15mL = $0.30. Oil $0.06 × 2 = $0.12. Garlic $0.08 × 4 = $0.32. Ginger estimate $0.10. Green onions $1.99/bunch, 2 stalks = $0.33. Sugar/pepper/chili = $0.05."
+  }
+}

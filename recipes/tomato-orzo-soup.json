@@ -1,0 +1,70 @@
+{
+  "id": "tomato-orzo-soup",
+  "name": "Tomato Orzo Soup",
+  "summary": "A simple tomato broth soup with small pasta and cabbage, seasoned with Italian herbs.",
+  "totalCost": 9.99,
+  "costPerServing": 2.50,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "25 min",
+  "tags": ["vegan", "vegetarian", "pasta", "soup", "one-pot", "fast"],
+
+  "ingredients": [
+    { "quantity": "1 can (796 mL)","name": "diced tomatoes",                       "costContribution": 2.00 },
+    { "quantity": "1 can (796 mL)","name": "crushed tomatoes",                     "costContribution": 2.00 },
+    { "quantity": "200 g",         "name": "dry orzo or small pasta (elbows, ditalini)", "costContribution": 0.44 },
+    { "quantity": "1 can (540 mL)", "name": "white kidney beans or chickpeas, drained", "costContribution": 1.50 },
+    { "quantity": "1 medium",      "name": "yellow onion, diced",                  "costContribution": 1.23 },
+    { "quantity": "4 cloves",      "name": "garlic, minced",                       "costContribution": 0.32 },
+    { "quantity": "250 g",         "name": "green cabbage, shredded",              "costContribution": 0.75 },
+    { "quantity": "1 can (900 mL)","name": "chicken or vegetable broth",           "costContribution": 1.50 },
+    { "quantity": "2 tbsp",        "name": "vegetable oil",                        "costContribution": 0.12 },
+    { "quantity": "1 tsp",         "name": "dried oregano",                        "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",       "name": "dried basil",                          "costContribution": 0.03 },
+    { "quantity": "0.5 tsp",       "name": "sugar",                                "costContribution": 0.01 },
+    { "quantity": "to taste",      "name": "salt and pepper",                      "costContribution": 0.02 },
+    { "quantity": "0.5 tsp",       "name": "chili flakes (optional)",              "costContribution": 0.02 }
+  ],
+
+  "instructions": [
+    "Heat oil in a large pot over medium heat. Add onion and cook 5 minutes until softened.",
+    "Add garlic, oregano, basil, and chili flakes if using. Cook 1 minute.",
+    "Add both cans of tomatoes and the broth. Stir in the sugar and season with salt and pepper.",
+    "Bring to a boil. Add the cabbage and beans. Stir.",
+    "Add the pasta. Cook uncovered at a moderate boil, stirring often, 10–12 minutes until pasta is tender.",
+    "Taste and adjust seasoning. The soup will thicken as the pasta absorbs liquid — add water if needed.",
+    "Serve hot. Parmesan, if you have it, is a good topping but not included in the budget."
+  ],
+
+  "nutrition": {
+    "calories": 430,
+    "protein": 18,
+    "carbs": 72,
+    "fat": 7,
+    "fiber": 14,
+    "sodium": 580,
+    "iron": "~15% DV",
+    "calcium": "~10% DV",
+    "vitaminC": "~30% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "orzo or small pasta", "substitute": "rice (same weight)", "costNote": "Similar cost; add rice with the broth and simmer 18 minutes." }
+    ],
+    "notes": "Use GF broth and rice instead of pasta for a fully gluten-free version."
+  },
+
+  "budgetNotes": [
+    "Two cans of tomatoes gives a richer base than one can plus water. This is where the flavor comes from — do not cut it to one can.",
+    "Orzo looks like rice grains but is pasta. Any small pasta shape works: elbows, ditalini, or broken spaghetti.",
+    "At $2.50 per serving, this is still one of the cheaper recipes on the site. The beans add protein and make it filling enough to stand on its own."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills"],
+    "notes": "Diced tomatoes $2.00. Crushed tomatoes $2.00. Orzo/pasta $0.22/100g, 150g = $0.33. Onion $1.23. Garlic $0.08 × 4 = $0.32. Cabbage $2.99/kg, 250g = $0.75. Broth $1.50. Oil $0.06/tbsp × 2 = $0.12. Spices/sugar estimated $0.13."
+  }
+}

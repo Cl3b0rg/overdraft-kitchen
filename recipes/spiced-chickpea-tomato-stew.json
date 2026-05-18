@@ -1,0 +1,68 @@
+{
+  "id": "spiced-chickpea-tomato-stew",
+  "name": "Spiced Chickpea and Tomato Stew",
+  "summary": "Chickpeas and cabbage simmered in a cumin-spiced tomato broth with a squeeze of lemon at the end.",
+  "totalCost": 10.71,
+  "costPerServing": 2.68,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": ["vegan", "vegetarian", "beans", "soup", "stew", "one-pot", "gluten-free", "high-protein", "meal-prep"],
+
+  "ingredients": [
+    { "quantity": "2 cans (540 mL each)", "name": "chickpeas, drained and rinsed", "costContribution": 3.00 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                       "costContribution": 2.00 },
+    { "quantity": "1 can (900 mL)", "name": "vegetable or chicken broth",           "costContribution": 1.50 },
+    { "quantity": "200 g",          "name": "green cabbage, roughly chopped",       "costContribution": 0.60 },
+    { "quantity": "1 medium",       "name": "yellow onion, diced",                  "costContribution": 1.23 },
+    { "quantity": "4 cloves",       "name": "garlic, minced",                       "costContribution": 0.32 },
+    { "quantity": "1",              "name": "lemon, juiced",                        "costContribution": 0.99 },
+    { "quantity": "2 tbsp",         "name": "vegetable oil",                        "costContribution": 0.12 },
+    { "quantity": "2 tsp",          "name": "ground cumin",                         "costContribution": 0.08 },
+    { "quantity": "1 tsp",          "name": "ground coriander",                     "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",        "name": "ground turmeric",                      "costContribution": 0.03 },
+    { "quantity": "to taste",       "name": "salt and pepper",                      "costContribution": 0.02 },
+    { "quantity": "0.5 tsp",        "name": "chili flakes (optional)",              "costContribution": 0.02 },
+    { "quantity": "300 g",          "name": "long-grain white rice, dry (for serving)", "costContribution": 0.75 }
+  ],
+
+  "instructions": [
+    "Heat oil in a large pot over medium heat. Add onion and cook 6 minutes until golden.",
+    "Add garlic, cumin, coriander, turmeric, and chili flakes if using. Cook 1 minute, stirring constantly.",
+    "Add diced tomatoes. Stir well and cook 3 minutes.",
+    "Add the chickpeas, broth, and cabbage. Stir to combine.",
+    "Bring to a boil. Reduce heat and simmer uncovered 20 minutes until cabbage is tender and stew has thickened.",
+    "Squeeze in the lemon juice. Taste and adjust salt — the stew should taste bright and savory.",
+    "Serve over rice or with bread. Both are good."
+  ],
+
+  "nutrition": {
+    "calories": 520,
+    "protein": 14,
+    "carbs": 48,
+    "fat": 9,
+    "fiber": 12,
+    "sodium": 540,
+    "iron": "~22% DV",
+    "calcium": "~10% DV",
+    "vitaminC": "~40% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "All ingredients are naturally gluten-free. Use vegetable broth to keep it fully vegan."
+  },
+
+  "budgetNotes": [
+    "This was designed as a substitute for miso-tofu-noodle soup, which would require miso paste ($5.99 at No Frills) and tofu — pushing the budget higher than it needs to be for a weeknight meal.",
+    "Baby spinach is the traditional green for this style of stew but it costs $28/kg at No Frills. Cabbage is $2.99/kg and works just as well once cooked down.",
+    "The lemon juice at the end is not optional — it lifts the whole dish. Use the full lemon."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills"],
+    "notes": "Chickpeas No Name $1.50 × 2 = $3.00. Diced tomatoes $2.00. Broth $1.50. Cabbage $2.99/kg, 200g = $0.60. Onion $1.23. Garlic $0.08 × 4 = $0.32. Lemon $0.99 (individual). Oil $0.06/tbsp × 2 = $0.12. Cumin/coriander/turmeric estimated $0.16. Salt/pepper/chili $0.04. Miso paste confirmed $5.99 at No Frills — not used."
+  }
+}

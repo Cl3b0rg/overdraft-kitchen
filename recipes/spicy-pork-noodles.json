@@ -1,0 +1,71 @@
+{
+  "id": "spicy-pork-noodles",
+  "name": "Spicy Pork Noodles",
+  "summary": "Ground pork and spaghetti tossed in a garlicky soy and sesame sauce with chili flakes and green onion.",
+  "totalCost": 5.32,
+  "costPerServing": 1.33,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "tags": ["pork", "pasta", "fast", "high-protein"],
+
+  "ingredients": [
+    { "quantity": "300 g",         "name": "ground pork",                          "costContribution": 2.65 },
+    { "quantity": "300 g",         "name": "dry spaghetti",                        "costContribution": 0.66 },
+    { "quantity": "3 tbsp",        "name": "soy sauce",                            "costContribution": 0.23 },
+    { "quantity": "4 cloves",      "name": "garlic, minced",                       "costContribution": 0.32 },
+    { "quantity": "1 tbsp",        "name": "fresh ginger, grated (or 1 tsp dried)", "costContribution": 0.20 },
+    { "quantity": "1 tbsp",        "name": "sesame oil",                           "costContribution": 0.30 },
+    { "quantity": "2 tbsp",        "name": "vegetable oil",                        "costContribution": 0.12 },
+    { "quantity": "0.5 tsp",       "name": "chili flakes (adjust to taste)",       "costContribution": 0.05 },
+    { "quantity": "1 tbsp",        "name": "tomato paste",                         "costContribution": 0.10 },
+    { "quantity": "4 stalks",      "name": "green onions, sliced",                 "costContribution": 0.66 },
+    { "quantity": "1 tsp",         "name": "sugar",                                "costContribution": 0.01 },
+    { "quantity": "2 tbsp",        "name": "pasta cooking water (reserved)",       "costContribution": 0.00 },
+    { "quantity": "to taste",      "name": "salt",                                 "costContribution": 0.02 }
+  ],
+
+  "instructions": [
+    "Cook spaghetti in salted boiling water until just al dente. Reserve 125 mL of pasta water before draining.",
+    "Heat vegetable oil in a wide skillet over medium-high heat. Add ground pork and cook, breaking apart, until browned — about 7 minutes.",
+    "Add garlic, ginger, and chili flakes. Stir and cook 1 minute.",
+    "Add tomato paste and cook 1 minute.",
+    "Mix soy sauce, sugar, and 4 tbsp of the reserved pasta water in a small bowl. Pour into the skillet.",
+    "Add drained noodles and toss everything together over medium heat 2 minutes until the sauce coats the noodles.",
+    "Remove from heat. Drizzle with sesame oil and toss again.",
+    "Divide into bowls and top with sliced green onions."
+  ],
+
+  "nutrition": {
+    "calories": 520,
+    "protein": 26,
+    "carbs": 58,
+    "fat": 18,
+    "fiber": 3,
+    "sodium": 680,
+    "iron": "~18% DV",
+    "calcium": "~4% DV",
+    "vitaminC": "~5% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "spaghetti", "substitute": "rice noodles (same weight)", "costNote": "Rice noodles run $2–4 per package; likely adds $1–2." },
+      { "ingredient": "soy sauce", "substitute": "tamari", "costNote": "Same price, GF." }
+    ],
+    "notes": "Use rice noodles and tamari for a gluten-free version."
+  },
+
+  "budgetNotes": [
+    "Ground pork Butcher's Choice club pack at No Frills is $8.82/kg — same rate as chicken thighs. At 300g, it costs $2.65 and feeds four people.",
+    "This is one of the cheapest recipes on the site at $1.33 per serving. It happens because pork is cheap and spaghetti is cheap.",
+    "The chili level here is adjustable. The recipe as written is medium — reduce to a pinch for milder heat."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills"],
+    "notes": "Ground pork Butcher's Choice club pack $8.82/kg, 300g = $2.65. Spaghetti $0.22/100g, 300g = $0.66. Soy sauce $0.51/100mL, 3 tbsp = 45mL = $0.23. Garlic $0.08 × 4 = $0.32. Ginger estimate $0.20. Sesame oil $2.00/100mL, 1 tbsp = 15mL = $0.30. Veg oil $0.06 × 2 = $0.12. Chili flakes $0.05. Tomato paste $0.10. Green onions $1.99/bunch, 4 stalks ≈ 1/3 = $0.66. Sugar/salt $0.03."
+  }
+}

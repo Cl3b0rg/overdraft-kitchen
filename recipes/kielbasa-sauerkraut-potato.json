@@ -1,0 +1,66 @@
+{
+  "id": "kielbasa-sauerkraut-potato",
+  "name": "Kielbasa, Sauerkraut, and Potato",
+  "summary": "Sliced sausage and potatoes braised with sauerkraut and broth in a single pot — Eastern European weeknight food.",
+  "totalCost": 11.85,
+  "costPerServing": 2.96,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "35 min",
+  "tags": ["pork", "one-pot", "comfort-food", "gluten-free"],
+
+  "ingredients": [
+    { "quantity": "375 g",         "name": "Pillers kolbassa sausage, sliced",     "costContribution": 6.50 },
+    { "quantity": "600 g",         "name": "russet potatoes, cut into 2 cm cubes", "costContribution": 0.26 },
+    { "quantity": "500 mL",        "name": "sauerkraut, drained (from 796 mL jar)","costContribution": 2.69 },
+    { "quantity": "1 medium",      "name": "yellow onion, sliced thin",            "costContribution": 1.23 },
+    { "quantity": "2 cloves",      "name": "garlic, minced",                       "costContribution": 0.16 },
+    { "quantity": "500 mL",        "name": "chicken broth",                        "costContribution": 0.83 },
+    { "quantity": "250 mL",        "name": "water",                                "costContribution": 0.00 },
+    { "quantity": "1 tbsp",        "name": "vegetable oil",                        "costContribution": 0.06 },
+    { "quantity": "0.5 tsp",       "name": "caraway seeds (optional)",             "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",       "name": "black pepper",                         "costContribution": 0.02 },
+    { "quantity": "1 tsp",         "name": "brown sugar",                          "costContribution": 0.04 },
+    { "quantity": "to taste",      "name": "salt",                                 "costContribution": 0.01 }
+  ],
+
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat. Add sausage slices and brown 3 minutes per side. Remove and set aside.",
+    "Add onion to the pot. Cook 5 minutes until softened and beginning to turn golden.",
+    "Add garlic and caraway seeds (if using). Cook 1 minute.",
+    "Add the potatoes, sauerkraut, broth, water, and brown sugar. Stir to combine.",
+    "Return the sausage to the pot. Season with black pepper — hold the salt until the end, as sauerkraut and sausage are both salty.",
+    "Bring to a boil, then reduce heat to a steady simmer. Cover and cook 25 minutes until potatoes are completely tender.",
+    "Taste and adjust salt. The broth should be tangy and savory. Serve with bread if budget allows."
+  ],
+
+  "nutrition": {
+    "calories": 430,
+    "protein": 20,
+    "carbs": 42,
+    "fat": 18,
+    "fiber": 5,
+    "sodium": 1200,
+    "iron": "~15% DV",
+    "calcium": "~6% DV",
+    "vitaminC": "~20% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Naturally gluten-free. Verify sausage label — Pillers kolbassa does not list wheat but is not certified GF."
+  },
+
+  "budgetNotes": [
+    "Sauerkraut is $4.29 for a 796 mL jar at No Frills (No Name Wine Sauerkraut or Polka brand). The recipe uses about 500 mL, which is roughly 63% of the jar — price contribution calculated proportionally at $2.69.",
+    "Russet potatoes from a 10 lb bag at $1.99 make potatoes practically free at $0.44/kg.",
+    "The sodium count is high here because sauerkraut, sausage, and broth are all salty. Use water instead of broth if sodium is a concern."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills"],
+    "notes": "Pillers kolbassa 375g = $6.50. Russet potatoes $0.44/kg, 600g = $0.26. Sauerkraut Polka/No Name 796mL = $4.29, 500mL used = $4.29 × (500/796) = $2.69. Onion $1.23. Garlic $0.08 × 2 = $0.16. Broth $1.50/900mL, 500mL = $0.83. Oil $0.06. Caraway/sugar/pepper estimated $0.11."
+  }
+}

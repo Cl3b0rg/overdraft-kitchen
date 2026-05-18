@@ -1,0 +1,72 @@
+{
+  "id": "pulled-chicken-rice-bowls",
+  "name": "Pulled Chicken Rice Bowls",
+  "summary": "Chicken thighs simmered in a smoky tomato sauce until shreddable, served over rice.",
+  "totalCost": 10.47,
+  "costPerServing": 2.62,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "40 min",
+  "tags": ["chicken", "rice", "one-pot", "meal-prep", "gluten-free", "high-protein", "comfort-food"],
+
+  "ingredients": [
+    { "quantity": "600 g",         "name": "boneless skinless chicken thighs",     "costContribution": 5.29 },
+    { "quantity": "400 g",         "name": "long-grain white rice, dry",           "costContribution": 1.00 },
+    { "quantity": "1 can (796 mL)","name": "diced tomatoes",                       "costContribution": 2.00 },
+    { "quantity": "1 medium",      "name": "yellow onion, diced",                  "costContribution": 1.23 },
+    { "quantity": "4 cloves",      "name": "garlic, minced",                       "costContribution": 0.32 },
+    { "quantity": "1 tbsp",        "name": "tomato paste",                         "costContribution": 0.10 },
+    { "quantity": "2 tbsp",        "name": "soy sauce",                            "costContribution": 0.15 },
+    { "quantity": "1 tbsp",        "name": "brown sugar",                          "costContribution": 0.06 },
+    { "quantity": "2 tbsp",        "name": "vegetable oil",                        "costContribution": 0.12 },
+    { "quantity": "1.5 tsp",       "name": "smoked paprika",                       "costContribution": 0.08 },
+    { "quantity": "1 tsp",         "name": "ground cumin",                         "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",       "name": "chili powder",                         "costContribution": 0.05 },
+    { "quantity": "to taste",      "name": "salt and pepper",                      "costContribution": 0.02 }
+  ],
+
+  "instructions": [
+    "Cook rice separately according to package directions. Set aside.",
+    "Heat oil in a wide skillet or pot over medium-high heat. Add onion and cook 5 minutes until softened.",
+    "Add garlic, smoked paprika, cumin, and chili powder. Cook 1 minute.",
+    "Add tomato paste. Cook 1 minute.",
+    "Add diced tomatoes, soy sauce, and brown sugar. Stir to combine.",
+    "Nestle the chicken thighs into the sauce. They should be mostly submerged.",
+    "Bring to a simmer. Cover and cook 25 minutes until chicken is very tender.",
+    "Remove chicken and shred using two forks — it should fall apart easily.",
+    "Return shredded chicken to the sauce. Simmer uncovered 5 minutes to thicken slightly.",
+    "Serve over rice."
+  ],
+
+  "nutrition": {
+    "calories": 530,
+    "protein": 36,
+    "carbs": 72,
+    "fat": 10,
+    "fiber": 3,
+    "sodium": 520,
+    "iron": "~18% DV",
+    "calcium": "~6% DV",
+    "vitaminC": "~15% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "soy sauce", "substitute": "tamari", "costNote": "Minimal price difference." }
+    ],
+    "notes": "Swap soy sauce for tamari for a fully gluten-free version."
+  },
+
+  "budgetNotes": [
+    "Soy sauce in a tomato-based sauce sounds strange but adds a savory depth that tomatoes alone do not provide. It does not taste Asian.",
+    "Chicken thighs are used because they stay moist when simmered and shred cleanly. Chicken breasts will work but may be drier.",
+    "The sauce makes enough to generously coat the rice. Do not reduce it too aggressively in the last step."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills"],
+    "notes": "Chicken thighs $8.82/kg, 600g = $5.29. Rice $0.25/100g, 400g = $1.00. Diced tomatoes $2.00. Onion $1.23. Garlic $0.08 × 4 = $0.32. Tomato paste $0.10. Soy sauce $0.51/100mL, 2 tbsp = 30mL = $0.15. Brown sugar $3.79/kg, 1 tbsp ≈ 12g = $0.05, rounded to $0.06. Oil $0.06 × 2 = $0.12. Spices $0.18. Salt/pepper $0.02."
+  }
+}

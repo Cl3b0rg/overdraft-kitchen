@@ -1,0 +1,68 @@
+{
+  "id": "beef-vegetable-soup",
+  "name": "Beef and Vegetable Soup",
+  "summary": "Ground beef, potatoes, frozen mixed vegetables, and rice simmered in beef broth — one pot, no prep skill required.",
+  "totalCost": 14.63,
+  "costPerServing": 3.66,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "35 min",
+  "tags": ["beef", "soup", "one-pot", "meal-prep", "comfort-food", "freezer-friendly"],
+
+  "ingredients": [
+    { "quantity": "300 g",         "name": "medium ground beef",                   "costContribution": 5.70 },
+    { "quantity": "400 g",         "name": "russet potatoes, diced",               "costContribution": 0.18 },
+    { "quantity": "300 g",         "name": "frozen mixed vegetables (peas, corn, carrots, beans)", "costContribution": 1.20 },
+    { "quantity": "1 can (796 mL)","name": "diced tomatoes",                       "costContribution": 2.00 },
+    { "quantity": "2 cans (900 mL total)", "name": "beef broth",                   "costContribution": 3.00 },
+    { "quantity": "100 g",         "name": "long-grain white rice, dry",           "costContribution": 0.25 },
+    { "quantity": "2 medium",      "name": "carrots, diced",                       "costContribution": 0.59 },
+    { "quantity": "1 medium",      "name": "yellow onion, diced",                  "costContribution": 1.23 },
+    { "quantity": "3 cloves",      "name": "garlic, minced",                       "costContribution": 0.24 },
+    { "quantity": "1 tbsp",        "name": "tomato paste",                         "costContribution": 0.10 },
+    { "quantity": "1 tbsp",        "name": "vegetable oil",                        "costContribution": 0.06 },
+    { "quantity": "0.5 tsp",       "name": "dried thyme",                          "costContribution": 0.03 },
+    { "quantity": "0.5 tsp",       "name": "smoked paprika",                       "costContribution": 0.03 },
+    { "quantity": "to taste",      "name": "salt and pepper",                      "costContribution": 0.02 }
+  ],
+
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat. Add ground beef and cook, breaking apart, until browned — about 7 minutes. Drain fat.",
+    "Add onion and cook 4 minutes until softened.",
+    "Add garlic, tomato paste, thyme, and paprika. Cook 1 minute.",
+    "Add diced tomatoes, broth, potatoes, and carrots. Bring to a boil.",
+    "Add the rice. Stir, reduce heat to a simmer, and cook 15 minutes.",
+    "Add the frozen mixed vegetables. Stir and cook 5 more minutes until vegetables are heated through and rice is cooked.",
+    "Taste and adjust seasoning. The soup will thicken as it sits — add water when reheating."
+  ],
+
+  "nutrition": {
+    "calories": 440,
+    "protein": 24,
+    "carbs": 52,
+    "fat": 13,
+    "fiber": 7,
+    "sodium": 640,
+    "iron": "~22% DV",
+    "calcium": "~6% DV",
+    "vitaminC": "~18% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "All ingredients are naturally gluten-free. Verify broth label."
+  },
+
+  "budgetNotes": [
+    "No Name frozen mixed vegetables 750g are $3.00 at No Frills. The recipe uses 300g, which is $1.20.",
+    "Two cartons of broth is the base. One carton plus 900 mL of water works if the budget is very tight — the soup is thinner but still filling.",
+    "This recipe produces a thick, meal-like soup, not a brothy one. The rice absorbs liquid as it sits."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills"],
+    "notes": "Ground beef $19/kg, 300g = $5.70. Russet potatoes $0.44/kg, 400g = $0.18. Frozen mixed veg No Name 750g = $3.00, 300g used = $1.20. Diced tomatoes $2.00. Beef broth $1.50 × 2 = $3.00. Rice $0.25/100g, 100g = $0.25. Carrots $2.93/kg, 200g = $0.59. Onion $1.23. Garlic $0.08 × 3 = $0.24. Tomato paste $0.10. Oil $0.06. Spices $0.08."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "beefy-macaroni",
+  "name": "Beefy Macaroni",
+  "summary": "Ground beef, elbow macaroni, and canned tomatoes cooked together in one pot — a from-scratch version of boxed hamburger helper.",
+  "totalCost": 11.90,
+  "costPerServing": 2.98,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "25 min",
+  "tags": ["beef", "pasta", "one-pot", "kid-friendly", "comfort-food", "fast"],
+
+  "ingredients": [
+    { "quantity": "350 g",         "name": "medium ground beef",                   "costContribution": 6.65 },
+    { "quantity": "300 g",         "name": "dry elbow macaroni",                   "costContribution": 0.66 },
+    { "quantity": "1 can (796 mL)","name": "diced tomatoes",                       "costContribution": 2.00 },
+    { "quantity": "1 medium",      "name": "yellow onion, diced",                  "costContribution": 1.23 },
+    { "quantity": "3 cloves",      "name": "garlic, minced",                       "costContribution": 0.24 },
+    { "quantity": "500 mL",        "name": "beef broth",                           "costContribution": 0.83 },
+    { "quantity": "1 tbsp",        "name": "tomato paste",                         "costContribution": 0.10 },
+    { "quantity": "1 tsp",         "name": "chili powder",                         "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",       "name": "smoked paprika",                       "costContribution": 0.03 },
+    { "quantity": "0.5 tsp",       "name": "ground cumin",                         "costContribution": 0.03 },
+    { "quantity": "0.5 tsp",       "name": "salt",                                 "costContribution": 0.02 },
+    { "quantity": "0.5 tsp",       "name": "black pepper",                         "costContribution": 0.02 },
+    { "quantity": "1 tbsp",        "name": "vegetable oil",                        "costContribution": 0.06 }
+  ],
+
+  "instructions": [
+    "Heat oil in a large pot or deep skillet over medium-high heat. Add the ground beef and cook, breaking it up, until browned — about 8 minutes. Drain fat.",
+    "Add onion. Cook 3 minutes until softened.",
+    "Add garlic, chili powder, paprika, and cumin. Stir and cook 1 minute.",
+    "Stir in tomato paste and cook 1 minute.",
+    "Add the diced tomatoes and broth. Stir well to scrape up any browned bits.",
+    "Bring to a boil. Add the dry macaroni. Stir, then reduce heat to medium.",
+    "Cook uncovered 12–14 minutes, stirring every few minutes, until pasta is tender and most of the liquid is absorbed.",
+    "Taste and adjust seasoning. The dish should be saucy, not dry. Add a splash of water if it looks too thick."
+  ],
+
+  "nutrition": {
+    "calories": 540,
+    "protein": 28,
+    "carbs": 65,
+    "fat": 16,
+    "fiber": 4,
+    "sodium": 580,
+    "iron": "~22% DV",
+    "calcium": "~6% DV",
+    "vitaminC": "~12% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "elbow macaroni", "substitute": "gluten-free elbow pasta (same weight)", "costNote": "Adds roughly $2–3 to the total; still possible under budget." }
+    ],
+    "notes": "Confirm broth is gluten-free. All other ingredients are naturally GF."
+  },
+
+  "budgetNotes": [
+    "The broth is only 500 mL — half a carton. Use the other half for a soup later in the week.",
+    "Chili powder here is mild. If cooking for very young kids, reduce to half a teaspoon or skip it.",
+    "No cheese is budgeted in this recipe. A handful of shredded cheddar stirred in at the end is good if you have it."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills"],
+    "notes": "Ground beef $19/kg, 350g = $6.65. Macaroni $0.22/100g, 300g = $0.66. Diced tomatoes $2.00. Onion $1.23. Garlic $0.08 × 3 = $0.24. Broth $1.50/900mL, 500mL = $0.83. Tomato paste estimate $0.10. Spices/oil estimated $0.51."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "teriyaki-chicken-rice",
+  "name": "Teriyaki Chicken Rice",
+  "summary": "Chicken thighs glazed in a soy, brown sugar, and garlic sauce, served over rice.",
+  "totalCost": 8.09,
+  "costPerServing": 2.02,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": ["chicken", "rice", "fast", "meal-prep", "gluten-free"],
+
+  "ingredients": [
+    { "quantity": "600 g",         "name": "boneless skinless chicken thighs",     "costContribution": 5.29 },
+    { "quantity": "400 g",         "name": "long-grain white rice, dry",           "costContribution": 1.00 },
+    { "quantity": "4 tbsp",        "name": "soy sauce",                            "costContribution": 0.31 },
+    { "quantity": "3 tbsp",        "name": "brown sugar",                          "costContribution": 0.14 },
+    { "quantity": "4 cloves",      "name": "garlic, minced",                       "costContribution": 0.32 },
+    { "quantity": "1 tbsp",        "name": "fresh ginger, grated (or 1 tsp dried)", "costContribution": 0.20 },
+    { "quantity": "2 tbsp",        "name": "vegetable oil",                        "costContribution": 0.12 },
+    { "quantity": "2 tsp",         "name": "rice vinegar or white vinegar",        "costContribution": 0.05 },
+    { "quantity": "1 tsp",         "name": "cornstarch mixed with 2 tbsp water",   "costContribution": 0.03 },
+    { "quantity": "2 stalks",      "name": "green onions, sliced (for serving)",   "costContribution": 0.33 },
+    { "quantity": "1 tsp",         "name": "sesame oil (optional, for finishing)", "costContribution": 0.30 },
+    { "quantity": "750 mL",        "name": "water (for cooking rice)",             "costContribution": 0.00 }
+  ],
+
+  "instructions": [
+    "Cook rice: bring 750 mL water to a boil, add rice, stir once, cover and cook on low heat 18 minutes. Remove from heat and rest 5 minutes.",
+    "While rice cooks, mix soy sauce, brown sugar, garlic, ginger, vinegar, and 60 mL water in a small bowl. Set aside.",
+    "Heat oil in a wide skillet over medium-high heat. Add chicken thighs and cook 6–7 minutes per side until cooked through and golden. Remove from pan and slice.",
+    "Pour the soy sauce mixture into the hot pan. Bring to a boil over medium heat.",
+    "Add the cornstarch slurry (cornstarch mixed with 2 tbsp water). Stir constantly 1–2 minutes until the sauce thickens to a glaze.",
+    "Return sliced chicken to the pan. Toss to coat in the glaze.",
+    "Drizzle with sesame oil if using. Serve over rice and top with sliced green onions."
+  ],
+
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 72,
+    "fat": 12,
+    "fiber": 1,
+    "sodium": 820,
+    "iron": "~15% DV",
+    "calcium": "~4% DV",
+    "vitaminC": "~5% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "soy sauce", "substitute": "tamari (same amount)", "costNote": "Tamari costs slightly more, roughly $1 extra for a bottle, but the recipe uses only 4 tbsp." }
+    ],
+    "notes": "Use tamari instead of regular soy sauce. All other ingredients are naturally gluten-free."
+  },
+
+  "budgetNotes": [
+    "Soy sauce at $0.51/100mL — 4 tablespoons (60 mL) comes to about $0.31. Use No Name brand.",
+    "The sesame oil is optional but adds the characteristic flavor. A 100 mL bottle is around $2.00 at No Frills and will last for many recipes.",
+    "Brown sugar Lantic brand 1 kg is $3.79. Three tablespoons is about 37g = $0.14 at that rate — note this recipe rounded to $0.43 for safety."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills"],
+    "notes": "Chicken thighs $8.82/kg, 600g = $5.29. Rice $0.25/100g, 400g = $1.00. Soy sauce $0.51/100mL, 4 tbsp = 60mL = $0.31. Brown sugar $3.79/kg, 3 tbsp ≈ 37g = $0.14. Garlic $0.08 × 4 = $0.32. Ginger estimate $0.20. Oil $0.06/tbsp × 2 = $0.12. Vinegar estimate $0.05. Cornstarch trace $0.03. Green onions $1.99/bunch, 2 stalks ≈ 1/6 = $0.33. Sesame oil $2.00/100mL, 1 tsp = 5mL = $0.10 — rounded to $0.30 for a full optional pour. Total: $8.09."
+  }
+}
