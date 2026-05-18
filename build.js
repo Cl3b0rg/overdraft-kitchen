@@ -280,11 +280,11 @@ function renderIndexPage(recipes) {
 
   const filterBar = `
     <div class="tag-filter-bar" role="group" aria-label="Filter recipes by tag">
-      <span class="tag-filter-label">Filter</span>
+      <span class="tag-filter-label">Filter by</span>
       <div class="tag-filter-btns">
         ${allTags.map(t => `<button class="tag-filter-btn" data-tag-filter="${escapeHtml(t)}">${escapeHtml(t)}</button>`).join('')}
       </div>
-      <button class="tag-filter-clear" id="tag-filter-clear" aria-label="Clear filter" hidden>Clear</button>
+      <button class="tag-filter-clear" id="tag-filter-clear" aria-label="Clear filter" hidden>Clear filter</button>
     </div>`;
 
   const content = `
