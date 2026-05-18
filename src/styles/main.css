@@ -166,7 +166,9 @@ main {
   font-size: 1.0625rem;
   line-height: 1.75;
   color: var(--text-muted);
-  max-width: 64ch;
+  text-align: center;
+  max-width: 58ch;
+  margin-inline: auto;
 }
 
 /* Index — Stats Strip

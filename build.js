@@ -289,7 +289,7 @@ function renderIndexPage(recipes) {
 
   const content = `
     <section class="site-about">
-      <p>You know how groceries are right now. These recipes feed four people for under $15 and hit at least 400 calories per serving — no premium ingredients, no lifestyle branding, just meals that work when the bank account doesn't. Priced against Ottawa and Ontario grocery store averages for 2026, which is, frankly, a lot to ask of anyone.</p>
+      <p>Somewhere between the $9 red peppers and the $22 ground beef, grocery shopping became a hostile act. Overdraft Kitchen is the response. Meals that feed four for under $15, priced against what you're actually paying in Ottawa in 2026. No fancy ingredients, no wellness branding, no pretending this is fun. Just food that works when the math doesn't.</p>
     </section>
     <div class="site-stats" role="list">
       <div class="stat" role="listitem">
