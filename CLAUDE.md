@@ -35,6 +35,8 @@ npx serve docs       # preview locally
 
 The build script validates: total cost ≤ $15, servings ≥ 4, calories ≥ 400, glutenFree field present.
 
+**If a recipe exceeds $15 at real verified prices, remove it from the site entirely. Do not adjust ingredient quantities or swap ingredients just to squeeze it under the limit. The $15 rule is the point — fudging it to keep a recipe defeats the purpose.**
+
 ## Recipe JSON schema
 
 ```json
