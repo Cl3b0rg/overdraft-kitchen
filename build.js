@@ -173,7 +173,7 @@ function pageLayout({ title, description, content, isRoot }) {
   <a href="#main-content" class="skip-link">Skip to main content</a>
   <header class="site-header">
     <div class="container">
-      <a href="${logoHref}" class="site-logo">Budget Table</a>
+      <a href="${logoHref}" class="site-logo">Overdraft Kitchen</a>
       <p class="site-tagline">Affordable meals for real life. Under $15 for four.</p>
     </div>
   </header>
@@ -248,7 +248,7 @@ function renderRecipePage(recipe) {
     </article>`;
 
   return pageLayout({
-    title:       `${recipe.name} — Budget Table`,
+    title:       `${recipe.name} — Overdraft Kitchen`,
     description: `${recipe.summary} Feeds ${recipe.servings}. ${fmt(recipe.totalCost)} total.`,
     content,
     isRoot: false,
@@ -289,7 +289,7 @@ function renderIndexPage(recipes) {
     </section>`;
 
   return pageLayout({
-    title:       'Budget Table — Affordable Recipes for Canadians',
+    title:       'Overdraft Kitchen — Affordable Recipes for Canadians',
     description: 'Straightforward recipes for when money is tight. All recipes feed four people for under $15.',
     content,
     isRoot: true,
