@@ -1,0 +1,76 @@
+{
+  "id": "pasta-alla-vodka",
+  "name": "Pasta alla Vodka",
+  "summary": "Rigatoni in a creamy tomato sauce with garlic, butter, and a splash of vodka. The recipe that went viral on TikTok in 2020 and never really left.",
+  "totalCost": 6.17,
+  "costPerServing": 1.54,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "25 min",
+  "tags": ["vegetarian", "pasta", "low-cost", "fast", "italian"],
+
+  "ingredients": [
+    { "quantity": "400 g",   "name": "rigatoni or penne",                            "costContribution": 0.66 },
+    { "quantity": "1 can (796 mL)", "name": "crushed tomatoes",                      "costContribution": 1.49 },
+    { "quantity": "125 mL",  "name": "heavy cream",                                  "costContribution": 1.25 },
+    { "quantity": "2 tbsp",  "name": "butter",                                       "costContribution": 0.34 },
+    { "quantity": "1 medium","name": "onion, finely diced",                          "costContribution": 0.50 },
+    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.30 },
+    { "quantity": "2 tbsp",  "name": "tomato paste",                                 "costContribution": 0.30 },
+    { "quantity": "0.5 tsp", "name": "chili flakes",                                 "costContribution": 0.03 },
+    { "quantity": "2 tbsp (optional)", "name": "vodka",                              "costContribution": 0.25 },
+    { "quantity": "30 g",    "name": "parmesan, finely grated",                      "costContribution": 0.90 },
+    { "quantity": "2 tbsp",  "name": "olive oil",                                    "costContribution": 0.10 },
+    { "quantity": "to taste","name": "salt and black pepper",                        "costContribution": 0.05 }
+  ],
+
+  "instructions": [
+    "Bring a large pot of heavily salted water to a boil. Cook pasta until al dente. Reserve 500 mL pasta water before draining.",
+    "Heat olive oil and butter in a large skillet over medium heat.",
+    "Add onion. Cook 6–7 minutes until soft and translucent.",
+    "Add garlic and chili flakes. Cook 1 minute.",
+    "Add tomato paste. Stir and cook 2 minutes until darkened.",
+    "Add vodka if using. Stir and let it bubble for 1 minute to cook off the alcohol.",
+    "Add crushed tomatoes. Stir and simmer 10 minutes.",
+    "Reduce heat to low. Stir in the heavy cream. Simmer gently 3–4 minutes — do not boil.",
+    "Add the drained pasta to the skillet. Toss to coat, adding pasta water a splash at a time until the sauce is silky and loose.",
+    "Remove from heat. Stir in parmesan.",
+    "Serve immediately."
+  ],
+
+  "nutrition": {
+    "calories": 543,
+    "protein": 17,
+    "carbs": 77,
+    "fat": 19,
+    "fiber": 5,
+    "sodium": 380,
+    "iron": "~15% DV",
+    "calcium": "~10% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "rigatoni or penne",
+        "substitute": "certified GF pasta",
+        "costNote": "adds approximately $1.50–$2.00 to the total"
+      }
+    ],
+    "notes": "All other ingredients are naturally gluten-free."
+  },
+
+  "budgetNotes": [
+    "The vodka is optional. It adds a subtle sharpness and helps the sauce emulsify, but the dish works fine without it. If you have a cheap bottle around, use two tablespoons.",
+    "Heavy cream is the expensive ingredient here. A 473 mL carton is about $4.99 — you use about a quarter of it. Use it for other recipes that week or it goes to waste.",
+    "This reheats decently with a splash of water or milk to loosen the sauce.",
+    "If you skip the parmesan, the recipe drops to about $5.27 total."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Cream proportional from 473 mL carton ~$4.99. Pasta from 900 g bag. Parmesan proportional from 200 g block."
+  }
+}

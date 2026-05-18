@@ -1,0 +1,83 @@
+{
+  "id": "loaded-potato-soup",
+  "name": "Loaded Baked Potato Soup",
+  "summary": "Thick, creamy potato soup with bacon and cheddar. One of the top-rated recipes on Pinterest and Budget Bytes for years, and one of the better uses of a $4 bag of potatoes.",
+  "totalCost": 9.49,
+  "costPerServing": 2.37,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "35 min",
+  "tags": ["pork", "potatoes", "soup", "comfort-food", "high-protein"],
+
+  "ingredients": [
+    { "quantity": "1 kg",    "name": "russet or Yukon Gold potatoes, peeled and diced","costContribution": 1.66 },
+    { "quantity": "150 g",   "name": "bacon, roughly chopped",                        "costContribution": 2.80 },
+    { "quantity": "1 medium","name": "onion, diced",                                  "costContribution": 0.50 },
+    { "quantity": "3 cloves","name": "garlic, minced",                                "costContribution": 0.22 },
+    { "quantity": "900 mL",  "name": "chicken broth",                                 "costContribution": 1.99 },
+    { "quantity": "250 mL",  "name": "milk",                                          "costContribution": 0.49 },
+    { "quantity": "2 tbsp",  "name": "butter",                                        "costContribution": 0.34 },
+    { "quantity": "3 tbsp",  "name": "flour",                                         "costContribution": 0.07 },
+    { "quantity": "100 g",   "name": "shredded cheddar cheese",                       "costContribution": 1.87 },
+    { "quantity": "0.5 cup", "name": "sour cream",                                    "costContribution": 0.75 },
+    { "quantity": "3",       "name": "green onions, sliced",                          "costContribution": 0.26 },
+    { "quantity": "0.5 tsp", "name": "smoked paprika",                                "costContribution": 0.03 },
+    { "quantity": "to taste","name": "salt and black pepper",                         "costContribution": 0.03 },
+    { "quantity": "0.5 tsp", "name": "onion powder",                                  "costContribution": 0.03 },
+    { "quantity": "0.5 tsp", "name": "garlic powder",                                 "costContribution": 0.03 },
+    { "quantity": "0.25 tsp","name": "cayenne pepper (optional)",                     "costContribution": 0.02 },
+    { "quantity": "1 tbsp",  "name": "chives or extra green onion (optional)",        "costContribution": 0.40 }
+  ],
+
+  "instructions": [
+    "In a large pot over medium heat, cook the bacon until crispy. Remove with a slotted spoon and set aside, leaving the fat in the pot.",
+    "Add onion to the pot. Cook in the bacon fat for 5 minutes until softened.",
+    "Add garlic, onion powder, garlic powder, and paprika. Cook 1 minute.",
+    "Add butter. Once melted, sprinkle in the flour. Stir constantly for 1–2 minutes.",
+    "Gradually pour in the chicken broth, stirring constantly to prevent lumps.",
+    "Add the diced potatoes and cayenne if using. Bring to a boil.",
+    "Reduce heat to medium-low. Simmer 15–18 minutes until the potatoes are completely tender.",
+    "Use a potato masher or the back of a spoon to mash roughly half the potatoes against the side of the pot. This thickens the soup without blending it.",
+    "Reduce heat to low. Stir in the milk. Heat gently for 3 minutes — do not boil.",
+    "Remove from heat. Stir in sour cream and half the cheddar.",
+    "Taste and adjust salt and pepper.",
+    "Serve topped with remaining cheddar, bacon, and green onions."
+  ],
+
+  "nutrition": {
+    "calories": 488,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 23,
+    "fiber": 4,
+    "sodium": 820,
+    "iron": "~10% DV",
+    "calcium": "~20% DV",
+    "vitaminC": "~25% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "flour",
+        "substitute": "cornstarch (use 1.5 tbsp instead of 3 tbsp, dissolved in 2 tbsp cold water before adding)",
+        "costNote": "no meaningful cost difference"
+      }
+    ],
+    "notes": "Potatoes, bacon, and dairy are naturally gluten-free. Use a GF broth and cornstarch thickener to make this fully GF."
+  },
+
+  "budgetNotes": [
+    "Sodium is high. The bacon and broth together contribute most of it. Use low-sodium broth if this is a concern.",
+    "Potatoes vary significantly in price in Ontario. A 10 lb bag is almost always a better deal per kilogram than a 5 lb bag.",
+    "The sour cream and second portion of cheddar are listed as toppings and can be reduced or skipped to cut cost by about $1.50.",
+    "This keeps well for 3–4 days but thickens considerably in the fridge. Add a splash of milk when reheating."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Potatoes from 5 lb bag at $3.99. Bacon proportional from 375 g package at $6.99. Cheddar proportional from 320 g block at $5.99."
+  }
+}

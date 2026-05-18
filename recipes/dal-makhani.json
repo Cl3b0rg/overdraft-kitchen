@@ -1,0 +1,72 @@
+{
+  "id": "dal-makhani",
+  "name": "Dal Makhani",
+  "summary": "Whole black lentils and kidney beans slow-cooked in a buttery, spiced tomato sauce. Different from yellow dal — richer, darker, and better suited to cold weather.",
+  "totalCost": 7.75,
+  "costPerServing": 1.94,
+  "servings": 4,
+  "prepTime": "10 min (plus overnight soaking for dried lentils)",
+  "cookTime": "1 hr",
+  "tags": ["vegetarian", "lentils", "beans", "rice", "indian-inspired", "high-fiber", "low-cost"],
+
+  "ingredients": [
+    { "quantity": "200 g",   "name": "dry whole black lentils (urad dal), soaked overnight and drained", "costContribution": 1.40 },
+    { "quantity": "1 can (540 mL)", "name": "red kidney beans, drained",             "costContribution": 1.29 },
+    { "quantity": "1 can (796 mL)", "name": "crushed tomatoes",                      "costContribution": 1.49 },
+    { "quantity": "300 g",   "name": "dry long-grain white rice",                    "costContribution": 0.67 },
+    { "quantity": "3 tbsp",  "name": "butter",                                       "costContribution": 0.51 },
+    { "quantity": "125 mL",  "name": "heavy cream",                                  "costContribution": 1.25 },
+    { "quantity": "1 medium","name": "onion, finely diced",                          "costContribution": 0.50 },
+    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.30 },
+    { "quantity": "1 tsp",   "name": "ground ginger",                                "costContribution": 0.07 },
+    { "quantity": "2 tsp",   "name": "garam masala",                                 "costContribution": 0.15 },
+    { "quantity": "1 tsp",   "name": "ground cumin",                                 "costContribution": 0.05 },
+    { "quantity": "0.5 tsp", "name": "turmeric",                                     "costContribution": 0.03 },
+    { "quantity": "0.5 tsp", "name": "chili powder",                                 "costContribution": 0.03 },
+    { "quantity": "500 mL",  "name": "water",                                        "costContribution": 0.00 },
+    { "quantity": "to taste","name": "salt",                                         "costContribution": 0.01 }
+  ],
+
+  "instructions": [
+    "The night before: cover black lentils in cold water and soak overnight. Drain before using.",
+    "Cook the rice according to package directions.",
+    "Melt 2 tbsp butter in a large, heavy pot over medium heat.",
+    "Add onion. Cook 8 minutes until golden.",
+    "Add garlic, ginger, garam masala, cumin, turmeric, and chili powder. Cook 2 minutes, stirring constantly.",
+    "Add the crushed tomatoes. Stir and cook 5 minutes.",
+    "Add the soaked black lentils, kidney beans, and 500 mL water. Stir to combine.",
+    "Bring to a boil. Reduce heat to low. Cover and simmer 45 minutes, stirring every 10 minutes and adding water if it sticks.",
+    "The lentils should be completely soft and the sauce very thick. Mash a few lentils against the side of the pot with a spoon to thicken further.",
+    "Stir in the remaining 1 tbsp butter and the heavy cream. Simmer on low for 5 more minutes.",
+    "Taste and adjust salt. Serve over rice."
+  ],
+
+  "nutrition": {
+    "calories": 492,
+    "protein": 21,
+    "carbs": 70,
+    "fat": 16,
+    "fiber": 13,
+    "sodium": 380,
+    "iron": "~35% DV",
+    "calcium": "~10% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free. Verify spice blends are processed in a GF facility if celiac is a concern."
+  },
+
+  "budgetNotes": [
+    "Whole black lentils (urad dal) are available at most Ontario South Asian grocery stores and increasingly at larger Walmart and Superstore locations. A 1 kg bag runs $3–$5 and lasts for many meals.",
+    "Soaking overnight is not optional for dried urad dal — it reduces the cook time significantly and improves the texture. If you forget, soak for at least 4 hours.",
+    "The cream is what makes dal makhani distinct from other lentil dishes. Don't skip it — 125 mL split between four servings is not a lot, but it matters.",
+    "This is even better the next day. The flavours deepen overnight."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills", "local South Asian grocery"],
+    "notes": "Urad dal from a 1 kg bag at a South Asian grocery store or Superstore. Cream proportional from 473 mL carton."
+  }
+}

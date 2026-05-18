@@ -1,0 +1,71 @@
+{
+  "id": "korean-beef-bowl",
+  "name": "Korean-Style Ground Beef Bowl",
+  "summary": "Ground beef with soy, sesame, garlic, and ginger over rice. One of the most-saved recipes on TikTok and r/MealPrepSunday for years running.",
+  "totalCost": 8.42,
+  "costPerServing": 2.11,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "15 min",
+  "tags": ["beef", "rice", "fast", "high-protein", "meal-prep"],
+
+  "ingredients": [
+    { "quantity": "500 g",    "name": "lean ground beef",                             "costContribution": 6.50 },
+    { "quantity": "300 g",    "name": "dry long-grain white rice",                    "costContribution": 0.67 },
+    { "quantity": "3 tbsp",   "name": "soy sauce",                                    "costContribution": 0.25 },
+    { "quantity": "1 tbsp",   "name": "sesame oil",                                   "costContribution": 0.25 },
+    { "quantity": "2 tbsp",   "name": "brown sugar",                                  "costContribution": 0.08 },
+    { "quantity": "4 cloves", "name": "garlic, minced",                               "costContribution": 0.30 },
+    { "quantity": "1 tsp",    "name": "ground ginger",                                "costContribution": 0.07 },
+    { "quantity": "1 tbsp",   "name": "vegetable oil",                                "costContribution": 0.05 },
+    { "quantity": "3",        "name": "green onions, thinly sliced",                  "costContribution": 0.20 },
+    { "quantity": "0.5 tsp",  "name": "chili flakes or gochugaru (optional)",         "costContribution": 0.03 },
+    { "quantity": "1 tsp",    "name": "sesame seeds (optional)",                      "costContribution": 0.02 }
+  ],
+
+  "instructions": [
+    "Cook the rice according to package directions.",
+    "Heat vegetable oil in a large skillet over medium-high heat.",
+    "Add the ground beef. Break it up and cook, stirring occasionally, until browned and no pink remains — about 7–8 minutes. Drain excess fat if needed.",
+    "Add the garlic and ginger. Cook 1 minute, stirring constantly.",
+    "Add soy sauce, sesame oil, and brown sugar. Stir to combine. Cook 2 minutes until the sauce reduces slightly and coats the meat.",
+    "Taste and adjust — more soy for salt, more sugar to balance, chili flakes if using.",
+    "Serve over rice. Top with green onions and sesame seeds."
+  ],
+
+  "nutrition": {
+    "calories": 524,
+    "protein": 29,
+    "carbs": 58,
+    "fat": 18,
+    "fiber": 1,
+    "sodium": 680,
+    "iron": "~20% DV",
+    "calcium": "~4% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "soy sauce",
+        "substitute": "tamari in the same quantity",
+        "costNote": "minimal cost difference"
+      }
+    ],
+    "notes": "All other ingredients are naturally gluten-free."
+  },
+
+  "budgetNotes": [
+    "Lean ground beef is the biggest cost driver. Regular ground beef (medium) costs less and works fine — just drain off the extra fat after browning.",
+    "This meal preps extremely well. The beef keeps for 4 days in the fridge and reheats in 2 minutes.",
+    "Doubling the rice and halving the beef is a legitimate way to stretch this further, especially if feeding more than four people.",
+    "Gochugaru (Korean chili flakes) is available at most Ontario Asian grocery stores for a very low price per gram. Regular chili flakes work the same."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Ground beef priced at lean ground beef ~$13/kg. Rice proportional from 2 kg bag."
+  }
+}

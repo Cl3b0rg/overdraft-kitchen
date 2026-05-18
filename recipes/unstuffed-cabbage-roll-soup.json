@@ -1,0 +1,74 @@
+{
+  "id": "unstuffed-cabbage-roll-soup",
+  "name": "Unstuffed Cabbage Roll Soup",
+  "summary": "All the ingredients of a cabbage roll — ground beef, rice, cabbage, tomatoes — cooked together in one pot without the rolling. Popular on Reddit as a lazy version of a classic.",
+  "totalCost": 11.23,
+  "costPerServing": 2.81,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "35 min",
+  "tags": ["beef", "cabbage", "rice", "soup", "one-pot", "comfort-food", "high-protein"],
+
+  "ingredients": [
+    { "quantity": "500 g",   "name": "lean ground beef",                             "costContribution": 6.50 },
+    { "quantity": "0.5 head","name": "green cabbage (~500 g), roughly chopped",      "costContribution": 1.25 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 1.09 },
+    { "quantity": "2 tbsp",  "name": "tomato paste",                                 "costContribution": 0.30 },
+    { "quantity": "200 g",   "name": "dry long-grain white rice",                    "costContribution": 0.44 },
+    { "quantity": "500 mL",  "name": "beef or chicken broth",                        "costContribution": 0.70 },
+    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.50 },
+    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.22 },
+    { "quantity": "1 tsp",   "name": "paprika",                                      "costContribution": 0.05 },
+    { "quantity": "1 tsp",   "name": "dried thyme",                                  "costContribution": 0.05 },
+    { "quantity": "1 tsp",   "name": "Worcestershire sauce",                         "costContribution": 0.08 },
+    { "quantity": "to taste","name": "salt and black pepper",                        "costContribution": 0.05 }
+  ],
+
+  "instructions": [
+    "In a large pot over medium-high heat, cook the ground beef, breaking it apart, until browned — about 8 minutes. Drain excess fat.",
+    "Add onion. Cook 4 minutes until softened.",
+    "Add garlic, paprika, and thyme. Cook 1 minute.",
+    "Stir in the tomato paste. Cook 2 minutes.",
+    "Add the diced tomatoes, broth, Worcestershire sauce, and chopped cabbage. Stir to combine.",
+    "Bring to a boil. Add the dry rice. Stir once.",
+    "Reduce heat to medium-low. Cover and cook 18–20 minutes until the rice is tender and has absorbed much of the liquid.",
+    "Taste and adjust salt and pepper. The soup should be thick and hearty.",
+    "Serve immediately."
+  ],
+
+  "nutrition": {
+    "calories": 519,
+    "protein": 33,
+    "carbs": 48,
+    "fat": 18,
+    "fiber": 5,
+    "sodium": 540,
+    "iron": "~25% DV",
+    "calcium": "~8% DV",
+    "vitaminC": "~35% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "Worcestershire sauce",
+        "substitute": "GF-certified Worcestershire sauce, or omit",
+        "costNote": "no cost difference"
+      }
+    ],
+    "notes": "Beef, cabbage, rice, and tomatoes are naturally gluten-free. Use a GF broth."
+  },
+
+  "budgetNotes": [
+    "Cabbage is one of the most cost-effective vegetables in Ontario. A whole head is $2–$3 and lasts a week in the fridge. Half a head for this recipe leaves the rest for a side salad or a second meal.",
+    "The rice continues absorbing liquid as the soup sits. If reheating next-day leftovers, add a cup of water or broth.",
+    "Traditional cabbage rolls take 2+ hours to assemble and cook. This has the same ingredients and takes 50 minutes total."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Cabbage proportional from a whole head at ~$2.49. Rice proportional from 2 kg bag."
+  }
+}

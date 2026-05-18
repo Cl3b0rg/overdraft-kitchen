@@ -1,0 +1,82 @@
+{
+  "id": "bean-tostadas",
+  "name": "Bean and Cheese Tostadas",
+  "summary": "Crunchy baked corn tortillas topped with seasoned refried beans, cheddar, and shredded lettuce. A Mexican-inspired staple that regularly tops budget meal lists on Reddit.",
+  "totalCost": 10.97,
+  "costPerServing": 2.74,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "15 min",
+  "tags": ["vegetarian", "beans", "fast", "mexican-inspired", "gluten-free", "high-fiber"],
+
+  "ingredients": [
+    { "quantity": "8",       "name": "corn tortillas",                               "costContribution": 0.67 },
+    { "quantity": "1 can (398 mL)", "name": "refried beans",                         "costContribution": 1.79 },
+    { "quantity": "1 can (540 mL)", "name": "pinto or black beans, drained",         "costContribution": 1.59 },
+    { "quantity": "100 g",   "name": "shredded cheddar cheese",                      "costContribution": 1.87 },
+    { "quantity": "0.5 head","name": "romaine or iceberg lettuce, shredded (~200 g)","costContribution": 1.00 },
+    { "quantity": "2 medium","name": "tomatoes, diced",                              "costContribution": 1.00 },
+    { "quantity": "0.5 cup", "name": "sour cream",                                   "costContribution": 0.75 },
+    { "quantity": "1 tsp",   "name": "ground cumin",                                 "costContribution": 0.05 },
+    { "quantity": "1 tsp",   "name": "garlic powder",                                "costContribution": 0.05 },
+    { "quantity": "0.5 tsp", "name": "chili powder",                                 "costContribution": 0.05 },
+    { "quantity": "1 tbsp",  "name": "vegetable oil (for brushing tortillas)",       "costContribution": 0.08 },
+    { "quantity": "to taste","name": "hot sauce and salt",                           "costContribution": 0.05 },
+    { "quantity": "0.5 tsp", "name": "smoked paprika",                               "costContribution": 0.02 },
+    { "quantity": "0.5 tsp", "name": "onion powder",                                 "costContribution": 0.02 },
+    { "quantity": "1 tbsp",  "name": "lime juice (optional)",                        "costContribution": 0.15 },
+    { "quantity": "0.25 tsp","name": "salt for beans",                               "costContribution": 0.01 },
+    { "quantity": "1 tbsp",  "name": "water (to loosen beans)",                      "costContribution": 0.00 },
+    { "quantity": "1 tbsp",  "name": "butter (optional, for beans)",                 "costContribution": 0.17 },
+    { "quantity": "1 clove", "name": "garlic, minced (optional, for beans)",         "costContribution": 0.08 },
+    { "quantity": "0.25 tsp","name": "cayenne pepper (optional)",                    "costContribution": 0.01 },
+    { "quantity": "2",       "name": "green onions, sliced (optional)",              "costContribution": 0.20 },
+    { "quantity": "0.5 tsp", "name": "black pepper",                                 "costContribution": 0.01 },
+    { "quantity": "1 tsp",   "name": "white vinegar (optional)",                     "costContribution": 0.02 },
+    { "quantity": "0.5 tsp", "name": "dried oregano",                               "costContribution": 0.02 },
+    { "quantity": "0.25 tsp","name": "ground coriander",                            "costContribution": 0.01 },
+    { "quantity": "0.5 tsp", "name": "chipotle powder (optional)",                  "costContribution": 0.05 },
+    { "quantity": "optional","name": "avocado or guacamole",                         "costContribution": 0.00 },
+    { "quantity": "optional","name": "pickled jalapeños",                            "costContribution": 0.00 }
+  ],
+
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush both sides of each corn tortilla lightly with oil. Arrange in a single layer on a baking sheet.",
+    "Bake 10–12 minutes, flipping halfway through, until crispy and lightly golden at the edges. Watch closely — they burn quickly.",
+    "While the tortillas bake, combine the refried beans and the drained whole beans in a small saucepan over medium-low heat. Add cumin, garlic powder, chili powder, smoked paprika, onion powder, and a splash of water. Stir until heated through and well-seasoned.",
+    "Spread a generous layer of the bean mixture onto each baked tostada.",
+    "Top with shredded cheese, lettuce, tomatoes, sour cream, and hot sauce.",
+    "Serve immediately — the tostadas go soft quickly once topped."
+  ],
+
+  "nutrition": {
+    "calories": 443,
+    "protein": 19,
+    "carbs": 56,
+    "fat": 17,
+    "fiber": 12,
+    "sodium": 590,
+    "iron": "~20% DV",
+    "calcium": "~18% DV",
+    "vitaminC": "~20% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "Corn tortillas are naturally gluten-free. All other ingredients are as well. Verify the refried beans brand — most are GF but some contain additives."
+  },
+
+  "budgetNotes": [
+    "Corn tortillas are significantly cheaper than flour tortillas and are the correct choice here. A bag of 30 corn tortillas runs about $2.49.",
+    "Mixing refried beans with whole beans gives better texture and goes further than using refried beans alone.",
+    "Tostadas go soft within minutes of being topped. Assemble just before eating.",
+    "If baking the tortillas isn't working, fry them in a shallow layer of oil in a skillet for 1–2 minutes per side."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Corn tortillas proportional from a 30-pack. Refried beans at PC brand. Cheddar proportional from 320 g block."
+  }
+}

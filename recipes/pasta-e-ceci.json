@@ -1,0 +1,77 @@
+{
+  "id": "pasta-e-ceci",
+  "name": "Pasta e Ceci",
+  "summary": "An Italian chickpea and pasta soup that lands somewhere between a stew and a broth. Cheap, filling, and made entirely from pantry staples.",
+  "totalCost": 7.02,
+  "costPerServing": 1.76,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": ["vegan", "pasta", "chickpeas", "soup", "italian", "high-fiber", "low-cost"],
+
+  "ingredients": [
+    { "quantity": "2 cans (540 mL each)", "name": "chickpeas, drained (liquid reserved)", "costContribution": 2.78 },
+    { "quantity": "200 g",   "name": "small pasta (ditalini, elbows, or broken spaghetti)", "costContribution": 0.33 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 1.09 },
+    { "quantity": "2 tbsp",  "name": "tomato paste",                                 "costContribution": 0.30 },
+    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.50 },
+    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.30 },
+    { "quantity": "1 sprig or 1 tsp dried", "name": "rosemary",                     "costContribution": 0.05 },
+    { "quantity": "0.5 tsp", "name": "chili flakes",                                 "costContribution": 0.03 },
+    { "quantity": "3 tbsp",  "name": "olive or vegetable oil",                       "costContribution": 0.30 },
+    { "quantity": "750 mL",  "name": "water",                                        "costContribution": 0.00 },
+    { "quantity": "to taste","name": "salt and black pepper",                        "costContribution": 0.04 },
+    { "quantity": "optional","name": "parmesan rind (adds depth, costs nothing extra)","costContribution": 0.00 },
+    { "quantity": "optional","name": "olive oil drizzle for serving",               "costContribution": 0.30 }
+  ],
+
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion. Cook 5–6 minutes until softened.",
+    "Add garlic, rosemary, and chili flakes. Cook 1 minute.",
+    "Add tomato paste. Stir and cook 2 minutes until darkened slightly.",
+    "Add the diced tomatoes and their liquid. Cook 5 minutes.",
+    "Add the chickpeas. Reserve about 250 mL of the chickpea liquid — add it to the pot. Add 750 mL water.",
+    "If using a parmesan rind, drop it in now.",
+    "Bring to a boil. Add the pasta. Cook uncovered, stirring often, for 8–10 minutes until the pasta is tender.",
+    "The soup should be thick and stew-like, not brothy. If it looks too dry, add a splash more water.",
+    "Remove rosemary sprig and parmesan rind. Taste and adjust salt.",
+    "Serve with a drizzle of olive oil and black pepper."
+  ],
+
+  "nutrition": {
+    "calories": 422,
+    "protein": 18,
+    "carbs": 71,
+    "fat": 10,
+    "fiber": 13,
+    "sodium": 350,
+    "iron": "~20% DV",
+    "calcium": "~8% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "small pasta",
+        "substitute": "certified GF small pasta, or omit entirely for a thicker stew",
+        "costNote": "omitting pasta saves about $0.33"
+      }
+    ],
+    "notes": "Chickpeas and vegetables are naturally gluten-free."
+  },
+
+  "budgetNotes": [
+    "The chickpea liquid (aquafaba) adds starch to the broth and makes it silkier. Don't throw it away.",
+    "Blending a quarter of the soup before adding the pasta creates a thicker, creamier base without adding anything.",
+    "This is different from pasta e fagioli (which uses white beans and is brothier). The chickpeas hold their shape more and the dish is heartier.",
+    "Like most Italian soups, this tastes better the next day."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Chickpeas at PC or No Name brand ~$1.39/can. Small pasta proportional from 900 g bag."
+  }
+}

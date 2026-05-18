@@ -1,0 +1,64 @@
+{
+  "id": "chicken-and-potato-bake",
+  "name": "One-Pan Chicken Thighs and Potatoes",
+  "summary": "Chicken thighs and potatoes roasted together on one pan with garlic and herbs. Minimal prep, almost no cleanup, and consistently one of the most-recommended beginner recipes online.",
+  "totalCost": 10.05,
+  "costPerServing": 2.51,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "45 min",
+  "tags": ["chicken", "potatoes", "one-pan", "high-protein", "oven", "gluten-free"],
+
+  "ingredients": [
+    { "quantity": "1.2 kg",  "name": "bone-in skin-on chicken thighs (about 6)",    "costContribution": 7.50 },
+    { "quantity": "800 g",   "name": "Yukon Gold or russet potatoes, cut into chunks","costContribution": 1.33 },
+    { "quantity": "1 medium","name": "onion, cut into wedges",                       "costContribution": 0.50 },
+    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.30 },
+    { "quantity": "3 tbsp",  "name": "olive or vegetable oil",                       "costContribution": 0.30 },
+    { "quantity": "1 tsp",   "name": "smoked paprika",                               "costContribution": 0.08 },
+    { "quantity": "1 tsp",   "name": "dried thyme or rosemary",                      "costContribution": 0.05 },
+    { "quantity": "0.5 tsp", "name": "garlic powder",                                "costContribution": 0.03 },
+    { "quantity": "1 (optional)", "name": "lemon, halved",                           "costContribution": 0.50 },
+    { "quantity": "to taste","name": "salt and black pepper",                        "costContribution": 0.05 }
+  ],
+
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a large bowl, toss potato chunks and onion wedges with 2 tbsp oil, garlic, half the paprika, half the thyme, salt, and pepper. Spread in a single layer on a large baking sheet.",
+    "Pat the chicken dry with a paper towel. Season all over with remaining paprika, thyme, garlic powder, salt, and pepper. Rub with remaining oil.",
+    "Nestle the chicken thighs skin-side up among the potatoes.",
+    "If using lemon, squeeze one half over everything and place the other half cut-side down on the pan.",
+    "Roast for 40–45 minutes until the chicken skin is deeply golden and crispy, and the potatoes are tender and browned on the edges. Check that the thickest part of the chicken reaches 165°F (74°C).",
+    "Let rest 5 minutes before serving."
+  ],
+
+  "nutrition": {
+    "calories": 558,
+    "protein": 42,
+    "carbs": 33,
+    "fat": 28,
+    "fiber": 4,
+    "sodium": 380,
+    "iron": "~15% DV",
+    "calcium": "~4% DV",
+    "vitaminC": "~30% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free."
+  },
+
+  "budgetNotes": [
+    "Cut the potatoes into similar-sized pieces so they cook evenly. Too large and they stay raw in the middle; too small and they burn before the chicken is done.",
+    "Do not crowd the pan. If pieces are piled on top of each other, they steam instead of roast and won't brown. Use two pans if needed.",
+    "The potatoes cook in the chicken fat that drips off during roasting. This is the main reason they taste good.",
+    "A 5 lb bag of potatoes runs $3.99–$4.99. You're using less than half. This is a very cheap ingredient across multiple meals."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Chicken at ~$6.25/kg bone-in. Potatoes proportional from a 5 lb bag at $3.99."
+  }
+}

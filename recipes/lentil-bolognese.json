@@ -1,0 +1,75 @@
+{
+  "id": "lentil-bolognese",
+  "name": "Lentil Bolognese",
+  "summary": "Green lentils slow-cooked with vegetables and tomato into a thick meat-sauce texture, served over pasta. A reliable vegan weeknight staple on every budget food forum.",
+  "totalCost": 4.85,
+  "costPerServing": 1.21,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "40 min",
+  "tags": ["vegan", "pasta", "lentils", "low-cost", "meal-prep", "high-fiber"],
+
+  "ingredients": [
+    { "quantity": "250 g",   "name": "dry green or brown lentils, rinsed",           "costContribution": 0.97 },
+    { "quantity": "400 g",   "name": "penne, rigatoni, or spaghetti",                "costContribution": 0.66 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 1.09 },
+    { "quantity": "2 tbsp",  "name": "tomato paste",                                 "costContribution": 0.30 },
+    { "quantity": "1 medium","name": "onion, finely diced",                          "costContribution": 0.50 },
+    { "quantity": "2",       "name": "carrots, finely diced",                        "costContribution": 0.40 },
+    { "quantity": "2 stalks","name": "celery, finely diced",                         "costContribution": 0.30 },
+    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.30 },
+    { "quantity": "1 tsp",   "name": "dried oregano",                                "costContribution": 0.05 },
+    { "quantity": "1 tsp",   "name": "dried basil",                                  "costContribution": 0.05 },
+    { "quantity": "2 tbsp",  "name": "olive or vegetable oil",                       "costContribution": 0.18 },
+    { "quantity": "500 mL",  "name": "water or vegetable broth",                     "costContribution": 0.00 },
+    { "quantity": "to taste","name": "salt and black pepper",                        "costContribution": 0.05 }
+  ],
+
+  "instructions": [
+    "Heat oil in a large pot or Dutch oven over medium heat.",
+    "Add onion, carrots, and celery. Cook 8–10 minutes, stirring occasionally, until softened.",
+    "Add garlic, oregano, and basil. Cook 1 minute.",
+    "Stir in tomato paste. Cook 2 minutes until darkened slightly.",
+    "Add lentils, diced tomatoes, and water (or broth). Stir to combine.",
+    "Bring to a boil, then reduce heat to low. Simmer uncovered for 25–30 minutes, stirring occasionally, until lentils are tender and the sauce is thick.",
+    "While the sauce simmers, cook pasta in heavily salted boiling water according to package directions. Reserve 250 mL pasta water.",
+    "Season the sauce with salt and pepper. If it looks too thick, add a splash of pasta water.",
+    "Serve over pasta. Top with parmesan or nutritional yeast if available."
+  ],
+
+  "nutrition": {
+    "calories": 511,
+    "protein": 25,
+    "carbs": 91,
+    "fat": 6,
+    "fiber": 14,
+    "sodium": 380,
+    "iron": "~30% DV",
+    "calcium": "~8% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "pasta",
+        "substitute": "certified GF pasta or serve over rice",
+        "costNote": "GF pasta adds approximately $1.50–$2.00 to total cost"
+      }
+    ],
+    "notes": "Lentils and all vegetables are naturally gluten-free."
+  },
+
+  "budgetNotes": [
+    "The carrot-celery-onion base (soffritto) is the foundation of the flavour. Don't skip it or rush it — the 8–10 minutes of cooking matters.",
+    "This freezes extremely well. Make a double batch and freeze half in portions.",
+    "Lentils don't need soaking. Rinse them and use them dry.",
+    "Green or brown lentils hold their shape and have a meatier texture than red lentils, which turn to mush. For this dish, use green or brown."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Lentils proportional from 900 g bag. Pasta proportional from 900 g bag."
+  }
+}

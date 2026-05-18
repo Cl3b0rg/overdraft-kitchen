@@ -1,0 +1,70 @@
+{
+  "id": "chicken-adobo",
+  "name": "Filipino Chicken Adobo",
+  "summary": "Chicken thighs braised in soy sauce, vinegar, and garlic until the sauce reduces to a dark glaze. Consistently cited as the top answer in every 'what should I make for cheap' thread.",
+  "totalCost": 9.45,
+  "costPerServing": 2.36,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "40 min",
+  "tags": ["chicken", "rice", "high-protein", "filipino", "meal-prep"],
+
+  "ingredients": [
+    { "quantity": "1.2 kg",   "name": "bone-in skin-on chicken thighs (about 6)",    "costContribution": 7.50 },
+    { "quantity": "300 g",    "name": "dry long-grain white rice",                    "costContribution": 0.67 },
+    { "quantity": "0.5 cup",  "name": "soy sauce",                                   "costContribution": 0.40 },
+    { "quantity": "0.5 cup",  "name": "white vinegar",                               "costContribution": 0.15 },
+    { "quantity": "1 head",   "name": "garlic, cloves smashed and peeled",           "costContribution": 0.50 },
+    { "quantity": "2",        "name": "bay leaves",                                  "costContribution": 0.05 },
+    { "quantity": "1 tsp",    "name": "whole black peppercorns",                     "costContribution": 0.08 },
+    { "quantity": "1 tbsp",   "name": "vegetable oil",                               "costContribution": 0.05 },
+    { "quantity": "2 tbsp",   "name": "brown sugar (optional, for balance)",         "costContribution": 0.05 }
+  ],
+
+  "instructions": [
+    "Cook the rice according to package directions.",
+    "In a bowl, combine soy sauce, vinegar, garlic, bay leaves, and peppercorns. Add the chicken thighs and turn to coat. Marinate for at least 15 minutes, or overnight in the fridge.",
+    "Heat oil in a large heavy skillet over medium-high heat. Remove chicken from marinade (reserve it). Sear skin-side down for 4–5 minutes until golden. Flip and sear 2 minutes on the other side.",
+    "Pour the reserved marinade over the chicken. Bring to a boil.",
+    "Reduce heat to medium-low. Simmer uncovered for 20 minutes, turning the chicken once halfway through.",
+    "The sauce should reduce to a thick, dark glaze. If it's still thin after 20 minutes, increase heat and boil it down for a few minutes more.",
+    "Taste. If the vinegar is sharp, stir in the brown sugar.",
+    "Serve over rice with the pan sauce spooned over everything. Remove bay leaves before eating."
+  ],
+
+  "nutrition": {
+    "calories": 518,
+    "protein": 39,
+    "carbs": 48,
+    "fat": 16,
+    "fiber": 1,
+    "sodium": 910,
+    "iron": "~15% DV",
+    "calcium": "~4% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "soy sauce",
+        "substitute": "tamari in the same quantity",
+        "costNote": "minimal cost difference"
+      }
+    ],
+    "notes": "All other ingredients are naturally gluten-free."
+  },
+
+  "budgetNotes": [
+    "Bone-in skin-on thighs are cheaper per kilogram than boneless and give a better result here. Do not substitute boneless breast — it will dry out.",
+    "Sodium is high in this recipe. Serve with plain rice and vegetables to balance it out across the meal.",
+    "Leftovers actually improve overnight as the chicken soaks up the sauce. This is an ideal meal prep recipe.",
+    "The vinegar-to-soy ratio is a matter of personal preference. Start with equal parts and adjust next time based on how sharp you want it."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Chicken thighs priced at ~$6.25/kg (bone-in, skin-on). Rice proportional from 2 kg bag."
+  }
+}

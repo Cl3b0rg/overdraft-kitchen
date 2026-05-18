@@ -1,0 +1,78 @@
+{
+  "id": "hoppin-john",
+  "name": "Hoppin' John",
+  "summary": "Black-eyed peas cooked with smoked sausage, onion, and celery over rice. A Southern American staple that has been feeding people cheaply for a very long time.",
+  "totalCost": 7.78,
+  "costPerServing": 1.95,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": ["beans", "rice", "pork", "one-pot", "southern", "high-protein"],
+
+  "ingredients": [
+    { "quantity": "2 cans (540 mL each)", "name": "black-eyed peas, drained",        "costContribution": 3.18 },
+    { "quantity": "300 g",   "name": "dry long-grain white rice",                    "costContribution": 0.67 },
+    { "quantity": "200 g",   "name": "smoked sausage or kielbasa, sliced",           "costContribution": 1.75 },
+    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.50 },
+    { "quantity": "2 stalks","name": "celery, diced",                                "costContribution": 0.30 },
+    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.22 },
+    { "quantity": "500 mL",  "name": "chicken broth",                                "costContribution": 0.70 },
+    { "quantity": "1 tsp",   "name": "dried thyme",                                  "costContribution": 0.05 },
+    { "quantity": "0.5 tsp", "name": "smoked paprika",                               "costContribution": 0.03 },
+    { "quantity": "1",       "name": "bay leaf",                                     "costContribution": 0.02 },
+    { "quantity": "to taste","name": "salt, black pepper, and hot sauce",            "costContribution": 0.03 },
+    { "quantity": "2",       "name": "green onions, sliced (for serving)",           "costContribution": 0.16 },
+    { "quantity": "1 tbsp",  "name": "vegetable oil",                                "costContribution": 0.05 },
+    { "quantity": "0.25 tsp","name": "cayenne pepper",                               "costContribution": 0.02 },
+    { "quantity": "1 tsp",   "name": "apple cider or white vinegar",                 "costContribution": 0.01 },
+    { "quantity": "0.5 tsp", "name": "onion powder",                                "costContribution": 0.02 },
+    { "quantity": "0.5 tsp", "name": "garlic powder",                               "costContribution": 0.07 }
+  ],
+
+  "instructions": [
+    "Cook the rice according to package directions.",
+    "Heat oil in a large skillet or pot over medium heat. Add the sausage slices and cook until lightly browned, about 3–4 minutes. Remove and set aside.",
+    "Add onion and celery to the same pan. Cook 5 minutes until softened.",
+    "Add garlic, thyme, smoked paprika, onion powder, garlic powder, and cayenne. Cook 1 minute.",
+    "Add the black-eyed peas, broth, and bay leaf. Stir to combine.",
+    "Return the sausage to the pot. Bring to a boil, then reduce heat and simmer uncovered 15 minutes until the broth reduces slightly.",
+    "Add the vinegar. Stir and simmer 2 more minutes.",
+    "Remove bay leaf. Taste and adjust salt, pepper, and hot sauce.",
+    "Serve over rice. Top with green onions."
+  ],
+
+  "nutrition": {
+    "calories": 476,
+    "protein": 24,
+    "carbs": 73,
+    "fat": 10,
+    "fiber": 10,
+    "sodium": 720,
+    "iron": "~20% DV",
+    "calcium": "~8% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "smoked sausage or kielbasa",
+        "substitute": "verify the sausage brand is GF — some contain fillers. Schneiders and Hygrade kielbasa are typically GF.",
+        "costNote": "no cost difference"
+      }
+    ],
+    "notes": "Black-eyed peas, rice, and vegetables are naturally gluten-free. Check the broth label as well."
+  },
+
+  "budgetNotes": [
+    "Black-eyed peas are sometimes hard to find at mainstream Ontario grocery stores. PC, No Name, and Unico brand carry them — check the canned bean aisle.",
+    "The sausage is more of a flavour component than a protein base here. 200 g is enough. Skip it entirely to make this vegan — add a teaspoon of smoked paprika to compensate.",
+    "Traditionally served on New Year's Day in the American South for good luck. The cultural context doesn't lower the grocery bill, but it's a good reason to cook it."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Black-eyed peas at PC or Unico brand ~$1.59/can. Kielbasa proportional from 500 g package."
+  }
+}

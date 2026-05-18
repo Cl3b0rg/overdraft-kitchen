@@ -1,0 +1,70 @@
+{
+  "id": "chicken-tortilla-soup",
+  "name": "Chicken Tortilla Soup",
+  "summary": "Shredded chicken thighs with black beans, corn, and tomatoes in a spiced broth. A Tex-Mex staple that appears on virtually every budget meal-prep list.",
+  "totalCost": 12.01,
+  "costPerServing": 3.00,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "35 min",
+  "tags": ["chicken", "beans", "soup", "tex-mex", "high-protein", "meal-prep"],
+
+  "ingredients": [
+    { "quantity": "600 g",   "name": "boneless skinless chicken thighs",             "costContribution": 5.40 },
+    { "quantity": "1 can (540 mL)", "name": "black beans, drained",                  "costContribution": 1.29 },
+    { "quantity": "1 can (341 mL)", "name": "corn kernels, drained (or 250 g frozen)","costContribution": 1.09 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 1.09 },
+    { "quantity": "900 mL",  "name": "chicken broth",                                "costContribution": 1.99 },
+    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.50 },
+    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.22 },
+    { "quantity": "1 tsp",   "name": "ground cumin",                                 "costContribution": 0.05 },
+    { "quantity": "1 tsp",   "name": "chili powder",                                 "costContribution": 0.08 },
+    { "quantity": "0.5 tsp", "name": "smoked paprika",                               "costContribution": 0.03 },
+    { "quantity": "1 tbsp",  "name": "vegetable oil",                                "costContribution": 0.08 },
+    { "quantity": "handful", "name": "tortilla chips, crushed (for serving)",        "costContribution": 0.50 },
+    { "quantity": "to taste","name": "salt, pepper, and lime juice",                 "costContribution": 0.05 },
+    { "quantity": "optional","name": "sour cream, shredded cheddar, cilantro",       "costContribution": 0.64 }
+  ],
+
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion. Cook 5 minutes until softened.",
+    "Add garlic, cumin, chili powder, and paprika. Cook 1 minute.",
+    "Add the diced tomatoes, broth, and whole chicken thighs (do not cut them — they shred better whole).",
+    "Bring to a boil. Reduce heat to medium-low and simmer 20 minutes until the chicken is cooked through.",
+    "Remove the chicken. Use two forks to shred it, then return it to the pot.",
+    "Add the black beans and corn. Simmer 5 more minutes.",
+    "Taste and adjust salt, pepper, and lime juice.",
+    "Serve topped with crushed tortilla chips and any optional toppings."
+  ],
+
+  "nutrition": {
+    "calories": 421,
+    "protein": 37,
+    "carbs": 38,
+    "fat": 13,
+    "fiber": 8,
+    "sodium": 710,
+    "iron": "~20% DV",
+    "calcium": "~8% DV",
+    "vitaminC": "~15% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free. Verify the tortilla chips and broth are GF-certified if celiac is a concern."
+  },
+
+  "budgetNotes": [
+    "Adding the chicken thighs whole and shredding after is not a style choice — the meat stays juicier and falls apart more easily than if you cube it first.",
+    "The tortilla chips on top aren't decorative. They soften slightly in the hot soup and add body.",
+    "This freezes well and tastes better the next day. The toppings should be added fresh.",
+    "Use a rotisserie chicken if it's on sale at the end of the day — sometimes cheaper than raw thighs and saves the simmering step."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Chicken at ~$9/kg boneless skinless. Broth from a 900 mL carton."
+  }
+}

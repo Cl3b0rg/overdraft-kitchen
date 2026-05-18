@@ -1,0 +1,71 @@
+{
+  "id": "japanese-curry-rice",
+  "name": "Japanese Curry Rice",
+  "summary": "Chicken, potatoes, and carrots in a thick, mildly sweet curry sauce made from S&B Golden Curry roux, served over rice. One of the most-saved 'comfort food for cheap' recipes on TikTok and r/JapaneseFood.",
+  "totalCost": 11.01,
+  "costPerServing": 2.75,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "40 min",
+  "tags": ["chicken", "rice", "curry", "one-pot", "japanese", "high-protein"],
+
+  "ingredients": [
+    { "quantity": "600 g",   "name": "boneless skinless chicken thighs, cut into chunks","costContribution": 5.40 },
+    { "quantity": "300 g",   "name": "dry long-grain white rice",                    "costContribution": 0.67 },
+    { "quantity": "1 box (112 g)", "name": "S&B Golden Curry roux, medium heat",    "costContribution": 2.99 },
+    { "quantity": "2 medium","name": "potatoes (~300 g), peeled and cubed",          "costContribution": 0.67 },
+    { "quantity": "2 medium","name": "carrots (~200 g), sliced into coins",          "costContribution": 0.50 },
+    { "quantity": "1 large", "name": "onion, cut into rough wedges",                 "costContribution": 0.60 },
+    { "quantity": "2 tbsp",  "name": "vegetable oil",                                "costContribution": 0.15 },
+    { "quantity": "750 mL",  "name": "water",                                        "costContribution": 0.00 },
+    { "quantity": "to taste","name": "salt",                                         "costContribution": 0.03 }
+  ],
+
+  "instructions": [
+    "Cook the rice according to package directions.",
+    "Heat oil in a large pot or Dutch oven over medium-high heat.",
+    "Add the chicken and cook, stirring occasionally, until lightly browned on all sides — about 5 minutes. It doesn't need to be fully cooked yet.",
+    "Add the onion. Cook 3 minutes.",
+    "Add potatoes and carrots. Stir to combine.",
+    "Pour in the water. Bring to a boil.",
+    "Reduce heat to medium-low. Skim any foam from the surface. Simmer 15 minutes until the potatoes and carrots are just tender.",
+    "Break the curry roux block into pieces and add to the pot. Stir until fully dissolved.",
+    "Simmer on low heat, stirring often, for 10 minutes until the sauce thickens considerably.",
+    "Taste and adjust salt. Serve over rice."
+  ],
+
+  "nutrition": {
+    "calories": 578,
+    "protein": 39,
+    "carbs": 72,
+    "fat": 14,
+    "fiber": 4,
+    "sodium": 720,
+    "iron": "~15% DV",
+    "calcium": "~6% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "S&B Golden Curry roux",
+        "substitute": "S&B Golden Curry roux contains wheat flour and is not GF. Substitute with a GF Japanese curry paste (available at Asian grocery stores) or a GF curry powder mix thickened with cornstarch.",
+        "costNote": "GF curry options may add $2–$4 to the total"
+      }
+    ]
+  },
+
+  "budgetNotes": [
+    "S&B Golden Curry roux boxes (112 g) are available at Walmart, T&T Supermarket, and most Ontario Asian grocery stores. The medium heat variety is a safe starting point.",
+    "Japanese curry is intentionally mild and slightly sweet. It is not the same as Indian curry. Don't substitute Indian curry powder and expect the same result.",
+    "The sauce thickens significantly as it cools. If reheating leftovers, add a splash of water to loosen it.",
+    "Adding a grated apple or a tablespoon of honey to the sauce is a common home cook trick for sweetness and balance."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa T&T Supermarket"],
+    "notes": "S&B Golden Curry roux at Walmart or T&T. Chicken at ~$9/kg. Rice from 2 kg bag."
+  }
+}

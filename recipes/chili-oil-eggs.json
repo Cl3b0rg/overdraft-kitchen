@@ -1,0 +1,73 @@
+{
+  "id": "chili-oil-eggs",
+  "name": "Chili Oil Fried Eggs and Rice",
+  "summary": "Fried eggs finished in chili oil with soy sauce and sesame, served over rice. Went viral on TikTok for a reason — it takes ten minutes and costs almost nothing.",
+  "totalCost": 4.31,
+  "costPerServing": 1.08,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "10 min",
+  "tags": ["vegetarian", "eggs", "rice", "fast", "very-low-cost", "meal-prep"],
+
+  "ingredients": [
+    { "quantity": "300 g",   "name": "dry long-grain white rice",                    "costContribution": 0.67 },
+    { "quantity": "8",       "name": "large eggs",                                   "costContribution": 3.66 },
+    { "quantity": "3 tbsp",  "name": "chili crisp or chili oil (store-bought)",      "costContribution": 0.60 },
+    { "quantity": "2 tbsp",  "name": "soy sauce",                                    "costContribution": 0.18 },
+    { "quantity": "1 tsp",   "name": "sesame oil",                                   "costContribution": 0.12 },
+    { "quantity": "2",       "name": "green onions, thinly sliced",                  "costContribution": 0.20 },
+    { "quantity": "1 tbsp",  "name": "vegetable oil for frying",                     "costContribution": 0.05 },
+    { "quantity": "1 tsp",   "name": "sesame seeds (optional)",                      "costContribution": 0.03 }
+  ],
+
+  "instructions": [
+    "Cook the rice according to package directions.",
+    "In a small bowl, mix together the soy sauce and sesame oil. Set aside.",
+    "Heat vegetable oil in a non-stick skillet over medium-high heat until shimmering.",
+    "Crack 2 eggs into the pan at a time. Cook until the whites are set but the yolks are still runny, about 2 minutes. Repeat for remaining eggs.",
+    "Divide rice into bowls. Top with 2 fried eggs each.",
+    "Spoon the chili crisp generously over the eggs.",
+    "Drizzle the soy-sesame mixture over everything.",
+    "Top with green onions and sesame seeds. Serve immediately."
+  ],
+
+  "nutrition": {
+    "calories": 431,
+    "protein": 16,
+    "carbs": 57,
+    "fat": 15,
+    "fiber": 1,
+    "sodium": 420,
+    "iron": "~15% DV",
+    "calcium": "~6% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "soy sauce",
+        "substitute": "tamari in the same quantity",
+        "costNote": "minimal cost difference"
+      },
+      {
+        "ingredient": "chili crisp",
+        "substitute": "check label — most chili crisp is GF, but verify the brand",
+        "costNote": "no cost difference"
+      }
+    ]
+  },
+
+  "budgetNotes": [
+    "Chili crisp (Lao Gan Ma brand) is available at most Ontario grocery stores in the international aisle. A jar lasts months and costs around $4–$6. It's worth keeping on hand.",
+    "If you don't have chili crisp, mix vegetable oil with chili flakes, a pinch of salt, and a dash of garlic powder as a rough substitute.",
+    "This is a genuinely good two-egg-per-person meal that works for breakfast, lunch, or dinner. Cost per serving is under $1.10.",
+    "Runny yolks act as a sauce. If you prefer cooked yolks, cover the pan with a lid for 1 minute after cracking the eggs."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Eggs priced from a 12-count carton at $5.49. Chili crisp proportional from a standard Lao Gan Ma jar."
+  }
+}

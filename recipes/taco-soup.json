@@ -1,0 +1,65 @@
+{
+  "id": "taco-soup",
+  "name": "Taco Soup",
+  "summary": "Ground beef, beans, corn, and canned tomatoes simmered with taco spices. One of the most-saved recipes on Pinterest and Reddit for years, and it's obvious why.",
+  "totalCost": 11.68,
+  "costPerServing": 2.92,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "25 min",
+  "tags": ["beef", "beans", "soup", "fast", "high-protein", "meal-prep"],
+
+  "ingredients": [
+    { "quantity": "500 g",   "name": "lean ground beef",                             "costContribution": 6.50 },
+    { "quantity": "1 can (540 mL)", "name": "red kidney beans, drained",             "costContribution": 1.29 },
+    { "quantity": "1 can (341 mL)", "name": "corn kernels, drained (or 250 g frozen)","costContribution": 1.09 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 1.09 },
+    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.50 },
+    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.22 },
+    { "quantity": "2 tsp",   "name": "chili powder",                                 "costContribution": 0.10 },
+    { "quantity": "1 tsp",   "name": "ground cumin",                                 "costContribution": 0.05 },
+    { "quantity": "0.5 tsp", "name": "smoked paprika",                               "costContribution": 0.03 },
+    { "quantity": "0.5 tsp", "name": "garlic powder",                                "costContribution": 0.03 },
+    { "quantity": "500 mL",  "name": "chicken or beef broth",                        "costContribution": 0.70 },
+    { "quantity": "to taste","name": "salt, pepper, and hot sauce",                  "costContribution": 0.08 }
+  ],
+
+  "instructions": [
+    "Heat a large pot over medium-high heat. Add the ground beef and cook, breaking it apart, until browned — about 8 minutes. Drain excess fat.",
+    "Add the onion. Cook 3–4 minutes until softened.",
+    "Add garlic, chili powder, cumin, paprika, and garlic powder. Cook 1 minute, stirring.",
+    "Add the diced tomatoes, beans, corn, and broth. Stir to combine.",
+    "Bring to a boil. Reduce heat and simmer uncovered 15 minutes.",
+    "Taste and adjust seasoning. Serve with optional toppings: sour cream, shredded cheddar, crushed tortilla chips, green onions."
+  ],
+
+  "nutrition": {
+    "calories": 487,
+    "protein": 34,
+    "carbs": 44,
+    "fat": 18,
+    "fiber": 9,
+    "sodium": 640,
+    "iron": "~25% DV",
+    "calcium": "~8% DV",
+    "vitaminC": "~20% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free. Check the broth label — some broths contain gluten. Use a certified GF broth or substitute water with an extra pinch of salt."
+  },
+
+  "budgetNotes": [
+    "Toppings are listed as optional because they add cost. The soup is complete without them. A bag of store-brand tortilla chips for topping costs about $2 and goes a long way.",
+    "This freezes very well. Make a double batch and freeze in portions for the week.",
+    "Using regular ground beef instead of lean saves about $1.50 — just drain more fat after browning.",
+    "If you want to stretch it further, add an extra can of beans or another cup of broth and serve with bread."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Ground beef at lean ~$13/kg. Broth proportional from 900 mL carton. Canned corn at No Name brand."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "tuscan-white-bean-soup",
+  "name": "Tuscan White Bean and Kale Soup",
+  "summary": "Cannellini beans and kale in a garlicky tomato broth with small pasta. A regular recommendation on r/EatCheapAndHealthy and Budget Bytes.",
+  "totalCost": 7.59,
+  "costPerServing": 1.90,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": ["vegan", "beans", "soup", "kale", "high-fiber", "low-cost"],
+
+  "ingredients": [
+    { "quantity": "2 cans (540 mL each)", "name": "white kidney beans or cannellini beans, drained", "costContribution": 3.18 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                       "costContribution": 1.09 },
+    { "quantity": "100 g",   "name": "kale or baby spinach, roughly chopped",        "costContribution": 1.00 },
+    { "quantity": "100 g",   "name": "small pasta (ditalini, elbows, or small shells)","costContribution": 0.17 },
+    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.50 },
+    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.30 },
+    { "quantity": "1 tsp",   "name": "dried rosemary",                               "costContribution": 0.05 },
+    { "quantity": "1 tsp",   "name": "dried thyme",                                  "costContribution": 0.05 },
+    { "quantity": "0.5 tsp", "name": "chili flakes",                                 "costContribution": 0.03 },
+    { "quantity": "2 tbsp",  "name": "olive or vegetable oil",                       "costContribution": 0.18 },
+    { "quantity": "750 mL",  "name": "water",                                        "costContribution": 0.00 },
+    { "quantity": "to taste","name": "salt and black pepper",                        "costContribution": 0.04 }
+  ],
+
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion. Cook 5–6 minutes until softened.",
+    "Add garlic, rosemary, thyme, and chili flakes. Cook 1 minute.",
+    "Add the diced tomatoes and their liquid. Stir and cook 3 minutes.",
+    "Add the white beans and 750 mL water. Bring to a boil.",
+    "Add the pasta. Cook uncovered for 8–10 minutes, stirring occasionally, until the pasta is tender.",
+    "Stir in the kale or spinach. Cook 2–3 minutes until wilted.",
+    "Taste and adjust salt and pepper. The broth will be thick — add more water if you want a thinner soup.",
+    "Serve with bread if available."
+  ],
+
+  "nutrition": {
+    "calories": 418,
+    "protein": 22,
+    "carbs": 71,
+    "fat": 7,
+    "fiber": 15,
+    "sodium": 390,
+    "iron": "~25% DV",
+    "calcium": "~15% DV",
+    "vitaminC": "~40% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "small pasta",
+        "substitute": "certified GF small pasta, or omit pasta and add an extra can of beans",
+        "costNote": "omitting pasta reduces cost by about $0.17"
+      }
+    ],
+    "notes": "Beans, tomatoes, and vegetables are all naturally gluten-free."
+  },
+
+  "budgetNotes": [
+    "Smashing a quarter of the beans against the side of the pot before adding them creates a creamier broth.",
+    "Kale holds up better than spinach if you plan to reheat leftovers — spinach turns slimy.",
+    "A parmesan rind dropped into the broth while simmering adds depth for essentially no cost. Save rinds in a bag in the freezer.",
+    "This is intentionally thick. It thickens further as the pasta absorbs liquid overnight — add a splash of water when reheating."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "White beans at PC or No Name brand ~$1.59/can. Kale proportional from 142 g pre-washed bag ~$3.49."
+  }
+}

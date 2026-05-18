@@ -1,0 +1,86 @@
+{
+  "id": "corn-chowder",
+  "name": "Corn Chowder",
+  "summary": "Thick, creamy corn and potato soup with bacon. Uses canned and frozen corn to keep costs down and make it a year-round option.",
+  "totalCost": 7.11,
+  "costPerServing": 1.78,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "35 min",
+  "tags": ["soup", "pork", "potatoes", "comfort-food", "fast"],
+
+  "ingredients": [
+    { "quantity": "1 can (341 mL)", "name": "corn kernels, drained",                 "costContribution": 1.09 },
+    { "quantity": "250 g",   "name": "frozen corn",                                  "costContribution": 0.65 },
+    { "quantity": "3 medium","name": "potatoes (~450 g), peeled and diced small",    "costContribution": 0.75 },
+    { "quantity": "100 g",   "name": "bacon, roughly chopped",                       "costContribution": 1.87 },
+    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.50 },
+    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.22 },
+    { "quantity": "500 mL",  "name": "chicken or vegetable broth",                   "costContribution": 0.70 },
+    { "quantity": "400 mL",  "name": "milk",                                         "costContribution": 0.78 },
+    { "quantity": "2 tbsp",  "name": "butter",                                       "costContribution": 0.34 },
+    { "quantity": "3 tbsp",  "name": "flour",                                        "costContribution": 0.07 },
+    { "quantity": "0.5 tsp", "name": "smoked paprika",                               "costContribution": 0.03 },
+    { "quantity": "1 tsp",   "name": "dried thyme",                                  "costContribution": 0.05 },
+    { "quantity": "to taste","name": "salt, black pepper, and hot sauce",            "costContribution": 0.03 },
+    { "quantity": "3",       "name": "green onions, sliced (for serving)",           "costContribution": 0.26 },
+    { "quantity": "0.5 tsp", "name": "onion powder",                                 "costContribution": 0.02 },
+    { "quantity": "0.25 tsp","name": "cayenne pepper (optional)",                    "costContribution": 0.02 },
+    { "quantity": "1 tsp",   "name": "vegetable oil",                                "costContribution": 0.04 },
+    { "quantity": "0.5 tsp", "name": "white or black pepper",                        "costContribution": 0.03 },
+    { "quantity": "0.5 tsp", "name": "garlic powder",                                "costContribution": 0.03 },
+    { "quantity": "0.5 tsp", "name": "salt",                                         "costContribution": 0.01 },
+    { "quantity": "1 tsp",   "name": "apple cider vinegar (optional)",               "costContribution": 0.01 },
+    { "quantity": "0.25 tsp","name": "mustard powder (optional)",                    "costContribution": 0.01 }
+  ],
+
+  "instructions": [
+    "In a large pot over medium heat, cook the bacon until crispy. Remove and set aside, leaving the fat in the pot.",
+    "Add butter to the pot. Add onion and cook 5 minutes until softened.",
+    "Add garlic, thyme, smoked paprika, onion powder, and garlic powder. Cook 1 minute.",
+    "Sprinkle flour over the mixture. Stir and cook 1–2 minutes.",
+    "Gradually pour in the broth, stirring constantly to prevent lumps.",
+    "Add potatoes and both the canned and frozen corn. Bring to a boil.",
+    "Reduce heat to medium-low. Simmer 15 minutes until potatoes are tender.",
+    "Reduce heat to low. Stir in the milk. Heat gently for 5 minutes — do not let it boil hard.",
+    "Use the back of a spoon to mash a few of the potatoes against the side of the pot to thicken the broth.",
+    "Add cayenne and vinegar if using. Taste and adjust salt and pepper.",
+    "Serve topped with bacon and green onions."
+  ],
+
+  "nutrition": {
+    "calories": 421,
+    "protein": 14,
+    "carbs": 55,
+    "fat": 17,
+    "fiber": 5,
+    "sodium": 640,
+    "iron": "~10% DV",
+    "calcium": "~12% DV",
+    "vitaminC": "~25% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "flour",
+        "substitute": "cornstarch (1.5 tbsp dissolved in 2 tbsp cold water, added after the broth)",
+        "costNote": "no meaningful cost difference"
+      }
+    ],
+    "notes": "Corn, potatoes, and dairy are all naturally gluten-free. Use GF broth and cornstarch to make this fully GF."
+  },
+
+  "budgetNotes": [
+    "Using one can plus frozen corn gives the best texture — some kernels stay firm while others soften into the broth.",
+    "Skipping the bacon makes this vegetarian and saves about $1.87 — use vegetable broth and an extra tablespoon of butter for flavour.",
+    "This thickens considerably as it cools. Add a splash of milk when reheating."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Bacon proportional from 375 g package. Frozen corn proportional from 750 g bag."
+  }
+}

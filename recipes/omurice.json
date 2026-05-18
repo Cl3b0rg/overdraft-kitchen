@@ -1,0 +1,78 @@
+{
+  "id": "omurice",
+  "name": "Omurice",
+  "summary": "Ketchup fried rice wrapped in a thin egg omelette. A Japanese comfort food that went viral on TikTok and costs under $1.50 per serving.",
+  "totalCost": 5.23,
+  "costPerServing": 1.31,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "tags": ["vegetarian", "eggs", "rice", "fast", "very-low-cost", "japanese"],
+
+  "ingredients": [
+    { "quantity": "300 g",   "name": "dry short-grain or long-grain white rice",     "costContribution": 0.67 },
+    { "quantity": "8",       "name": "large eggs",                                   "costContribution": 3.66 },
+    { "quantity": "4 tbsp",  "name": "ketchup (plus more for serving)",              "costContribution": 0.20 },
+    { "quantity": "2 tbsp",  "name": "soy sauce",                                   "costContribution": 0.18 },
+    { "quantity": "150 g",   "name": "frozen mixed vegetables or frozen corn",       "costContribution": 0.38 },
+    { "quantity": "1 small", "name": "onion, finely diced",                          "costContribution": 0.35 },
+    { "quantity": "2 tbsp",  "name": "milk",                                         "costContribution": 0.05 },
+    { "quantity": "2 tbsp",  "name": "butter",                                       "costContribution": 0.34 },
+    { "quantity": "1 tbsp",  "name": "vegetable oil",                                "costContribution": 0.08 },
+    { "quantity": "to taste","name": "salt and pepper",                              "costContribution": 0.02 },
+    { "quantity": "optional","name": "extra ketchup or tonkatsu sauce for serving",  "costContribution": 0.10 },
+    { "quantity": "optional","name": "2 green onions, sliced",                       "costContribution": 0.20 }
+  ],
+
+  "instructions": [
+    "Cook the rice according to package directions. Day-old rice works even better if you have it.",
+    "Heat vegetable oil in a large skillet over medium-high heat. Add the onion and frozen vegetables. Cook 3–4 minutes until the onion softens.",
+    "Add the cooked rice. Press and stir-fry for 2 minutes.",
+    "Add ketchup and soy sauce. Toss everything together until the rice is evenly coated and slightly caramelized, about 2 more minutes. Season with salt and pepper. Set the fried rice aside and keep warm.",
+    "For each serving: crack 2 eggs into a bowl, add a splash of milk, and whisk. Season with a pinch of salt.",
+    "Heat a small knob of butter in a non-stick skillet or pan over medium heat.",
+    "Pour in the egg mixture. Tilt the pan and gently stir the centre with a spatula as the edges set. When the egg is just barely set but still soft on top (about 90 seconds), place a portion of fried rice on one half.",
+    "Fold the omelette over the rice or slide it onto a plate and shape it into an oval. Repeat for remaining servings.",
+    "Drizzle extra ketchup over the top. Serve immediately."
+  ],
+
+  "nutrition": {
+    "calories": 433,
+    "protein": 16,
+    "carbs": 61,
+    "fat": 14,
+    "fiber": 2,
+    "sodium": 450,
+    "iron": "~10% DV",
+    "calcium": "~6% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "soy sauce",
+        "substitute": "tamari in the same quantity",
+        "costNote": "minimal cost difference"
+      },
+      {
+        "ingredient": "ketchup",
+        "substitute": "most ketchup is GF, but verify the brand",
+        "costNote": "no cost difference"
+      }
+    ]
+  },
+
+  "budgetNotes": [
+    "The ketchup fried rice sounds wrong and tastes right. It's what makes this Japanese rather than generic fried rice.",
+    "The omelette step looks harder than it is. If the folding doesn't go perfectly, just lay the egg flat over the rice. It tastes the same.",
+    "Day-old refrigerated rice fries better than freshly cooked — it's drier and the grains stay separate.",
+    "To make this more filling, add 100 g of diced chicken thigh or canned tuna to the fried rice step."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Eggs from 12-count carton at $5.49. Rice from 2 kg bag."
+  }
+}

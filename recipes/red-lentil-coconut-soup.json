@@ -1,0 +1,69 @@
+{
+  "id": "red-lentil-coconut-soup",
+  "name": "Red Lentil Coconut Soup",
+  "summary": "Red lentils cooked with coconut milk, tomatoes, and curry spices into a thick, warming soup. A different direction from the yellow dal already on this site.",
+  "totalCost": 7.35,
+  "costPerServing": 1.84,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": ["vegan", "lentils", "coconut", "soup", "gluten-free", "high-fiber", "low-cost"],
+
+  "ingredients": [
+    { "quantity": "250 g",   "name": "dry red lentils, rinsed",                      "costContribution": 1.25 },
+    { "quantity": "1 can (400 mL)", "name": "coconut milk",                          "costContribution": 2.29 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 1.09 },
+    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.50 },
+    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.30 },
+    { "quantity": "1 tsp",   "name": "ground ginger",                               "costContribution": 0.07 },
+    { "quantity": "2 tsp",   "name": "curry powder",                                "costContribution": 0.10 },
+    { "quantity": "1 tsp",   "name": "turmeric",                                    "costContribution": 0.05 },
+    { "quantity": "0.5 tsp", "name": "chili flakes",                                "costContribution": 0.03 },
+    { "quantity": "2 tbsp",  "name": "vegetable oil",                               "costContribution": 0.15 },
+    { "quantity": "500 mL",  "name": "water",                                       "costContribution": 0.00 },
+    { "quantity": "1",       "name": "lime, juiced (optional)",                     "costContribution": 0.50 },
+    { "quantity": "to taste","name": "salt",                                        "costContribution": 0.02 }
+  ],
+
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion. Cook 5–6 minutes until softened.",
+    "Add garlic, ginger, curry powder, turmeric, and chili flakes. Cook 1–2 minutes, stirring constantly.",
+    "Add the diced tomatoes. Stir and cook 3 minutes.",
+    "Add the red lentils and 500 mL water. Stir to combine.",
+    "Bring to a boil, then reduce heat to medium-low. Simmer uncovered 15 minutes, stirring occasionally, until the lentils have broken down completely.",
+    "Pour in the coconut milk. Stir to combine. Simmer 5 more minutes.",
+    "Squeeze in lime juice if using. Taste and adjust salt.",
+    "The soup should be thick. Add water if you want a thinner consistency.",
+    "Serve over rice or with bread."
+  ],
+
+  "nutrition": {
+    "calories": 419,
+    "protein": 17,
+    "carbs": 52,
+    "fat": 17,
+    "fiber": 11,
+    "sodium": 330,
+    "iron": "~25% DV",
+    "calcium": "~6% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free. Verify the curry powder is not cross-contaminated if celiac is a concern."
+  },
+
+  "budgetNotes": [
+    "Red lentils dissolve completely when cooked, which is what gives this soup its thick texture. Don't substitute green or brown lentils here — they hold their shape and won't work the same way.",
+    "The coconut milk is the most expensive ingredient. Full-fat gives a richer result than light. PC and store brands work fine.",
+    "Lime juice is optional but adds brightness that balances the richness of the coconut milk. A splash of vinegar works as a substitute.",
+    "This is a meal on its own but pairs well with plain rice or a piece of bread to scoop with."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Red lentils proportional from 900 g bag. Coconut milk at PC or store brand."
+  }
+}

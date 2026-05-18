@@ -1,0 +1,69 @@
+{
+  "id": "butter-chicken",
+  "name": "Budget Butter Chicken",
+  "summary": "Chicken thighs in a spiced tomato and coconut milk sauce over rice. Uses coconut milk instead of cream to cut cost without losing richness.",
+  "totalCost": 13.14,
+  "costPerServing": 3.29,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "35 min",
+  "tags": ["chicken", "rice", "curry", "high-protein", "indian-inspired"],
+
+  "ingredients": [
+    { "quantity": "800 g",   "name": "boneless skinless chicken thighs, cubed",      "costContribution": 7.19 },
+    { "quantity": "300 g",   "name": "dry long-grain white rice",                    "costContribution": 0.67 },
+    { "quantity": "1 can (796 mL)", "name": "crushed tomatoes",                      "costContribution": 1.49 },
+    { "quantity": "1 can (400 mL)", "name": "coconut milk",                          "costContribution": 2.29 },
+    { "quantity": "2 tbsp",  "name": "butter",                                       "costContribution": 0.34 },
+    { "quantity": "1 medium","name": "onion, finely diced",                          "costContribution": 0.50 },
+    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.30 },
+    { "quantity": "1 tsp",   "name": "ground ginger",                               "costContribution": 0.07 },
+    { "quantity": "1.5 tsp", "name": "garam masala",                                "costContribution": 0.15 },
+    { "quantity": "1 tsp",   "name": "ground cumin",                                "costContribution": 0.05 },
+    { "quantity": "1 tsp",   "name": "paprika",                                     "costContribution": 0.05 },
+    { "quantity": "0.5 tsp", "name": "turmeric",                                    "costContribution": 0.03 },
+    { "quantity": "to taste","name": "salt and black pepper",                       "costContribution": 0.01 }
+  ],
+
+  "instructions": [
+    "Cook the rice according to package directions.",
+    "Melt butter in a large skillet or pot over medium-high heat.",
+    "Add the chicken pieces in a single layer. Cook without stirring for 3–4 minutes until golden on one side. Flip and cook 2 more minutes. Remove and set aside. (It won't be fully cooked yet — that's fine.)",
+    "Reduce heat to medium. Add onion to the same pan. Cook 5–6 minutes until softened.",
+    "Add garlic, ginger, garam masala, cumin, paprika, and turmeric. Cook 2 minutes, stirring constantly.",
+    "Pour in the crushed tomatoes. Stir and simmer 5 minutes.",
+    "Add the coconut milk. Stir to combine.",
+    "Return the chicken to the pan. Simmer uncovered 15 minutes until the chicken is cooked through and the sauce has thickened.",
+    "Taste and adjust salt. Serve over rice."
+  ],
+
+  "nutrition": {
+    "calories": 579,
+    "protein": 41,
+    "carbs": 56,
+    "fat": 21,
+    "fiber": 4,
+    "sodium": 430,
+    "iron": "~20% DV",
+    "calcium": "~8% DV",
+    "vitaminC": "~15% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free. Verify spice blends are processed in a GF facility if celiac is a concern."
+  },
+
+  "budgetNotes": [
+    "Coconut milk replaces heavy cream here, which keeps the cost down and makes it dairy-free. Full-fat coconut milk gives a richer result than light.",
+    "Chicken thighs won't dry out during the 15-minute simmer. Breast meat will — avoid it here.",
+    "This is one of the pricier recipes on the site at $3.29 per serving, driven by chicken and coconut milk. It still comes in well under $15 for four.",
+    "Make a double batch of the sauce (without chicken) and freeze it. Defrost and add freshly cooked protein whenever needed."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Chicken thighs priced at ~$9/kg boneless skinless. Coconut milk at PC or store brand. Crushed tomatoes at No Name brand."
+  }
+}

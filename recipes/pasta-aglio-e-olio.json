@@ -1,0 +1,68 @@
+{
+  "id": "pasta-aglio-e-olio",
+  "name": "Pasta Aglio e Olio",
+  "summary": "Spaghetti with garlic, olive oil, chili, and parmesan. Six ingredients, twenty minutes, one of the most repeated recipes on r/EatCheapAndHealthy.",
+  "totalCost": 3.72,
+  "costPerServing": 0.93,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "15 min",
+  "tags": ["vegetarian", "pasta", "fast", "very-low-cost", "italian"],
+
+  "ingredients": [
+    { "quantity": "400 g",    "name": "spaghetti",                                    "costContribution": 0.66 },
+    { "quantity": "8 cloves", "name": "garlic, thinly sliced",                        "costContribution": 0.60 },
+    { "quantity": "6 tbsp",   "name": "extra-virgin olive oil",                       "costContribution": 1.08 },
+    { "quantity": "0.5 tsp",  "name": "chili flakes",                                 "costContribution": 0.03 },
+    { "quantity": "40 g",     "name": "parmesan, finely grated",                      "costContribution": 1.20 },
+    { "quantity": "small handful (optional)", "name": "fresh parsley, roughly chopped","costContribution": 0.10 },
+    { "quantity": "to taste", "name": "salt and black pepper",                        "costContribution": 0.05 }
+  ],
+
+  "instructions": [
+    "Bring a large pot of water to a boil. Salt it heavily — it should taste like the ocean.",
+    "Cook the spaghetti until just al dente (1 minute less than the package says). Reserve 500 mL of pasta water before draining.",
+    "While the pasta cooks, heat olive oil in a large skillet over medium-low heat.",
+    "Add the garlic slices. Cook slowly, stirring often, for 4–5 minutes until lightly golden. Do not let it brown — burnt garlic ruins the dish.",
+    "Add the chili flakes. Stir for 30 seconds.",
+    "Add the drained pasta directly to the skillet. Add 125 mL of pasta water and toss vigorously over medium heat.",
+    "Add pasta water a splash at a time until you have a loose, silky sauce that coats the noodles. This takes 1–2 minutes of tossing.",
+    "Remove from heat. Add half the parmesan and toss again.",
+    "Serve immediately with remaining parmesan and parsley if using."
+  ],
+
+  "nutrition": {
+    "calories": 548,
+    "protein": 15,
+    "carbs": 72,
+    "fat": 22,
+    "fiber": 3,
+    "sodium": 320,
+    "iron": "~10% DV",
+    "calcium": "~8% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "spaghetti",
+        "substitute": "certified GF pasta or rice noodles",
+        "costNote": "adds approximately $1.50–$2.00 to the total"
+      }
+    ]
+  },
+
+  "budgetNotes": [
+    "Pasta water is the actual sauce here — the starch emulsifies with the oil. Don't skip it or rush the tossing step.",
+    "This is one of the cheapest meals you can make that doesn't taste like it. Total cost under $4 for four people.",
+    "Use the cheapest spaghetti available. No Frills and Walmart house brands work perfectly.",
+    "If parmesan is too expensive, nutritional yeast (2 tbsp per serving) works as a vegan substitute and costs less."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Pasta proportional from 900 g bag. Olive oil proportional from 500 mL bottle. Parmesan from PC 200 g block."
+  }
+}
