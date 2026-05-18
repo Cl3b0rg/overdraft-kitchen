@@ -1,0 +1,61 @@
+{
+  "id": "rice-and-peas",
+  "name": "Rice and Peas",
+  "summary": "Jamaican-style kidney beans cooked with rice in coconut milk and thyme. Rich, filling, and naturally vegan.",
+  "totalCost": 5.61,
+  "costPerServing": 1.40,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "30 min",
+  "tags": ["vegan", "gluten-free", "rice", "beans", "coconut", "jamaican", "very-low-cost"],
+
+  "ingredients": [
+    { "quantity": "300 g",     "name": "dry long-grain white rice",                     "costContribution": 0.67 },
+    { "quantity": "1 can (540 mL)", "name": "red kidney beans, drained (liquid reserved)", "costContribution": 1.29 },
+    { "quantity": "1 can (400 mL)", "name": "coconut milk",                              "costContribution": 2.29 },
+    { "quantity": "1 medium",  "name": "onion, diced",                                   "costContribution": 0.50 },
+    { "quantity": "3 cloves",  "name": "garlic, minced",                                 "costContribution": 0.25 },
+    { "quantity": "2",         "name": "green onions, bruised with the flat of a knife", "costContribution": 0.20 },
+    { "quantity": "1 tsp",     "name": "dried thyme",                                    "costContribution": 0.05 },
+    { "quantity": "1",         "name": "scotch bonnet or jalapeño, left whole",          "costContribution": 0.25 },
+    { "quantity": "to taste",  "name": "salt and black pepper",                          "costContribution": 0.05 }
+  ],
+
+  "instructions": [
+    "Measure the liquid from the drained kidney beans into a measuring cup. Add water to make 500 mL total. Set aside.",
+    "In a medium pot, combine the coconut milk, reserved bean liquid, diced onion, garlic, green onions, thyme, and whole pepper.",
+    "Bring to a boil over medium-high heat.",
+    "Add the rice, kidney beans, salt, and pepper. Stir once.",
+    "Reduce heat to low. Cover tightly and cook 18–20 minutes without lifting the lid.",
+    "Remove from heat. Let stand covered for 5 minutes.",
+    "Remove the whole pepper and green onions. Fluff with a fork and serve."
+  ],
+
+  "nutrition": {
+    "calories": 490,
+    "protein": 12,
+    "carbs": 81,
+    "fat": 13,
+    "fiber": 7,
+    "sodium": 310,
+    "iron": "~15% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free."
+  },
+
+  "budgetNotes": [
+    "Leave the scotch bonnet or jalapeño whole throughout cooking — it adds aroma without making the dish spicy. Remove before serving.",
+    "The bean liquid adds starch and flavour to the rice. Do not discard it.",
+    "Store-brand coconut milk works the same as premium brands in this recipe.",
+    "This is traditionally served as a side dish. Pair it with fried eggs, jerk chicken, or any inexpensive protein."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Coconut milk priced at PC or store brand. Rice priced proportionally from a 2 kg bag."
+  }
+}

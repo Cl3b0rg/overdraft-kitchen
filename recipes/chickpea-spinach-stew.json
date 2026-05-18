@@ -1,0 +1,69 @@
+{
+  "id": "chickpea-spinach-stew",
+  "name": "Chickpea and Spinach Stew",
+  "summary": "A Spanish-style stew with chickpeas, frozen spinach, and smoked tomato broth over rice. Very filling, very cheap.",
+  "totalCost": 9.43,
+  "costPerServing": 2.36,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": ["vegan", "gluten-free", "chickpeas", "spinach", "rice", "high-fiber", "high-iron"],
+
+  "ingredients": [
+    { "quantity": "3 cans (540 mL each)", "name": "chickpeas, drained and rinsed",   "costContribution": 3.87 },
+    { "quantity": "1 can (796 mL)",       "name": "diced tomatoes",                  "costContribution": 1.59 },
+    { "quantity": "300 g",                "name": "frozen spinach",                  "costContribution": 1.87 },
+    { "quantity": "200 g",                "name": "dry long-grain white rice",        "costContribution": 0.45 },
+    { "quantity": "1 large",              "name": "onion, diced",                    "costContribution": 0.55 },
+    { "quantity": "4 cloves",             "name": "garlic, minced",                  "costContribution": 0.30 },
+    { "quantity": "1.5 tsp",             "name": "smoked paprika",                   "costContribution": 0.07 },
+    { "quantity": "1 tsp",               "name": "ground cumin",                     "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",             "name": "turmeric",                         "costContribution": 0.05 },
+    { "quantity": "250 mL",              "name": "vegetable broth or water",          "costContribution": 0.28 },
+    { "quantity": "1 tbsp",              "name": "olive or vegetable oil",            "costContribution": 0.15 },
+    { "quantity": "to taste",            "name": "salt and black pepper",             "costContribution": 0.05 }
+  ],
+
+  "instructions": [
+    "Cook the rice according to package directions. Set aside.",
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook 5 minutes until softened.",
+    "Add garlic, paprika, cumin, and turmeric. Cook 1 minute, stirring constantly.",
+    "Pour in the diced tomatoes and broth. Stir to combine.",
+    "Add the chickpeas. Bring to a simmer and cook uncovered 10 minutes.",
+    "Add the frozen spinach directly from frozen. Stir and cook 5–6 minutes until fully thawed and heated through.",
+    "Use the back of a spoon to lightly mash some of the chickpeas to thicken the stew.",
+    "Taste and adjust salt, pepper, and paprika.",
+    "Serve over rice."
+  ],
+
+  "nutrition": {
+    "calories": 559,
+    "protein": 24,
+    "carbs": 92,
+    "fat": 9,
+    "fiber": 16,
+    "sodium": 390,
+    "iron": "~40% DV",
+    "vitaminC": "~25% DV",
+    "calcium": "~18% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free. Verify vegetable broth if using — most are GF, but check labels."
+  },
+
+  "budgetNotes": [
+    "Frozen spinach is much cheaper per kilogram than fresh and works better in stews.",
+    "Drop to 2 cans of chickpeas to reduce cost to about $7.50 — calories per serving will drop to approximately 455.",
+    "A can of white beans can substitute for one can of chickpeas if cheaper that week.",
+    "A squeeze of lemon over each serving adds brightness cheaply."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills", "Ottawa FreshCo"],
+    "notes": "Three cans of chickpeas used to reach calorie target. Frozen spinach priced from a 400 g bag."
+  }
+}

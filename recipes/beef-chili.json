@@ -1,0 +1,66 @@
+{
+  "id": "beef-chili",
+  "name": "Ground Beef Chili",
+  "summary": "A thick, straightforward beef and kidney bean chili. Keeps for days and gets better the next morning.",
+  "totalCost": 11.94,
+  "costPerServing": 2.99,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "40 min",
+  "tags": ["gluten-free", "beef", "beans", "chili", "high-protein", "freezer-friendly"],
+
+  "ingredients": [
+    { "quantity": "450 g",          "name": "medium ground beef",              "costContribution": 4.95 },
+    { "quantity": "2 cans (540 mL each)", "name": "red kidney beans, drained and rinsed", "costContribution": 2.58 },
+    { "quantity": "2 cans (796 mL each)", "name": "diced tomatoes",            "costContribution": 3.18 },
+    { "quantity": "1 large",        "name": "onion, diced",                    "costContribution": 0.55 },
+    { "quantity": "4 cloves",       "name": "garlic, minced",                  "costContribution": 0.30 },
+    { "quantity": "2 tbsp",         "name": "chili powder",                    "costContribution": 0.10 },
+    { "quantity": "1 tsp",          "name": "ground cumin",                    "costContribution": 0.05 },
+    { "quantity": "1 tsp",          "name": "smoked paprika",                  "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",        "name": "cayenne pepper",                  "costContribution": 0.03 },
+    { "quantity": "1 tbsp",         "name": "vegetable oil",                   "costContribution": 0.10 },
+    { "quantity": "to taste",       "name": "salt and black pepper",           "costContribution": 0.05 }
+  ],
+
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the onion and cook 4–5 minutes until softened.",
+    "Add garlic and cook 1 minute.",
+    "Add the ground beef. Break it up and cook 6–8 minutes until browned. Drain excess fat if needed.",
+    "Add chili powder, cumin, paprika, and cayenne. Stir and cook 1 minute.",
+    "Pour in the diced tomatoes and add the kidney beans. Stir to combine.",
+    "Bring to a boil, then reduce heat to low. Simmer uncovered 25–30 minutes, stirring occasionally, until thickened.",
+    "Taste and adjust salt, pepper, and chili powder.",
+    "Serve on its own or over rice or with bread."
+  ],
+
+  "nutrition": {
+    "calories": 564,
+    "protein": 38,
+    "carbs": 48,
+    "fat": 20,
+    "fiber": 14,
+    "sodium": 580,
+    "iron": "~35% DV",
+    "vitaminC": "~20% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free. Check chili powder blends for wheat-based fillers if using a pre-mixed brand."
+  },
+
+  "budgetNotes": [
+    "Serve over rice to stretch it further and lower the cost per meal.",
+    "Freeze leftovers in individual portions — chili reheats perfectly.",
+    "Ground turkey or pork can replace beef at lower cost.",
+    "One can of beans and one can of tomatoes can be omitted for a meatier, less saucy version."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Two cans of tomatoes and two cans of beans used for a generous batch. Ground beef at ~$10.99/kg."
+  }
+}

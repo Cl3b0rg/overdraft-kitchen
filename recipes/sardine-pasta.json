@@ -1,0 +1,69 @@
+{
+  "id": "sardine-pasta",
+  "name": "Sardine Pasta",
+  "summary": "Pasta with canned sardines, tomatoes, garlic, and chili. Faster than it sounds, cheaper than it tastes.",
+  "totalCost": 5.96,
+  "costPerServing": 1.49,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "20 min",
+  "tags": ["fish", "pasta", "fast", "high-protein", "low-cost"],
+
+  "ingredients": [
+    { "quantity": "400 g",     "name": "spaghetti or linguine",                   "costContribution": 0.66 },
+    { "quantity": "2 cans (106 g each)", "name": "sardines in olive oil",          "costContribution": 3.58 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                     "costContribution": 1.09 },
+    { "quantity": "4 cloves",  "name": "garlic, thinly sliced",                   "costContribution": 0.30 },
+    { "quantity": "0.5 tsp",   "name": "chili flakes",                            "costContribution": 0.05 },
+    { "quantity": "2 tbsp",    "name": "olive or vegetable oil",                  "costContribution": 0.20 },
+    { "quantity": "to taste",  "name": "salt and black pepper",                   "costContribution": 0.05 },
+    { "quantity": "small bunch (optional)", "name": "fresh or dried parsley",     "costContribution": 0.03 }
+  ],
+
+  "instructions": [
+    "Cook pasta in well-salted boiling water according to package directions. Reserve 250 mL of pasta water before draining.",
+    "While pasta cooks, heat oil in a large skillet over medium heat.",
+    "Add garlic and chili flakes. Cook 1–2 minutes until the garlic is lightly golden. Do not let it burn.",
+    "Open the sardines and add them to the pan — oil and all. Break them up roughly with a spoon into large chunks.",
+    "Pour in the diced tomatoes. Stir and simmer 8–10 minutes until slightly reduced.",
+    "Add the drained pasta directly to the skillet. Toss to combine.",
+    "Add pasta water a splash at a time until the sauce coats the pasta loosely.",
+    "Taste and adjust salt and chili. Add parsley if using.",
+    "Serve immediately."
+  ],
+
+  "nutrition": {
+    "calories": 517,
+    "protein": 26,
+    "carbs": 76,
+    "fat": 13,
+    "fiber": 5,
+    "sodium": 430,
+    "iron": "~20% DV",
+    "calcium": "~15% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "spaghetti or linguine",
+        "substitute": "certified GF pasta or rice noodles",
+        "costNote": "adds approximately $1.50–$2.00 to the total"
+      }
+    ]
+  },
+
+  "budgetNotes": [
+    "PC or store-brand sardines are significantly cheaper than name brands and taste the same in a cooked sauce.",
+    "Sardines in water work fine — just add an extra tablespoon of oil to the pan.",
+    "The sardines essentially dissolve into the sauce when broken up. If you are hesitant about sardines, this is a good starting recipe — the flavour is mild.",
+    "Tuna (2 cans, drained) can substitute for sardines at roughly the same price."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Sardines priced at PC brand or store-brand canned sardines in oil (~$1.79/can). Pasta priced proportionally from a 900 g bag."
+  }
+}

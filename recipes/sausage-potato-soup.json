@@ -1,0 +1,74 @@
+{
+  "id": "sausage-potato-soup",
+  "name": "Sausage and Potato Soup",
+  "summary": "A thick, smoky soup with kielbasa, potatoes, and vegetables. The kind of thing that fixes a bad day.",
+  "totalCost": 8.09,
+  "costPerServing": 2.02,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "35 min",
+  "tags": ["pork", "potatoes", "soup", "high-calorie", "one-pot"],
+
+  "ingredients": [
+    { "quantity": "300 g",     "name": "smoked kielbasa, sliced into rounds",         "costContribution": 3.19 },
+    { "quantity": "900 g",     "name": "Russet or yellow potatoes, diced",            "costContribution": 0.68 },
+    { "quantity": "1 large",   "name": "onion, diced",                                "costContribution": 0.55 },
+    { "quantity": "2 medium",  "name": "carrots, diced",                              "costContribution": 0.45 },
+    { "quantity": "2 stalks",  "name": "celery, diced",                               "costContribution": 0.35 },
+    { "quantity": "4 cloves",  "name": "garlic, minced",                              "costContribution": 0.30 },
+    { "quantity": "900 mL",    "name": "chicken or vegetable broth",                  "costContribution": 0.99 },
+    { "quantity": "250 mL",    "name": "2% milk",                                     "costContribution": 0.38 },
+    { "quantity": "1 tsp",     "name": "smoked paprika",                              "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",   "name": "dried thyme",                                 "costContribution": 0.05 },
+    { "quantity": "1 tbsp",    "name": "vegetable oil",                               "costContribution": 0.10 },
+    { "quantity": "to taste",  "name": "salt and black pepper",                       "costContribution": 0.05 }
+  ],
+
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add kielbasa slices and cook 3–4 minutes until lightly browned. Remove and set aside.",
+    "In the same pot, add onion, carrots, and celery. Cook 5 minutes until softened.",
+    "Add garlic, paprika, and thyme. Cook 1 minute.",
+    "Add potatoes and broth. Bring to a boil.",
+    "Reduce heat to medium-low. Simmer uncovered 15–18 minutes until potatoes are completely tender.",
+    "Use the back of a spoon or a potato masher to roughly mash about a quarter of the potatoes directly in the pot to thicken the broth.",
+    "Stir in milk and return kielbasa to the pot. Simmer 5 more minutes.",
+    "Taste and adjust salt and pepper. Serve hot."
+  ],
+
+  "nutrition": {
+    "calories": 414,
+    "protein": 16,
+    "carbs": 50,
+    "fat": 17,
+    "fiber": 5,
+    "sodium": 780,
+    "vitaminC": "~25% DV",
+    "iron": "~12% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "kielbasa or smoked sausage",
+        "substitute": "a sausage labeled gluten-free",
+        "costNote": "check the label — most major kielbasa brands are GF"
+      }
+    ],
+    "notes": "Potatoes, milk, and broth are naturally gluten-free. The sausage is the only item to verify."
+  },
+
+  "budgetNotes": [
+    "Sodium is on the higher side in this recipe due to kielbasa and broth. Use low-sodium broth if available.",
+    "Omit the milk for a thinner, brothier soup. Add an extra 250 mL of water instead.",
+    "Any smoked sausage works — andouille, hunter sausage, or store-brand smoked sausage all produce similar results.",
+    "Leftover soup thickens significantly overnight. Thin with water or broth when reheating."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Kielbasa priced as 300 g from a 375 g package. Broth reduced to 900 mL with milk providing the remaining liquid."
+  }
+}

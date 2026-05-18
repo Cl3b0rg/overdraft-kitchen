@@ -1,0 +1,74 @@
+{
+  "id": "tofu-veggie-stir-fry",
+  "name": "Tofu and Vegetable Stir-Fry",
+  "summary": "Crispy pan-fried tofu with frozen vegetables and a peanut-soy sauce over rice. Fully vegan and under $6.",
+  "totalCost": 5.92,
+  "costPerServing": 1.48,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "25 min",
+  "tags": ["vegan", "tofu", "rice", "stir-fry", "high-protein", "low-cost"],
+
+  "ingredients": [
+    { "quantity": "454 g",     "name": "firm tofu, pressed and cubed",                "costContribution": 3.49 },
+    { "quantity": "300 g",     "name": "dry long-grain white rice",                   "costContribution": 0.67 },
+    { "quantity": "250 g",     "name": "frozen mixed vegetables",                     "costContribution": 0.65 },
+    { "quantity": "3 tbsp",    "name": "peanut butter",                               "costContribution": 0.22 },
+    { "quantity": "2 tbsp",    "name": "soy sauce",                                   "costContribution": 0.18 },
+    { "quantity": "1 tbsp",    "name": "rice vinegar or white vinegar",               "costContribution": 0.08 },
+    { "quantity": "1 tsp",     "name": "sesame oil",                                  "costContribution": 0.25 },
+    { "quantity": "2 cloves",  "name": "garlic, minced",                              "costContribution": 0.15 },
+    { "quantity": "0.5 tsp",   "name": "ground ginger",                               "costContribution": 0.07 },
+    { "quantity": "1 tbsp",    "name": "cornstarch",                                  "costContribution": 0.05 },
+    { "quantity": "2 tbsp",    "name": "vegetable oil",                               "costContribution": 0.20 },
+    { "quantity": "to taste",  "name": "chili flakes or hot sauce (optional)",        "costContribution": 0.05 }
+  ],
+
+  "instructions": [
+    "Cook the rice according to package directions. Set aside.",
+    "Press the tofu: wrap it in a clean towel and press firmly for a few minutes, or set something heavy on top for 10 minutes. The drier it is, the crispier it will get.",
+    "Cut tofu into 2 cm cubes. Toss with cornstarch and a pinch of salt.",
+    "Heat 1.5 tbsp oil in a large skillet over medium-high heat. Add tofu in a single layer. Cook without moving for 3–4 minutes until golden on the bottom. Flip and cook another 3 minutes. Remove and set aside.",
+    "In the same skillet, add remaining oil and the frozen vegetables. Stir-fry 3–4 minutes until heated through.",
+    "Add garlic and ginger. Cook 30 seconds.",
+    "Whisk together peanut butter, soy sauce, vinegar, sesame oil, and 4 tbsp of water until smooth. Pour over the vegetables.",
+    "Return the tofu to the pan. Toss everything together and cook 1–2 minutes until the sauce coats everything.",
+    "Serve over rice. Add chili flakes or hot sauce if using."
+  ],
+
+  "nutrition": {
+    "calories": 442,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 15,
+    "fiber": 5,
+    "sodium": 390,
+    "iron": "~20% DV",
+    "calcium": "~20% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "soy sauce",
+        "substitute": "tamari in the same quantity",
+        "costNote": "minimal cost difference"
+      }
+    ],
+    "notes": "Rice and tofu are naturally gluten-free. Tamari is a direct swap for soy sauce."
+  },
+
+  "budgetNotes": [
+    "Pressing the tofu is important for texture. Skipping it produces a soft, steamed result rather than a crispy one.",
+    "Sunrise or PC brand firm tofu is typically the most affordable at major Ontario grocery stores.",
+    "Any frozen vegetable combination works — use whatever is cheapest or on sale.",
+    "The peanut sauce can be made spicier with sriracha or milder by adding a teaspoon of sugar."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Tofu priced at Sunrise or PC brand firm tofu (454 g). Rice proportional from 2 kg bag."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "oatmeal-porridge",
+  "name": "Peanut Butter Oatmeal",
+  "summary": "Rolled oats cooked in milk with peanut butter and brown sugar. The cheapest filling breakfast on this site.",
+  "totalCost": 2.90,
+  "costPerServing": 0.73,
+  "servings": 4,
+  "prepTime": "2 min",
+  "cookTime": "10 min",
+  "tags": ["vegetarian", "breakfast", "oats", "peanut-butter", "very-low-cost", "fast"],
+
+  "ingredients": [
+    { "quantity": "300 g (3 cups)", "name": "large-flake or quick rolled oats",      "costContribution": 0.83 },
+    { "quantity": "1 L",            "name": "2% milk (or water for lower cost)",      "costContribution": 1.12 },
+    { "quantity": "4 tbsp",         "name": "peanut butter",                          "costContribution": 0.30 },
+    { "quantity": "4 tbsp",         "name": "brown sugar or white sugar",             "costContribution": 0.15 },
+    { "quantity": "1 tsp",          "name": "cinnamon",                               "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",        "name": "salt",                                   "costContribution": 0.02 },
+    { "quantity": "optional",       "name": "banana, sliced (1 per 2 servings)",      "costContribution": 0.43 }
+  ],
+
+  "instructions": [
+    "Bring milk (or water) to a gentle simmer in a medium pot over medium heat. Do not boil.",
+    "Stir in oats, salt, and cinnamon.",
+    "Cook 4–5 minutes for large-flake oats (2–3 minutes for quick oats), stirring frequently, until thickened to your preference.",
+    "Remove from heat.",
+    "Divide into bowls. Top each bowl with 1 tablespoon of peanut butter and 1 tablespoon of brown sugar.",
+    "Add sliced banana if using. Serve immediately."
+  ],
+
+  "nutrition": {
+    "calories": 531,
+    "protein": 19,
+    "carbs": 72,
+    "fat": 18,
+    "fiber": 7,
+    "sodium": 340,
+    "iron": "~15% DV",
+    "calcium": "~25% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "regular rolled oats",
+        "substitute": "certified gluten-free rolled oats",
+        "costNote": "GF oats are slightly more expensive — typically $5–$7 for 900 g"
+      }
+    ],
+    "notes": "Oats are naturally gluten-free but are often processed in facilities that handle wheat. Only certified GF oats are safe for celiac disease."
+  },
+
+  "budgetNotes": [
+    "Buy oats in the largest container available — per-kilogram cost drops significantly.",
+    "Cooking with water instead of milk reduces the cost to approximately $0.45 per serving and removes about 120 calories.",
+    "Any nut butter works in place of peanut butter. Sunflower seed butter is a good allergy-safe alternative.",
+    "This recipe works for any meal, not just breakfast."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Oats priced from a 1.8 kg container. Milk from a 2 L jug. Optional banana included in total cost."
+  }
+}
