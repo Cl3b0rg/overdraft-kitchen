@@ -2,25 +2,25 @@
   "id": "black-bean-tacos",
   "name": "Black Bean Tacos",
   "summary": "Spiced black beans in corn tortillas with a quick tomato topping and shredded cabbage. Four tacos per serving.",
-  "totalCost": 8.30,
-  "costPerServing": 2.08,
+  "totalCost": 10.07,
+  "costPerServing": 2.52,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "15 min",
   "tags": ["vegan", "gluten-free", "beans", "tacos", "high-fiber", "no-cook-optional"],
 
   "ingredients": [
-    { "quantity": "2 cans (540 mL each)", "name": "black beans, drained and rinsed",       "costContribution": 2.58 },
+    { "quantity": "2 cans (540 mL each)", "name": "black beans, drained and rinsed",       "costContribution": 3.00 },
     { "quantity": "16",                   "name": "corn tortillas (from a 24-count package)", "costContribution": 1.66 },
-    { "quantity": "1 can (796 mL)",       "name": "diced tomatoes, well drained",           "costContribution": 1.59 },
-    { "quantity": "2 cups",              "name": "green cabbage, finely shredded",           "costContribution": 0.37 },
+    { "quantity": "1 can (796 mL)",       "name": "diced tomatoes, well drained",           "costContribution": 2.00 },
+    { "quantity": "2 cups",              "name": "green cabbage, finely shredded",           "costContribution": 0.60 },
     { "quantity": "2",                    "name": "limes",                                   "costContribution": 1.00 },
-    { "quantity": "1 medium",             "name": "onion, diced",                            "costContribution": 0.50 },
-    { "quantity": "4 cloves",             "name": "garlic, minced",                          "costContribution": 0.30 },
+    { "quantity": "1 medium",             "name": "onion, diced",                            "costContribution": 1.23 },
+    { "quantity": "4 cloves",             "name": "garlic, minced",                          "costContribution": 0.32 },
     { "quantity": "1.5 tsp",              "name": "ground cumin",                            "costContribution": 0.07 },
     { "quantity": "1 tsp",                "name": "chili powder",                            "costContribution": 0.05 },
     { "quantity": "0.5 tsp",              "name": "smoked paprika",                          "costContribution": 0.05 },
-    { "quantity": "1 tbsp",               "name": "vegetable oil",                           "costContribution": 0.10 },
+    { "quantity": "1 tbsp",               "name": "vegetable oil",                           "costContribution": 0.06 },
     { "quantity": "to taste",             "name": "salt",                                    "costContribution": 0.03 }
   ],
 
@@ -60,7 +60,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Corn tortillas priced proportionally from a 24-count package. Cabbage cost reflects a small portion of a full head."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Black beans $1.50/540mL can. Diced tomatoes $2.00/796mL can. Onion $1.23 each. Cabbage $2.99/kg. Corn tortillas proportional from a 24-count package."
   }
 }

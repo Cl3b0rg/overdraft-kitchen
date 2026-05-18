@@ -2,27 +2,27 @@
   "id": "butter-chicken",
   "name": "Budget Butter Chicken",
   "summary": "Chicken thighs in a spiced tomato and coconut milk sauce over rice. Uses coconut milk instead of cream to cut cost without losing richness.",
-  "totalCost": 14.63,
-  "costPerServing": 3.66,
+  "totalCost": 13.14,
+  "costPerServing": 3.29,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "35 min",
   "tags": ["chicken", "rice", "curry", "high-protein", "indian-inspired"],
 
   "ingredients": [
-    { "quantity": "600 g",   "name": "boneless skinless chicken thighs, cubed",      "costContribution": 7.19 },
-    { "quantity": "300 g",   "name": "dry long-grain white rice",                    "costContribution": 0.82 },
-    { "quantity": "1 can (796 mL)", "name": "crushed tomatoes",                      "costContribution": 1.79 },
-    { "quantity": "1 can (400 mL)", "name": "coconut milk",                          "costContribution": 2.79 },
-    { "quantity": "2 tbsp",  "name": "butter",                                       "costContribution": 0.46 },
-    { "quantity": "1 medium","name": "onion, finely diced",                          "costContribution": 0.75 },
-    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.35 },
+    { "quantity": "600 g",   "name": "boneless skinless chicken thighs, cubed",      "costContribution": 5.29 },
+    { "quantity": "300 g",   "name": "dry long-grain white rice",                    "costContribution": 0.75 },
+    { "quantity": "1 can (796 mL)", "name": "crushed tomatoes",                      "costContribution": 2.00 },
+    { "quantity": "1 can (400 mL)", "name": "coconut milk",                          "costContribution": 2.80 },
+    { "quantity": "2 tbsp",  "name": "butter",                                       "costContribution": 0.38 },
+    { "quantity": "1 medium","name": "onion, finely diced",                          "costContribution": 1.23 },
+    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.32 },
     { "quantity": "1 tsp",   "name": "ground ginger",                               "costContribution": 0.07 },
-    { "quantity": "1.5 tsp", "name": "garam masala",                                "costContribution": 0.15 },
+    { "quantity": "1.5 tsp", "name": "garam masala",                                "costContribution": 0.12 },
     { "quantity": "1 tsp",   "name": "ground cumin",                                "costContribution": 0.05 },
     { "quantity": "1 tsp",   "name": "paprika",                                     "costContribution": 0.05 },
-    { "quantity": "0.5 tsp", "name": "turmeric",                                    "costContribution": 0.05 },
-    { "quantity": "to taste","name": "salt and black pepper",                       "costContribution": 0.06 }
+    { "quantity": "0.5 tsp", "name": "turmeric",                                    "costContribution": 0.03 },
+    { "quantity": "to taste","name": "salt and black pepper",                       "costContribution": 0.05 }
   ],
 
   "instructions": [
@@ -64,6 +64,6 @@
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Boneless skinless chicken thighs at ~$12/kg. Coconut milk at PC or store brand ~$2.79. Crushed tomatoes at No Name brand ~$1.79."
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Boneless skinless chicken thighs $8.82/kg (Butcher's Choice club pack). Rice $0.25/100g from 2kg bag ($5.00). Crushed tomatoes $2.00/796mL can. Coconut milk $2.80/400mL can (Thai Kitchen). Butter $1.36/100g (2 tbsp ≈ 28g = $0.38). Onion $1.23 each. Garlic $0.08/clove."
   }
 }

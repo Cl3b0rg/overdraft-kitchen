@@ -2,24 +2,25 @@
   "id": "beef-chili",
   "name": "Ground Beef Chili",
   "summary": "A thick, straightforward beef and kidney bean chili. Keeps for days and gets better the next morning.",
-  "totalCost": 14.43,
-  "costPerServing": 3.61,
+  "totalCost": 13.98,
+  "costPerServing": 3.50,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "40 min",
   "tags": ["gluten-free", "beef", "beans", "chili", "high-protein", "freezer-friendly"],
 
   "ingredients": [
-    { "quantity": "350 g",          "name": "medium ground beef",              "costContribution": 6.30 },
-    { "quantity": "2 cans (540 mL each)", "name": "red kidney beans, drained and rinsed", "costContribution": 3.38 },
-    { "quantity": "2 cans (796 mL each)", "name": "diced tomatoes",            "costContribution": 3.18 },
-    { "quantity": "1 large",        "name": "onion, diced",                    "costContribution": 0.85 },
-    { "quantity": "4 cloves",       "name": "garlic, minced",                  "costContribution": 0.35 },
+    { "quantity": "350 g",          "name": "medium ground beef",              "costContribution": 6.65 },
+    { "quantity": "2 cans (540 mL each)", "name": "red kidney beans, drained and rinsed", "costContribution": 3.00 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                  "costContribution": 2.00 },
+    { "quantity": "250 mL",         "name": "beef or chicken broth",           "costContribution": 0.42 },
+    { "quantity": "1 large",        "name": "onion, diced",                    "costContribution": 1.23 },
+    { "quantity": "4 cloves",       "name": "garlic, minced",                  "costContribution": 0.32 },
     { "quantity": "2 tbsp",         "name": "chili powder",                    "costContribution": 0.10 },
     { "quantity": "1 tsp",          "name": "ground cumin",                    "costContribution": 0.05 },
     { "quantity": "1 tsp",          "name": "smoked paprika",                  "costContribution": 0.05 },
     { "quantity": "0.5 tsp",        "name": "cayenne pepper",                  "costContribution": 0.03 },
-    { "quantity": "1 tbsp",         "name": "vegetable oil",                   "costContribution": 0.07 },
+    { "quantity": "1 tbsp",         "name": "vegetable oil",                   "costContribution": 0.06 },
     { "quantity": "to taste",       "name": "salt and black pepper",           "costContribution": 0.07 }
   ],
 
@@ -29,7 +30,7 @@
     "Add garlic and cook 1 minute.",
     "Add the ground beef. Break it up and cook 6–8 minutes until browned. Drain excess fat if needed.",
     "Add chili powder, cumin, paprika, and cayenne. Stir and cook 1 minute.",
-    "Pour in the diced tomatoes and add the kidney beans. Stir to combine.",
+    "Pour in the diced tomatoes and broth. Add the kidney beans. Stir to combine.",
     "Bring to a boil, then reduce heat to low. Simmer uncovered 25–30 minutes, stirring occasionally, until thickened.",
     "Taste and adjust salt, pepper, and chili powder.",
     "Serve on its own or over rice or with bread."
@@ -61,6 +62,6 @@
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa No Frills", "Ottawa Walmart"],
-    "notes": "Ground beef at medium grade ~$18/kg. Canned beans at $1.69/can. Two 796 mL cans of diced tomatoes at $1.59/can."
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Medium ground beef $19.00/kg. Kidney beans $1.50/540mL can. Diced tomatoes $2.00/796mL can. Broth $1.50/900mL carton, 250mL used ($0.42). Onion $1.23 each. Garlic $0.08/clove. Oil $0.42/100mL."
   }
 }

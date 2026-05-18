@@ -2,33 +2,32 @@
   "id": "ground-turkey-vegetable-stew",
   "name": "Ground Turkey and Vegetable Stew",
   "summary": "A hearty stew with ground turkey, potatoes, white beans, and canned tomatoes. High protein and fills well.",
-  "totalCost": 14.72,
-  "costPerServing": 3.68,
+  "totalCost": 14.48,
+  "costPerServing": 3.62,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "40 min",
   "tags": ["gluten-free", "turkey", "potatoes", "beans", "stew", "high-protein"],
 
   "ingredients": [
-    { "quantity": "454 g",     "name": "lean ground turkey",                         "costContribution": 7.26 },
-    { "quantity": "400 g",     "name": "potatoes (~2 medium), diced",                "costContribution": 0.88 },
-    { "quantity": "1 can (540 mL)", "name": "white beans or chickpeas, drained and rinsed", "costContribution": 1.69 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 1.59 },
-    { "quantity": "250 mL",    "name": "chicken broth",                              "costContribution": 0.75 },
-    { "quantity": "2 large",   "name": "carrots, diced",                             "costContribution": 0.50 },
-    { "quantity": "2 stalks",  "name": "celery, diced",                              "costContribution": 0.60 },
-    { "quantity": "1 large",   "name": "onion, diced",                               "costContribution": 0.85 },
-    { "quantity": "4 cloves",  "name": "garlic, minced",                             "costContribution": 0.35 },
+    { "quantity": "454 g",     "name": "lean ground turkey",                         "costContribution": 8.00 },
+    { "quantity": "400 g",     "name": "potatoes (~2 medium), diced",                "costContribution": 0.18 },
+    { "quantity": "1 can (540 mL)", "name": "white beans or chickpeas, drained and rinsed", "costContribution": 1.50 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 2.00 },
+    { "quantity": "250 mL",    "name": "chicken broth",                              "costContribution": 0.42 },
+    { "quantity": "2 large",   "name": "carrots, diced",                             "costContribution": 0.59 },
+    { "quantity": "1 large",   "name": "onion, diced",                               "costContribution": 1.23 },
+    { "quantity": "4 cloves",  "name": "garlic, minced",                             "costContribution": 0.32 },
     { "quantity": "1 tsp",     "name": "dried thyme",                                "costContribution": 0.05 },
     { "quantity": "1 tsp",     "name": "smoked paprika",                             "costContribution": 0.05 },
-    { "quantity": "1 tbsp",    "name": "vegetable oil",                              "costContribution": 0.07 },
+    { "quantity": "1 tbsp",    "name": "vegetable oil",                              "costContribution": 0.06 },
     { "quantity": "to taste",  "name": "salt and black pepper",                      "costContribution": 0.08 }
   ],
 
   "instructions": [
     "Heat oil in a large pot over medium-high heat.",
     "Add the ground turkey. Break it up with a spoon and cook 6–8 minutes until cooked through and lightly browned. Remove and set aside.",
-    "In the same pot over medium heat, add the onion, carrots, and celery. Cook 5 minutes until softened.",
+    "In the same pot over medium heat, add the onion and carrots. Cook 5 minutes until softened.",
     "Add the garlic, thyme, and paprika. Cook 1 minute.",
     "Return the turkey to the pot. Add the potatoes, diced tomatoes, white beans, and chicken broth.",
     "Bring to a boil, then reduce heat to low. Simmer covered for 20 minutes until the potatoes are tender.",
@@ -53,7 +52,7 @@
   },
 
   "budgetNotes": [
-    "Ground turkey at $16/kg is the dominant cost. It usually comes in 454 g packages — use the whole thing.",
+    "Ground turkey runs about $8.00 per 454 g package (Maple Leaf at No Frills). Use the whole thing.",
     "Ground chicken or ground pork can substitute at similar or lower cost depending on weekly sales.",
     "Freeze leftovers in portions. The stew reheats well with a splash of water or broth.",
     "This is a thicker stew than a soup — only 250 mL of broth keeps it hearty rather than watery."
@@ -62,6 +61,6 @@
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa No Frills", "Ottawa Walmart"],
-    "notes": "Ground turkey at ~$16/kg (454 g package). Broth proportional from 900 mL carton at $2.69. Potatoes from 5 lb bag at $4.99."
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Ground turkey $8.00/454g pkg (Maple Leaf). Russet potatoes $0.44/kg from 10 lb bag ($1.99). White beans/chickpeas $1.50/540mL can. Diced tomatoes $2.00/796mL can. Broth $1.50/900mL carton (250mL = $0.42). Carrots $2.93/kg. Onion $1.23 each. Garlic $0.08/clove."
   }
 }

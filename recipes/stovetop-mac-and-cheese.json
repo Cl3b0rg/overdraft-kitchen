@@ -2,17 +2,17 @@
   "id": "stovetop-mac-and-cheese",
   "name": "Stovetop Mac and Cheese",
   "summary": "Real cheese sauce made from scratch over macaroni. Cheaper than the box stuff and considerably better.",
-  "totalCost": 4.68,
-  "costPerServing": 1.17,
+  "totalCost": 4.34,
+  "costPerServing": 1.09,
   "servings": 4,
   "prepTime": "5 min",
   "cookTime": "20 min",
   "tags": ["vegetarian", "pasta", "cheese", "fast", "very-low-cost", "kid-friendly"],
 
   "ingredients": [
-    { "quantity": "350 g",    "name": "elbow macaroni",                             "costContribution": 0.58 },
+    { "quantity": "350 g",    "name": "elbow macaroni",                             "costContribution": 0.77 },
     { "quantity": "200 g",    "name": "old cheddar, grated (from block)",           "costContribution": 2.57 },
-    { "quantity": "3 tbsp",   "name": "butter",                                     "costContribution": 0.45 },
+    { "quantity": "3 tbsp",   "name": "butter",                                     "costContribution": 0.57 },
     { "quantity": "3 tbsp",   "name": "all-purpose flour",                          "costContribution": 0.05 },
     { "quantity": "500 mL",   "name": "2% milk",                                    "costContribution": 0.75 },
     { "quantity": "1 tsp",    "name": "mustard powder or Dijon mustard",            "costContribution": 0.08 },
@@ -69,7 +69,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Cheddar priced proportionally from a 700 g block. Milk priced from a 2 L jug."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Pasta $0.22/100g from 900g bag. Butter $1.36/100g from 454g block (3 tbsp ≈ 42g = $0.57). Cheddar estimated proportionally from block."
   }
 }

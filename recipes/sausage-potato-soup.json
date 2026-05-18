@@ -2,8 +2,8 @@
   "id": "sausage-potato-soup",
   "name": "Sausage and Potato Soup",
   "summary": "A thick, smoky soup with kielbasa, potatoes, and vegetables. The kind of thing that fixes a bad day.",
-  "totalCost": 8.09,
-  "costPerServing": 2.02,
+  "totalCost": 8.42,
+  "costPerServing": 2.11,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "35 min",
@@ -11,16 +11,16 @@
 
   "ingredients": [
     { "quantity": "300 g",     "name": "smoked kielbasa, sliced into rounds",         "costContribution": 3.19 },
-    { "quantity": "900 g",     "name": "Russet or yellow potatoes, diced",            "costContribution": 0.68 },
-    { "quantity": "1 large",   "name": "onion, diced",                                "costContribution": 0.55 },
-    { "quantity": "2 medium",  "name": "carrots, diced",                              "costContribution": 0.45 },
-    { "quantity": "2 stalks",  "name": "celery, diced",                               "costContribution": 0.35 },
-    { "quantity": "4 cloves",  "name": "garlic, minced",                              "costContribution": 0.30 },
-    { "quantity": "900 mL",    "name": "chicken or vegetable broth",                  "costContribution": 0.99 },
+    { "quantity": "900 g",     "name": "Russet or yellow potatoes, diced",            "costContribution": 0.40 },
+    { "quantity": "1 large",   "name": "onion, diced",                                "costContribution": 1.23 },
+    { "quantity": "2 medium",  "name": "carrots, diced",                              "costContribution": 0.59 },
+    { "quantity": "2 stalks",  "name": "celery, diced",                               "costContribution": 0.60 },
+    { "quantity": "4 cloves",  "name": "garlic, minced",                              "costContribution": 0.32 },
+    { "quantity": "900 mL",    "name": "chicken or vegetable broth",                  "costContribution": 1.50 },
     { "quantity": "250 mL",    "name": "2% milk",                                     "costContribution": 0.38 },
     { "quantity": "1 tsp",     "name": "smoked paprika",                              "costContribution": 0.05 },
     { "quantity": "0.5 tsp",   "name": "dried thyme",                                 "costContribution": 0.05 },
-    { "quantity": "1 tbsp",    "name": "vegetable oil",                               "costContribution": 0.10 },
+    { "quantity": "1 tbsp",    "name": "vegetable oil",                               "costContribution": 0.06 },
     { "quantity": "to taste",  "name": "salt and black pepper",                       "costContribution": 0.05 }
   ],
 
@@ -68,7 +68,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Kielbasa priced as 300 g from a 375 g package. Broth reduced to 900 mL with milk providing the remaining liquid."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Russet potatoes $0.44/kg from 10 lb bag. Broth $1.50/900mL carton. Onion $1.23 each. Carrots $2.93/kg. Celery $2.99/bunch. Kielbasa at standard shelf price."
   }
 }

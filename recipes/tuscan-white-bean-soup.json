@@ -2,24 +2,24 @@
   "id": "tuscan-white-bean-soup",
   "name": "Tuscan White Bean and Kale Soup",
   "summary": "Cannellini beans and kale in a garlicky tomato broth with small pasta. A regular recommendation on r/EatCheapAndHealthy and Budget Bytes.",
-  "totalCost": 7.59,
-  "costPerServing": 1.90,
+  "totalCost": 8.07,
+  "costPerServing": 2.02,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "30 min",
   "tags": ["vegan", "beans", "soup", "kale", "high-fiber", "low-cost"],
 
   "ingredients": [
-    { "quantity": "2 cans (540 mL each)", "name": "white kidney beans or cannellini beans, drained", "costContribution": 3.18 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                       "costContribution": 1.09 },
+    { "quantity": "2 cans (540 mL each)", "name": "white kidney beans or cannellini beans, drained", "costContribution": 3.00 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                       "costContribution": 2.00 },
     { "quantity": "100 g",   "name": "kale or baby spinach, roughly chopped",        "costContribution": 1.00 },
-    { "quantity": "100 g",   "name": "small pasta (ditalini, elbows, or small shells)","costContribution": 0.17 },
-    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.50 },
-    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.30 },
+    { "quantity": "100 g",   "name": "small pasta (ditalini, elbows, or small shells)","costContribution": 0.22 },
+    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 1.23 },
+    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.32 },
     { "quantity": "1 tsp",   "name": "dried rosemary",                               "costContribution": 0.05 },
     { "quantity": "1 tsp",   "name": "dried thyme",                                  "costContribution": 0.05 },
     { "quantity": "0.5 tsp", "name": "chili flakes",                                 "costContribution": 0.03 },
-    { "quantity": "2 tbsp",  "name": "olive or vegetable oil",                       "costContribution": 0.18 },
+    { "quantity": "2 tbsp",  "name": "olive or vegetable oil",                       "costContribution": 0.13 },
     { "quantity": "750 mL",  "name": "water",                                        "costContribution": 0.00 },
     { "quantity": "to taste","name": "salt and black pepper",                        "costContribution": 0.04 }
   ],
@@ -54,7 +54,7 @@
       {
         "ingredient": "small pasta",
         "substitute": "certified GF small pasta, or omit pasta and add an extra can of beans",
-        "costNote": "omitting pasta reduces cost by about $0.17"
+        "costNote": "omitting pasta reduces cost by about $0.22"
       }
     ],
     "notes": "Beans, tomatoes, and vegetables are all naturally gluten-free."
@@ -69,7 +69,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "White beans at PC or No Name brand ~$1.59/can. Kale proportional from 142 g pre-washed bag ~$3.49."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. White kidney beans $1.50/540mL can. Diced tomatoes $2.00/796mL can. Pasta $0.22/100g. Onion $1.23 each. Kale estimated from pre-washed bag."
   }
 }

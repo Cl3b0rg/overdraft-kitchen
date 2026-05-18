@@ -2,28 +2,28 @@
   "id": "lentil-tomato-soup",
   "name": "Lentil Tomato Soup",
   "summary": "A thick, spiced red lentil soup with tomato and vegetables. Cheap, high in protein and fiber, and freezes well.",
-  "totalCost": 9.47,
-  "costPerServing": 2.37,
+  "totalCost": 11.60,
+  "costPerServing": 2.90,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "35 min",
   "tags": ["vegan", "gluten-free", "lentils", "soup", "high-fiber", "freezer-friendly"],
 
   "ingredients": [
-    { "quantity": "350 g",          "name": "dry red lentils",                    "costContribution": 1.55 },
-    { "quantity": "2 cans (796 mL each)", "name": "diced tomatoes",              "costContribution": 3.18 },
-    { "quantity": "2 medium",       "name": "carrots, diced",                     "costContribution": 0.45 },
-    { "quantity": "2 stalks",       "name": "celery, diced",                      "costContribution": 0.35 },
-    { "quantity": "1 large",        "name": "onion, diced",                       "costContribution": 0.55 },
-    { "quantity": "4 cloves",       "name": "garlic, minced",                     "costContribution": 0.30 },
-    { "quantity": "900 mL",         "name": "vegetable broth (1 carton or cubes)", "costContribution": 1.99 },
+    { "quantity": "350 g",          "name": "dry red lentils",                    "costContribution": 1.47 },
+    { "quantity": "2 cans (796 mL each)", "name": "diced tomatoes",              "costContribution": 4.00 },
+    { "quantity": "2 medium",       "name": "carrots, diced",                     "costContribution": 0.46 },
+    { "quantity": "2 stalks",       "name": "celery, diced",                      "costContribution": 0.75 },
+    { "quantity": "1 large",        "name": "onion, diced",                       "costContribution": 1.23 },
+    { "quantity": "4 cloves",       "name": "garlic, minced",                     "costContribution": 0.32 },
+    { "quantity": "900 mL",         "name": "vegetable broth (1 carton or cubes)", "costContribution": 1.50 },
     { "quantity": "1.5 tsp",        "name": "ground cumin",                       "costContribution": 0.07 },
     { "quantity": "1 tsp",          "name": "ground coriander",                   "costContribution": 0.05 },
     { "quantity": "0.5 tsp",        "name": "turmeric",                           "costContribution": 0.05 },
     { "quantity": "0.5 tsp",        "name": "smoked paprika",                     "costContribution": 0.05 },
-    { "quantity": "2 tbsp",         "name": "vegetable oil",                      "costContribution": 0.20 },
-    { "quantity": "1",              "name": "lemon (juice only)",                 "costContribution": 0.63 },
-    { "quantity": "to taste",       "name": "salt and black pepper",              "costContribution": 0.05 }
+    { "quantity": "2 tbsp",         "name": "vegetable oil",                      "costContribution": 0.13 },
+    { "quantity": "1",              "name": "lemon (juice only)",                 "costContribution": 0.45 },
+    { "quantity": "to taste",       "name": "salt and black pepper",              "costContribution": 0.07 }
   ],
 
   "instructions": [
@@ -65,7 +65,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa FreshCo"],
-    "notes": "Red lentils priced from a 900 g bag. Vegetable broth priced as Knorr or store-brand carton. Two 796 mL cans of diced tomatoes priced at standard shelf price."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Red lentils at $0.42/100g from 900g bag. Vegetable broth carton $1.50. Diced tomatoes $2.00/can. Onion $1.23 each. Celery $2.99/bunch (2 stalks = half bunch). Carrots $2.93/kg."
   }
 }

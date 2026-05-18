@@ -2,8 +2,8 @@
   "id": "tuna-noodle-casserole",
   "name": "Tuna Noodle Casserole",
   "summary": "Pasta, canned tuna, frozen peas, and cream of mushroom soup baked with a breadcrumb topping. Classic comfort food.",
-  "totalCost": 7.25,
-  "costPerServing": 1.81,
+  "totalCost": 7.97,
+  "costPerServing": 1.99,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "35 min",
@@ -11,14 +11,14 @@
 
   "ingredients": [
     { "quantity": "2 cans (170 g each)", "name": "flaked tuna in water, drained",          "costContribution": 3.58 },
-    { "quantity": "300 g",               "name": "penne, rotini, or egg noodles",           "costContribution": 0.50 },
+    { "quantity": "300 g",               "name": "penne, rotini, or egg noodles",           "costContribution": 0.66 },
     { "quantity": "1 can (284 mL)",      "name": "cream of mushroom soup (condensed)",      "costContribution": 1.49 },
     { "quantity": "250 mL",              "name": "2% milk",                                 "costContribution": 0.38 },
     { "quantity": "1 cup (150 g)",       "name": "frozen peas",                             "costContribution": 0.50 },
-    { "quantity": "1 stalk",             "name": "celery, diced",                           "costContribution": 0.15 },
-    { "quantity": "0.5 medium",          "name": "onion, diced",                            "costContribution": 0.25 },
+    { "quantity": "1 stalk",             "name": "celery, diced",                           "costContribution": 0.30 },
+    { "quantity": "0.5 medium",          "name": "onion, diced",                            "costContribution": 0.62 },
     { "quantity": "0.5 cup (40 g)",      "name": "breadcrumbs (for topping)",               "costContribution": 0.20 },
-    { "quantity": "1 tbsp",              "name": "butter or vegetable oil",                 "costContribution": 0.15 },
+    { "quantity": "1 tbsp",              "name": "butter or vegetable oil",                 "costContribution": 0.19 },
     { "quantity": "to taste",            "name": "salt and black pepper",                   "costContribution": 0.05 }
   ],
 
@@ -75,7 +75,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Tuna priced at store-brand or PC brand flaked tuna in water. Condensed soup at standard shelf price."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Pasta $0.22/100g from 900g bag. Tuna estimated at store-brand price (~$1.79/can). Condensed soup at standard shelf price. Onion $1.23 each (0.5 onion = $0.62). Butter $1.36/100g."
   }
 }

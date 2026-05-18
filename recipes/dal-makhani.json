@@ -2,8 +2,8 @@
   "id": "dal-makhani",
   "name": "Dal Makhani",
   "summary": "Whole black lentils and kidney beans slow-cooked in a buttery, spiced tomato sauce. Different from yellow dal — richer, darker, and better suited to cold weather.",
-  "totalCost": 7.75,
-  "costPerServing": 1.94,
+  "totalCost": 9.36,
+  "costPerServing": 2.34,
   "servings": 4,
   "prepTime": "10 min (plus overnight soaking for dried lentils)",
   "cookTime": "1 hr",
@@ -11,13 +11,13 @@
 
   "ingredients": [
     { "quantity": "200 g",   "name": "dry whole black lentils (urad dal), soaked overnight and drained", "costContribution": 1.40 },
-    { "quantity": "1 can (540 mL)", "name": "red kidney beans, drained",             "costContribution": 1.29 },
-    { "quantity": "1 can (796 mL)", "name": "crushed tomatoes",                      "costContribution": 1.49 },
-    { "quantity": "300 g",   "name": "dry long-grain white rice",                    "costContribution": 0.67 },
-    { "quantity": "3 tbsp",  "name": "butter",                                       "costContribution": 0.51 },
+    { "quantity": "1 can (540 mL)", "name": "red kidney beans, drained",             "costContribution": 1.50 },
+    { "quantity": "1 can (796 mL)", "name": "crushed tomatoes",                      "costContribution": 2.00 },
+    { "quantity": "300 g",   "name": "dry long-grain white rice",                    "costContribution": 0.75 },
+    { "quantity": "3 tbsp",  "name": "butter",                                       "costContribution": 0.57 },
     { "quantity": "125 mL",  "name": "heavy cream",                                  "costContribution": 1.25 },
-    { "quantity": "1 medium","name": "onion, finely diced",                          "costContribution": 0.50 },
-    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.30 },
+    { "quantity": "1 medium","name": "onion, finely diced",                          "costContribution": 1.23 },
+    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.32 },
     { "quantity": "1 tsp",   "name": "ground ginger",                                "costContribution": 0.07 },
     { "quantity": "2 tsp",   "name": "garam masala",                                 "costContribution": 0.15 },
     { "quantity": "1 tsp",   "name": "ground cumin",                                 "costContribution": 0.05 },
@@ -66,7 +66,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills", "local South Asian grocery"],
-    "notes": "Urad dal from a 1 kg bag at a South Asian grocery store or Superstore. Cream proportional from 473 mL carton."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Kidney beans $1.50/540mL can. Crushed tomatoes $2.00/796mL can. Rice $0.25/100g. Butter $1.36/100g (3 tbsp ≈ 42g = $0.57). Onion $1.23 each. Urad dal estimated from South Asian grocery store pricing."
   }
 }

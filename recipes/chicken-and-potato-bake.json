@@ -2,8 +2,8 @@
   "id": "chicken-and-potato-bake",
   "name": "One-Pan Chicken Thighs and Potatoes",
   "summary": "Chicken thighs and potatoes roasted together on one pan with garlic and herbs. Minimal prep, almost no cleanup, and consistently one of the most-recommended beginner recipes online.",
-  "totalCost": 10.05,
-  "costPerServing": 2.51,
+  "totalCost": 10.30,
+  "costPerServing": 2.58,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "45 min",
@@ -11,10 +11,10 @@
 
   "ingredients": [
     { "quantity": "1.2 kg",  "name": "bone-in skin-on chicken thighs (about 6)",    "costContribution": 7.50 },
-    { "quantity": "800 g",   "name": "Yukon Gold or russet potatoes, cut into chunks","costContribution": 1.33 },
-    { "quantity": "1 medium","name": "onion, cut into wedges",                       "costContribution": 0.50 },
-    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.30 },
-    { "quantity": "3 tbsp",  "name": "olive or vegetable oil",                       "costContribution": 0.30 },
+    { "quantity": "800 g",   "name": "Yukon Gold or russet potatoes, cut into chunks","costContribution": 0.35 },
+    { "quantity": "1 medium","name": "onion, cut into wedges",                       "costContribution": 1.23 },
+    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.32 },
+    { "quantity": "3 tbsp",  "name": "olive or vegetable oil",                       "costContribution": 0.19 },
     { "quantity": "1 tsp",   "name": "smoked paprika",                               "costContribution": 0.08 },
     { "quantity": "1 tsp",   "name": "dried thyme or rosemary",                      "costContribution": 0.05 },
     { "quantity": "0.5 tsp", "name": "garlic powder",                                "costContribution": 0.03 },
@@ -53,12 +53,12 @@
     "Cut the potatoes into similar-sized pieces so they cook evenly. Too large and they stay raw in the middle; too small and they burn before the chicken is done.",
     "Do not crowd the pan. If pieces are piled on top of each other, they steam instead of roast and won't brown. Use two pans if needed.",
     "The potatoes cook in the chicken fat that drips off during roasting. This is the main reason they taste good.",
-    "A 5 lb bag of potatoes runs $3.99–$4.99. You're using less than half. This is a very cheap ingredient across multiple meals."
+    "A 10 lb bag of russet potatoes runs $1.99. You're using less than half. This is a very cheap ingredient across multiple meals."
   ],
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Chicken at ~$6.25/kg bone-in. Potatoes proportional from a 5 lb bag at $3.99."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Bone-in skin-on thighs estimated at ~$6.25/kg. Russet potatoes $0.44/kg from 10 lb bag ($1.99). Onion $1.23 each. Oil $0.42/100mL (3 tbsp ≈ 45mL = $0.19)."
   }
 }

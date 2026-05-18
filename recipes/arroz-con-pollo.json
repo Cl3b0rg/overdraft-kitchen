@@ -2,8 +2,8 @@
   "id": "arroz-con-pollo",
   "name": "Arroz con Pollo",
   "summary": "Chicken thighs braised directly in seasoned rice and tomatoes until everything cooks together in one pot. A Latin staple that earns its place on any budget list.",
-  "totalCost": 9.45,
-  "costPerServing": 2.36,
+  "totalCost": 11.59,
+  "costPerServing": 2.90,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "45 min",
@@ -11,16 +11,16 @@
 
   "ingredients": [
     { "quantity": "1 kg",    "name": "bone-in skin-on chicken thighs (about 5–6)",   "costContribution": 6.25 },
-    { "quantity": "300 g",   "name": "dry long-grain white rice",                    "costContribution": 0.67 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 1.09 },
-    { "quantity": "250 mL",  "name": "chicken broth or water",                       "costContribution": 0.55 },
-    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.50 },
-    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.30 },
+    { "quantity": "300 g",   "name": "dry long-grain white rice",                    "costContribution": 0.75 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 2.00 },
+    { "quantity": "250 mL",  "name": "chicken broth or water",                       "costContribution": 0.42 },
+    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 1.23 },
+    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.32 },
     { "quantity": "1 tsp",   "name": "ground cumin",                                 "costContribution": 0.05 },
     { "quantity": "1 tsp",   "name": "dried oregano",                                "costContribution": 0.05 },
     { "quantity": "0.5 tsp", "name": "smoked paprika",                               "costContribution": 0.05 },
     { "quantity": "0.5 tsp", "name": "turmeric (for colour)",                        "costContribution": 0.03 },
-    { "quantity": "2 tbsp",  "name": "vegetable oil",                                "costContribution": 0.15 },
+    { "quantity": "2 tbsp",  "name": "vegetable oil",                                "costContribution": 0.13 },
     { "quantity": "100 g (optional)", "name": "frozen peas",                         "costContribution": 0.26 },
     { "quantity": "to taste","name": "salt and black pepper",                        "costContribution": 0.05 }
   ],
@@ -65,7 +65,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Chicken thighs at ~$6.25/kg bone-in. Rice and tomatoes at store-brand pricing."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Bone-in skin-on thighs estimated at ~$6.25/kg. Rice $0.25/100g. Diced tomatoes $2.00/796mL can. Chicken broth $1.50/900mL (250mL = $0.42). Onion $1.23 each."
   }
 }

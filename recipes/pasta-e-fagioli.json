@@ -2,25 +2,25 @@
   "id": "pasta-e-fagioli",
   "name": "Pasta and Bean Soup",
   "summary": "A thick Italian-style soup with two kinds of beans, pasta, and tomatoes. Very filling and cheap.",
-  "totalCost": 7.18,
-  "costPerServing": 1.80,
+  "totalCost": 10.18,
+  "costPerServing": 2.55,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "30 min",
   "tags": ["vegan", "beans", "pasta", "soup", "high-fiber", "italian"],
 
   "ingredients": [
-    { "quantity": "1 can (540 mL)", "name": "white kidney beans (cannellini), drained and rinsed", "costContribution": 1.29 },
-    { "quantity": "1 can (540 mL)", "name": "romano or red kidney beans, drained and rinsed",       "costContribution": 1.29 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                                         "costContribution": 1.59 },
-    { "quantity": "250 g",          "name": "small pasta (macaroni, small shells, or ditalini)",       "costContribution": 0.41 },
-    { "quantity": "2 medium",       "name": "carrots, diced",                                          "costContribution": 0.45 },
-    { "quantity": "2 stalks",       "name": "celery, diced",                                           "costContribution": 0.35 },
-    { "quantity": "1 medium",       "name": "onion, diced",                                            "costContribution": 0.50 },
-    { "quantity": "4 cloves",       "name": "garlic, minced",                                          "costContribution": 0.30 },
-    { "quantity": "900 mL",         "name": "vegetable or chicken broth",                              "costContribution": 0.99 },
-    { "quantity": "1.5 tsp",        "name": "Italian seasoning (or dried oregano and basil)",          "costContribution": 0.10 },
-    { "quantity": "1 tbsp",         "name": "olive or vegetable oil",                                  "costContribution": 0.15 },
+    { "quantity": "1 can (540 mL)", "name": "white kidney beans (cannellini), drained and rinsed", "costContribution": 1.50 },
+    { "quantity": "1 can (540 mL)", "name": "romano or red kidney beans, drained and rinsed",       "costContribution": 1.50 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                                         "costContribution": 2.00 },
+    { "quantity": "250 g",          "name": "small pasta (macaroni, small shells, or ditalini)",       "costContribution": 0.55 },
+    { "quantity": "2 medium",       "name": "carrots, diced",                                          "costContribution": 0.59 },
+    { "quantity": "2 stalks",       "name": "celery, diced",                                           "costContribution": 0.60 },
+    { "quantity": "1 medium",       "name": "onion, diced",                                            "costContribution": 1.23 },
+    { "quantity": "4 cloves",       "name": "garlic, minced",                                          "costContribution": 0.32 },
+    { "quantity": "900 mL",         "name": "vegetable or chicken broth",                              "costContribution": 1.50 },
+    { "quantity": "1.5 tsp",        "name": "Italian seasoning (or dried oregano and basil)",          "costContribution": 0.08 },
+    { "quantity": "1 tbsp",         "name": "olive or vegetable oil",                                  "costContribution": 0.06 },
     { "quantity": "to taste",       "name": "salt and black pepper",                                   "costContribution": 0.05 }
   ],
 
@@ -68,6 +68,6 @@
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa No Frills", "Ottawa Walmart"],
-    "notes": "Pasta priced proportionally from a 900 g bag. Broth reduced to 900 mL to lower cost."
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Pasta $0.22/100g from 900g bag ($2.00). Broth $1.50/900mL carton. Beans $1.50/540mL can. Diced tomatoes $2.00/796mL can. Onion $1.23 each. Carrots $2.93/kg. Celery $2.99/bunch."
   }
 }

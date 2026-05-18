@@ -2,8 +2,8 @@
   "id": "chicken-adobo",
   "name": "Filipino Chicken Adobo",
   "summary": "Chicken thighs braised in soy sauce, vinegar, and garlic until the sauce reduces to a dark glaze. Consistently cited as the top answer in every 'what should I make for cheap' thread.",
-  "totalCost": 9.45,
-  "costPerServing": 2.36,
+  "totalCost": 10.72,
+  "costPerServing": 2.68,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "40 min",
@@ -11,14 +11,14 @@
 
   "ingredients": [
     { "quantity": "1.2 kg",   "name": "bone-in skin-on chicken thighs (about 6)",    "costContribution": 7.50 },
-    { "quantity": "300 g",    "name": "dry long-grain white rice",                    "costContribution": 0.67 },
-    { "quantity": "0.5 cup",  "name": "soy sauce",                                   "costContribution": 0.40 },
-    { "quantity": "0.5 cup",  "name": "white vinegar",                               "costContribution": 0.15 },
-    { "quantity": "1 head",   "name": "garlic, cloves smashed and peeled",           "costContribution": 0.50 },
+    { "quantity": "300 g",    "name": "dry long-grain white rice",                    "costContribution": 0.75 },
+    { "quantity": "0.5 cup",  "name": "soy sauce",                                   "costContribution": 0.64 },
+    { "quantity": "0.5 cup",  "name": "white vinegar",                               "costContribution": 0.10 },
+    { "quantity": "1 head",   "name": "garlic, cloves smashed and peeled",           "costContribution": 0.96 },
     { "quantity": "2",        "name": "bay leaves",                                  "costContribution": 0.05 },
     { "quantity": "1 tsp",    "name": "whole black peppercorns",                     "costContribution": 0.08 },
-    { "quantity": "1 tbsp",   "name": "vegetable oil",                               "costContribution": 0.05 },
-    { "quantity": "2 tbsp",   "name": "brown sugar (optional, for balance)",         "costContribution": 0.05 }
+    { "quantity": "1 tbsp",   "name": "vegetable oil",                               "costContribution": 0.06 },
+    { "quantity": "2 tbsp",   "name": "brown sugar (optional, for balance)",         "costContribution": 0.08 }
   ],
 
   "instructions": [
@@ -64,7 +64,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Chicken thighs priced at ~$6.25/kg (bone-in, skin-on). Rice proportional from 2 kg bag."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Bone-in skin-on thighs estimated at ~$6.25/kg. Rice $0.25/100g. Soy sauce $0.51/100mL (0.5 cup = ~125mL). Garlic $0.08/clove (1 head ≈ 12 cloves)."
   }
 }

@@ -2,25 +2,25 @@
   "id": "chicken-tortilla-soup",
   "name": "Chicken Tortilla Soup",
   "summary": "Shredded chicken thighs with black beans, corn, and tomatoes in a spiced broth. A Tex-Mex staple that appears on virtually every budget meal-prep list.",
-  "totalCost": 14.69,
-  "costPerServing": 3.67,
+  "totalCost": 12.48,
+  "costPerServing": 3.12,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "35 min",
   "tags": ["chicken", "beans", "soup", "tex-mex", "high-protein", "meal-prep"],
 
   "ingredients": [
-    { "quantity": "450 g",   "name": "boneless skinless chicken thighs",             "costContribution": 5.40 },
-    { "quantity": "1 can (540 mL)", "name": "black beans, drained",                  "costContribution": 1.69 },
-    { "quantity": "1 can (341 mL)", "name": "corn kernels, drained (or 250 g frozen)","costContribution": 1.49 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 1.59 },
-    { "quantity": "900 mL",  "name": "chicken broth",                                "costContribution": 2.69 },
-    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.75 },
-    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.26 },
+    { "quantity": "450 g",   "name": "boneless skinless chicken thighs",             "costContribution": 3.97 },
+    { "quantity": "1 can (540 mL)", "name": "black beans, drained",                  "costContribution": 1.50 },
+    { "quantity": "1 can (341 mL)", "name": "corn kernels, drained (or 250 g frozen)","costContribution": 1.25 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 2.00 },
+    { "quantity": "900 mL",  "name": "chicken broth",                                "costContribution": 1.50 },
+    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 1.23 },
+    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.24 },
     { "quantity": "1 tsp",   "name": "ground cumin",                                 "costContribution": 0.05 },
     { "quantity": "1 tsp",   "name": "chili powder",                                 "costContribution": 0.08 },
-    { "quantity": "0.5 tsp", "name": "smoked paprika",                               "costContribution": 0.05 },
-    { "quantity": "1 tbsp",  "name": "vegetable oil",                                "costContribution": 0.07 },
+    { "quantity": "0.5 tsp", "name": "smoked paprika",                               "costContribution": 0.03 },
+    { "quantity": "1 tbsp",  "name": "vegetable oil",                                "costContribution": 0.06 },
     { "quantity": "handful", "name": "tortilla chips, crushed (for serving)",        "costContribution": 0.50 },
     { "quantity": "to taste","name": "salt, pepper, and lime juice",                 "costContribution": 0.07 }
   ],
@@ -64,6 +64,6 @@
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Chicken at ~$12/kg boneless skinless. Broth from a 900 mL carton at $2.69. Canned corn at $1.49/can."
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Boneless skinless chicken thighs $8.82/kg (Butcher's Choice club pack). Black beans $1.50/540mL can. Corn $1.25/341mL can. Diced tomatoes $2.00/796mL can. Chicken broth $1.50/900mL carton. Onion $1.23 each. Garlic $0.08/clove. Tortilla chips estimated."
   }
 }

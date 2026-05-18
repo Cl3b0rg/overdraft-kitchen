@@ -2,8 +2,8 @@
   "id": "taco-soup",
   "name": "Taco Soup",
   "summary": "Ground beef, beans, corn, and canned tomatoes simmered with taco spices. One of the most-saved recipes on Pinterest and Reddit for years, and it's obvious why.",
-  "totalCost": 14.57,
-  "costPerServing": 3.64,
+  "totalCost": 14.30,
+  "costPerServing": 3.58,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "25 min",
@@ -11,16 +11,16 @@
 
   "ingredients": [
     { "quantity": "350 g",   "name": "lean ground beef",                             "costContribution": 7.00 },
-    { "quantity": "1 can (540 mL)", "name": "red kidney beans, drained",             "costContribution": 1.69 },
-    { "quantity": "1 can (341 mL)", "name": "corn kernels, drained (or 250 g frozen)","costContribution": 1.49 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 1.59 },
-    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.75 },
-    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.26 },
+    { "quantity": "1 can (540 mL)", "name": "red kidney beans, drained",             "costContribution": 1.50 },
+    { "quantity": "1 can (341 mL)", "name": "corn kernels, drained (or 250 g frozen)","costContribution": 1.25 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 2.00 },
+    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 1.23 },
+    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.24 },
     { "quantity": "2 tsp",   "name": "chili powder",                                 "costContribution": 0.10 },
     { "quantity": "1 tsp",   "name": "ground cumin",                                 "costContribution": 0.05 },
-    { "quantity": "0.5 tsp", "name": "smoked paprika",                               "costContribution": 0.05 },
-    { "quantity": "0.5 tsp", "name": "garlic powder",                                "costContribution": 0.05 },
-    { "quantity": "500 mL",  "name": "chicken or beef broth",                        "costContribution": 1.49 },
+    { "quantity": "0.5 tsp", "name": "smoked paprika",                               "costContribution": 0.03 },
+    { "quantity": "0.5 tsp", "name": "garlic powder",                                "costContribution": 0.02 },
+    { "quantity": "500 mL",  "name": "chicken or beef broth",                        "costContribution": 0.83 },
     { "quantity": "to taste","name": "salt, pepper, and hot sauce",                  "costContribution": 0.05 }
   ],
 
@@ -60,6 +60,6 @@
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Lean ground beef at ~$20/kg. Broth proportional from 900 mL carton at $2.69. Canned corn at $1.49/can."
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Lean ground beef $20.00/kg (Butcher's Choice 450g pkg at $9.00). Kidney beans $1.50/540mL can. Corn $1.25/341mL can. Diced tomatoes $2.00/796mL can. Onion $1.23 each. Garlic $0.08/clove. Broth $1.50/900mL carton (500mL = $0.83)."
   }
 }

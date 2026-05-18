@@ -2,24 +2,24 @@
   "id": "red-lentil-coconut-soup",
   "name": "Red Lentil Coconut Soup",
   "summary": "Red lentils cooked with coconut milk, tomatoes, and curry spices into a thick, warming soup. A different direction from the yellow dal already on this site.",
-  "totalCost": 7.35,
-  "costPerServing": 1.84,
+  "totalCost": 8.30,
+  "costPerServing": 2.08,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "30 min",
   "tags": ["vegan", "lentils", "coconut", "soup", "gluten-free", "high-fiber", "low-cost"],
 
   "ingredients": [
-    { "quantity": "250 g",   "name": "dry red lentils, rinsed",                      "costContribution": 1.25 },
-    { "quantity": "1 can (400 mL)", "name": "coconut milk",                          "costContribution": 2.29 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 1.09 },
-    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.50 },
-    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.30 },
+    { "quantity": "250 g",   "name": "dry red lentils, rinsed",                      "costContribution": 1.05 },
+    { "quantity": "1 can (400 mL)", "name": "coconut milk",                          "costContribution": 2.80 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 2.00 },
+    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 1.23 },
+    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.32 },
     { "quantity": "1 tsp",   "name": "ground ginger",                               "costContribution": 0.07 },
     { "quantity": "2 tsp",   "name": "curry powder",                                "costContribution": 0.10 },
     { "quantity": "1 tsp",   "name": "turmeric",                                    "costContribution": 0.05 },
     { "quantity": "0.5 tsp", "name": "chili flakes",                                "costContribution": 0.03 },
-    { "quantity": "2 tbsp",  "name": "vegetable oil",                               "costContribution": 0.15 },
+    { "quantity": "2 tbsp",  "name": "vegetable oil",                               "costContribution": 0.13 },
     { "quantity": "500 mL",  "name": "water",                                       "costContribution": 0.00 },
     { "quantity": "1",       "name": "lime, juiced (optional)",                     "costContribution": 0.50 },
     { "quantity": "to taste","name": "salt",                                        "costContribution": 0.02 }
@@ -63,7 +63,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Red lentils proportional from 900 g bag. Coconut milk at PC or store brand."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Red lentils $0.42/100g from 900g bag. Coconut milk $2.80/400mL can (Thai Kitchen). Diced tomatoes $2.00/796mL can. Onion $1.23 each."
   }
 }

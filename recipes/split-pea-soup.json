@@ -2,25 +2,25 @@
   "id": "split-pea-soup",
   "name": "Split Pea Soup",
   "summary": "A thick, filling green split pea soup with carrots and celery. High in protein and fiber, very low cost.",
-  "totalCost": 5.27,
-  "costPerServing": 1.32,
+  "totalCost": 6.10,
+  "costPerServing": 1.53,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "50 min",
   "tags": ["vegan", "gluten-free", "lentils", "soup", "high-fiber", "high-protein", "freezer-friendly"],
 
   "ingredients": [
-    { "quantity": "400 g",     "name": "dry green split peas, rinsed",              "costContribution": 1.33 },
-    { "quantity": "2 medium",  "name": "carrots, diced",                            "costContribution": 0.45 },
-    { "quantity": "2 stalks",  "name": "celery, diced",                             "costContribution": 0.35 },
-    { "quantity": "1 large",   "name": "onion, diced",                              "costContribution": 0.55 },
-    { "quantity": "3 cloves",  "name": "garlic, minced",                            "costContribution": 0.25 },
-    { "quantity": "900 mL",    "name": "vegetable broth",                           "costContribution": 0.99 },
+    { "quantity": "400 g",     "name": "dry green split peas, rinsed",              "costContribution": 1.68 },
+    { "quantity": "2 medium",  "name": "carrots, diced",                            "costContribution": 0.59 },
+    { "quantity": "2 stalks",  "name": "celery, diced",                             "costContribution": 0.60 },
+    { "quantity": "1 large",   "name": "onion, diced",                              "costContribution": 1.23 },
+    { "quantity": "3 cloves",  "name": "garlic, minced",                            "costContribution": 0.24 },
+    { "quantity": "900 mL",    "name": "vegetable broth",                           "costContribution": 1.50 },
     { "quantity": "500 mL",    "name": "water",                                     "costContribution": 0.00 },
     { "quantity": "1 tsp",     "name": "dried thyme",                               "costContribution": 0.05 },
     { "quantity": "0.5 tsp",   "name": "smoked paprika",                            "costContribution": 0.05 },
     { "quantity": "2",         "name": "bay leaves",                                "costContribution": 0.05 },
-    { "quantity": "1 tbsp",    "name": "vegetable oil",                             "costContribution": 0.10 },
+    { "quantity": "1 tbsp",    "name": "vegetable oil",                             "costContribution": 0.06 },
     { "quantity": "to taste",  "name": "salt and black pepper",                     "costContribution": 0.05 }
   ],
 
@@ -61,7 +61,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa FreshCo"],
-    "notes": "Split peas priced from a 900 g bag. Broth reduced to save cost — half the liquid is water."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Green split peas priced at $0.42/100g (green lentil rate from 900g bag). Broth $1.50/900mL carton. Onion $1.23 each. Carrots $2.93/kg. Celery $2.99/bunch."
   }
 }

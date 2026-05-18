@@ -1,27 +1,27 @@
 {
   "id": "omurice",
   "name": "Omurice",
-  "summary": "Ketchup fried rice wrapped in a thin egg omelette. A Japanese comfort food that went viral on TikTok and costs under $1.50 per serving.",
-  "totalCost": 5.23,
-  "costPerServing": 1.31,
+  "summary": "Ketchup fried rice wrapped in a thin egg omelette. A Japanese comfort food that went viral on TikTok and costs under $1.60 per serving.",
+  "totalCost": 6.31,
+  "costPerServing": 1.58,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "20 min",
   "tags": ["vegetarian", "eggs", "rice", "fast", "very-low-cost", "japanese"],
 
   "ingredients": [
-    { "quantity": "300 g",   "name": "dry short-grain or long-grain white rice",     "costContribution": 0.67 },
-    { "quantity": "8",       "name": "large eggs",                                   "costContribution": 3.66 },
+    { "quantity": "300 g",   "name": "dry short-grain or long-grain white rice",     "costContribution": 0.75 },
+    { "quantity": "8",       "name": "large eggs",                                   "costContribution": 2.64 },
     { "quantity": "4 tbsp",  "name": "ketchup (plus more for serving)",              "costContribution": 0.20 },
-    { "quantity": "2 tbsp",  "name": "soy sauce",                                   "costContribution": 0.18 },
+    { "quantity": "2 tbsp",  "name": "soy sauce",                                   "costContribution": 0.15 },
     { "quantity": "150 g",   "name": "frozen mixed vegetables or frozen corn",       "costContribution": 0.38 },
-    { "quantity": "1 small", "name": "onion, finely diced",                          "costContribution": 0.35 },
+    { "quantity": "1 small", "name": "onion, finely diced",                          "costContribution": 0.92 },
     { "quantity": "2 tbsp",  "name": "milk",                                         "costContribution": 0.05 },
-    { "quantity": "2 tbsp",  "name": "butter",                                       "costContribution": 0.34 },
-    { "quantity": "1 tbsp",  "name": "vegetable oil",                                "costContribution": 0.08 },
+    { "quantity": "2 tbsp",  "name": "butter",                                       "costContribution": 0.38 },
+    { "quantity": "1 tbsp",  "name": "vegetable oil",                                "costContribution": 0.06 },
     { "quantity": "to taste","name": "salt and pepper",                              "costContribution": 0.02 },
     { "quantity": "optional","name": "extra ketchup or tonkatsu sauce for serving",  "costContribution": 0.10 },
-    { "quantity": "optional","name": "2 green onions, sliced",                       "costContribution": 0.20 }
+    { "quantity": "optional","name": "2 green onions, sliced",                       "costContribution": 0.66 }
   ],
 
   "instructions": [
@@ -72,7 +72,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Eggs from 12-count carton at $5.49. Rice from 2 kg bag."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Eggs $0.33 each from 12-count carton ($3.93). Rice $0.25/100g. Soy sauce $0.51/100mL. Butter $1.36/100g (2 tbsp ≈ 28g = $0.38). Onion $1.23 each (small = ~75% of medium = $0.92)."
   }
 }

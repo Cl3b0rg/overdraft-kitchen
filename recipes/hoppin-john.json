@@ -2,31 +2,31 @@
   "id": "hoppin-john",
   "name": "Hoppin' John",
   "summary": "Black-eyed peas cooked with smoked sausage, onion, and celery over rice. A Southern American staple that has been feeding people cheaply for a very long time.",
-  "totalCost": 7.78,
-  "costPerServing": 1.95,
+  "totalCost": 9.39,
+  "costPerServing": 2.35,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "30 min",
   "tags": ["beans", "rice", "pork", "one-pot", "southern", "high-protein"],
 
   "ingredients": [
-    { "quantity": "2 cans (540 mL each)", "name": "black-eyed peas, drained",        "costContribution": 3.18 },
-    { "quantity": "300 g",   "name": "dry long-grain white rice",                    "costContribution": 0.67 },
+    { "quantity": "2 cans (540 mL each)", "name": "black-eyed peas, drained",        "costContribution": 3.00 },
+    { "quantity": "300 g",   "name": "dry long-grain white rice",                    "costContribution": 0.75 },
     { "quantity": "200 g",   "name": "smoked sausage or kielbasa, sliced",           "costContribution": 1.75 },
-    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.50 },
-    { "quantity": "2 stalks","name": "celery, diced",                                "costContribution": 0.30 },
-    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.22 },
-    { "quantity": "500 mL",  "name": "chicken broth",                                "costContribution": 0.70 },
+    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 1.23 },
+    { "quantity": "2 stalks","name": "celery, diced",                                "costContribution": 0.60 },
+    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.24 },
+    { "quantity": "500 mL",  "name": "chicken broth",                                "costContribution": 0.83 },
     { "quantity": "1 tsp",   "name": "dried thyme",                                  "costContribution": 0.05 },
     { "quantity": "0.5 tsp", "name": "smoked paprika",                               "costContribution": 0.03 },
     { "quantity": "1",       "name": "bay leaf",                                     "costContribution": 0.02 },
     { "quantity": "to taste","name": "salt, black pepper, and hot sauce",            "costContribution": 0.03 },
-    { "quantity": "2",       "name": "green onions, sliced (for serving)",           "costContribution": 0.16 },
-    { "quantity": "1 tbsp",  "name": "vegetable oil",                                "costContribution": 0.05 },
-    { "quantity": "0.25 tsp","name": "cayenne pepper",                               "costContribution": 0.02 },
-    { "quantity": "1 tsp",   "name": "apple cider or white vinegar",                 "costContribution": 0.01 },
-    { "quantity": "0.5 tsp", "name": "onion powder",                                "costContribution": 0.02 },
-    { "quantity": "0.5 tsp", "name": "garlic powder",                               "costContribution": 0.07 }
+    { "quantity": "2",       "name": "green onions, sliced (for serving)",           "costContribution": 0.66 },
+    { "quantity": "1 tbsp",  "name": "vegetable oil",                                "costContribution": 0.06 },
+    { "quantity": "0.25 tsp","name": "cayenne pepper",                               "costContribution": 0.03 },
+    { "quantity": "1 tsp",   "name": "apple cider or white vinegar",                 "costContribution": 0.05 },
+    { "quantity": "0.5 tsp", "name": "onion powder",                                "costContribution": 0.03 },
+    { "quantity": "0.5 tsp", "name": "garlic powder",                               "costContribution": 0.03 }
   ],
 
   "instructions": [
@@ -72,7 +72,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Black-eyed peas at PC or Unico brand ~$1.59/can. Kielbasa proportional from 500 g package."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Black-eyed peas $1.50/540mL can. Rice $0.25/100g. Chicken broth $1.50/900mL (500mL = $0.83). Onion $1.23 each. Celery $2.99/bunch. Green onions $1.99/bunch (2 = approx. one-third bunch). Kielbasa at standard shelf price."
   }
 }

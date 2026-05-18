@@ -2,8 +2,8 @@
   "id": "bean-tostadas",
   "name": "Bean and Cheese Tostadas",
   "summary": "Crunchy baked corn tortillas topped with seasoned refried beans, cheddar, and shredded lettuce. A Mexican-inspired staple that regularly tops budget meal lists on Reddit.",
-  "totalCost": 10.97,
-  "costPerServing": 2.74,
+  "totalCost": 10.08,
+  "costPerServing": 2.52,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "15 min",
@@ -12,7 +12,7 @@
   "ingredients": [
     { "quantity": "8",       "name": "corn tortillas",                               "costContribution": 0.67 },
     { "quantity": "1 can (398 mL)", "name": "refried beans",                         "costContribution": 1.79 },
-    { "quantity": "1 can (540 mL)", "name": "pinto or black beans, drained",         "costContribution": 1.59 },
+    { "quantity": "1 can (540 mL)", "name": "pinto or black beans, drained",         "costContribution": 1.50 },
     { "quantity": "100 g",   "name": "shredded cheddar cheese",                      "costContribution": 1.87 },
     { "quantity": "0.5 head","name": "romaine or iceberg lettuce, shredded (~200 g)","costContribution": 1.00 },
     { "quantity": "2 medium","name": "tomatoes, diced",                              "costContribution": 1.00 },
@@ -20,19 +20,19 @@
     { "quantity": "1 tsp",   "name": "ground cumin",                                 "costContribution": 0.05 },
     { "quantity": "1 tsp",   "name": "garlic powder",                                "costContribution": 0.05 },
     { "quantity": "0.5 tsp", "name": "chili powder",                                 "costContribution": 0.05 },
-    { "quantity": "1 tbsp",  "name": "vegetable oil (for brushing tortillas)",       "costContribution": 0.08 },
+    { "quantity": "1 tbsp",  "name": "vegetable oil (for brushing tortillas)",       "costContribution": 0.06 },
     { "quantity": "to taste","name": "hot sauce and salt",                           "costContribution": 0.05 },
     { "quantity": "0.5 tsp", "name": "smoked paprika",                               "costContribution": 0.02 },
     { "quantity": "0.5 tsp", "name": "onion powder",                                 "costContribution": 0.02 },
-    { "quantity": "1 tbsp",  "name": "lime juice (optional)",                        "costContribution": 0.15 },
+    { "quantity": "1 tbsp",  "name": "lime juice (optional)",                        "costContribution": 0.10 },
     { "quantity": "0.25 tsp","name": "salt for beans",                               "costContribution": 0.01 },
     { "quantity": "1 tbsp",  "name": "water (to loosen beans)",                      "costContribution": 0.00 },
-    { "quantity": "1 tbsp",  "name": "butter (optional, for beans)",                 "costContribution": 0.17 },
+    { "quantity": "1 tbsp",  "name": "butter (optional, for beans)",                 "costContribution": 0.19 },
     { "quantity": "1 clove", "name": "garlic, minced (optional, for beans)",         "costContribution": 0.08 },
     { "quantity": "0.25 tsp","name": "cayenne pepper (optional)",                    "costContribution": 0.01 },
-    { "quantity": "2",       "name": "green onions, sliced (optional)",              "costContribution": 0.20 },
+    { "quantity": "2",       "name": "green onions, sliced (optional)",              "costContribution": 0.66 },
     { "quantity": "0.5 tsp", "name": "black pepper",                                 "costContribution": 0.01 },
-    { "quantity": "1 tsp",   "name": "white vinegar (optional)",                     "costContribution": 0.02 },
+    { "quantity": "1 tsp",   "name": "white vinegar (optional)",                     "costContribution": 0.05 },
     { "quantity": "0.5 tsp", "name": "dried oregano",                               "costContribution": 0.02 },
     { "quantity": "0.25 tsp","name": "ground coriander",                            "costContribution": 0.01 },
     { "quantity": "0.5 tsp", "name": "chipotle powder (optional)",                  "costContribution": 0.05 },
@@ -76,7 +76,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Corn tortillas proportional from a 30-pack. Refried beans at PC brand. Cheddar proportional from 320 g block."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Pinto/black beans $1.50/540mL can. Garlic $0.08/clove. Butter $1.36/100g (1 tbsp ≈ 14g = $0.19). Green onions $1.99/bunch. Corn tortillas, refried beans, cheddar, sour cream estimated from standard shelf prices."
   }
 }

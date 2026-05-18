@@ -2,24 +2,24 @@
   "id": "peanut-butter-noodles",
   "name": "Peanut Butter Noodles",
   "summary": "Pasta tossed in a peanut butter and soy sauce dressing with garlic and ginger. Extremely cheap and quick.",
-  "totalCost": 2.63,
-  "costPerServing": 0.66,
+  "totalCost": 3.39,
+  "costPerServing": 0.85,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "12 min",
   "tags": ["vegan", "pasta", "peanut-butter", "fast", "very-low-cost"],
 
   "ingredients": [
-    { "quantity": "400 g",     "name": "spaghetti or linguine",                      "costContribution": 0.66 },
+    { "quantity": "400 g",     "name": "spaghetti or linguine",                      "costContribution": 0.88 },
     { "quantity": "6 tbsp (90 g)", "name": "natural peanut butter",                  "costContribution": 0.45 },
-    { "quantity": "3 tbsp",    "name": "soy sauce",                                  "costContribution": 0.27 },
-    { "quantity": "2 tbsp",    "name": "white vinegar or rice vinegar",               "costContribution": 0.15 },
+    { "quantity": "3 tbsp",    "name": "soy sauce",                                  "costContribution": 0.23 },
+    { "quantity": "2 tbsp",    "name": "white vinegar or rice vinegar",               "costContribution": 0.10 },
     { "quantity": "1 tbsp",    "name": "sugar or brown sugar",                        "costContribution": 0.05 },
-    { "quantity": "1 tsp",     "name": "sesame oil",                                  "costContribution": 0.25 },
-    { "quantity": "2 cloves",  "name": "garlic, minced or grated",                   "costContribution": 0.15 },
-    { "quantity": "0.5 tsp",   "name": "ground ginger (or 1 tsp fresh grated)",      "costContribution": 0.10 },
-    { "quantity": "3",         "name": "green onions, thinly sliced",                "costContribution": 0.30 },
-    { "quantity": "1 medium",  "name": "carrot, grated or cut into matchsticks",     "costContribution": 0.20 },
+    { "quantity": "1 tsp",     "name": "sesame oil",                                  "costContribution": 0.10 },
+    { "quantity": "2 cloves",  "name": "garlic, minced or grated",                   "costContribution": 0.16 },
+    { "quantity": "0.5 tsp",   "name": "ground ginger (or 1 tsp fresh grated)",      "costContribution": 0.08 },
+    { "quantity": "3",         "name": "green onions, thinly sliced",                "costContribution": 1.00 },
+    { "quantity": "1 medium",  "name": "carrot, grated or cut into matchsticks",     "costContribution": 0.29 },
     { "quantity": "0.5 tsp",   "name": "chili flakes (optional)",                   "costContribution": 0.05 }
   ],
 
@@ -68,7 +68,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Pasta priced proportionally from a 900 g bag. Peanut butter priced from a 1 kg store-brand jar."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Pasta $0.22/100g from 900g bag. Soy sauce $0.51/100mL. Sesame oil $2.00/100mL. Green onions $1.99/bunch (3 = half bunch). Carrots $2.93/kg. Peanut butter estimated from store-brand 1kg jar."
   }
 }

@@ -2,25 +2,25 @@
   "id": "yellow-lentil-dal",
   "name": "Yellow Lentil Dal",
   "summary": "A spiced yellow lentil dish with tomato and onion, served over rice. One of the cheapest filling meals you can make.",
-  "totalCost": 4.95,
-  "costPerServing": 1.24,
+  "totalCost": 6.05,
+  "costPerServing": 1.51,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "35 min",
   "tags": ["vegan", "gluten-free", "lentils", "rice", "high-fiber", "very-low-cost", "indian"],
 
   "ingredients": [
-    { "quantity": "350 g",     "name": "dry red or yellow split lentils, rinsed",   "costContribution": 1.36 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                       "costContribution": 1.59 },
-    { "quantity": "200 g",     "name": "dry basmati or long-grain rice",             "costContribution": 0.45 },
-    { "quantity": "1 large",   "name": "onion, diced",                               "costContribution": 0.55 },
-    { "quantity": "4 cloves",  "name": "garlic, minced",                             "costContribution": 0.30 },
+    { "quantity": "350 g",     "name": "dry red or yellow split lentils, rinsed",   "costContribution": 1.47 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                       "costContribution": 2.00 },
+    { "quantity": "200 g",     "name": "dry basmati or long-grain rice",             "costContribution": 0.50 },
+    { "quantity": "1 large",   "name": "onion, diced",                               "costContribution": 1.23 },
+    { "quantity": "4 cloves",  "name": "garlic, minced",                             "costContribution": 0.32 },
     { "quantity": "1 tsp",     "name": "fresh ginger, grated (or 0.5 tsp ground)",   "costContribution": 0.15 },
     { "quantity": "1 tsp",     "name": "ground cumin",                               "costContribution": 0.05 },
     { "quantity": "1 tsp",     "name": "turmeric",                                   "costContribution": 0.05 },
     { "quantity": "0.5 tsp",   "name": "ground coriander",                           "costContribution": 0.05 },
     { "quantity": "0.5 tsp",   "name": "garam masala",                               "costContribution": 0.07 },
-    { "quantity": "2 tbsp",    "name": "vegetable oil",                              "costContribution": 0.20 },
+    { "quantity": "2 tbsp",    "name": "vegetable oil",                              "costContribution": 0.13 },
     { "quantity": "750 mL",    "name": "water",                                      "costContribution": 0.00 },
     { "quantity": "to taste",  "name": "salt",                                       "costContribution": 0.03 }
   ],
@@ -63,7 +63,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa FreshCo"],
-    "notes": "Lentils priced from a 900 g bag. Spice costs are proportional estimates from standard-size jars."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Red split lentils $0.42/100g from 900g bag. Diced tomatoes $2.00/796mL can. Rice $0.25/100g from 2kg bag. Onion $1.23 each."
   }
 }

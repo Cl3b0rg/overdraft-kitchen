@@ -2,23 +2,23 @@
   "id": "congee",
   "name": "Congee",
   "summary": "Rice cooked slowly in broth until it breaks down into a thick, savoury porridge. One of the cheapest filling meals in existence, and popular on budget Reddit for exactly that reason.",
-  "totalCost": 4.71,
-  "costPerServing": 1.18,
+  "totalCost": 5.47,
+  "costPerServing": 1.37,
   "servings": 4,
   "prepTime": "5 min",
   "cookTime": "45 min",
   "tags": ["rice", "soup", "very-low-cost", "breakfast", "gluten-free", "vegetarian"],
 
   "ingredients": [
-    { "quantity": "200 g",   "name": "jasmine or long-grain white rice (uncooked)",  "costContribution": 0.45 },
-    { "quantity": "1 carton (900 mL)", "name": "chicken or vegetable broth",         "costContribution": 1.99 },
+    { "quantity": "200 g",   "name": "jasmine or long-grain white rice (uncooked)",  "costContribution": 0.50 },
+    { "quantity": "1 carton (900 mL)", "name": "chicken or vegetable broth",         "costContribution": 1.50 },
     { "quantity": "1.2 L",   "name": "water",                                        "costContribution": 0.00 },
-    { "quantity": "4 cloves","name": "garlic, minced or smashed",                    "costContribution": 0.30 },
+    { "quantity": "4 cloves","name": "garlic, minced or smashed",                    "costContribution": 0.32 },
     { "quantity": "1 thumb", "name": "fresh ginger, peeled and sliced",              "costContribution": 0.20 },
-    { "quantity": "2 tbsp",  "name": "soy sauce",                                    "costContribution": 0.18 },
-    { "quantity": "1 tsp",   "name": "sesame oil",                                   "costContribution": 0.12 },
-    { "quantity": "4",       "name": "large eggs (soft-boiled or poached, optional)","costContribution": 1.83 },
-    { "quantity": "3",       "name": "green onions, thinly sliced",                  "costContribution": 0.26 },
+    { "quantity": "2 tbsp",  "name": "soy sauce",                                    "costContribution": 0.15 },
+    { "quantity": "1 tsp",   "name": "sesame oil",                                   "costContribution": 0.10 },
+    { "quantity": "4",       "name": "large eggs (soft-boiled or poached, optional)","costContribution": 1.32 },
+    { "quantity": "3",       "name": "green onions, thinly sliced",                  "costContribution": 1.00 },
     { "quantity": "to taste","name": "white pepper and salt",                        "costContribution": 0.03 },
     { "quantity": "optional","name": "chili oil or hot sauce",                       "costContribution": 0.15 },
     { "quantity": "optional","name": "crispy fried shallots",                        "costContribution": 0.20 }
@@ -56,15 +56,15 @@
   },
 
   "budgetNotes": [
-    "The egg is optional but adds 10g of protein and makes it substantially more filling. At current egg prices it adds about $0.46 per serving.",
+    "The egg is optional but adds 10g of protein and makes it substantially more filling. At current egg prices it adds about $0.33 per serving.",
     "A 1:7 rice-to-liquid ratio is the starting point. The longer you cook it, the softer and thicker it gets — adjust to taste.",
     "This is one of the most adaptable recipes on the site. Top it with anything: leftover meat, fried onions, pickled vegetables, canned fish.",
-    "Without the egg, this costs about $0.72 per serving."
+    "Without the egg, this costs about $1.04 per serving."
   ],
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Rice proportional from 2 kg bag. Eggs from 12-count carton at $5.49. Broth from a 900 mL carton."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Rice $0.25/100g from 2kg bag. Broth $1.50/900mL carton. Eggs $0.33 each from 12-count carton ($3.93). Soy sauce $0.51/100mL. Sesame oil $2.00/100mL. Green onions $1.99/bunch."
   }
 }

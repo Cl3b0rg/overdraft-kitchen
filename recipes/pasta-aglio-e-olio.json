@@ -2,17 +2,17 @@
   "id": "pasta-aglio-e-olio",
   "name": "Pasta Aglio e Olio",
   "summary": "Spaghetti with garlic, olive oil, chili, and parmesan. Six ingredients, twenty minutes, one of the most repeated recipes on r/EatCheapAndHealthy.",
-  "totalCost": 3.72,
-  "costPerServing": 0.93,
+  "totalCost": 3.28,
+  "costPerServing": 0.82,
   "servings": 4,
   "prepTime": "5 min",
   "cookTime": "15 min",
   "tags": ["vegetarian", "pasta", "fast", "very-low-cost", "italian"],
 
   "ingredients": [
-    { "quantity": "400 g",    "name": "spaghetti",                                    "costContribution": 0.66 },
-    { "quantity": "8 cloves", "name": "garlic, thinly sliced",                        "costContribution": 0.60 },
-    { "quantity": "6 tbsp",   "name": "extra-virgin olive oil",                       "costContribution": 1.08 },
+    { "quantity": "400 g",    "name": "spaghetti",                                    "costContribution": 0.88 },
+    { "quantity": "8 cloves", "name": "garlic, thinly sliced",                        "costContribution": 0.64 },
+    { "quantity": "6 tbsp",   "name": "extra-virgin olive oil",                       "costContribution": 0.38 },
     { "quantity": "0.5 tsp",  "name": "chili flakes",                                 "costContribution": 0.03 },
     { "quantity": "40 g",     "name": "parmesan, finely grated",                      "costContribution": 1.20 },
     { "quantity": "small handful (optional)", "name": "fresh parsley, roughly chopped","costContribution": 0.10 },
@@ -62,7 +62,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Pasta proportional from 900 g bag. Olive oil proportional from 500 mL bottle. Parmesan from PC 200 g block."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Pasta $0.22/100g from 900g bag. Oil $0.42/100mL (6 tbsp ≈ 90mL). Garlic $0.08/clove. Parmesan estimated from PC 200g block."
   }
 }

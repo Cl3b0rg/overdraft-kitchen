@@ -2,8 +2,8 @@
   "id": "unstuffed-cabbage-roll-soup",
   "name": "Unstuffed Cabbage Roll Soup",
   "summary": "All the ingredients of a cabbage roll — ground beef, rice, cabbage, tomatoes — cooked together in one pot without the rolling. Popular on Reddit as a lazy version of a classic.",
-  "totalCost": 13.69,
-  "costPerServing": 3.42,
+  "totalCost": 13.72,
+  "costPerServing": 3.43,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "35 min",
@@ -12,15 +12,15 @@
   "ingredients": [
     { "quantity": "350 g",   "name": "lean ground beef",                             "costContribution": 7.00 },
     { "quantity": "0.5 head","name": "green cabbage (~500 g), roughly chopped",      "costContribution": 1.50 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 1.59 },
-    { "quantity": "2 tbsp",  "name": "tomato paste",                                 "costContribution": 0.25 },
-    { "quantity": "200 g",   "name": "dry long-grain white rice",                    "costContribution": 0.55 },
-    { "quantity": "500 mL",  "name": "beef or chicken broth",                        "costContribution": 1.49 },
-    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.75 },
-    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.26 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 2.00 },
+    { "quantity": "2 tbsp",  "name": "tomato paste",                                 "costContribution": 0.19 },
+    { "quantity": "200 g",   "name": "dry long-grain white rice",                    "costContribution": 0.50 },
+    { "quantity": "500 mL",  "name": "beef or chicken broth",                        "costContribution": 0.83 },
+    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 1.23 },
+    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.24 },
     { "quantity": "1 tsp",   "name": "paprika",                                      "costContribution": 0.05 },
     { "quantity": "1 tsp",   "name": "dried thyme",                                  "costContribution": 0.05 },
-    { "quantity": "1 tsp",   "name": "Worcestershire sauce",                         "costContribution": 0.15 },
+    { "quantity": "1 tsp",   "name": "Worcestershire sauce",                         "costContribution": 0.08 },
     { "quantity": "to taste","name": "salt and black pepper",                        "costContribution": 0.05 }
   ],
 
@@ -70,6 +70,6 @@
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Lean ground beef at ~$20/kg. Cabbage proportional from a whole head at ~$2.99. Broth proportional from 900 mL carton at $2.69."
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Lean ground beef $20.00/kg (Butcher's Choice 450g pkg at $9.00). Cabbage $2.99/kg (0.5 head ≈ 500g = $1.50). Diced tomatoes $2.00/796mL can. Tomato paste proportional from 156mL can at $1.00 (2 tbsp ≈ 30mL = $0.19). Rice $0.25/100g. Broth $1.50/900mL (500mL = $0.83). Onion $1.23 each. Garlic $0.08/clove."
   }
 }

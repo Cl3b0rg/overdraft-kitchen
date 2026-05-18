@@ -2,26 +2,26 @@
   "id": "red-beans-and-rice",
   "name": "Red Beans and Rice",
   "summary": "Slow-simmered red kidney beans with smoked sausage, celery, and onion over white rice. A classic cheap meal.",
-  "totalCost": 7.04,
-  "costPerServing": 1.76,
+  "totalCost": 8.29,
+  "costPerServing": 2.07,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "35 min",
   "tags": ["gluten-free", "beans", "rice", "pork", "cajun", "high-protein"],
 
   "ingredients": [
-    { "quantity": "2 cans (540 mL each)", "name": "red kidney beans, drained and rinsed",  "costContribution": 2.58 },
-    { "quantity": "250 g",                "name": "dry long-grain white rice",              "costContribution": 0.56 },
+    { "quantity": "2 cans (540 mL each)", "name": "red kidney beans, drained and rinsed",  "costContribution": 3.00 },
+    { "quantity": "250 g",                "name": "dry long-grain white rice",              "costContribution": 0.63 },
     { "quantity": "175 g",                "name": "smoked kielbasa or sausage, sliced",     "costContribution": 1.87 },
-    { "quantity": "1 large",              "name": "onion, diced",                           "costContribution": 0.55 },
-    { "quantity": "2 stalks",             "name": "celery, diced",                          "costContribution": 0.35 },
+    { "quantity": "1 large",              "name": "onion, diced",                           "costContribution": 1.23 },
+    { "quantity": "2 stalks",             "name": "celery, diced",                          "costContribution": 0.60 },
     { "quantity": "1 cup",               "name": "frozen diced green pepper",               "costContribution": 0.35 },
-    { "quantity": "4 cloves",             "name": "garlic, minced",                         "costContribution": 0.30 },
+    { "quantity": "4 cloves",             "name": "garlic, minced",                         "costContribution": 0.32 },
     { "quantity": "2",                    "name": "bay leaves",                             "costContribution": 0.05 },
     { "quantity": "0.5 tsp",              "name": "dried thyme",                            "costContribution": 0.05 },
     { "quantity": "0.5 tsp",              "name": "smoked paprika",                         "costContribution": 0.05 },
     { "quantity": "pinch",                "name": "cayenne pepper",                         "costContribution": 0.03 },
-    { "quantity": "1 tbsp",               "name": "vegetable oil",                          "costContribution": 0.10 },
+    { "quantity": "1 tbsp",               "name": "vegetable oil",                          "costContribution": 0.06 },
     { "quantity": "to taste",             "name": "salt and black pepper",                  "costContribution": 0.05 }
   ],
 
@@ -69,7 +69,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Kielbasa priced as half a 375 g package at ~$3.99. Rice priced proportionally from a 2 kg bag."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Kidney beans $1.50/540mL can. Rice $0.25/100g from 2kg bag. Onion $1.23 each. Celery $2.99/bunch (2 stalks). Kielbasa estimated at standard shelf price."
   }
 }

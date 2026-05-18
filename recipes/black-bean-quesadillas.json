@@ -2,23 +2,23 @@
   "id": "black-bean-quesadillas",
   "name": "Black Bean and Cheese Quesadillas",
   "summary": "Flour tortillas filled with seasoned black beans and melted cheddar. Quick, filling, and flexible.",
-  "totalCost": 8.63,
-  "costPerServing": 2.16,
+  "totalCost": 11.03,
+  "costPerServing": 2.76,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "20 min",
   "tags": ["vegetarian", "beans", "cheese", "fast", "kid-friendly"],
 
   "ingredients": [
-    { "quantity": "2 cans (540 mL each)", "name": "black beans, drained and rinsed",          "costContribution": 2.58 },
+    { "quantity": "2 cans (540 mL each)", "name": "black beans, drained and rinsed",          "costContribution": 3.00 },
     { "quantity": "8",                    "name": "large (10-inch) flour tortillas",           "costContribution": 2.49 },
     { "quantity": "150 g",                "name": "old cheddar, grated (from block)",          "costContribution": 1.93 },
-    { "quantity": "1 can (796 mL)",       "name": "diced tomatoes, well drained (for topping)", "costContribution": 1.09 },
-    { "quantity": "1 medium",             "name": "onion, diced",                              "costContribution": 0.50 },
-    { "quantity": "2 cloves",             "name": "garlic, minced",                            "costContribution": 0.15 },
+    { "quantity": "1 can (796 mL)",       "name": "diced tomatoes, well drained (for topping)", "costContribution": 2.00 },
+    { "quantity": "1 medium",             "name": "onion, diced",                              "costContribution": 1.23 },
+    { "quantity": "2 cloves",             "name": "garlic, minced",                            "costContribution": 0.16 },
     { "quantity": "1 tsp",                "name": "ground cumin",                              "costContribution": 0.05 },
     { "quantity": "0.5 tsp",              "name": "chili powder",                              "costContribution": 0.03 },
-    { "quantity": "1 tbsp",              "name": "vegetable oil (for filling)",                "costContribution": 0.10 },
+    { "quantity": "1 tbsp",              "name": "vegetable oil (for filling)",                "costContribution": 0.06 },
     { "quantity": "oil or cooking spray", "name": "for pan",                                   "costContribution": 0.05 },
     { "quantity": "to taste",             "name": "salt",                                      "costContribution": 0.03 }
   ],
@@ -67,7 +67,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Cheddar priced proportionally from a 700 g block. Tortillas priced as an 8-count large flour tortilla package."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Black beans $1.50/540mL can. Diced tomatoes $2.00/796mL can. Onion $1.23 each. Cheddar and tortillas estimated from standard shelf prices."
   }
 }

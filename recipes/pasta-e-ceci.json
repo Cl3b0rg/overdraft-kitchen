@@ -2,23 +2,23 @@
   "id": "pasta-e-ceci",
   "name": "Pasta e Ceci",
   "summary": "An Italian chickpea and pasta soup that lands somewhere between a stew and a broth. Cheap, filling, and made entirely from pantry staples.",
-  "totalCost": 7.02,
-  "costPerServing": 1.76,
+  "totalCost": 7.79,
+  "costPerServing": 1.95,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "30 min",
   "tags": ["vegan", "pasta", "chickpeas", "soup", "italian", "high-fiber", "low-cost"],
 
   "ingredients": [
-    { "quantity": "2 cans (540 mL each)", "name": "chickpeas, drained (liquid reserved)", "costContribution": 2.78 },
-    { "quantity": "200 g",   "name": "small pasta (ditalini, elbows, or broken spaghetti)", "costContribution": 0.33 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 1.09 },
-    { "quantity": "2 tbsp",  "name": "tomato paste",                                 "costContribution": 0.30 },
-    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.50 },
-    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.30 },
+    { "quantity": "2 cans (540 mL each)", "name": "chickpeas, drained (liquid reserved)", "costContribution": 3.00 },
+    { "quantity": "200 g",   "name": "small pasta (ditalini, elbows, or broken spaghetti)", "costContribution": 0.44 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 2.00 },
+    { "quantity": "2 tbsp",  "name": "tomato paste",                                 "costContribution": 0.19 },
+    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 1.23 },
+    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.32 },
     { "quantity": "1 sprig or 1 tsp dried", "name": "rosemary",                     "costContribution": 0.05 },
     { "quantity": "0.5 tsp", "name": "chili flakes",                                 "costContribution": 0.03 },
-    { "quantity": "3 tbsp",  "name": "olive or vegetable oil",                       "costContribution": 0.30 },
+    { "quantity": "3 tbsp",  "name": "olive or vegetable oil",                       "costContribution": 0.19 },
     { "quantity": "750 mL",  "name": "water",                                        "costContribution": 0.00 },
     { "quantity": "to taste","name": "salt and black pepper",                        "costContribution": 0.04 },
     { "quantity": "optional","name": "parmesan rind (adds depth, costs nothing extra)","costContribution": 0.00 },
@@ -56,7 +56,7 @@
       {
         "ingredient": "small pasta",
         "substitute": "certified GF small pasta, or omit entirely for a thicker stew",
-        "costNote": "omitting pasta saves about $0.33"
+        "costNote": "omitting pasta saves about $0.44"
       }
     ],
     "notes": "Chickpeas and vegetables are naturally gluten-free."
@@ -71,7 +71,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Chickpeas at PC or No Name brand ~$1.39/can. Small pasta proportional from 900 g bag."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Chickpeas $1.50/540mL can. Diced tomatoes $2.00/796mL can. Tomato paste $1.00/156mL (2 tbsp ≈ 30mL = $0.19). Pasta $0.22/100g. Onion $1.23 each."
   }
 }

@@ -2,25 +2,25 @@
   "id": "shakshuka",
   "name": "Shakshuka",
   "summary": "Eggs poached directly in a spiced tomato and chickpea sauce. One pan, minimal cleanup, ready in 30 minutes.",
-  "totalCost": 9.89,
-  "costPerServing": 2.47,
+  "totalCost": 12.08,
+  "costPerServing": 3.02,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "25 min",
   "tags": ["vegetarian", "gluten-free", "eggs", "tomatoes", "chickpeas", "one-pan"],
 
   "ingredients": [
-    { "quantity": "2 cans (796 mL each)", "name": "crushed or diced tomatoes",              "costContribution": 3.18 },
-    { "quantity": "2 cans (540 mL each)", "name": "chickpeas, drained and rinsed",          "costContribution": 2.58 },
-    { "quantity": "8 large",              "name": "eggs",                                   "costContribution": 2.33 },
-    { "quantity": "1 large",              "name": "onion, diced",                           "costContribution": 0.55 },
+    { "quantity": "2 cans (796 mL each)", "name": "crushed or diced tomatoes",              "costContribution": 4.00 },
+    { "quantity": "2 cans (540 mL each)", "name": "chickpeas, drained and rinsed",          "costContribution": 3.00 },
+    { "quantity": "8 large",              "name": "eggs",                                   "costContribution": 2.64 },
+    { "quantity": "1 large",              "name": "onion, diced",                           "costContribution": 1.23 },
     { "quantity": "1 cup",                "name": "frozen diced peppers (any colour)",      "costContribution": 0.50 },
-    { "quantity": "5 cloves",             "name": "garlic, minced",                         "costContribution": 0.35 },
+    { "quantity": "5 cloves",             "name": "garlic, minced",                         "costContribution": 0.40 },
     { "quantity": "1.5 tsp",              "name": "smoked paprika",                         "costContribution": 0.07 },
     { "quantity": "1 tsp",                "name": "ground cumin",                           "costContribution": 0.05 },
     { "quantity": "0.5 tsp",              "name": "ground coriander",                       "costContribution": 0.05 },
     { "quantity": "0.25 tsp",             "name": "cayenne pepper",                         "costContribution": 0.03 },
-    { "quantity": "1 tbsp",               "name": "vegetable oil",                          "costContribution": 0.10 },
+    { "quantity": "1 tbsp",               "name": "vegetable oil",                          "costContribution": 0.06 },
     { "quantity": "to taste",             "name": "salt and black pepper",                  "costContribution": 0.05 }
   ],
 
@@ -61,7 +61,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Two cans of chickpeas used to meet calorie requirements. One can can be omitted to reduce cost to approximately $7.60."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Diced/crushed tomatoes $2.00/796mL can. Chickpeas $1.50/540mL can. Eggs $0.33 each from 12-count carton ($3.93). Onion $1.23 each. Note: this recipe exceeds $15 at corrected prices — two cans of chickpeas are needed to meet calorie targets."
   }
 }

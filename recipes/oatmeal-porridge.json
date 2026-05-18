@@ -60,7 +60,7 @@
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Oats priced from a 1.8 kg container. Milk from a 2 L jug. Optional banana included in total cost."
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Oats estimated from 1.8 kg container at store-brand price. Milk proportional from 2L jug. Peanut butter estimated from 1kg store-brand jar."
   }
 }
