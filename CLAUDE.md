@@ -90,13 +90,92 @@ The build script validates: total cost ≤ $15, servings ≥ 4, calories ≥ 400
 
 ## Pricing rules
 
-- Use Ottawa Walmart and No Frills as primary sources
-- Price ingredients proportionally (if a 900g bag is $3.99 and recipe uses 300g, cost = $1.33)
-- Never hardcode totals that contradict ingredient sums
-- Use realistic 2026 Canadian grocery pricing
-- Preferred stores: Walmart Canada, No Frills, FreshCo, Food Basics, Superstore
-- Round prices reasonably
-- Mark estimates as estimates — never fabricate precision
+- Use the validated price list below for ALL ingredient costs — do not guess
+- Price ingredients proportionally (if a 2 kg bag is $5.00 and recipe uses 300 g: $5.00 × 300/2000 = $0.75)
+- Never hardcode totals that contradict the sum of ingredient costContributions
+- Sources: No Frills (nofrills.ca) and Walmart Canada (walmart.ca), Ottawa, verified May 2026
+- Round to two decimal places; mark anything not in the list below as an estimate
+
+## Validated ingredient prices (May 2026, Ottawa)
+
+Prices are from No Frills (nofrills.ca) unless noted. Use these exact rates when calculating costContribution values.
+
+### Meat & poultry
+
+| Ingredient | Size / format | Price | Rate used in recipes |
+|---|---|---|---|
+| Lean ground beef (Butcher's Choice) | 450 g pkg | $9.00 | **$20.00/kg** |
+| Medium ground beef (Butcher's Choice) | 450 g pkg | $8.50 | **$19.00/kg** |
+| Medium ground beef (club pack) | per kg | — | **$15.41/kg** |
+| Ground turkey (Maple Leaf) | 454 g pkg | $8.00 | **$17.62/kg** ($8.00/pkg) |
+| Ground chicken | 454 g pkg | $8.00 | **$17.62/kg** ($8.00/pkg) |
+| Boneless skinless chicken thighs (Butcher's Choice club pack) | per kg | $8.82 | **$8.82/kg** |
+| Boneless skinless chicken thighs (Maple Leaf) | per kg | $12.00 | **$12.00/kg** |
+
+**Which rate to use:** Use the club-pack rate ($8.82/kg) for the cheapest option; use Maple Leaf ($12.00/kg) if the recipe notes a standard tray. Ground beef recipes should default to medium ($19/kg) unless the recipe specifically calls for lean ($20/kg).
+
+### Canned goods
+
+| Ingredient | Size | Price | Brand |
+|---|---|---|---|
+| Diced tomatoes | 796 mL | $2.00 | No Name |
+| Crushed tomatoes | 796 mL | $2.00 | No Name |
+| Whole/stewed tomatoes | 796 mL | $2.00 | No Name |
+| Black beans | 540 mL | $1.50 | No Name |
+| Red kidney beans | 540 mL | $1.50 | No Name |
+| Chickpeas | 540 mL | $1.50 | No Name |
+| White kidney beans | 540 mL | $1.50 | No Name |
+| Corn kernels | 341 mL | $1.25 | No Name |
+| Chicken broth | 900 mL | $1.50 | No Name |
+| Beef broth | 900 mL | ~$1.50 | No Name (estimate — same shelf as chicken) |
+| Coconut milk (full-fat) | 400 mL | $2.80 | Thai Kitchen |
+| Tomato paste | 156 mL | ~$1.00 | No Name (estimate) |
+
+### Produce
+
+| Ingredient | Format | Price | Per-unit rate |
+|---|---|---|---|
+| Russet potatoes | 10 lb bag (Farmer's Market) | $1.99 | ~$0.44/kg |
+| Yellow/white potatoes | 5 lb bag (PC) | $4.99–$5.49 | ~$2.20–2.42/kg |
+| Yellow onions | 3 lb bag (Farmer's Market) | $3.49 | ~$2.57/kg; ~$1.23 each |
+| Green onions | 1 bunch | $1.99 | — |
+| Carrots | 3 lb bag (Farmer's Market) | $3.99 | ~$2.93/kg |
+| Celery | 1 bunch | $2.99 | — |
+| Garlic | 3-bulb bag | $0.99 | ~$0.33/bulb; ~$0.08/clove (4 cloves/bulb) |
+| Green cabbage | whole head (~1 kg) | ~$2.99 | ~$2.99/kg |
+| Sweet potatoes | each | ~$2.07 | — |
+
+### Pantry & dry goods
+
+| Ingredient | Size | Price | Per-unit rate |
+|---|---|---|---|
+| Long-grain white rice (No Name) | 2 kg | $5.00 | $2.50/kg; $0.25/100 g |
+| Dry pasta, any shape (No Name) | 900 g | $2.00 | $0.22/100 g |
+| Red split lentils (PC Blue Menu) | 900 g | $3.79 | $0.42/100 g |
+| Red split lentils (Dunya Harvest) | 900 g | $3.19 | $0.35/100 g |
+| Green lentils (PC Blue Menu) | 900 g | $3.79 | $0.42/100 g |
+| Vegetable oil / canola oil (No Name) | 946 mL | $4.00 | $0.42/100 mL |
+| Soy sauce (No Name) | 450 mL | $2.29 | $0.51/100 mL |
+
+### Dairy & eggs
+
+| Ingredient | Size | Price | Per-unit rate |
+|---|---|---|---|
+| Eggs, large (No Name) | 12-pack | $3.93 | $0.33/egg |
+| Butter (No Name) | 454 g | $6.18 | $1.36/100 g |
+| Butter (Lactantia) | 454 g | $7.99 | $1.76/100 g |
+
+### Worked examples
+
+```
+300 g rice from 2 kg bag ($5.00):     $5.00 × (300 ÷ 2000) = $0.75
+4 cloves garlic from 3-bulb bag ($0.99):   $0.99 ÷ 3 bulbs ÷ 4 cloves = $0.08/clove × 4 = $0.33
+450 g chicken thighs at $8.82/kg:     $8.82 × 0.45 = $3.97
+500 g lean ground beef at $20/kg:     $20.00 × 0.50 = $10.00
+250 mL chicken broth from 900 mL ($1.50):  $1.50 × (250 ÷ 900) = $0.42
+1 can diced tomatoes (796 mL):        $2.00 (fixed price)
+1 can black beans (540 mL):           $1.50 (fixed price)
+```
 
 ## Writing tone
 
