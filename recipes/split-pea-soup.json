@@ -1,0 +1,67 @@
+{
+  "id": "split-pea-soup",
+  "name": "Split Pea Soup",
+  "summary": "A thick, filling green split pea soup with carrots and celery. High in protein and fiber, very low cost.",
+  "totalCost": 5.27,
+  "costPerServing": 1.32,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "50 min",
+  "tags": ["vegan", "gluten-free", "lentils", "soup", "high-fiber", "high-protein", "freezer-friendly"],
+
+  "ingredients": [
+    { "quantity": "400 g",     "name": "dry green split peas, rinsed",              "costContribution": 1.33 },
+    { "quantity": "2 medium",  "name": "carrots, diced",                            "costContribution": 0.45 },
+    { "quantity": "2 stalks",  "name": "celery, diced",                             "costContribution": 0.35 },
+    { "quantity": "1 large",   "name": "onion, diced",                              "costContribution": 0.55 },
+    { "quantity": "3 cloves",  "name": "garlic, minced",                            "costContribution": 0.25 },
+    { "quantity": "900 mL",    "name": "vegetable broth",                           "costContribution": 0.99 },
+    { "quantity": "500 mL",    "name": "water",                                     "costContribution": 0.00 },
+    { "quantity": "1 tsp",     "name": "dried thyme",                               "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",   "name": "smoked paprika",                            "costContribution": 0.05 },
+    { "quantity": "2",         "name": "bay leaves",                                "costContribution": 0.05 },
+    { "quantity": "1 tbsp",    "name": "vegetable oil",                             "costContribution": 0.10 },
+    { "quantity": "to taste",  "name": "salt and black pepper",                     "costContribution": 0.05 }
+  ],
+
+  "instructions": [
+    "Rinse the split peas in cold water. No soaking required.",
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, carrots, and celery. Cook 5–6 minutes until softened.",
+    "Add garlic and paprika. Cook 1 minute.",
+    "Add the split peas, broth, water, thyme, and bay leaves. Stir to combine.",
+    "Bring to a boil, then reduce heat to low. Simmer uncovered 40–45 minutes, stirring every 10 minutes, until the peas have completely broken down and the soup is thick.",
+    "Remove bay leaves.",
+    "For a smoother texture, use an immersion blender to partially blend the soup directly in the pot. For a chunky texture, leave it as-is.",
+    "Taste and adjust salt and pepper. Add more water if the soup is thicker than you like."
+  ],
+
+  "nutrition": {
+    "calories": 410,
+    "protein": 23,
+    "carbs": 70,
+    "fat": 4,
+    "fiber": 18,
+    "sodium": 400,
+    "iron": "~25% DV",
+    "vitaminC": "~12% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "Split peas are naturally gluten-free. Check vegetable broth labels — some contain barley or wheat. Use a broth labeled gluten-free or substitute with water plus extra salt and a pinch of garlic powder."
+  },
+
+  "budgetNotes": [
+    "Buy split peas in bulk or the largest bag available. Per-kilogram cost is much lower.",
+    "Add a ham hock or 150 g of diced smoked ham for a non-vegan version with more flavour. Adds approximately $1.50 to the total.",
+    "This soup thickens significantly as it cools. Add water when reheating.",
+    "Freezes very well. Portion into containers and freeze for up to 3 months."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills", "Ottawa FreshCo"],
+    "notes": "Split peas priced from a 900 g bag. Broth reduced to save cost — half the liquid is water."
+  }
+}

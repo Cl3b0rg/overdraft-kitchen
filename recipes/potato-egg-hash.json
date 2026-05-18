@@ -1,0 +1,65 @@
+{
+  "id": "potato-egg-hash",
+  "name": "Potato and Egg Hash",
+  "summary": "Diced potatoes pan-fried with onion, peppers, and eggs. Works for breakfast, lunch, or dinner.",
+  "totalCost": 5.05,
+  "costPerServing": 1.26,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": ["gluten-free", "eggs", "potatoes", "vegetarian", "breakfast", "one-pan"],
+
+  "ingredients": [
+    { "quantity": "1.5 kg",         "name": "Russet or yellow potatoes, diced into 1 cm cubes", "costContribution": 1.12 },
+    { "quantity": "8 large",        "name": "eggs",                                              "costContribution": 2.33 },
+    { "quantity": "1 medium",       "name": "onion, diced",                                      "costContribution": 0.50 },
+    { "quantity": "1 cup",          "name": "frozen diced peppers (any colour)",                 "costContribution": 0.50 },
+    { "quantity": "3 cloves",       "name": "garlic, minced",                                    "costContribution": 0.25 },
+    { "quantity": "1 tsp",          "name": "smoked paprika",                                    "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",        "name": "onion powder",                                      "costContribution": 0.05 },
+    { "quantity": "2 tbsp",         "name": "vegetable oil",                                     "costContribution": 0.20 },
+    { "quantity": "to taste",       "name": "salt and black pepper",                             "costContribution": 0.05 }
+  ],
+
+  "instructions": [
+    "Dice potatoes into roughly 1 cm cubes. No need to peel.",
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the potatoes in a single layer. Press down lightly. Cook without stirring for 5–6 minutes until the bottom is golden.",
+    "Stir and continue cooking another 8–10 minutes, stirring occasionally, until potatoes are cooked through and crispy on most sides.",
+    "Add the onion and frozen peppers. Cook 4–5 minutes until softened.",
+    "Add the garlic, paprika, and onion powder. Cook 1 minute.",
+    "Season with salt and pepper.",
+    "Use a spoon to make 8 shallow wells in the hash. Crack one egg into each well.",
+    "Cover the skillet and cook 4–5 minutes until the egg whites are set but yolks are still slightly runny, or cook longer for fully set yolks.",
+    "Serve directly from the skillet."
+  ],
+
+  "nutrition": {
+    "calories": 470,
+    "protein": 21,
+    "carbs": 71,
+    "fat": 14,
+    "fiber": 6,
+    "sodium": 280,
+    "iron": "~15% DV",
+    "vitaminC": "~30% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free. This recipe contains no wheat or gluten-containing ingredients."
+  },
+
+  "budgetNotes": [
+    "Buy potatoes in 4 kg or larger bags — per-kilogram cost drops significantly.",
+    "Frozen peppers from a bulk bag are much cheaper than fresh. Any colour works.",
+    "Leftover hash reheats well in a skillet over medium heat with a splash of water.",
+    "Add hot sauce, salsa, or sour cream if available. Shredded cheddar also works."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills", "Ottawa FreshCo"],
+    "notes": "Potatoes priced from a large bag. Eggs priced from 12-count carton."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "egg-fried-rice",
+  "name": "Egg Fried Rice",
+  "summary": "Leftover or fresh rice stir-fried with eggs, frozen vegetables, and soy sauce. Ready in 20 minutes.",
+  "totalCost": 4.44,
+  "costPerServing": 1.11,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "20 min",
+  "tags": ["vegetarian", "rice", "eggs", "one-pan", "fast", "low-cost"],
+
+  "ingredients": [
+    { "quantity": "300 g",    "name": "dry long-grain white rice (or 750 g cooked day-old rice)", "costContribution": 0.67 },
+    { "quantity": "6 large",  "name": "eggs, lightly beaten",                                     "costContribution": 1.75 },
+    { "quantity": "250 g",    "name": "frozen mixed vegetables (peas, corn, carrots, green beans)", "costContribution": 0.65 },
+    { "quantity": "3",        "name": "green onions, sliced",                                      "costContribution": 0.30 },
+    { "quantity": "3 cloves", "name": "garlic, minced",                                            "costContribution": 0.25 },
+    { "quantity": "3 tbsp",   "name": "soy sauce",                                                 "costContribution": 0.27 },
+    { "quantity": "2 tbsp",   "name": "vegetable oil",                                             "costContribution": 0.20 },
+    { "quantity": "1 tsp",    "name": "sesame oil (optional but recommended)",                     "costContribution": 0.30 },
+    { "quantity": "to taste", "name": "white or black pepper",                                     "costContribution": 0.05 }
+  ],
+
+  "instructions": [
+    "If cooking rice fresh, prepare it and spread it on a baking sheet or plate to cool. Slightly dry rice fries better than freshly cooked rice. Day-old refrigerated rice is ideal.",
+    "Heat 1 tbsp of the vegetable oil in a large skillet or wok over high heat until very hot.",
+    "Add the frozen vegetables. Stir-fry 2–3 minutes until heated through. Push to the sides of the pan.",
+    "Add the remaining oil to the centre. Add the rice and press it flat. Cook without stirring for 1–2 minutes to lightly crisp the bottom.",
+    "Stir everything together. Cook 2 more minutes, stirring frequently.",
+    "Push the rice to the sides again. Add the garlic to the centre and cook 30 seconds.",
+    "Pour the beaten eggs into the centre. Scramble them, then fold into the rice before they are fully set.",
+    "Add the soy sauce and sesame oil. Toss everything together over high heat for 1–2 minutes.",
+    "Remove from heat. Add the green onions and pepper. Stir once more and serve."
+  ],
+
+  "nutrition": {
+    "calories": 489,
+    "protein": 16,
+    "carbs": 67,
+    "fat": 15,
+    "fiber": 4,
+    "sodium": 350,
+    "iron": "~12% DV",
+    "vitaminC": "~15% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "soy sauce (3 tbsp)",
+        "substitute": "tamari (gluten-free soy sauce) in the same quantity",
+        "costNote": "Tamari is slightly more expensive but widely available — a small bottle costs about $3–$4"
+      }
+    ],
+    "notes": "Rice and eggs are naturally gluten-free. Soy sauce is the only ingredient that typically contains wheat. Tamari is a direct swap."
+  },
+
+  "budgetNotes": [
+    "This is one of the cheapest complete meals on this site. Total cost can be reduced further with smaller egg quantities.",
+    "Day-old refrigerated rice gives better results than freshly cooked rice — the drier texture fries rather than steams.",
+    "Add any leftover cooked meat, extra eggs, or whatever vegetables need using up.",
+    "Frozen mixed vegetables are cheaper per kilogram than individual frozen vegetables."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Frozen mixed vegetables priced from a 1 kg store-brand bag. Soy sauce cost proportional to bottle size."
+  }
+}

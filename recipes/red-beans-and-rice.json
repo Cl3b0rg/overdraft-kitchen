@@ -1,0 +1,75 @@
+{
+  "id": "red-beans-and-rice",
+  "name": "Red Beans and Rice",
+  "summary": "Slow-simmered red kidney beans with smoked sausage, celery, and onion over white rice. A classic cheap meal.",
+  "totalCost": 7.04,
+  "costPerServing": 1.76,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "35 min",
+  "tags": ["gluten-free", "beans", "rice", "pork", "cajun", "high-protein"],
+
+  "ingredients": [
+    { "quantity": "2 cans (540 mL each)", "name": "red kidney beans, drained and rinsed",  "costContribution": 2.58 },
+    { "quantity": "250 g",                "name": "dry long-grain white rice",              "costContribution": 0.56 },
+    { "quantity": "175 g",                "name": "smoked kielbasa or sausage, sliced",     "costContribution": 1.87 },
+    { "quantity": "1 large",              "name": "onion, diced",                           "costContribution": 0.55 },
+    { "quantity": "2 stalks",             "name": "celery, diced",                          "costContribution": 0.35 },
+    { "quantity": "1 cup",               "name": "frozen diced green pepper",               "costContribution": 0.35 },
+    { "quantity": "4 cloves",             "name": "garlic, minced",                         "costContribution": 0.30 },
+    { "quantity": "2",                    "name": "bay leaves",                             "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",              "name": "dried thyme",                            "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",              "name": "smoked paprika",                         "costContribution": 0.05 },
+    { "quantity": "pinch",                "name": "cayenne pepper",                         "costContribution": 0.03 },
+    { "quantity": "1 tbsp",               "name": "vegetable oil",                          "costContribution": 0.10 },
+    { "quantity": "to taste",             "name": "salt and black pepper",                  "costContribution": 0.05 }
+  ],
+
+  "instructions": [
+    "Cook the rice according to package directions. Set aside.",
+    "Heat oil in a large pot over medium heat.",
+    "Add the sausage and cook 3–4 minutes until lightly browned. Remove and set aside.",
+    "In the same pot, add onion, celery, and green pepper. Cook 5 minutes until softened.",
+    "Add garlic, thyme, paprika, and cayenne. Cook 1 minute.",
+    "Add the kidney beans and 500 mL of water. Stir in the bay leaves.",
+    "Bring to a boil, then reduce heat to low. Simmer uncovered 20 minutes, stirring occasionally.",
+    "Use the back of a spoon to mash about a quarter of the beans against the pot — this thickens the sauce.",
+    "Return the sausage to the pot. Simmer 5 more minutes.",
+    "Remove bay leaves. Taste and adjust salt. Serve over rice."
+  ],
+
+  "nutrition": {
+    "calories": 540,
+    "protein": 21,
+    "carbs": 90,
+    "fat": 11,
+    "fiber": 10,
+    "sodium": 800,
+    "iron": "~25% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "kielbasa or smoked sausage",
+        "substitute": "a sausage labeled gluten-free",
+        "costNote": "Most major brands are GF — check the label for wheat starch or fillers"
+      }
+    ],
+    "notes": "The rice and beans are naturally gluten-free. The only risk is the sausage — many kielbasa products are GF but verify the specific brand."
+  },
+
+  "budgetNotes": [
+    "Sodium is higher in this recipe due to the sausage. Rinse the beans thoroughly to reduce it slightly.",
+    "Omit the sausage entirely for a vegan version that costs under $4.00 total.",
+    "Leftover beans freeze well without the rice — freeze them separately and cook fresh rice when reheating.",
+    "A pinch of dried sage or a splash of hot sauce adds a lot to this dish."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Kielbasa priced as half a 375 g package at ~$3.99. Rice priced proportionally from a 2 kg bag."
+  }
+}

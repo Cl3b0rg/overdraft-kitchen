@@ -1,0 +1,66 @@
+{
+  "id": "black-bean-tacos",
+  "name": "Black Bean Tacos",
+  "summary": "Spiced black beans in corn tortillas with a quick tomato topping and shredded cabbage. Four tacos per serving.",
+  "totalCost": 8.30,
+  "costPerServing": 2.08,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "15 min",
+  "tags": ["vegan", "gluten-free", "beans", "tacos", "high-fiber", "no-cook-optional"],
+
+  "ingredients": [
+    { "quantity": "2 cans (540 mL each)", "name": "black beans, drained and rinsed",       "costContribution": 2.58 },
+    { "quantity": "16",                   "name": "corn tortillas (from a 24-count package)", "costContribution": 1.66 },
+    { "quantity": "1 can (796 mL)",       "name": "diced tomatoes, well drained",           "costContribution": 1.59 },
+    { "quantity": "2 cups",              "name": "green cabbage, finely shredded",           "costContribution": 0.37 },
+    { "quantity": "2",                    "name": "limes",                                   "costContribution": 1.00 },
+    { "quantity": "1 medium",             "name": "onion, diced",                            "costContribution": 0.50 },
+    { "quantity": "4 cloves",             "name": "garlic, minced",                          "costContribution": 0.30 },
+    { "quantity": "1.5 tsp",              "name": "ground cumin",                            "costContribution": 0.07 },
+    { "quantity": "1 tsp",                "name": "chili powder",                            "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",              "name": "smoked paprika",                          "costContribution": 0.05 },
+    { "quantity": "1 tbsp",               "name": "vegetable oil",                           "costContribution": 0.10 },
+    { "quantity": "to taste",             "name": "salt",                                    "costContribution": 0.03 }
+  ],
+
+  "instructions": [
+    "Drain the diced tomatoes well and combine with a squeeze of lime juice and a pinch of salt. Set aside as a quick topping.",
+    "Toss the shredded cabbage with a squeeze of lime juice and a pinch of salt. Set aside.",
+    "Heat oil in a skillet over medium heat. Add onion and cook 4 minutes until softened.",
+    "Add garlic, cumin, chili powder, and paprika. Cook 1 minute.",
+    "Add the black beans. Mash about half the beans with the back of a spoon. Cook 5 minutes, stirring occasionally, until the mixture is thick and heated through.",
+    "Taste and adjust salt and lime.",
+    "Warm the corn tortillas in a dry skillet over medium heat, 30 seconds per side. Keep warm wrapped in a clean towel.",
+    "Fill each tortilla with beans, tomato topping, and cabbage. Serve 4 per person."
+  ],
+
+  "nutrition": {
+    "calories": 485,
+    "protein": 19,
+    "carbs": 87,
+    "fat": 5,
+    "fiber": 13,
+    "sodium": 450,
+    "iron": "~20% DV",
+    "vitaminC": "~25% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "Corn tortillas are naturally gluten-free. Verify that your specific brand does not contain wheat — a small number of corn tortilla products include wheat flour. Check the ingredients list."
+  },
+
+  "budgetNotes": [
+    "Buy the largest package of corn tortillas available — per-tortilla cost drops significantly.",
+    "Leftover tortillas freeze well. Stack them with a piece of parchment between each one.",
+    "A ripe avocado adds a lot but increases cost. Skip it if budget is tight.",
+    "Hot sauce or pickled jalapeños are cheap additions if you have them."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Corn tortillas priced proportionally from a 24-count package. Cabbage cost reflects a small portion of a full head."
+  }
+}

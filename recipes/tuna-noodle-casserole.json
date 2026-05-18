@@ -1,0 +1,81 @@
+{
+  "id": "tuna-noodle-casserole",
+  "name": "Tuna Noodle Casserole",
+  "summary": "Pasta, canned tuna, frozen peas, and cream of mushroom soup baked with a breadcrumb topping. Classic comfort food.",
+  "totalCost": 7.25,
+  "costPerServing": 1.81,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "35 min",
+  "tags": ["tuna", "pasta", "casserole", "oven", "high-protein"],
+
+  "ingredients": [
+    { "quantity": "2 cans (170 g each)", "name": "flaked tuna in water, drained",          "costContribution": 3.58 },
+    { "quantity": "300 g",               "name": "penne, rotini, or egg noodles",           "costContribution": 0.50 },
+    { "quantity": "1 can (284 mL)",      "name": "cream of mushroom soup (condensed)",      "costContribution": 1.49 },
+    { "quantity": "250 mL",              "name": "2% milk",                                 "costContribution": 0.38 },
+    { "quantity": "1 cup (150 g)",       "name": "frozen peas",                             "costContribution": 0.50 },
+    { "quantity": "1 stalk",             "name": "celery, diced",                           "costContribution": 0.15 },
+    { "quantity": "0.5 medium",          "name": "onion, diced",                            "costContribution": 0.25 },
+    { "quantity": "0.5 cup (40 g)",      "name": "breadcrumbs (for topping)",               "costContribution": 0.20 },
+    { "quantity": "1 tbsp",              "name": "butter or vegetable oil",                 "costContribution": 0.15 },
+    { "quantity": "to taste",            "name": "salt and black pepper",                   "costContribution": 0.05 }
+  ],
+
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Grease a 2-litre baking dish.",
+    "Cook pasta in salted boiling water for 2 minutes less than the package directions (it will finish cooking in the oven). Drain.",
+    "In a large bowl, whisk together the condensed soup and milk until smooth.",
+    "Add the drained tuna, frozen peas, celery, and onion. Season with salt and pepper. Stir to combine.",
+    "Add the drained pasta and mix everything together.",
+    "Transfer to the prepared baking dish and spread evenly.",
+    "Mix breadcrumbs with the butter or oil and scatter over the top.",
+    "Bake uncovered for 25–30 minutes until the top is golden and the casserole is bubbling at the edges.",
+    "Let stand 5 minutes before serving."
+  ],
+
+  "nutrition": {
+    "calories": 492,
+    "protein": 31,
+    "carbs": 71,
+    "fat": 8,
+    "fiber": 4,
+    "sodium": 650,
+    "iron": "~15% DV",
+    "calcium": "~12% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "regular pasta",
+        "substitute": "certified gluten-free pasta",
+        "costNote": "adds approximately $2.00 to the total"
+      },
+      {
+        "ingredient": "cream of mushroom soup",
+        "substitute": "a GF-labeled condensed soup, or a homemade sauce of 250 mL milk, 1 tbsp cornstarch, and sautéed mushrooms",
+        "costNote": "GF condensed soup is available at most major grocery stores for roughly the same price"
+      },
+      {
+        "ingredient": "breadcrumbs",
+        "substitute": "crushed GF crackers or GF breadcrumbs",
+        "costNote": "small amount used, cost impact is minimal"
+      }
+    ]
+  },
+
+  "budgetNotes": [
+    "Store-brand condensed soup works just as well as name brand.",
+    "Frozen mixed vegetables can replace the peas — use whatever is cheapest.",
+    "This can be assembled up to a day ahead and refrigerated unbaked. Add 10 minutes to the bake time if cooking from cold.",
+    "Any short pasta shape works. Egg noodles are traditional but not required."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "notes": "Tuna priced at store-brand or PC brand flaked tuna in water. Condensed soup at standard shelf price."
+  }
+}

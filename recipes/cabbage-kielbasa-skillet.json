@@ -1,0 +1,71 @@
+{
+  "id": "cabbage-kielbasa-skillet",
+  "name": "Cabbage and Kielbasa Skillet",
+  "summary": "Smoked sausage pan-fried with cabbage and potatoes. Simple, fast, and very cheap per serving.",
+  "totalCost": 7.28,
+  "costPerServing": 1.82,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": ["gluten-free", "pork", "cabbage", "potatoes", "one-pan", "low-cost"],
+
+  "ingredients": [
+    { "quantity": "375 g",        "name": "smoked kielbasa, sliced into rounds",              "costContribution": 3.99 },
+    { "quantity": "1 small head", "name": "green cabbage (~800 g), coarsely chopped",          "costContribution": 1.49 },
+    { "quantity": "1 kg",         "name": "yellow or Russet potatoes, diced into 2 cm cubes",  "costContribution": 0.75 },
+    { "quantity": "1 medium",     "name": "onion, sliced",                                     "costContribution": 0.50 },
+    { "quantity": "3 cloves",     "name": "garlic, minced",                                    "costContribution": 0.25 },
+    { "quantity": "1 tsp",        "name": "smoked paprika",                                    "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",      "name": "caraway seeds (optional)",                          "costContribution": 0.05 },
+    { "quantity": "1 tbsp",       "name": "vegetable oil",                                     "costContribution": 0.10 },
+    { "quantity": "to taste",     "name": "salt and black pepper",                             "costContribution": 0.05 }
+  ],
+
+  "instructions": [
+    "Heat oil in a large skillet or wide pot over medium-high heat.",
+    "Add the potatoes in a single layer. Cook undisturbed 5–6 minutes until golden on the bottom. Stir and cook another 8–10 minutes until mostly cooked through. Transfer to a plate.",
+    "In the same skillet, add the kielbasa slices. Cook 2–3 minutes per side until lightly browned. Remove and set aside.",
+    "Add the onion to the skillet and cook 3–4 minutes until softened.",
+    "Add the garlic and caraway seeds (if using). Cook 1 minute.",
+    "Add the cabbage in batches, stirring as it wilts. Cook 5–6 minutes until tender but not mushy.",
+    "Return the potatoes and kielbasa to the skillet. Add smoked paprika, salt, and pepper.",
+    "Stir everything together and cook 3–4 minutes until heated through.",
+    "Taste and adjust seasoning. Serve hot."
+  ],
+
+  "nutrition": {
+    "calories": 460,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 19,
+    "fiber": 8,
+    "sodium": 400,
+    "vitaminC": "~60% DV",
+    "iron": "~12% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "kielbasa or smoked sausage",
+        "substitute": "a sausage labeled gluten-free",
+        "costNote": "Most major kielbasa brands are gluten-free — check the ingredient label for wheat starch"
+      }
+    ],
+    "notes": "Potatoes and cabbage are naturally gluten-free. Verify the sausage label."
+  },
+
+  "budgetNotes": [
+    "Cabbage is one of the cheapest vegetables per kilogram in Canada — buy a full head even if you only use part of it.",
+    "The caraway seeds are optional but add a traditional flavour. Omit freely.",
+    "A splash of apple cider vinegar or white vinegar stirred in at the end brightens the whole dish.",
+    "Leftover cabbage can be used in soups, coleslaw, or stir-fries later in the week."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills", "Ottawa FreshCo"],
+    "notes": "Kielbasa priced as a standard 375 g package. Potatoes priced from a large bulk bag."
+  }
+}
