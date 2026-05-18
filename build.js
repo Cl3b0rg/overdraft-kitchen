@@ -257,7 +257,7 @@ function renderRecipePage(recipe) {
 
 function renderRecipeCard(recipe) {
   return `
-    <article class="recipe-card">
+    <article class="recipe-card" data-tags="${recipe.tags.join(',')}">
       <div class="recipe-card-cost">
         <span class="card-cost-per">${fmt(recipe.costPerServing)}<span class="card-cost-label">/serving</span></span>
         <span class="card-total">${fmt(recipe.totalCost)} total</span>
@@ -276,6 +276,17 @@ function renderRecipeCard(recipe) {
 }
 
 function renderIndexPage(recipes) {
+  const allTags = [...new Set(recipes.flatMap(r => r.tags))].sort();
+
+  const filterBar = `
+    <div class="tag-filter-bar" role="group" aria-label="Filter recipes by tag">
+      <span class="tag-filter-label">Filter</span>
+      <div class="tag-filter-btns">
+        ${allTags.map(t => `<button class="tag-filter-btn" data-tag-filter="${escapeHtml(t)}">${escapeHtml(t)}</button>`).join('')}
+      </div>
+      <button class="tag-filter-clear" id="tag-filter-clear" aria-label="Clear filter" hidden>Clear</button>
+    </div>`;
+
   const content = `
     <section class="site-about">
       <p>Straightforward recipes for when money is tight. Every recipe feeds at least four people, costs under $15, and provides at least 400 calories per serving. Prices are based on Ottawa and Ontario grocery store averages for 2026.</p>
@@ -300,11 +311,56 @@ function renderIndexPage(recipes) {
     </div>
 
     <section class="recipes-section">
-      <h2 class="recipes-heading">Recipes <span class="recipe-count">${recipes.length}</span></h2>
-      <div class="recipe-grid">
+      <h2 class="recipes-heading">Recipes <span class="recipe-count" id="recipe-filter-count">${recipes.length}</span></h2>
+      ${filterBar}
+      <div class="recipe-grid" id="recipe-grid">
         ${recipes.map(renderRecipeCard).join('')}
       </div>
-    </section>`;
+      <p class="filter-empty" id="filter-empty" hidden>No recipes match that filter.</p>
+    </section>
+
+    <script>
+    (function () {
+      var active = null;
+      var btns   = document.querySelectorAll('[data-tag-filter]');
+      var cards  = document.querySelectorAll('[data-tags]');
+      var count  = document.getElementById('recipe-filter-count');
+      var clear  = document.getElementById('tag-filter-clear');
+      var empty  = document.getElementById('filter-empty');
+
+      function update() {
+        var shown = 0;
+        cards.forEach(function (card) {
+          var tags  = card.dataset.tags ? card.dataset.tags.split(',') : [];
+          var match = !active || tags.indexOf(active) !== -1;
+          card.style.display = match ? '' : 'none';
+          if (match) shown++;
+        });
+        if (count) count.textContent = shown;
+        if (clear) clear.hidden = !active;
+        if (empty) empty.hidden = shown > 0;
+      }
+
+      btns.forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          var tag = this.dataset.tagFilter;
+          active  = active === tag ? null : tag;
+          btns.forEach(function (b) {
+            b.classList.toggle('active', b.dataset.tagFilter === active);
+          });
+          update();
+        });
+      });
+
+      if (clear) {
+        clear.addEventListener('click', function () {
+          active = null;
+          btns.forEach(function (b) { b.classList.remove('active'); });
+          update();
+        });
+      }
+    })();
+    </script>`;
 
   return pageLayout({
     title:       'Overdraft Kitchen — Affordable Recipes for Canadians',
