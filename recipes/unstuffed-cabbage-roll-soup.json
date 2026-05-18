@@ -2,25 +2,25 @@
   "id": "unstuffed-cabbage-roll-soup",
   "name": "Unstuffed Cabbage Roll Soup",
   "summary": "All the ingredients of a cabbage roll — ground beef, rice, cabbage, tomatoes — cooked together in one pot without the rolling. Popular on Reddit as a lazy version of a classic.",
-  "totalCost": 11.23,
-  "costPerServing": 2.81,
+  "totalCost": 13.69,
+  "costPerServing": 3.42,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "35 min",
   "tags": ["beef", "cabbage", "rice", "soup", "one-pot", "comfort-food", "high-protein"],
 
   "ingredients": [
-    { "quantity": "500 g",   "name": "lean ground beef",                             "costContribution": 6.50 },
-    { "quantity": "0.5 head","name": "green cabbage (~500 g), roughly chopped",      "costContribution": 1.25 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 1.09 },
-    { "quantity": "2 tbsp",  "name": "tomato paste",                                 "costContribution": 0.30 },
-    { "quantity": "200 g",   "name": "dry long-grain white rice",                    "costContribution": 0.44 },
-    { "quantity": "500 mL",  "name": "beef or chicken broth",                        "costContribution": 0.70 },
-    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.50 },
-    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.22 },
+    { "quantity": "350 g",   "name": "lean ground beef",                             "costContribution": 7.00 },
+    { "quantity": "0.5 head","name": "green cabbage (~500 g), roughly chopped",      "costContribution": 1.50 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 1.59 },
+    { "quantity": "2 tbsp",  "name": "tomato paste",                                 "costContribution": 0.25 },
+    { "quantity": "200 g",   "name": "dry long-grain white rice",                    "costContribution": 0.55 },
+    { "quantity": "500 mL",  "name": "beef or chicken broth",                        "costContribution": 1.49 },
+    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.75 },
+    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.26 },
     { "quantity": "1 tsp",   "name": "paprika",                                      "costContribution": 0.05 },
     { "quantity": "1 tsp",   "name": "dried thyme",                                  "costContribution": 0.05 },
-    { "quantity": "1 tsp",   "name": "Worcestershire sauce",                         "costContribution": 0.08 },
+    { "quantity": "1 tsp",   "name": "Worcestershire sauce",                         "costContribution": 0.15 },
     { "quantity": "to taste","name": "salt and black pepper",                        "costContribution": 0.05 }
   ],
 
@@ -37,10 +37,10 @@
   ],
 
   "nutrition": {
-    "calories": 519,
-    "protein": 33,
-    "carbs": 48,
-    "fat": 18,
+    "calories": 490,
+    "protein": 30,
+    "carbs": 50,
+    "fat": 15,
     "fiber": 5,
     "sodium": 540,
     "iron": "~25% DV",
@@ -61,14 +61,15 @@
   },
 
   "budgetNotes": [
-    "Cabbage is one of the most cost-effective vegetables in Ontario. A whole head is $2–$3 and lasts a week in the fridge. Half a head for this recipe leaves the rest for a side salad or a second meal.",
+    "Cabbage is one of the most cost-effective vegetables in Ontario. A whole head is $2–$3 and lasts a week in the fridge.",
     "The rice continues absorbing liquid as the soup sits. If reheating next-day leftovers, add a cup of water or broth.",
-    "Traditional cabbage rolls take 2+ hours to assemble and cook. This has the same ingredients and takes 50 minutes total."
+    "Traditional cabbage rolls take 2+ hours to assemble and cook. This has the same ingredients and takes 50 minutes total.",
+    "Ground beef at $20/kg is the main cost driver. The rice and cabbage make 350 g stretch across four full servings."
   ],
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Cabbage proportional from a whole head at ~$2.49. Rice proportional from 2 kg bag."
+    "notes": "Lean ground beef at ~$20/kg. Cabbage proportional from a whole head at ~$2.99. Broth proportional from 900 mL carton at $2.69."
   }
 }

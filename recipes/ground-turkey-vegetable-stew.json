@@ -2,27 +2,27 @@
   "id": "ground-turkey-vegetable-stew",
   "name": "Ground Turkey and Vegetable Stew",
   "summary": "A hearty stew with ground turkey, potatoes, white beans, and canned tomatoes. High protein and fills well.",
-  "totalCost": 13.02,
-  "costPerServing": 3.26,
+  "totalCost": 14.72,
+  "costPerServing": 3.68,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "40 min",
   "tags": ["gluten-free", "turkey", "potatoes", "beans", "stew", "high-protein"],
 
   "ingredients": [
-    { "quantity": "450 g",     "name": "lean ground turkey",                         "costContribution": 6.49 },
-    { "quantity": "500 g",     "name": "potatoes (3 medium), diced",                 "costContribution": 0.75 },
-    { "quantity": "1 can (540 mL)", "name": "white beans or chickpeas, drained and rinsed", "costContribution": 1.29 },
+    { "quantity": "454 g",     "name": "lean ground turkey",                         "costContribution": 7.26 },
+    { "quantity": "400 g",     "name": "potatoes (~2 medium), diced",                "costContribution": 0.88 },
+    { "quantity": "1 can (540 mL)", "name": "white beans or chickpeas, drained and rinsed", "costContribution": 1.69 },
     { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 1.59 },
-    { "quantity": "500 mL",    "name": "chicken broth",                              "costContribution": 1.00 },
-    { "quantity": "2 large",   "name": "carrots, diced",                             "costContribution": 0.45 },
-    { "quantity": "2 stalks",  "name": "celery, diced",                              "costContribution": 0.35 },
-    { "quantity": "1 large",   "name": "onion, diced",                               "costContribution": 0.55 },
-    { "quantity": "4 cloves",  "name": "garlic, minced",                             "costContribution": 0.30 },
+    { "quantity": "250 mL",    "name": "chicken broth",                              "costContribution": 0.75 },
+    { "quantity": "2 large",   "name": "carrots, diced",                             "costContribution": 0.50 },
+    { "quantity": "2 stalks",  "name": "celery, diced",                              "costContribution": 0.60 },
+    { "quantity": "1 large",   "name": "onion, diced",                               "costContribution": 0.85 },
+    { "quantity": "4 cloves",  "name": "garlic, minced",                             "costContribution": 0.35 },
     { "quantity": "1 tsp",     "name": "dried thyme",                                "costContribution": 0.05 },
     { "quantity": "1 tsp",     "name": "smoked paprika",                             "costContribution": 0.05 },
-    { "quantity": "1 tbsp",    "name": "vegetable oil",                              "costContribution": 0.10 },
-    { "quantity": "to taste",  "name": "salt and black pepper",                      "costContribution": 0.05 }
+    { "quantity": "1 tbsp",    "name": "vegetable oil",                              "costContribution": 0.07 },
+    { "quantity": "to taste",  "name": "salt and black pepper",                      "costContribution": 0.08 }
   ],
 
   "instructions": [
@@ -37,31 +37,31 @@
   ],
 
   "nutrition": {
-    "calories": 477,
-    "protein": 36,
-    "carbs": 60,
+    "calories": 460,
+    "protein": 35,
+    "carbs": 53,
     "fat": 12,
     "fiber": 9,
-    "sodium": 540,
+    "sodium": 510,
     "iron": "~20% DV",
     "vitaminC": "~25% DV"
   },
 
   "glutenFree": {
     "isNaturallyGF": true,
-    "notes": "All ingredients are naturally gluten-free. Verify that your chicken broth is gluten-free — most commercial broths are, but check labels on flavoured or seasoned varieties."
+    "notes": "All ingredients are naturally gluten-free. Verify that your chicken broth is gluten-free — most commercial broths are, but check labels."
   },
 
   "budgetNotes": [
-    "Ground turkey is one of the higher-cost items on this site. Substitute with ground chicken or ground pork if cheaper.",
-    "Ground beef can replace turkey at lower cost, though the nutrition profile will shift (more fat, similar protein).",
+    "Ground turkey at $16/kg is the dominant cost. It usually comes in 454 g packages — use the whole thing.",
+    "Ground chicken or ground pork can substitute at similar or lower cost depending on weekly sales.",
     "Freeze leftovers in portions. The stew reheats well with a splash of water or broth.",
-    "Add a can of corn or a cup of frozen peas in the last 5 minutes to stretch the recipe further."
+    "This is a thicker stew than a soup — only 250 mL of broth keeps it hearty rather than watery."
   ],
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa No Frills", "Ottawa Walmart"],
-    "notes": "Ground turkey is the most expensive ingredient in this recipe. Priced at approximately $12.99/kg for lean ground turkey. Substitute with a cheaper protein to reduce total cost significantly."
+    "notes": "Ground turkey at ~$16/kg (454 g package). Broth proportional from 900 mL carton at $2.69. Potatoes from 5 lb bag at $4.99."
   }
 }

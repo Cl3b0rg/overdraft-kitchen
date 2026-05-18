@@ -2,26 +2,26 @@
   "id": "taco-soup",
   "name": "Taco Soup",
   "summary": "Ground beef, beans, corn, and canned tomatoes simmered with taco spices. One of the most-saved recipes on Pinterest and Reddit for years, and it's obvious why.",
-  "totalCost": 11.68,
-  "costPerServing": 2.92,
+  "totalCost": 14.57,
+  "costPerServing": 3.64,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "25 min",
   "tags": ["beef", "beans", "soup", "fast", "high-protein", "meal-prep"],
 
   "ingredients": [
-    { "quantity": "500 g",   "name": "lean ground beef",                             "costContribution": 6.50 },
-    { "quantity": "1 can (540 mL)", "name": "red kidney beans, drained",             "costContribution": 1.29 },
-    { "quantity": "1 can (341 mL)", "name": "corn kernels, drained (or 250 g frozen)","costContribution": 1.09 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 1.09 },
-    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.50 },
-    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.22 },
+    { "quantity": "350 g",   "name": "lean ground beef",                             "costContribution": 7.00 },
+    { "quantity": "1 can (540 mL)", "name": "red kidney beans, drained",             "costContribution": 1.69 },
+    { "quantity": "1 can (341 mL)", "name": "corn kernels, drained (or 250 g frozen)","costContribution": 1.49 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 1.59 },
+    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 0.75 },
+    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.26 },
     { "quantity": "2 tsp",   "name": "chili powder",                                 "costContribution": 0.10 },
     { "quantity": "1 tsp",   "name": "ground cumin",                                 "costContribution": 0.05 },
-    { "quantity": "0.5 tsp", "name": "smoked paprika",                               "costContribution": 0.03 },
-    { "quantity": "0.5 tsp", "name": "garlic powder",                                "costContribution": 0.03 },
-    { "quantity": "500 mL",  "name": "chicken or beef broth",                        "costContribution": 0.70 },
-    { "quantity": "to taste","name": "salt, pepper, and hot sauce",                  "costContribution": 0.08 }
+    { "quantity": "0.5 tsp", "name": "smoked paprika",                               "costContribution": 0.05 },
+    { "quantity": "0.5 tsp", "name": "garlic powder",                                "costContribution": 0.05 },
+    { "quantity": "500 mL",  "name": "chicken or beef broth",                        "costContribution": 1.49 },
+    { "quantity": "to taste","name": "salt, pepper, and hot sauce",                  "costContribution": 0.05 }
   ],
 
   "instructions": [
@@ -34,10 +34,10 @@
   ],
 
   "nutrition": {
-    "calories": 487,
-    "protein": 34,
-    "carbs": 44,
-    "fat": 18,
+    "calories": 460,
+    "protein": 30,
+    "carbs": 45,
+    "fat": 16,
     "fiber": 9,
     "sodium": 640,
     "iron": "~25% DV",
@@ -51,15 +51,15 @@
   },
 
   "budgetNotes": [
-    "Toppings are listed as optional because they add cost. The soup is complete without them. A bag of store-brand tortilla chips for topping costs about $2 and goes a long way.",
+    "Lean ground beef at $20/kg is expensive. Regular ground beef at $18/kg works fine — just drain more fat after browning. Saves about $0.70 total.",
+    "350 g of beef feeds four people here because the beans carry the bulk. Do not skip the beans.",
     "This freezes very well. Make a double batch and freeze in portions for the week.",
-    "Using regular ground beef instead of lean saves about $1.50 — just drain more fat after browning.",
-    "If you want to stretch it further, add an extra can of beans or another cup of broth and serve with bread."
+    "Toppings (sour cream, cheese, chips) are not included in the cost. The soup is complete without them."
   ],
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Ground beef at lean ~$13/kg. Broth proportional from 900 mL carton. Canned corn at No Name brand."
+    "notes": "Lean ground beef at ~$20/kg. Broth proportional from 900 mL carton at $2.69. Canned corn at $1.49/can."
   }
 }

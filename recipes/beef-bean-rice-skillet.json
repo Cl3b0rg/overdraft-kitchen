@@ -2,25 +2,25 @@
   "id": "beef-bean-rice-skillet",
   "name": "Beef and Bean Rice Skillet",
   "summary": "A filling one-pan rice and beef skillet with two kinds of beans. Reheats well and gets better the next day.",
-  "totalCost": 10.78,
-  "costPerServing": 2.70,
+  "totalCost": 14.26,
+  "costPerServing": 3.57,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "30 min",
   "tags": ["gluten-free", "beef", "rice", "beans", "high-protein", "one-pan"],
 
   "ingredients": [
-    { "quantity": "450 g",    "name": "medium ground beef",          "costContribution": 4.95 },
-    { "quantity": "250 g",    "name": "dry long-grain white rice",   "costContribution": 0.56 },
-    { "quantity": "1 can (540 mL)", "name": "kidney beans, drained and rinsed", "costContribution": 1.29 },
-    { "quantity": "1 can (540 mL)", "name": "black beans, drained and rinsed",  "costContribution": 1.29 },
+    { "quantity": "400 g",    "name": "medium ground beef",          "costContribution": 7.20 },
+    { "quantity": "250 g",    "name": "dry long-grain white rice",   "costContribution": 0.69 },
+    { "quantity": "1 can (540 mL)", "name": "kidney beans, drained and rinsed", "costContribution": 1.69 },
+    { "quantity": "1 can (540 mL)", "name": "black beans, drained and rinsed",  "costContribution": 1.69 },
     { "quantity": "1 can (796 mL)", "name": "diced tomatoes",        "costContribution": 1.59 },
-    { "quantity": "1 medium",  "name": "onion, diced",               "costContribution": 0.50 },
-    { "quantity": "4 cloves",  "name": "garlic, minced",             "costContribution": 0.30 },
-    { "quantity": "1.5 tsp",   "name": "chili powder",               "costContribution": 0.05 },
+    { "quantity": "1 medium",  "name": "onion, diced",               "costContribution": 0.75 },
+    { "quantity": "4 cloves",  "name": "garlic, minced",             "costContribution": 0.35 },
+    { "quantity": "1.5 tsp",   "name": "chili powder",               "costContribution": 0.08 },
     { "quantity": "1 tsp",     "name": "ground cumin",               "costContribution": 0.05 },
     { "quantity": "0.5 tsp",   "name": "smoked paprika",             "costContribution": 0.05 },
-    { "quantity": "1 tbsp",    "name": "vegetable oil",              "costContribution": 0.10 },
+    { "quantity": "1 tbsp",    "name": "vegetable oil",              "costContribution": 0.07 },
     { "quantity": "to taste",  "name": "salt and black pepper",      "costContribution": 0.05 }
   ],
 
@@ -38,10 +38,10 @@
   ],
 
   "nutrition": {
-    "calories": 700,
-    "protein": 40,
+    "calories": 680,
+    "protein": 38,
     "carbs": 88,
-    "fat": 19,
+    "fat": 17,
     "fiber": 11,
     "sodium": 530,
     "iron": "~30% DV",
@@ -54,7 +54,7 @@
   },
 
   "budgetNotes": [
-    "Buy ground beef in larger packages when on sale and freeze in 450 g portions.",
+    "Ground beef in Ontario runs about $18/kg for medium (regular) in 2026. Buy in larger packages when on sale and freeze in portions.",
     "Use whichever canned beans are cheapest that week — pinto, romano, or chickpeas all work here.",
     "A 796 mL can of crushed tomatoes can substitute for diced tomatoes for a smoother texture.",
     "This dish scales well. Double the recipe and refrigerate portions for up to 4 days.",
@@ -64,6 +64,6 @@
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Ground beef priced at ~$10.99/kg. Canned beans and tomatoes at standard shelf price. Spice cost is proportional to package size."
+    "notes": "Ground beef at medium grade ~$18/kg. Canned beans at $1.69/can (No Name or PC brand). Rice proportional from 2 kg bag at $5.49."
   }
 }
