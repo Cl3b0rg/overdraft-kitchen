@@ -280,6 +280,24 @@ function renderIndexPage(recipes) {
     <section class="site-about">
       <p>Straightforward recipes for when money is tight. Every recipe feeds at least four people, costs under $15, and provides at least 400 calories per serving. Prices are based on Ottawa and Ontario grocery store averages for 2026.</p>
     </section>
+    <div class="site-stats" role="list">
+      <div class="stat" role="listitem">
+        <span class="stat-value">Under $15</span>
+        <span class="stat-label">feeds four people</span>
+      </div>
+      <div class="stat" role="listitem">
+        <span class="stat-value">400+ cal</span>
+        <span class="stat-label">per serving</span>
+      </div>
+      <div class="stat" role="listitem">
+        <span class="stat-value">GF option</span>
+        <span class="stat-label">on every recipe</span>
+      </div>
+      <div class="stat" role="listitem">
+        <span class="stat-value">${recipes.length} recipes</span>
+        <span class="stat-label">and counting</span>
+      </div>
+    </div>
 
     <section class="recipes-section">
       <h2 class="recipes-heading">Recipes <span class="recipe-count">${recipes.length}</span></h2>
