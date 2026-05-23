@@ -114,17 +114,28 @@ Prices are from No Frills (nofrills.ca) unless noted. Use these exact rates when
 
 ### Meat & poultry
 
+Verified at Ottawa No Frills, May 23 2026.
+
 | Ingredient | Size / format | Price | Rate used in recipes |
 |---|---|---|---|
 | Lean ground beef (Butcher's Choice) | 450 g pkg | $9.00 | **$20.00/kg** |
 | Medium ground beef (Butcher's Choice) | 450 g pkg | $8.50 | **$19.00/kg** |
 | Medium ground beef (club pack) | per kg | — | **$15.41/kg** |
-| Ground turkey (Maple Leaf) | 454 g pkg | $8.00 | **$17.62/kg** ($8.00/pkg) |
-| Ground chicken | 454 g pkg | $8.00 | **$17.62/kg** ($8.00/pkg) |
-| Boneless skinless chicken thighs (Butcher's Choice club pack) | per kg | $8.82 | **$8.82/kg** |
-| Boneless skinless chicken thighs (Maple Leaf) | per kg | $12.00 | **$12.00/kg** |
+| Ground turkey (Maple Leaf / PC Blue Menu) | 454 g pkg | $9.00 | **$19.82/kg** ($9.00/pkg) |
+| Ground chicken | 454 g pkg | $9.00 | **$19.82/kg** ($9.00/pkg) |
+| Ground pork (lean, Butcher's Choice) | 450 g pkg | $4.49 | **$9.98/kg** ($4.49/pkg) |
+| Ground pork (club pack) | per kg | — | **$11.00/kg** |
+| **Bone-in skin-on chicken thighs (club pack)** | per kg | $8.82 | **$8.82/kg** — use for soups, stews, braises, adobo |
+| Boneless skinless chicken thighs | per kg | $17.64 | **$17.64/kg** — expensive; avoid unless recipe requires it |
+| Boneless skinless chicken breasts (club pack) | per kg | $15.41 | **$15.41/kg** |
+| Whole chicken (PC Air Chilled) | per kg | $8.80 | **$8.80/kg** |
+| Pork chops, boneless centre (club pack) | per kg | $13.23 | **$13.23/kg** |
+| Half pork loin (boneless) | per kg | $9.46 | **$9.46/kg** |
+| Pork picnic shoulder | per kg | $7.72 | **$7.72/kg** — very cheap for stews |
 
-**Which rate to use:** Use the club-pack rate ($8.82/kg) for the cheapest option; use Maple Leaf ($12.00/kg) if the recipe notes a standard tray. Ground beef recipes should default to medium ($19/kg) unless the recipe specifically calls for lean ($20/kg).
+**Critical note on chicken thighs:** $8.82/kg is bone-in, skin-on. Recipes that simmer, braise, or make soup should use bone-in thighs — the meat pulls off the bone easily. Boneless skinless ($17.64/kg) is rarely affordable enough for a recipe that stays under $15. Default to bone-in for any soup, stew, or braise. For dishes where boneless pieces are genuinely required (stir-fry, teriyaki), use chicken breast at $15.41/kg and keep quantity to 400 g or less.
+
+**Which ground beef rate to use:** Default to medium ($19/kg). Use lean ($20/kg) only if the recipe specifically needs it.
 
 ### Canned goods
 
