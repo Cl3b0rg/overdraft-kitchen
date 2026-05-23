@@ -167,6 +167,7 @@ function pageLayout({ title, description, content, isRoot }) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${escapeHtml(title)}</title>
   <meta name="description" content="${escapeHtml(description)}">
+  <meta name="msvalidate.01" content="9B55CFF082D19CBE68CEA20519C74862">
   <link rel="stylesheet" href="${base}styles/main.css">
 </head>
 <body>
