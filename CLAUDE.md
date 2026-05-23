@@ -226,7 +226,7 @@ Avoid: influencer language, fake storytelling, "life changing" claims, SEO fille
 
 ## Current recipe count
 
-84 recipes as of May 2026.
+82 recipes as of May 2026.
 
 ## Git identity (this machine)
 
