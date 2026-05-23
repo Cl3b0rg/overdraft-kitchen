@@ -168,6 +168,7 @@ function pageLayout({ title, description, content, isRoot }) {
   <title>${escapeHtml(title)}</title>
   <meta name="description" content="${escapeHtml(description)}">
   <meta name="msvalidate.01" content="9B55CFF082D19CBE68CEA20519C74862">
+  <meta name="google-site-verification" content="dGLR95j9KdelSnpB5EdR7TIBH9mhT-M7zPn5CzQiNHA">
   <link rel="stylesheet" href="${base}styles/main.css">
 </head>
 <body>
