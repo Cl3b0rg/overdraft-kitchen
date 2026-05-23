@@ -1,0 +1,68 @@
+{
+  "id": "bigos",
+  "name": "Bigos (Hunter's Stew)",
+  "summary": "Poland's national dish: sauerkraut slow-simmered with kielbasa, canned tomatoes, onion, cremini mushrooms, bay leaves, and allspice until deeply flavoured. Serve with bread.",
+  "totalCost": 13.54,
+  "costPerServing": 3.39,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "60 min",
+  "tags": ["polish", "pork", "soup", "meal-prep", "high-protein"],
+
+  "ingredients": [
+    { "quantity": "300 g",          "name": "kielbasa (Pillers kolbassa), sliced into rounds", "costContribution": 5.99 },
+    { "quantity": "500 mL",         "name": "sauerkraut (from 1 L jar or bag), rinsed",        "costContribution": 2.15 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                                  "costContribution": 2.00 },
+    { "quantity": "1 medium",       "name": "onion, diced",                                    "costContribution": 1.23 },
+    { "quantity": "150 g",          "name": "cremini mushrooms, sliced",                       "costContribution": 1.97 },
+    { "quantity": "2",              "name": "bay leaves",                                      "costContribution": 0.05 },
+    { "quantity": "4 whole",        "name": "allspice berries (or 0.25 tsp ground)",           "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",        "name": "black pepper",                                    "costContribution": 0.03 },
+    { "quantity": "1 tbsp",         "name": "vegetable oil",                                   "costContribution": 0.06 },
+    { "quantity": "125 mL",         "name": "water",                                           "costContribution": 0.00 },
+    { "quantity": "to taste",       "name": "salt",                                            "costContribution": 0.01 }
+  ],
+
+  "instructions": [
+    "Heat oil in a large heavy pot over medium-high heat. Add kielbasa rounds and brown on both sides, about 4 minutes. Remove and set aside.",
+    "In the same pot, add onion and cook over medium heat until softened and lightly golden, about 6 minutes.",
+    "Add mushrooms and cook until they release their moisture and begin to brown, about 5 minutes.",
+    "Rinse the sauerkraut under cold water if you prefer a milder flavour, or add it unrinsed for a more sour result. Add sauerkraut, diced tomatoes (with juice), kielbasa, bay leaves, allspice, and black pepper.",
+    "Add water or broth. Stir to combine. Bring to a simmer, then reduce heat to low. Cover and cook 45–50 minutes, stirring occasionally, until the stew is thick and the flavours have melded.",
+    "Remove bay leaves. Taste and adjust salt — the sauerkraut and kielbasa both contribute salt, so add carefully.",
+    "Serve in bowls with bread for dipping. Bigos tastes better the next day after the flavours have continued to develop."
+  ],
+
+  "nutrition": {
+    "calories": 410,
+    "protein": 22,
+    "carbs": 22,
+    "fat": 26,
+    "fiber": 7,
+    "sodium": 1480,
+    "iron": "~20% DV",
+    "calcium": "~8% DV",
+    "vitaminC": "~35% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "kielbasa", "substitute": "check label — some sausages contain fillers with gluten", "costNote": "no cost change; verify the specific brand" }
+    ],
+    "notes": "The stew base is gluten-free. Pillers kolbassa is generally gluten-free but check the package. Skip the bread accompaniment or use GF bread."
+  },
+
+  "budgetNotes": [
+    "Kielbasa is now $7.49 per 375g package at No Frills (up from the previously listed $6.50). This recipe uses 300g of the package, leaving 75g for another use.",
+    "A 1L jar of No Name wine sauerkraut is $4.29 — the recipe uses roughly half the jar ($2.15 allocated). Leftover sauerkraut keeps indefinitely in the fridge.",
+    "Cremini mushrooms at approximately $2.99 per 227g pack; 150g used = $1.97 (proportional). White button mushrooms from the loose bin are cheaper if available.",
+    "Bigos freezes very well. Make a double batch and freeze half for another night."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills"],
+    "notes": "Kielbasa (Pillers) $7.49/375g (verified May 2026); 300g used = $5.99. Sauerkraut No Name 1L jar $4.29; 500mL used = $2.15. Diced tomatoes $2.00. Onion $1.23. Cremini mushrooms ~$2.99/227g pack; 150g = $2.99 × (150/227) = $1.97. Water instead of broth to save $0.21. Oil $0.42/100mL; 1 tbsp = $0.06."
+  }
+}

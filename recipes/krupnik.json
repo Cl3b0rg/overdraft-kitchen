@@ -1,0 +1,69 @@
+{
+  "id": "krupnik",
+  "name": "Krupnik (Polish Barley Soup)",
+  "summary": "An ancient Polish peasant soup of pearl barley, potato, carrot, celery, and onion in chicken broth with bay leaves and dried marjoram. The barley thickens it as it cooks.",
+  "totalCost": 6.38,
+  "costPerServing": 1.60,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "45 min",
+  "tags": ["polish", "vegetarian", "soup", "meal-prep", "high-fiber"],
+
+  "ingredients": [
+    { "quantity": "900 mL",   "name": "No Name chicken broth",                 "costContribution": 1.50 },
+    { "quantity": "900 mL",   "name": "water",                                 "costContribution": 0.00 },
+    { "quantity": "225 g",    "name": "pearl barley (PC Blue Menu)",           "costContribution": 1.25 },
+    { "quantity": "3 medium", "name": "russet potatoes, peeled and diced",     "costContribution": 0.33 },
+    { "quantity": "2 medium", "name": "carrots, peeled and diced",             "costContribution": 0.59 },
+    { "quantity": "2 stalks", "name": "celery, diced",                         "costContribution": 0.60 },
+    { "quantity": "1 medium", "name": "onion, diced",                          "costContribution": 1.23 },
+    { "quantity": "2 cloves", "name": "garlic, minced",                        "costContribution": 0.16 },
+    { "quantity": "3 tbsp",   "name": "butter",                                "costContribution": 0.57 },
+    { "quantity": "2",        "name": "bay leaves",                            "costContribution": 0.05 },
+    { "quantity": "1 tsp",    "name": "dried marjoram",                        "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",  "name": "black pepper",                          "costContribution": 0.03 },
+    { "quantity": "to taste", "name": "salt",                                  "costContribution": 0.02 }
+  ],
+
+  "instructions": [
+    "Rinse pearl barley under cold water. In a large pot, combine barley with chicken broth and water. Bring to a boil, then reduce heat to medium-low and simmer uncovered for 20 minutes while you prepare the vegetables.",
+    "Melt butter in a skillet over medium heat. Add onion and cook until softened and translucent, about 6 minutes. Add garlic and cook 1 minute more. This step adds depth — do not skip it.",
+    "Add the sauteed onion and garlic, diced potatoes, carrots, celery, bay leaves, marjoram, and black pepper to the pot with the partially cooked barley.",
+    "Simmer covered over medium-low heat for another 25–30 minutes, until barley is fully tender and the potatoes are soft. The soup will thicken considerably as the barley starch releases.",
+    "Remove bay leaves. Taste and add salt as needed. If the soup is too thick, add more water or broth to reach your preferred consistency.",
+    "Ladle into bowls. A small knob of butter stirred in at the end is traditional and adds richness."
+  ],
+
+  "nutrition": {
+    "calories": 430,
+    "protein": 11,
+    "carbs": 78,
+    "fat": 10,
+    "fiber": 13,
+    "sodium": 560,
+    "iron": "~18% DV",
+    "calcium": "~6% DV",
+    "vitaminC": "~18% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "pearl barley", "substitute": "rice (same quantity) or certified GF oats", "costNote": "rice is cheaper; removes the GF barrier at no extra cost" }
+    ],
+    "notes": "Barley contains gluten. Substituting rice makes this soup naturally gluten-free, though the texture and thickness will differ."
+  },
+
+  "budgetNotes": [
+    "Pearl barley (PC Blue Menu 450g) at $2.50; 225g used = $1.25. Barley is one of the cheapest whole grains available.",
+    "Using 225g of dry barley produces a very thick, almost stew-like consistency. It will continue thickening as it sits — add water when reheating.",
+    "The soup keeps and reheats well for 4 days. It thickens significantly overnight; loosen with broth or water.",
+    "Adding a beaten egg swirled in during the last few minutes increases protein and calories at minimal cost."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills"],
+    "notes": "Broth $1.50/900mL. Barley PC Blue Menu $2.50/450g; 225g = $1.25. Potatoes $0.44/kg; 3 medium ≈ 750g = $0.33. Carrots $2.93/kg; 2 medium ≈ 200g = $0.59. Celery $2.99/bunch; 2 stalks = $0.60. Onion $1.23. Garlic $0.08 × 2 = $0.16. Butter $1.36/100g; 3 tbsp ≈ 42g = $0.57."
+  }
+}

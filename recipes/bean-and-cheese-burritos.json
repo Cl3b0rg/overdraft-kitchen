@@ -1,0 +1,66 @@
+{
+  "id": "bean-and-cheese-burritos",
+  "name": "Bean and Cheese Burritos",
+  "summary": "Canned black beans mashed with cumin and garlic, rolled in flour tortillas with cheddar and warmed in a pan. Two burritos per person.",
+  "totalCost": 7.66,
+  "costPerServing": 1.92,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "15 min",
+  "tags": ["kid-friendly", "lunch", "vegetarian", "high-protein", "fast"],
+
+  "ingredients": [
+    { "quantity": "8",        "name": "flour tortillas (10-pack, No Name)",         "costContribution": 2.15 },
+    { "quantity": "2 cans (540 mL each)", "name": "black beans, drained and rinsed", "costContribution": 3.00 },
+    { "quantity": "150 g",    "name": "cheddar cheese, shredded",                    "costContribution": 2.15 },
+    { "quantity": "1 tsp",    "name": "ground cumin",                                "costContribution": 0.05 },
+    { "quantity": "0.5 tsp",  "name": "garlic powder",                               "costContribution": 0.02 },
+    { "quantity": "0.5 tsp",  "name": "chili powder",                                "costContribution": 0.02 },
+    { "quantity": "1 tbsp",   "name": "vegetable oil",                               "costContribution": 0.06 },
+    { "quantity": "to taste", "name": "salt",                                        "costContribution": 0.01 },
+    { "quantity": "optional", "name": "salsa or hot sauce for serving",              "costContribution": 0.20 }
+  ],
+
+  "instructions": [
+    "Drain and rinse the black beans thoroughly. Transfer to a bowl and mash roughly with a fork or potato masher — leave some texture, do not puree completely.",
+    "Stir in cumin, garlic powder, chili powder, and salt. Taste and adjust seasoning.",
+    "Warm tortillas briefly in the microwave (30 seconds wrapped in a damp paper towel) or directly in a dry pan for 15 seconds per side. This makes them pliable and less likely to crack.",
+    "Lay each tortilla flat. Spoon a generous stripe of bean filling down the centre, leaving 5 cm clear at the top and bottom. Add a layer of shredded cheddar over the beans.",
+    "Fold the two short ends in, then roll the burrito closed from one side. Press gently to hold.",
+    "Heat oil in a large skillet over medium heat. Cook burritos seam-side down for 2–3 minutes until lightly browned and crisp. Flip and cook the other side 1–2 minutes.",
+    "Serve with salsa or hot sauce if available."
+  ],
+
+  "nutrition": {
+    "calories": 480,
+    "protein": 21,
+    "carbs": 66,
+    "fat": 14,
+    "fiber": 14,
+    "sodium": 680,
+    "iron": "~25% DV",
+    "calcium": "~25% DV",
+    "vitaminC": "~5% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "flour tortillas", "substitute": "corn tortillas (make smaller tacos instead of burritos)", "costNote": "corn tortillas are comparable in price; the assembly changes but cost stays similar" }
+    ],
+    "notes": "Beans and cheese are gluten-free. Corn tortillas cannot be rolled into burritos — fold them as tacos instead and serve 3–4 per person."
+  },
+
+  "budgetNotes": [
+    "No Name 10-pack tortillas at $2.69. You use 8 of 10, so $2.15 allocated.",
+    "Two cans of black beans at $1.50 each. You could use one can and add extra cheese, but the fiber and protein from two cans justify the cost.",
+    "Mashing the beans creates a creamy, spreadable filling that holds together better than whole beans in a burrito.",
+    "Leftover bean filling keeps for 3 days in the fridge and works on toast or with eggs."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills"],
+    "notes": "No Name tortillas 10-pack $2.69, 8 of 10 used = $2.15. Black beans $1.50/can × 2 = $3.00. Cheddar $1.43/100g × 150g = $2.15. Oil $0.42/100mL, 1 tbsp ≈ 15mL = $0.06. Spices estimated."
+  }
+}

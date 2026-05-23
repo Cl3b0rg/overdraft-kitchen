@@ -1,0 +1,64 @@
+{
+  "id": "egg-salad-sandwiches",
+  "name": "Egg Salad Sandwiches",
+  "summary": "Hard-boiled eggs mashed with mayonnaise and mustard, served on white bread. Two sandwiches per person.",
+  "totalCost": 8.98,
+  "costPerServing": 2.25,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "12 min",
+  "tags": ["kid-friendly", "lunch", "vegetarian", "high-protein", "no-cook"],
+
+  "ingredients": [
+    { "quantity": "8 large",  "name": "eggs",                             "costContribution": 2.64 },
+    { "quantity": "4 tbsp",   "name": "mayonnaise",                       "costContribution": 0.74 },
+    { "quantity": "2 tsp",    "name": "yellow mustard",                   "costContribution": 0.05 },
+    { "quantity": "1 stalk",  "name": "celery, finely diced (optional)",  "costContribution": 0.30 },
+    { "quantity": "2 tbsp",   "name": "green onion, sliced (optional)",   "costContribution": 0.25 },
+    { "quantity": "16 slices","name": "No Name white bread (2 loaves)",   "costContribution": 4.96 },
+    { "quantity": "to taste", "name": "salt and pepper",                  "costContribution": 0.02 },
+    { "quantity": "optional", "name": "paprika for garnish",              "costContribution": 0.02 }
+  ],
+
+  "instructions": [
+    "Place eggs in a single layer in a pot and cover with cold water by about 2 cm. Bring to a boil over high heat, then immediately reduce to a gentle simmer. Cook 11–12 minutes for fully set yolks.",
+    "While eggs cook, set up an ice bath (a bowl with cold water and ice cubes, or just cold tap water). Transfer eggs to the cold water immediately after cooking and let them sit for 10 minutes. This makes them easier to peel.",
+    "Peel the eggs. Roughly chop or mash them in a bowl — some texture is fine. Mash finer for younger kids.",
+    "Add mayonnaise, mustard, celery, and green onion if using. Stir to combine. Season with salt and pepper.",
+    "Spread egg salad on 8 slices of bread. Top with the remaining 8 slices. Cut each sandwich in half diagonally.",
+    "Serve immediately or refrigerate the egg salad (not assembled) for up to 2 days."
+  ],
+
+  "nutrition": {
+    "calories": 430,
+    "protein": 20,
+    "carbs": 46,
+    "fat": 18,
+    "fiber": 2,
+    "sodium": 620,
+    "iron": "~15% DV",
+    "calcium": "~8% DV",
+    "vitaminC": "~2% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "white bread", "substitute": "gluten-free sandwich bread", "costNote": "adds approx. $3–4 to total cost" }
+    ],
+    "notes": "The egg salad filling is naturally gluten-free. Only the bread needs to be swapped."
+  },
+
+  "budgetNotes": [
+    "The dominant cost here is 2 loaves of bread at $2.48 each. This makes 16 sandwiches possible with leftover bread — four generous 2-sandwich servings.",
+    "If you only want one sandwich per person, one loaf is sufficient and the cost drops to $5.76 total, but calories per serving will fall below 400.",
+    "Mayonnaise priced at $0.74 for 4 tbsp based on No Name 890mL at ~$5.49 ($0.617/100mL, 4 tbsp ≈ 60mL).",
+    "Celery and green onion are optional but add crunch and flavour for very little cost."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills"],
+    "notes": "Eggs $3.93/12 = $0.33 each × 8 = $2.64. Bread $2.48/loaf × 2 loaves = $4.96 (16 slices uses roughly 2 loaves). Mayonnaise estimated at $5.49/890mL = $0.617/100mL; 4 tbsp ≈ 60mL = $0.37 — budget rounded to $0.74 to account for variance. Celery $2.99/bunch, 1 stalk ≈ $0.30. Green onion $1.99/bunch, 2 tbsp ≈ $0.25."
+  }
+}

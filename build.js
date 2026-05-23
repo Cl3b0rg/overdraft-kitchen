@@ -184,7 +184,7 @@ function pageLayout({ title, description, content, isRoot }) {
   </main>
   <footer class="site-footer">
     <div class="container">
-      <p>Prices are estimates based on Ottawa and Ontario grocery store averages. Last verified May 2026. Nutritional values are estimates. Regional prices vary.</p>
+      <p>Prices are estimates based on Ottawa and Ontario grocery store averages. Last verified May 23, 2026. Nutritional values are estimates. Regional prices vary.</p>
     </div>
   </footer>
 </body>

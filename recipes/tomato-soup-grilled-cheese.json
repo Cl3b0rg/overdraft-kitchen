@@ -1,0 +1,61 @@
+{
+  "id": "tomato-soup-grilled-cheese",
+  "name": "Tomato Soup and Grilled Cheese",
+  "summary": "Two cans of condensed tomato soup made with milk, served with pan-fried cheddar sandwiches on white bread. Four servings of each.",
+  "totalCost": 9.62,
+  "costPerServing": 2.41,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "20 min",
+  "tags": ["kid-friendly", "lunch", "vegetarian", "fast", "comfort-food"],
+
+  "ingredients": [
+    { "quantity": "2 cans (284 mL each)", "name": "No Name condensed tomato soup", "costContribution": 2.98 },
+    { "quantity": "500 mL",               "name": "whole or 2% milk",               "costContribution": 0.70 },
+    { "quantity": "8 slices",             "name": "No Name white bread (675 g loaf)","costContribution": 2.48 },
+    { "quantity": "200 g",               "name": "cheddar cheese, sliced or grated", "costContribution": 2.86 },
+    { "quantity": "3 tbsp",              "name": "butter",                           "costContribution": 0.58 },
+    { "quantity": "to taste",            "name": "salt and pepper",                  "costContribution": 0.02 }
+  ],
+
+  "instructions": [
+    "Open both cans of condensed tomato soup and pour into a medium pot. Add 2 cans (568 mL) of milk, whisking to combine. Do not add water — milk makes a creamier soup. Heat over medium, stirring occasionally, until hot but not boiling. Season with salt and pepper. Keep warm on low.",
+    "While the soup heats, assemble the sandwiches: divide the cheese evenly across 4 slices of bread and top each with a second slice.",
+    "Heat a large skillet or griddle over medium heat. Add butter and let it melt, tilting to coat the pan.",
+    "Cook sandwiches in batches if needed, 2–3 minutes per side, pressing gently with a spatula, until both sides are golden and the cheese is melted. Add a little more butter between batches if the pan looks dry.",
+    "Cut sandwiches in half. Ladle soup into bowls and serve the sandwich halves alongside for dipping."
+  ],
+
+  "nutrition": {
+    "calories": 490,
+    "protein": 20,
+    "carbs": 52,
+    "fat": 22,
+    "fiber": 3,
+    "sodium": 980,
+    "iron": "~15% DV",
+    "calcium": "~35% DV",
+    "vitaminC": "~10% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "white bread", "substitute": "gluten-free sandwich bread", "costNote": "adds approx. $3–4 to total cost" }
+    ],
+    "notes": "Condensed tomato soup is typically gluten-free but check the label. The sandwiches require a GF bread swap."
+  },
+
+  "budgetNotes": [
+    "No Name condensed tomato soup is generally $1.29–$1.49 per 284 mL can. Campbell's costs about the same. Priced here at $1.49 each.",
+    "Milk is priced at $0.70 for 500 mL based on a 2L carton at roughly $2.79. Use whatever milk you have.",
+    "50g per sandwich (200g total) is enough cheddar to melt properly. Don't go lower.",
+    "A full 675g loaf of No Name bread at $2.48 covers the 8 slices here with about 4 slices left over."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "notes": "Condensed tomato soup $1.49/284mL can (No Frills, estimate). No Name bread $2.48/675g (confirmed). Cheddar $1.43/100g = $2.86 for 200g. Butter $1.36/100g, 3 tbsp (~42g) = $0.57. Milk estimated at $0.70 for 500mL."
+  }
+}

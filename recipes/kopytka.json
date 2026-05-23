@@ -1,0 +1,68 @@
+{
+  "id": "kopytka",
+  "name": "Kopytka (Polish Potato Dumplings)",
+  "summary": "Boiled mashed potatoes mixed with flour and egg to make thick dumplings, then pan-fried in butter with caramelized onion and topped with sour cream.",
+  "totalCost": 5.54,
+  "costPerServing": 1.39,
+  "servings": 4,
+  "prepTime": "30 min",
+  "cookTime": "30 min",
+  "tags": ["polish", "vegetarian", "comfort-food"],
+
+  "ingredients": [
+    { "quantity": "1 kg",     "name": "russet potatoes (about 4 large)",         "costContribution": 0.44 },
+    { "quantity": "200 g",    "name": "all-purpose flour, plus extra for dusting","costContribution": 0.30 },
+    { "quantity": "1 large",  "name": "egg",                                     "costContribution": 0.33 },
+    { "quantity": "1 tsp",    "name": "salt",                                    "costContribution": 0.01 },
+    { "quantity": "3 tbsp",   "name": "butter",                                  "costContribution": 0.57 },
+    { "quantity": "2 medium", "name": "onions, thinly sliced",                   "costContribution": 2.46 },
+    { "quantity": "250 mL",   "name": "No Name sour cream (500 mL container)",   "costContribution": 1.40 },
+    { "quantity": "1 tsp",    "name": "sugar (for onion caramelization)",        "costContribution": 0.01 },
+    { "quantity": "to taste", "name": "salt and pepper",                         "costContribution": 0.02 }
+  ],
+
+  "instructions": [
+    "Peel and quarter the potatoes. Boil in salted water until fully tender, about 20 minutes. Drain thoroughly and let steam dry in the pot for 2 minutes — excess moisture will make the dough sticky.",
+    "While potatoes are hot, mash them until completely smooth with no lumps. Do not add milk or butter at this stage. Let the mash cool to just warm (not hot, or the egg will cook on contact).",
+    "Beat the egg lightly and add it to the mash along with 1 tsp salt. Add flour gradually, mixing after each addition, until a soft dough forms. It will be tacky. Add just enough flour so the dough is workable — typically 180–220g depending on potato moisture. Do not over-flour; kopytka should be soft.",
+    "Flour a work surface generously. Divide dough into 4 portions. Roll each portion into a log about 2 cm thick. Cut diagonally into pieces about 3 cm long — they should look like small elongated diamonds.",
+    "Bring a large pot of salted water to a boil. Cook kopytka in batches — do not overcrowd. They are done about 1 minute after they float to the surface. Remove with a slotted spoon.",
+    "In a large skillet, melt butter over medium-low heat. Add onions and sugar. Cook, stirring occasionally, for 15–20 minutes until golden and caramelized. Season with salt and pepper.",
+    "Add cooked kopytka to the skillet with the onions. Toss to coat and fry for 2–3 minutes until the dumplings have some golden spots.",
+    "Serve topped with a generous spoonful of sour cream."
+  ],
+
+  "nutrition": {
+    "calories": 510,
+    "protein": 11,
+    "carbs": 78,
+    "fat": 18,
+    "fiber": 5,
+    "sodium": 620,
+    "iron": "~15% DV",
+    "calcium": "~12% DV",
+    "vitaminC": "~30% DV"
+  },
+
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "all-purpose flour", "substitute": "gluten-free all-purpose flour blend (same quantity)", "costNote": "GF flour runs $3–5 for 500g vs $1.52/kg for regular; adds about $1 to total" }
+    ],
+    "notes": "The potato and sour cream are gluten-free. GF flour works in this recipe but the dough may be stickier — use well-floured hands and surface."
+  },
+
+  "budgetNotes": [
+    "Russet potatoes from the 10 lb bag at $1.99 ($0.44/kg). 1 kg = $0.44.",
+    "Flour at $3.79/2.5kg = $1.52/kg; 200g = $0.30.",
+    "Sour cream at $2.79/500mL; recipe uses 250mL = $1.40.",
+    "The two onions are the second largest cost — caramelizing them properly takes time but transforms the dish.",
+    "Kopytka keep in the fridge for 2 days. Reheat by pan-frying with a bit more butter."
+  ],
+
+  "pricingMetadata": {
+    "updatedAt": "May 2026",
+    "sources": ["Ottawa No Frills"],
+    "notes": "Russet potatoes $1.99/10lb bag = $0.44/kg; 1kg = $0.44. Flour No Name 2.5kg $3.79 = $1.52/kg; 200g = $0.30. Egg $0.33. Butter $1.36/100g; 3 tbsp ≈ 42g = $0.57. Onions $1.23 each × 2 = $2.46. Sour cream No Name 500mL $2.79; 250mL = $1.40. Sour cream allocated at half-container price."
+  }
+}
