@@ -2,33 +2,105 @@
   "id": "loaded-potato-soup",
   "name": "Loaded Baked Potato Soup",
   "summary": "Thick, creamy potato soup with bacon and cheddar. One of the top-rated recipes on Pinterest and Budget Bytes for years, and one of the better uses of a $4 bag of potatoes.",
-  "totalCost": 11.18,
-  "costPerServing": 2.80,
+  "totalCost": 11.65,
+  "costPerServing": 2.91,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "35 min",
-  "tags": ["pork", "potatoes", "soup", "comfort-food", "high-protein"],
-
-  "ingredients": [
-    { "quantity": "1 kg",    "name": "russet or Yukon Gold potatoes, peeled and diced","costContribution": 0.44 },
-    { "quantity": "150 g",   "name": "bacon, roughly chopped",                        "costContribution": 2.80 },
-    { "quantity": "1 medium","name": "onion, diced",                                  "costContribution": 1.23 },
-    { "quantity": "3 cloves","name": "garlic, minced",                                "costContribution": 0.24 },
-    { "quantity": "900 mL",  "name": "chicken broth",                                 "costContribution": 1.50 },
-    { "quantity": "250 mL",  "name": "milk",                                          "costContribution": 0.38 },
-    { "quantity": "2 tbsp",  "name": "butter",                                        "costContribution": 0.38 },
-    { "quantity": "3 tbsp",  "name": "flour",                                         "costContribution": 0.05 },
-    { "quantity": "100 g",   "name": "shredded cheddar cheese",                       "costContribution": 1.87 },
-    { "quantity": "0.5 cup", "name": "sour cream",                                    "costContribution": 0.75 },
-    { "quantity": "3",       "name": "green onions, sliced",                          "costContribution": 1.00 },
-    { "quantity": "0.5 tsp", "name": "smoked paprika",                                "costContribution": 0.03 },
-    { "quantity": "to taste","name": "salt and black pepper",                         "costContribution": 0.03 },
-    { "quantity": "0.5 tsp", "name": "onion powder",                                  "costContribution": 0.03 },
-    { "quantity": "0.5 tsp", "name": "garlic powder",                                 "costContribution": 0.03 },
-    { "quantity": "0.25 tsp","name": "cayenne pepper (optional)",                     "costContribution": 0.02 },
-    { "quantity": "1 tbsp",  "name": "chives or extra green onion (optional)",        "costContribution": 0.40 }
+  "tags": [
+    "pork",
+    "potatoes",
+    "soup",
+    "comfort-food",
+    "high-protein"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "1 kg",
+      "name": "russet or Yukon Gold potatoes, peeled and diced",
+      "costContribution": 0.88
+    },
+    {
+      "quantity": "150 g",
+      "name": "bacon, roughly chopped",
+      "costContribution": 2.8
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.24
+    },
+    {
+      "quantity": "900 mL",
+      "name": "chicken broth",
+      "costContribution": 1.69
+    },
+    {
+      "quantity": "250 mL",
+      "name": "milk",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "butter",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "3 tbsp",
+      "name": "flour",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "100 g",
+      "name": "shredded cheddar cheese",
+      "costContribution": 1.87
+    },
+    {
+      "quantity": "0.5 cup",
+      "name": "sour cream",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "3",
+      "name": "green onions, sliced",
+      "costContribution": 1
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "onion powder",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "garlic powder",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "0.25 tsp",
+      "name": "cayenne pepper (optional)",
+      "costContribution": 0.02
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "chives or extra green onion (optional)",
+      "costContribution": 0.4
+    }
+  ],
   "instructions": [
     "In a large pot over medium heat, cook the bacon until crispy. Remove with a slotted spoon and set aside, leaving the fat in the pot.",
     "Add onion to the pot. Cook in the bacon fat for 5 minutes until softened.",
@@ -43,7 +115,6 @@
     "Taste and adjust salt and pepper.",
     "Serve topped with remaining cheddar, bacon, and green onions."
   ],
-
   "nutrition": {
     "calories": 488,
     "protein": 20,
@@ -55,7 +126,6 @@
     "calcium": "~20% DV",
     "vitaminC": "~25% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
@@ -67,17 +137,18 @@
     ],
     "notes": "Potatoes, bacon, and dairy are naturally gluten-free. Use a GF broth and cornstarch thickener to make this fully GF."
   },
-
   "budgetNotes": [
     "Sodium is high. The bacon and broth together contribute most of it. Use low-sodium broth if this is a concern.",
     "Potatoes vary significantly in price in Ontario. A 10 lb bag is almost always a better deal per kilogram than a 5 lb bag.",
     "The sour cream and second portion of cheddar are listed as toppings and can be reduced or skipped to cut cost by about $1.50.",
     "This keeps well for 3–4 days but thickens considerably in the fridge. Add a splash of milk when reheating."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Russet potatoes $0.44/kg from 10 lb bag ($1.99). Broth $1.50/900mL carton. Butter $1.36/100g (2 tbsp ≈ 28g = $0.38). Onion $1.23 each. Green onions $1.99/bunch. Bacon, cheddar, and sour cream estimated from standard shelf prices."
   }
 }

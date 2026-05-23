@@ -2,26 +2,71 @@
   "id": "chicken-and-potato-bake",
   "name": "One-Pan Chicken Thighs and Potatoes",
   "summary": "Chicken thighs and potatoes roasted together on one pan with garlic and herbs. Minimal prep, almost no cleanup, and consistently one of the most-recommended beginner recipes online.",
-  "totalCost": 13.38,
-  "costPerServing": 3.35,
+  "totalCost": 13.57,
+  "costPerServing": 3.39,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "45 min",
-  "tags": ["chicken", "potatoes", "one-pan", "high-protein", "oven", "gluten-free"],
-
-  "ingredients": [
-    { "quantity": "1.2 kg",  "name": "bone-in skin-on chicken thighs (about 6)",    "costContribution": 10.58 },
-    { "quantity": "800 g",   "name": "Yukon Gold or russet potatoes, cut into chunks","costContribution": 0.35 },
-    { "quantity": "1 medium","name": "onion, cut into wedges",                       "costContribution": 1.23 },
-    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.32 },
-    { "quantity": "3 tbsp",  "name": "olive or vegetable oil",                       "costContribution": 0.19 },
-    { "quantity": "1 tsp",   "name": "smoked paprika",                               "costContribution": 0.08 },
-    { "quantity": "1 tsp",   "name": "dried thyme or rosemary",                      "costContribution": 0.05 },
-    { "quantity": "0.5 tsp", "name": "garlic powder",                                "costContribution": 0.03 },
-    { "quantity": "1 (optional)", "name": "lemon, halved",                           "costContribution": 0.50 },
-    { "quantity": "to taste","name": "salt and black pepper",                        "costContribution": 0.05 }
+  "tags": [
+    "chicken",
+    "potatoes",
+    "one-pan",
+    "high-protein",
+    "oven",
+    "gluten-free"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "1.2 kg",
+      "name": "bone-in skin-on chicken thighs (about 6)",
+      "costContribution": 10.58
+    },
+    {
+      "quantity": "800 g",
+      "name": "Yukon Gold or russet potatoes, cut into chunks",
+      "costContribution": 0.7
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, cut into wedges",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "3 tbsp",
+      "name": "olive or vegetable oil",
+      "costContribution": 0.19
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.08
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried thyme or rosemary",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "garlic powder",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 (optional)",
+      "name": "lemon, halved",
+      "costContribution": 0.5
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
   "instructions": [
     "Preheat oven to 425°F (220°C).",
     "In a large bowl, toss potato chunks and onion wedges with 2 tbsp oil, garlic, half the paprika, half the thyme, salt, and pepper. Spread in a single layer on a large baking sheet.",
@@ -31,7 +76,6 @@
     "Roast for 40–45 minutes until the chicken skin is deeply golden and crispy, and the potatoes are tender and browned on the edges. Check that the thickest part of the chicken reaches 165°F (74°C).",
     "Let rest 5 minutes before serving."
   ],
-
   "nutrition": {
     "calories": 558,
     "protein": 42,
@@ -43,22 +87,22 @@
     "calcium": "~4% DV",
     "vitaminC": "~30% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": true,
     "notes": "All ingredients are naturally gluten-free."
   },
-
   "budgetNotes": [
     "Cut the potatoes into similar-sized pieces so they cook evenly. Too large and they stay raw in the middle; too small and they burn before the chicken is done.",
     "Do not crowd the pan. If pieces are piled on top of each other, they steam instead of roast and won't brown. Use two pans if needed.",
     "The potatoes cook in the chicken fat that drips off during roasting. This is the main reason they taste good.",
     "A 10 lb bag of russet potatoes runs $1.99. You're using less than half. This is a very cheap ingredient across multiple meals."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Bone-in skin-on thighs $8.82/kg (club pack), 1.2kg = $10.58. Russet potatoes $0.44/kg from 10 lb bag ($1.99). Onion $1.23 each. Oil $0.42/100mL (3 tbsp ≈ 45mL = $0.19)."
   }
 }

@@ -127,13 +127,13 @@ Verified at Ottawa No Frills, May 23 2026.
 | Ground pork (club pack) | per kg | — | **$11.00/kg** |
 | **Bone-in skin-on chicken thighs (club pack)** | per kg | $8.82 | **$8.82/kg** — use for soups, stews, braises, adobo |
 | Boneless skinless chicken thighs | per kg | $17.64 | **$17.64/kg** — expensive; avoid unless recipe requires it |
-| Boneless skinless chicken breasts (club pack) | per kg | $15.41 | **$15.41/kg** |
+| Boneless skinless chicken breasts (PC Blue Menu) | per kg | $19.00 | **$19.00/kg** (confirmed) |
 | Whole chicken (PC Air Chilled) | per kg | $8.80 | **$8.80/kg** |
 | Pork chops, boneless centre (club pack) | per kg | $13.23 | **$13.23/kg** |
 | Half pork loin (boneless) | per kg | $9.46 | **$9.46/kg** |
 | Pork picnic shoulder | per kg | $7.72 | **$7.72/kg** — very cheap for stews |
 
-**Critical note on chicken thighs:** $8.82/kg is bone-in, skin-on. Recipes that simmer, braise, or make soup should use bone-in thighs — the meat pulls off the bone easily. Boneless skinless ($17.64/kg) is rarely affordable enough for a recipe that stays under $15. Default to bone-in for any soup, stew, or braise. For dishes where boneless pieces are genuinely required (stir-fry, teriyaki), use chicken breast at $15.41/kg and keep quantity to 400 g or less.
+**Critical note on chicken thighs:** $8.82/kg is bone-in, skin-on. Recipes that simmer, braise, or make soup should use bone-in thighs — the meat pulls off the bone easily. Boneless skinless ($17.64/kg) is rarely affordable enough for a recipe that stays under $15. Default to bone-in for any soup, stew, or braise. For dishes where boneless pieces are genuinely required (stir-fry, teriyaki), use chicken breast at $19.00/kg (PC Blue Menu, confirmed) and keep quantity to 400 g or less.
 
 **Which ground beef rate to use:** Default to medium ($19/kg). Use lean ($20/kg) only if the recipe specifically needs it.
 
@@ -149,8 +149,8 @@ Verified at Ottawa No Frills, May 23 2026.
 | Chickpeas | 540 mL | $1.50 | No Name |
 | White kidney beans | 540 mL | $1.50 | No Name |
 | Corn kernels | 341 mL | $1.25 | No Name |
-| Chicken broth | 900 mL | $1.50 | No Name |
-| Beef broth | 900 mL | ~$1.50 | No Name (estimate — same shelf as chicken) |
+| Chicken broth | 900 mL | $1.69 | Campbell's — cheapest; No Name is $1.79 |
+| Beef broth | 900 mL | $1.69 | Campbell's — same price as chicken broth |
 | Coconut milk (full-fat) | 400 mL | $2.80 | Thai Kitchen |
 | Tomato paste | 156 mL | ~$1.00 | No Name (estimate) |
 
@@ -158,15 +158,16 @@ Verified at Ottawa No Frills, May 23 2026.
 
 | Ingredient | Format | Price | Per-unit rate |
 |---|---|---|---|
-| Russet potatoes | 10 lb bag (Farmer's Market) | $1.99 | ~$0.44/kg |
+| Russet potatoes | 10 lb bag (Farmer's Market) | $3.99 | $0.88/kg |
 | Yellow/white potatoes | 5 lb bag (PC) | $4.99–$5.49 | ~$2.20–2.42/kg |
-| Yellow onions | 3 lb bag (Farmer's Market) | $3.49 | ~$2.57/kg; ~$1.23 each |
+| Yellow onions | 3 lb bag (Farmer's Market) | $2.99 | $2.20/kg; ~$1.07 each |
 | Green onions | 1 bunch | $1.99 | — |
 | Carrots | 3 lb bag (Farmer's Market) | $3.99 | ~$2.93/kg |
 | Celery | 1 bunch | $2.99 | — |
 | Garlic | 3-bulb bag | $0.99 | ~$0.33/bulb; ~$0.08/clove (4 cloves/bulb) |
 | Green cabbage | whole head (~1 kg) | ~$2.99 | ~$2.99/kg |
-| Sweet potatoes | each | ~$2.07 | — |
+| Sweet potatoes | loose | ~$5.49/kg (~$2.49/lb) | — |
+| No Name Naturally Imperfect Carrots | 2270 g bag | $4.00 | $1.76/kg (budget carrot option) |
 
 ### Pantry & dry goods
 
@@ -176,6 +177,7 @@ Verified at Ottawa No Frills, May 23 2026.
 | Dry pasta, any shape (No Name) | 900 g | $2.00 | $0.22/100 g |
 | Red split lentils (PC Blue Menu) | 900 g | $3.79 | $0.42/100 g |
 | Red split lentils (Dunya Harvest) | 900 g | $3.19 | $0.35/100 g |
+| Red split lentils club size (PC Blue Menu) | 2 kg | $5.00 | $0.25/100 g |
 | Green lentils (PC Blue Menu) | 900 g | $3.79 | $0.42/100 g |
 | Vegetable oil / canola oil (No Name) | 946 mL | $4.00 | $0.42/100 mL |
 | Soy sauce (No Name) | 450 mL | $2.29 | $0.51/100 mL |
@@ -195,7 +197,7 @@ Verified at Ottawa No Frills, May 23 2026.
 4 cloves garlic from 3-bulb bag ($0.99):   $0.99 ÷ 3 bulbs ÷ 4 cloves = $0.08/clove × 4 = $0.33
 450 g chicken thighs at $8.82/kg:     $8.82 × 0.45 = $3.97
 500 g lean ground beef at $20/kg:     $20.00 × 0.50 = $10.00
-250 mL chicken broth from 900 mL ($1.50):  $1.50 × (250 ÷ 900) = $0.42
+250 mL chicken broth from 900 mL ($1.69):  $1.69 × (250 ÷ 900) = $0.47
 1 can diced tomatoes (796 mL):        $2.00 (fixed price)
 1 can black beans (540 mL):           $1.50 (fixed price)
 ```

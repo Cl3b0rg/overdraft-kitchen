@@ -2,25 +2,66 @@
   "id": "cabbage-kielbasa-skillet",
   "name": "Cabbage and Kielbasa Skillet",
   "summary": "Smoked sausage pan-fried with cabbage and potatoes. Simple, fast, and very cheap per serving.",
-  "totalCost": 8.50,
-  "costPerServing": 2.13,
+  "totalCost": 8.78,
+  "costPerServing": 2.19,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "30 min",
-  "tags": ["gluten-free", "pork", "cabbage", "potatoes", "one-pan", "low-cost"],
-
-  "ingredients": [
-    { "quantity": "375 g",        "name": "smoked kielbasa, sliced into rounds",              "costContribution": 3.99 },
-    { "quantity": "1 small head", "name": "green cabbage (~800 g), coarsely chopped",          "costContribution": 2.39 },
-    { "quantity": "1 kg",         "name": "yellow or Russet potatoes, diced into 2 cm cubes",  "costContribution": 0.44 },
-    { "quantity": "1 medium",     "name": "onion, sliced",                                     "costContribution": 1.23 },
-    { "quantity": "3 cloves",     "name": "garlic, minced",                                    "costContribution": 0.24 },
-    { "quantity": "1 tsp",        "name": "smoked paprika",                                    "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",      "name": "caraway seeds (optional)",                          "costContribution": 0.05 },
-    { "quantity": "1 tbsp",       "name": "vegetable oil",                                     "costContribution": 0.06 },
-    { "quantity": "to taste",     "name": "salt and black pepper",                             "costContribution": 0.05 }
+  "tags": [
+    "gluten-free",
+    "pork",
+    "cabbage",
+    "potatoes",
+    "one-pan",
+    "low-cost"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "375 g",
+      "name": "smoked kielbasa, sliced into rounds",
+      "costContribution": 3.99
+    },
+    {
+      "quantity": "1 small head",
+      "name": "green cabbage (~800 g), coarsely chopped",
+      "costContribution": 2.39
+    },
+    {
+      "quantity": "1 kg",
+      "name": "yellow or Russet potatoes, diced into 2 cm cubes",
+      "costContribution": 0.88
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, sliced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.24
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "caraway seeds (optional)",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
   "instructions": [
     "Heat oil in a large skillet or wide pot over medium-high heat.",
     "Add the potatoes in a single layer. Cook undisturbed 5–6 minutes until golden on the bottom. Stir and cook another 8–10 minutes until mostly cooked through. Transfer to a plate.",
@@ -32,7 +73,6 @@
     "Stir everything together and cook 3–4 minutes until heated through.",
     "Taste and adjust seasoning. Serve hot."
   ],
-
   "nutrition": {
     "calories": 460,
     "protein": 15,
@@ -43,7 +83,6 @@
     "vitaminC": "~60% DV",
     "iron": "~12% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
@@ -55,17 +94,18 @@
     ],
     "notes": "Potatoes and cabbage are naturally gluten-free. Verify the sausage label."
   },
-
   "budgetNotes": [
     "Cabbage is one of the cheapest vegetables per kilogram in Canada — buy a full head even if you only use part of it.",
     "The caraway seeds are optional but add a traditional flavour. Omit freely.",
     "A splash of apple cider vinegar or white vinegar stirred in at the end brightens the whole dish.",
     "Leftover cabbage can be used in soups, coleslaw, or stir-fries later in the week."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Cabbage $2.99/kg head. Russet potatoes $0.44/kg from 10 lb bag. Onion $1.23 each. Kielbasa estimated at standard shelf price for 375g package."
   }
 }

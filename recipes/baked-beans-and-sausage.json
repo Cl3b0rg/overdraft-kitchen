@@ -2,27 +2,76 @@
   "id": "baked-beans-and-sausage",
   "name": "Baked Beans and Sausage",
   "summary": "White beans and sliced kielbasa simmered in a thick sweet-savory tomato sauce on the stovetop.",
-  "totalCost": 13.33,
-  "costPerServing": 3.33,
+  "totalCost": 13.17,
+  "costPerServing": 3.29,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "35 min",
-  "tags": ["pork", "beans", "one-pot", "comfort-food", "gluten-free", "meal-prep"],
-
-  "ingredients": [
-    { "quantity": "375 g",         "name": "Pillers kolbassa sausage, sliced",     "costContribution": 6.50 },
-    { "quantity": "2 cans (540 mL each)", "name": "white kidney beans or navy beans, drained", "costContribution": 3.00 },
-    { "quantity": "1 can (796 mL)","name": "diced tomatoes",                       "costContribution": 2.00 },
-    { "quantity": "1 medium",      "name": "yellow onion, diced",                  "costContribution": 1.23 },
-    { "quantity": "3 cloves",      "name": "garlic, minced",                       "costContribution": 0.24 },
-    { "quantity": "1 tbsp",        "name": "tomato paste",                         "costContribution": 0.10 },
-    { "quantity": "2 tbsp",        "name": "brown sugar",                          "costContribution": 0.10 },
-    { "quantity": "1 tsp",         "name": "mustard powder or prepared mustard",   "costContribution": 0.05 },
-    { "quantity": "1 tbsp",        "name": "vegetable oil",                        "costContribution": 0.06 },
-    { "quantity": "0.5 tsp",       "name": "smoked paprika",                       "costContribution": 0.03 },
-    { "quantity": "to taste",      "name": "salt and pepper",                      "costContribution": 0.02 }
+  "tags": [
+    "pork",
+    "beans",
+    "one-pot",
+    "comfort-food",
+    "gluten-free",
+    "meal-prep"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "375 g",
+      "name": "Pillers kolbassa sausage, sliced",
+      "costContribution": 6.5
+    },
+    {
+      "quantity": "2 cans (540 mL each)",
+      "name": "white kidney beans or navy beans, drained",
+      "costContribution": 3
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2
+    },
+    {
+      "quantity": "1 medium",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.24
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "tomato paste",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "brown sugar",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "mustard powder or prepared mustard",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and pepper",
+      "costContribution": 0.02
+    }
+  ],
   "instructions": [
     "Heat oil in a large pot over medium-high heat. Add sausage slices and brown 3 minutes per side. Remove and set aside.",
     "Add onion to the same pot. Cook 5 minutes until softened.",
@@ -33,7 +82,6 @@
     "Cook uncovered over medium-low heat 25 minutes, stirring occasionally, until the sauce has thickened.",
     "Taste and adjust seasoning — the sausage is salty, so add salt carefully. Serve with bread or over rice."
   ],
-
   "nutrition": {
     "calories": 460,
     "protein": 24,
@@ -45,22 +93,21 @@
     "calcium": "~10% DV",
     "vitaminC": "~15% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": true,
     "substitutions": [],
     "notes": "Naturally gluten-free. Verify sausage label. Use certified GF mustard if needed."
   },
-
   "budgetNotes": [
     "Two cans of beans is not an error. One can disappears into the sauce. Two cans makes this a proper meal with enough volume to feed four adults.",
     "Brown sugar and mustard are what make this taste like baked beans. Neither is expensive and both are pantry staples that last forever.",
     "Serve with No Name white bread at $2.48 to stretch it further. Not included in the budget."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills"],
+    "sources": [
+      "Ottawa No Frills"
+    ],
     "notes": "Pillers kolbassa 375g = $6.50 (sale price). White kidney beans No Name $1.50 × 2 = $3.00. Diced tomatoes $2.00. Onion $1.23. Garlic $0.08 × 3 = $0.24. Tomato paste $0.10. Brown sugar $3.79/kg, 2 tbsp ≈ 25g = $0.10. Mustard powder $0.05. Oil $0.06. Smoked paprika $0.03. Salt/pepper $0.02."
   }
 }

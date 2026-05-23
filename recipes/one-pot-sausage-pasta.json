@@ -2,28 +2,80 @@
   "id": "one-pot-sausage-pasta",
   "name": "One-Pot Sausage Pasta",
   "summary": "Sliced kielbasa and pasta cooked together in a tomato-broth sauce, all in one pot with nothing drained.",
-  "totalCost": 12.49,
-  "costPerServing": 3.12,
+  "totalCost": 12.52,
+  "costPerServing": 3.13,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "25 min",
-  "tags": ["pork", "pasta", "one-pot", "fast", "comfort-food"],
-
-  "ingredients": [
-    { "quantity": "375 g",         "name": "Pillers kolbassa sausage, sliced",     "costContribution": 6.50 },
-    { "quantity": "300 g",         "name": "dry penne or rotini",                  "costContribution": 0.66 },
-    { "quantity": "1 can (796 mL)","name": "diced tomatoes",                       "costContribution": 2.00 },
-    { "quantity": "1 medium",      "name": "yellow onion, diced",                  "costContribution": 1.23 },
-    { "quantity": "4 cloves",      "name": "garlic, minced",                       "costContribution": 0.32 },
-    { "quantity": "1 can (900 mL)","name": "chicken broth",                        "costContribution": 1.50 },
-    { "quantity": "1 tbsp",        "name": "tomato paste",                         "costContribution": 0.10 },
-    { "quantity": "1 tbsp",        "name": "vegetable oil",                        "costContribution": 0.06 },
-    { "quantity": "1 tsp",         "name": "dried oregano",                        "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",       "name": "smoked paprika",                       "costContribution": 0.03 },
-    { "quantity": "0.5 tsp",       "name": "black pepper",                         "costContribution": 0.02 },
-    { "quantity": "pinch",         "name": "chili flakes (optional)",              "costContribution": 0.02 }
+  "tags": [
+    "pork",
+    "pasta",
+    "one-pot",
+    "fast",
+    "comfort-food"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "375 g",
+      "name": "Pillers kolbassa sausage, sliced",
+      "costContribution": 6.5
+    },
+    {
+      "quantity": "300 g",
+      "name": "dry penne or rotini",
+      "costContribution": 0.66
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2
+    },
+    {
+      "quantity": "1 medium",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "1 can (900 mL)",
+      "name": "chicken broth",
+      "costContribution": 1.69
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "tomato paste",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried oregano",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "black pepper",
+      "costContribution": 0.02
+    },
+    {
+      "quantity": "pinch",
+      "name": "chili flakes (optional)",
+      "costContribution": 0.02
+    }
+  ],
   "instructions": [
     "Heat oil in a large pot over medium-high heat. Add sausage slices and brown 3 minutes per side. Remove and set aside.",
     "Add onion to the same pot. Cook 4 minutes until softened.",
@@ -34,7 +86,6 @@
     "Reduce heat to medium. Cook uncovered 12–14 minutes, stirring every 2 minutes, until pasta is tender and sauce has thickened.",
     "The pasta should have absorbed most of the liquid, leaving a thick, clingy sauce. Serve directly from the pot."
   ],
-
   "nutrition": {
     "calories": 530,
     "protein": 22,
@@ -46,24 +97,27 @@
     "calcium": "~6% DV",
     "vitaminC": "~12% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
-      { "ingredient": "penne or rotini", "substitute": "gluten-free pasta (same weight)", "costNote": "Adds $2–3 to total. Confirm sausage contains no gluten fillers." }
+      {
+        "ingredient": "penne or rotini",
+        "substitute": "gluten-free pasta (same weight)",
+        "costNote": "Adds $2–3 to total. Confirm sausage contains no gluten fillers."
+      }
     ],
     "notes": "Check kielbasa label carefully — some brands contain wheat filler. All other ingredients are naturally GF."
   },
-
   "budgetNotes": [
     "The pasta absorbs the broth and tomato liquid as it cooks, so there is nothing to drain. This is what makes it one-pot — no colander needed.",
     "Stir often in the last 5 minutes. The starch in the pasta can make it stick to the bottom of the pot.",
     "Leftovers firm up overnight. Add a splash of broth or water when reheating on the stove."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills"],
+    "sources": [
+      "Ottawa No Frills"
+    ],
     "notes": "Pillers kolbassa 375g = $6.50 (verified sale price). Pasta $0.22/100g, 300g = $0.66. Diced tomatoes $2.00. Onion $1.23. Garlic $0.08 × 4 = $0.32. Broth $1.50. Tomato paste $0.10. Oil $0.06. Spices estimated $0.12."
   }
 }

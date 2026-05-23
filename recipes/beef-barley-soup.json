@@ -2,30 +2,91 @@
   "id": "beef-barley-soup",
   "name": "Beef and Barley Soup",
   "summary": "Ground beef, pearl barley, and vegetables simmered in beef broth until the barley thickens the whole pot.",
-  "totalCost": 14.36,
-  "costPerServing": 3.59,
+  "totalCost": 14.58,
+  "costPerServing": 3.65,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "50 min",
-  "tags": ["beef", "soup", "one-pot", "meal-prep", "comfort-food", "freezer-friendly"],
-
-  "ingredients": [
-    { "quantity": "300 g",         "name": "medium ground beef",                   "costContribution": 5.70 },
-    { "quantity": "150 g",         "name": "pearl barley, dry",                    "costContribution": 0.84 },
-    { "quantity": "2 cans (900 mL total)", "name": "beef broth",                   "costContribution": 3.00 },
-    { "quantity": "1 can (796 mL)","name": "diced tomatoes",                       "costContribution": 2.00 },
-    { "quantity": "2 medium",      "name": "carrots, diced",                       "costContribution": 0.59 },
-    { "quantity": "2 stalks",      "name": "celery, diced",                        "costContribution": 0.50 },
-    { "quantity": "1 medium",      "name": "yellow onion, diced",                  "costContribution": 1.23 },
-    { "quantity": "3 cloves",      "name": "garlic, minced",                       "costContribution": 0.24 },
-    { "quantity": "1 tbsp",        "name": "tomato paste",                         "costContribution": 0.10 },
-    { "quantity": "1 tbsp",        "name": "vegetable oil",                        "costContribution": 0.06 },
-    { "quantity": "1 tsp",         "name": "dried thyme",                          "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",       "name": "smoked paprika",                       "costContribution": 0.03 },
-    { "quantity": "500 mL",        "name": "water",                                "costContribution": 0.00 },
-    { "quantity": "to taste",      "name": "salt and pepper",                      "costContribution": 0.02 }
+  "tags": [
+    "beef",
+    "soup",
+    "one-pot",
+    "meal-prep",
+    "comfort-food",
+    "freezer-friendly"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "300 g",
+      "name": "medium ground beef",
+      "costContribution": 5.7
+    },
+    {
+      "quantity": "150 g",
+      "name": "pearl barley, dry",
+      "costContribution": 0.84
+    },
+    {
+      "quantity": "2 cans (900 mL total)",
+      "name": "beef broth",
+      "costContribution": 3.38
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2
+    },
+    {
+      "quantity": "2 medium",
+      "name": "carrots, diced",
+      "costContribution": 0.59
+    },
+    {
+      "quantity": "2 stalks",
+      "name": "celery, diced",
+      "costContribution": 0.5
+    },
+    {
+      "quantity": "1 medium",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.24
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "tomato paste",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried thyme",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "500 mL",
+      "name": "water",
+      "costContribution": 0
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and pepper",
+      "costContribution": 0.02
+    }
+  ],
   "instructions": [
     "Heat oil in a large pot over medium-high heat. Add the ground beef and brown, breaking it apart — about 8 minutes. Drain fat.",
     "Add onion, carrot, and celery. Cook 5 minutes until softened.",
@@ -36,7 +97,6 @@
     "Taste and adjust salt. Add more water if the soup gets too thick — barley absorbs a lot of liquid.",
     "Serve hot. The soup thickens even more the next day; thin with water when reheating."
   ],
-
   "nutrition": {
     "calories": 460,
     "protein": 26,
@@ -48,24 +108,27 @@
     "calcium": "~6% DV",
     "vitaminC": "~12% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
-      { "ingredient": "pearl barley", "substitute": "long-grain white rice (same weight)", "costNote": "Rice costs slightly less. Add it 20 minutes before the end instead of at the start." }
+      {
+        "ingredient": "pearl barley",
+        "substitute": "long-grain white rice (same weight)",
+        "costNote": "Rice costs slightly less. Add it 20 minutes before the end instead of at the start."
+      }
     ],
     "notes": "Barley contains gluten. Swap for rice for a naturally GF version. Verify broth is also GF."
   },
-
   "budgetNotes": [
     "Pearl barley PC Blue Menu 450g is $2.50 — about $0.56/100g. It is the cheapest grain by volume that also thickens the soup as it cooks.",
     "Two cartons of broth plus 500 mL water gives enough liquid for the barley to absorb without the soup going dry.",
     "This is one of the better freezer candidates on the site — freeze before the barley fully absorbs all the broth."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills"],
+    "sources": [
+      "Ottawa No Frills"
+    ],
     "notes": "Ground beef $19/kg, 350g = $6.65. Pearl barley PC Blue Menu $2.50/450g = $0.56/100g, 150g = $0.84. Beef broth $1.50 × 2 = $3.00. Diced tomatoes $2.00. Carrots $2.93/kg, 200g = $0.59. Celery 2 stalks estimated $0.50. Onion half estimated $0.62. Garlic $0.08 × 3 = $0.24. Tomato paste $0.10. Oil $0.06. Spices $0.08."
   }
 }

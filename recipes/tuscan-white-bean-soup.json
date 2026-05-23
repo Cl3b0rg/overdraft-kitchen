@@ -2,28 +2,81 @@
   "id": "tuscan-white-bean-soup",
   "name": "Tuscan White Bean and Kale Soup",
   "summary": "Cannellini beans and kale in a garlicky tomato broth with small pasta. A regular recommendation on r/EatCheapAndHealthy and Budget Bytes.",
-  "totalCost": 8.07,
-  "costPerServing": 2.02,
+  "totalCost": 7.91,
+  "costPerServing": 1.98,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "30 min",
-  "tags": ["vegan", "beans", "soup", "kale", "high-fiber", "low-cost"],
-
-  "ingredients": [
-    { "quantity": "2 cans (540 mL each)", "name": "white kidney beans or cannellini beans, drained", "costContribution": 3.00 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                       "costContribution": 2.00 },
-    { "quantity": "100 g",   "name": "kale or baby spinach, roughly chopped",        "costContribution": 1.00 },
-    { "quantity": "100 g",   "name": "small pasta (ditalini, elbows, or small shells)","costContribution": 0.22 },
-    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 1.23 },
-    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.32 },
-    { "quantity": "1 tsp",   "name": "dried rosemary",                               "costContribution": 0.05 },
-    { "quantity": "1 tsp",   "name": "dried thyme",                                  "costContribution": 0.05 },
-    { "quantity": "0.5 tsp", "name": "chili flakes",                                 "costContribution": 0.03 },
-    { "quantity": "2 tbsp",  "name": "olive or vegetable oil",                       "costContribution": 0.13 },
-    { "quantity": "750 mL",  "name": "water",                                        "costContribution": 0.00 },
-    { "quantity": "to taste","name": "salt and black pepper",                        "costContribution": 0.04 }
+  "tags": [
+    "vegan",
+    "beans",
+    "soup",
+    "kale",
+    "high-fiber",
+    "low-cost"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "2 cans (540 mL each)",
+      "name": "white kidney beans or cannellini beans, drained",
+      "costContribution": 3
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2
+    },
+    {
+      "quantity": "100 g",
+      "name": "kale or baby spinach, roughly chopped",
+      "costContribution": 1
+    },
+    {
+      "quantity": "100 g",
+      "name": "small pasta (ditalini, elbows, or small shells)",
+      "costContribution": 0.22
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried rosemary",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried thyme",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "chili flakes",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "olive or vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "750 mL",
+      "name": "water",
+      "costContribution": 0
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.04
+    }
+  ],
   "instructions": [
     "Heat oil in a large pot over medium heat.",
     "Add onion. Cook 5–6 minutes until softened.",
@@ -35,7 +88,6 @@
     "Taste and adjust salt and pepper. The broth will be thick — add more water if you want a thinner soup.",
     "Serve with bread if available."
   ],
-
   "nutrition": {
     "calories": 418,
     "protein": 22,
@@ -47,7 +99,6 @@
     "calcium": "~15% DV",
     "vitaminC": "~40% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
@@ -59,17 +110,18 @@
     ],
     "notes": "Beans, tomatoes, and vegetables are all naturally gluten-free."
   },
-
   "budgetNotes": [
     "Smashing a quarter of the beans against the side of the pot before adding them creates a creamier broth.",
     "Kale holds up better than spinach if you plan to reheat leftovers — spinach turns slimy.",
     "A parmesan rind dropped into the broth while simmering adds depth for essentially no cost. Save rinds in a bag in the freezer.",
     "This is intentionally thick. It thickens further as the pasta absorbs liquid overnight — add a splash of water when reheating."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. White kidney beans $1.50/540mL can. Diced tomatoes $2.00/796mL can. Pasta $0.22/100g. Onion $1.23 each. Kale estimated from pre-washed bag."
   }
 }

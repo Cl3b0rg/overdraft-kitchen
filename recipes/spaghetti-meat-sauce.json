@@ -2,28 +2,80 @@
   "id": "spaghetti-meat-sauce",
   "name": "Spaghetti with Meat Sauce",
   "summary": "Ground beef simmered with crushed tomatoes, onion, and garlic over spaghetti — no heat, no frills.",
-  "totalCost": 11.28,
-  "costPerServing": 2.82,
+  "totalCost": 11.12,
+  "costPerServing": 2.78,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "30 min",
-  "tags": ["beef", "pasta", "kid-friendly", "comfort-food", "meal-prep"],
-
-  "ingredients": [
-    { "quantity": "350 g",        "name": "medium ground beef",                  "costContribution": 6.65 },
-    { "quantity": "350 g",        "name": "dry spaghetti",                       "costContribution": 0.77 },
-    { "quantity": "1 can (796 mL)","name": "crushed tomatoes",                   "costContribution": 2.00 },
-    { "quantity": "1 medium",     "name": "yellow onion, diced",                 "costContribution": 1.23 },
-    { "quantity": "4 cloves",     "name": "garlic, minced",                      "costContribution": 0.32 },
-    { "quantity": "1 tbsp",       "name": "vegetable oil",                       "costContribution": 0.06 },
-    { "quantity": "1 tsp",        "name": "dried oregano",                       "costContribution": 0.05 },
-    { "quantity": "1 tsp",        "name": "dried basil",                         "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",      "name": "salt",                                "costContribution": 0.02 },
-    { "quantity": "0.5 tsp",      "name": "black pepper",                        "costContribution": 0.02 },
-    { "quantity": "1 tsp",        "name": "sugar",                               "costContribution": 0.01 },
-    { "quantity": "1 tbsp",       "name": "tomato paste",                        "costContribution": 0.10 }
+  "tags": [
+    "beef",
+    "pasta",
+    "kid-friendly",
+    "comfort-food",
+    "meal-prep"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "350 g",
+      "name": "medium ground beef",
+      "costContribution": 6.65
+    },
+    {
+      "quantity": "350 g",
+      "name": "dry spaghetti",
+      "costContribution": 0.77
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "crushed tomatoes",
+      "costContribution": 2
+    },
+    {
+      "quantity": "1 medium",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried oregano",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried basil",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "salt",
+      "costContribution": 0.02
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "black pepper",
+      "costContribution": 0.02
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "sugar",
+      "costContribution": 0.01
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "tomato paste",
+      "costContribution": 0.1
+    }
+  ],
   "instructions": [
     "Bring a large pot of salted water to a boil for the pasta.",
     "Heat oil in a wide skillet or saucepan over medium-high heat. Add the ground beef and cook, breaking it apart, until browned — about 8 minutes. Drain excess fat.",
@@ -35,7 +87,6 @@
     "Meanwhile, cook spaghetti according to package directions. Reserve 125 mL pasta water before draining.",
     "If sauce is too thick, stir in a splash of pasta water. Serve sauce over drained spaghetti."
   ],
-
   "nutrition": {
     "calories": 560,
     "protein": 28,
@@ -47,24 +98,27 @@
     "calcium": "~6% DV",
     "vitaminC": "~15% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
-      { "ingredient": "spaghetti", "substitute": "gluten-free pasta (same weight)", "costNote": "GF pasta costs roughly $3–4 more; pushes recipe near budget limit" }
+      {
+        "ingredient": "spaghetti",
+        "substitute": "gluten-free pasta (same weight)",
+        "costNote": "GF pasta costs roughly $3–4 more; pushes recipe near budget limit"
+      }
     ],
     "notes": "The meat sauce itself is naturally gluten-free. Serve over rice instead of pasta to keep costs down."
   },
-
   "budgetNotes": [
     "Medium ground beef at $19/kg is used here. Lean ground beef adds about $0.35 to the total — not worth it for a tomato sauce.",
     "350 g of beef feeds four because the sauce volume stretches with the tomatoes. Do not reduce the tomato amount.",
     "This sauce freezes well. Double the sauce batch while the pasta pot is going and freeze half."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills"],
+    "sources": [
+      "Ottawa No Frills"
+    ],
     "notes": "Ground beef $19/kg (Butcher's Choice medium, 450g pkg $8.50), 350g = $6.65. Spaghetti $0.22/100g, 350g = $0.77. Crushed tomatoes $2.00. Onion $1.23. Garlic $0.08/clove × 4 = $0.32. Oil $0.06/tbsp. Tomato paste proportional from $1.00/156mL, 1 tbsp ≈ 15g = $0.10. Spices estimated at $0.15 total."
   }
 }

@@ -2,28 +2,79 @@
   "id": "kotlet-schabowy",
   "name": "Kotlet Schabowy (Breaded Pork Cutlets)",
   "summary": "Classic Polish breaded pork cutlets — floured, egged, and breaded then fried — served with mashed potatoes and a simple grated carrot salad.",
-  "totalCost": 10.31,
-  "costPerServing": 2.58,
+  "totalCost": 10.75,
+  "costPerServing": 2.69,
   "servings": 4,
   "prepTime": "25 min",
   "cookTime": "30 min",
-  "tags": ["polish", "pork", "high-protein", "comfort-food"],
-
-  "ingredients": [
-    { "quantity": "600 g",    "name": "lean ground pork (club pack), formed into 4 patties", "costContribution": 6.34 },
-    { "quantity": "60 g",     "name": "all-purpose flour (for dredging)",                    "costContribution": 0.09 },
-    { "quantity": "2 large",  "name": "eggs",                                                "costContribution": 0.66 },
-    { "quantity": "100 g",    "name": "plain breadcrumbs (4C or similar)",                   "costContribution": 0.94 },
-    { "quantity": "5 tbsp",   "name": "vegetable oil (for frying)",                          "costContribution": 0.32 },
-    { "quantity": "1 kg",     "name": "russet potatoes, peeled and cubed",                   "costContribution": 0.44 },
-    { "quantity": "2 tbsp",   "name": "butter (for mash)",                                   "costContribution": 0.38 },
-    { "quantity": "125 mL",   "name": "milk (for mash)",                                     "costContribution": 0.18 },
-    { "quantity": "3 medium", "name": "carrots, peeled and coarsely grated",                 "costContribution": 0.88 },
-    { "quantity": "2 tbsp",   "name": "white vinegar (for carrot salad)",                    "costContribution": 0.05 },
-    { "quantity": "1 tsp",    "name": "sugar (for carrot salad)",                            "costContribution": 0.01 },
-    { "quantity": "to taste", "name": "salt and pepper",                                     "costContribution": 0.02 }
+  "tags": [
+    "polish",
+    "pork",
+    "high-protein",
+    "comfort-food"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "600 g",
+      "name": "lean ground pork (club pack), formed into 4 patties",
+      "costContribution": 6.34
+    },
+    {
+      "quantity": "60 g",
+      "name": "all-purpose flour (for dredging)",
+      "costContribution": 0.09
+    },
+    {
+      "quantity": "2 large",
+      "name": "eggs",
+      "costContribution": 0.66
+    },
+    {
+      "quantity": "100 g",
+      "name": "plain breadcrumbs (4C or similar)",
+      "costContribution": 0.94
+    },
+    {
+      "quantity": "5 tbsp",
+      "name": "vegetable oil (for frying)",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "1 kg",
+      "name": "russet potatoes, peeled and cubed",
+      "costContribution": 0.88
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "butter (for mash)",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "125 mL",
+      "name": "milk (for mash)",
+      "costContribution": 0.18
+    },
+    {
+      "quantity": "3 medium",
+      "name": "carrots, peeled and coarsely grated",
+      "costContribution": 0.88
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "white vinegar (for carrot salad)",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "sugar (for carrot salad)",
+      "costContribution": 0.01
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and pepper",
+      "costContribution": 0.02
+    }
+  ],
   "instructions": [
     "Mix grated carrot with vinegar, sugar, and a pinch of salt. Set aside to marinate — it softens as it sits and improves with 15+ minutes of resting.",
     "Boil potatoes in salted water until fully tender, about 20 minutes. Drain and mash with butter, milk, salt, and pepper. Cover to keep warm.",
@@ -34,7 +85,6 @@
     "Fry patties for 4–5 minutes per side until deep golden brown. The internal temperature should reach 71°C (160°F). Work in batches if the pan is crowded.",
     "Drain briefly on a paper towel. Serve alongside mashed potatoes and the carrot salad."
   ],
-
   "nutrition": {
     "calories": 620,
     "protein": 38,
@@ -46,26 +96,33 @@
     "calcium": "~10% DV",
     "vitaminC": "~28% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
-      { "ingredient": "all-purpose flour", "substitute": "rice flour or GF flour blend", "costNote": "minimal cost increase" },
-      { "ingredient": "breadcrumbs", "substitute": "GF breadcrumbs (4C makes a GF version at ~$5.49/340g)", "costNote": "adds about $1.50 to total" }
+      {
+        "ingredient": "all-purpose flour",
+        "substitute": "rice flour or GF flour blend",
+        "costNote": "minimal cost increase"
+      },
+      {
+        "ingredient": "breadcrumbs",
+        "substitute": "GF breadcrumbs (4C makes a GF version at ~$5.49/340g)",
+        "costNote": "adds about $1.50 to total"
+      }
     ],
     "notes": "The mashed potatoes and carrot salad are naturally gluten-free. Both the flour and breadcrumbs need GF substitutes for the cutlets."
   },
-
   "budgetNotes": [
     "Pork loin chops are currently $16.53/kg at No Frills — over the $14/kg cost threshold. This recipe uses ground pork (club pack, $10.56/kg) formed into patties, which replicates the breaded cutlet format at lower cost. Ground pork patties cook through more reliably than a thin chop.",
     "If pork loin chops drop below $14/kg: pound 4 thin loin chops (150g each) between plastic wrap to about 0.75 cm thickness, then bread and fry as written. Total cost with chops would be approximately $14.80.",
     "Breadcrumbs: the cheapest option is 4C Plain Bread Crumbs at $3.99/425g = $0.94/100g. 100g used = $0.94.",
     "The carrot salad (surówka) is traditional. It costs under $1 and adds texture and acidity that cuts through the fried breading."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills"],
+    "sources": [
+      "Ottawa No Frills"
+    ],
     "notes": "Ground pork (Butcher's Choice club pack) $10.56/kg; 600g = $6.34. Flour No Name 2.5kg $3.79 = $1.52/kg; 60g = $0.09. Eggs $0.33 × 2 = $0.66. Breadcrumbs 4C Plain 425g $3.99 = $0.94/100g; 100g = $0.94. Oil $0.42/100mL; 5 tbsp ≈ 75mL = $0.32. Potatoes $0.44/kg. Butter $1.36/100g; 2 tbsp ≈ 28g = $0.38. Milk estimated $0.18. Carrots $2.93/kg; 3 medium ≈ 300g = $0.88. Pork loin chops verified at $16.53/kg (above $14 threshold — ground pork used instead)."
   }
 }

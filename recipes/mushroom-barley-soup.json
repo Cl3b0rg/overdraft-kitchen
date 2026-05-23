@@ -2,28 +2,81 @@
   "id": "mushroom-barley-soup",
   "name": "Mushroom and Barley Soup",
   "summary": "Cremini mushrooms, pearl barley, and root vegetables simmered in broth until the barley makes it thick and savory.",
-  "totalCost": 12.44,
-  "costPerServing": 3.11,
+  "totalCost": 12.66,
+  "costPerServing": 3.17,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "50 min",
-  "tags": ["vegetarian", "soup", "one-pot", "meal-prep", "comfort-food", "freezer-friendly"],
-
-  "ingredients": [
-    { "quantity": "454 g",         "name": "cremini mushrooms, sliced",            "costContribution": 4.99 },
-    { "quantity": "200 g",         "name": "pearl barley, dry",                    "costContribution": 1.12 },
-    { "quantity": "2 cans (900 mL total)", "name": "beef or chicken broth",        "costContribution": 3.00 },
-    { "quantity": "2 medium",      "name": "carrots, diced",                       "costContribution": 0.59 },
-    { "quantity": "2 stalks",      "name": "celery, diced",                        "costContribution": 1.00 },
-    { "quantity": "1 medium",      "name": "yellow onion, diced",                  "costContribution": 1.23 },
-    { "quantity": "3 cloves",      "name": "garlic, minced",                       "costContribution": 0.24 },
-    { "quantity": "1 tbsp",        "name": "soy sauce",                            "costContribution": 0.08 },
-    { "quantity": "2 tbsp",        "name": "vegetable oil",                        "costContribution": 0.12 },
-    { "quantity": "1 tsp",         "name": "dried thyme",                          "costContribution": 0.05 },
-    { "quantity": "500 mL",        "name": "water",                                "costContribution": 0.00 },
-    { "quantity": "to taste",      "name": "salt and black pepper",                "costContribution": 0.02 }
+  "tags": [
+    "vegetarian",
+    "soup",
+    "one-pot",
+    "meal-prep",
+    "comfort-food",
+    "freezer-friendly"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "454 g",
+      "name": "cremini mushrooms, sliced",
+      "costContribution": 4.99
+    },
+    {
+      "quantity": "200 g",
+      "name": "pearl barley, dry",
+      "costContribution": 1.12
+    },
+    {
+      "quantity": "2 cans (900 mL total)",
+      "name": "beef or chicken broth",
+      "costContribution": 3.38
+    },
+    {
+      "quantity": "2 medium",
+      "name": "carrots, diced",
+      "costContribution": 0.59
+    },
+    {
+      "quantity": "2 stalks",
+      "name": "celery, diced",
+      "costContribution": 1
+    },
+    {
+      "quantity": "1 medium",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.24
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "soy sauce",
+      "costContribution": 0.08
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.12
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried thyme",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "500 mL",
+      "name": "water",
+      "costContribution": 0
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.02
+    }
+  ],
   "instructions": [
     "Heat oil in a large pot over medium-high heat. Add the sliced mushrooms and cook undisturbed for 4 minutes until browned on one side, then stir and cook 3 more minutes. Remove and set aside.",
     "Add onion, carrot, and celery to the same pot. Cook over medium heat 6 minutes until softened.",
@@ -33,7 +86,6 @@
     "Add the barley. Reduce heat to a steady simmer and cook uncovered 40 minutes, stirring occasionally, until barley is tender.",
     "Taste and adjust salt and pepper. The soup will thicken considerably as it sits. Add water when reheating."
   ],
-
   "nutrition": {
     "calories": 410,
     "protein": 12,
@@ -45,25 +97,32 @@
     "calcium": "~6% DV",
     "vitaminC": "~8% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
-      { "ingredient": "pearl barley", "substitute": "long-grain white rice (same weight)", "costNote": "Rice is GF and slightly cheaper. Add 20 minutes before the end." },
-      { "ingredient": "soy sauce", "substitute": "tamari", "costNote": "Same cost, gluten-free." }
+      {
+        "ingredient": "pearl barley",
+        "substitute": "long-grain white rice (same weight)",
+        "costNote": "Rice is GF and slightly cheaper. Add 20 minutes before the end."
+      },
+      {
+        "ingredient": "soy sauce",
+        "substitute": "tamari",
+        "costNote": "Same cost, gluten-free."
+      }
     ],
     "notes": "Barley and standard soy sauce both contain gluten. Use rice and tamari for a fully GF version."
   },
-
   "budgetNotes": [
     "PC cremini mushrooms 454g at $4.99 are the most expensive ingredient here. They are worth it — mushrooms release a lot of water and flavor into the broth. White button mushrooms at the same price would work.",
     "Soy sauce adds a background savory note without tasting Asian. It is common in European mushroom soups. Do not skip it.",
     "This soup is better the next day. The barley keeps absorbing liquid; add water when reheating."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills"],
+    "sources": [
+      "Ottawa No Frills"
+    ],
     "notes": "Cremini mushrooms PC 454g = $4.99. Pearl barley PC Blue Menu $2.50/450g = $0.56/100g, 150g = $0.84. Broth $1.50 × 2 = $3.00. Carrots $2.93/kg, 200g = $0.59. Celery 2 stalks ≈ $1.00. Onion $1.23. Garlic $0.08 × 3 = $0.24. Soy sauce $0.51/100mL, 1 tbsp = 15mL = $0.08. Oil $0.06/tbsp × 2 = $0.12. Thyme $0.05. Salt/pepper $0.02."
   }
 }

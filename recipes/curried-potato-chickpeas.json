@@ -2,29 +2,88 @@
   "id": "curried-potato-chickpeas",
   "name": "Curried Potato and Chickpeas",
   "summary": "Diced potatoes and chickpeas simmered in a spiced tomato and coconut milk sauce — a cheap, filling vegan curry.",
-  "totalCost": 8.76,
-  "costPerServing": 2.19,
+  "totalCost": 8.95,
+  "costPerServing": 2.24,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "30 min",
-  "tags": ["vegan", "vegetarian", "beans", "one-pot", "gluten-free", "rice", "comfort-food", "meal-prep"],
-
-  "ingredients": [
-    { "quantity": "800 g",         "name": "russet potatoes, peeled and diced",    "costContribution": 0.35 },
-    { "quantity": "1 can (540 mL)","name": "chickpeas, drained and rinsed",         "costContribution": 1.50 },
-    { "quantity": "1 can (796 mL)","name": "diced tomatoes",                        "costContribution": 2.00 },
-    { "quantity": "1 can (400 mL)","name": "coconut milk",                          "costContribution": 2.80 },
-    { "quantity": "1 medium",      "name": "yellow onion, diced",                   "costContribution": 1.23 },
-    { "quantity": "4 cloves",      "name": "garlic, minced",                        "costContribution": 0.32 },
-    { "quantity": "1 tbsp",        "name": "fresh ginger, grated (or 1 tsp dried)", "costContribution": 0.20 },
-    { "quantity": "2 tbsp",        "name": "vegetable oil",                         "costContribution": 0.12 },
-    { "quantity": "2 tsp",         "name": "garam masala",                          "costContribution": 0.10 },
-    { "quantity": "1 tsp",         "name": "ground cumin",                          "costContribution": 0.05 },
-    { "quantity": "1 tsp",         "name": "ground turmeric",                       "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",       "name": "salt",                                  "costContribution": 0.02 },
-    { "quantity": "0.25 tsp",      "name": "chili flakes or cayenne (optional)",    "costContribution": 0.02 }
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "beans",
+    "one-pot",
+    "gluten-free",
+    "rice",
+    "comfort-food",
+    "meal-prep"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "800 g",
+      "name": "russet potatoes, peeled and diced",
+      "costContribution": 0.7
+    },
+    {
+      "quantity": "1 can (540 mL)",
+      "name": "chickpeas, drained and rinsed",
+      "costContribution": 1.5
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2
+    },
+    {
+      "quantity": "1 can (400 mL)",
+      "name": "coconut milk",
+      "costContribution": 2.8
+    },
+    {
+      "quantity": "1 medium",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "fresh ginger, grated (or 1 tsp dried)",
+      "costContribution": 0.2
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.12
+    },
+    {
+      "quantity": "2 tsp",
+      "name": "garam masala",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground turmeric",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "salt",
+      "costContribution": 0.02
+    },
+    {
+      "quantity": "0.25 tsp",
+      "name": "chili flakes or cayenne (optional)",
+      "costContribution": 0.02
+    }
+  ],
   "instructions": [
     "Heat oil in a large pot or deep skillet over medium heat. Add onion and cook 6 minutes until golden.",
     "Add garlic and ginger. Cook 2 minutes, stirring constantly.",
@@ -35,7 +94,6 @@
     "Add the chickpeas. Stir, and continue simmering uncovered 10 minutes until potatoes are fully tender and sauce has thickened.",
     "Taste and adjust salt. Serve over rice or with bread."
   ],
-
   "nutrition": {
     "calories": 420,
     "protein": 12,
@@ -47,22 +105,21 @@
     "calcium": "~8% DV",
     "vitaminC": "~25% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": true,
     "substitutions": [],
     "notes": "All ingredients are naturally gluten-free."
   },
-
   "budgetNotes": [
     "Russet potatoes at $0.44/kg from a 10 lb bag make this one of the cheapest proteins-and-starch combinations on the site. The chickpeas provide the protein.",
     "Cauliflower is the traditional substitute for potatoes in this style of curry, but fresh cauliflower in Ottawa runs $6.99–7.49 a head, which blows the budget. Potatoes work better here anyway — they hold their shape and absorb the sauce.",
     "Serve with rice cooked separately; rice is not included in this cost. 300g dry rice for 4 people adds about $0.75."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills"],
+    "sources": [
+      "Ottawa No Frills"
+    ],
     "notes": "Russet potatoes $0.44/kg (Farmer's Market 10lb bag $1.99), 800g = $0.35. Chickpeas $1.50. Diced tomatoes $2.00. Coconut milk Thai Kitchen 400mL = $2.80. Onion $1.23. Garlic $0.08 × 4 = $0.32. Ginger fresh estimate $0.20. Oil $0.06/tbsp × 2 = $0.12. Spices estimated $0.22. Cauliflower verified at $6.99/head at Ottawa No Frills — not used."
   }
 }

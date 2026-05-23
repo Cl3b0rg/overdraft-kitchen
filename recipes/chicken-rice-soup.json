@@ -2,28 +2,80 @@
   "id": "chicken-rice-soup",
   "name": "Chicken and Rice Soup",
   "summary": "A simple broth-based soup with chicken thighs, rice, and vegetables. Works when you are sick, tired, or broke.",
-  "totalCost": 9.28,
-  "costPerServing": 2.32,
+  "totalCost": 9.31,
+  "costPerServing": 2.33,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "40 min",
-  "tags": ["gluten-free", "chicken", "rice", "soup", "high-protein"],
-
-  "ingredients": [
-    { "quantity": "500 g",    "name": "bone-in, skin-on chicken thighs",       "costContribution": 4.41 },
-    { "quantity": "200 g",    "name": "dry long-grain white rice",            "costContribution": 0.50 },
-    { "quantity": "2 medium", "name": "carrots, diced",                      "costContribution": 0.59 },
-    { "quantity": "2 stalks", "name": "celery, diced",                       "costContribution": 0.60 },
-    { "quantity": "1 large",  "name": "onion, diced",                        "costContribution": 1.23 },
-    { "quantity": "3 cloves", "name": "garlic, minced",                      "costContribution": 0.24 },
-    { "quantity": "900 mL",   "name": "chicken broth",                       "costContribution": 1.50 },
-    { "quantity": "500 mL",   "name": "water",                               "costContribution": 0.00 },
-    { "quantity": "1 tsp",    "name": "dried thyme",                         "costContribution": 0.05 },
-    { "quantity": "2",        "name": "bay leaves",                          "costContribution": 0.05 },
-    { "quantity": "1 tbsp",   "name": "vegetable oil",                       "costContribution": 0.06 },
-    { "quantity": "to taste", "name": "salt and black pepper",               "costContribution": 0.05 }
+  "tags": [
+    "gluten-free",
+    "chicken",
+    "rice",
+    "soup",
+    "high-protein"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "500 g",
+      "name": "bone-in, skin-on chicken thighs",
+      "costContribution": 4.41
+    },
+    {
+      "quantity": "200 g",
+      "name": "dry long-grain white rice",
+      "costContribution": 0.5
+    },
+    {
+      "quantity": "2 medium",
+      "name": "carrots, diced",
+      "costContribution": 0.59
+    },
+    {
+      "quantity": "2 stalks",
+      "name": "celery, diced",
+      "costContribution": 0.6
+    },
+    {
+      "quantity": "1 large",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.24
+    },
+    {
+      "quantity": "900 mL",
+      "name": "chicken broth",
+      "costContribution": 1.69
+    },
+    {
+      "quantity": "500 mL",
+      "name": "water",
+      "costContribution": 0
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried thyme",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "2",
+      "name": "bay leaves",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
   "instructions": [
     "Heat oil in a large pot over medium-high heat.",
     "Season chicken thighs with salt and pepper. Add to pot and cook 3–4 minutes per side until lightly browned. Remove and set aside — they don't need to be fully cooked yet.",
@@ -36,7 +88,6 @@
     "Simmer uncovered 15–18 minutes, stirring occasionally, until rice is cooked through.",
     "Remove bay leaves. Taste and adjust salt. The soup will thicken as it sits — add water when reheating."
   ],
-
   "nutrition": {
     "calories": 441,
     "protein": 26,
@@ -47,22 +98,22 @@
     "iron": "~12% DV",
     "vitaminC": "~10% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": true,
     "notes": "All ingredients are naturally gluten-free. Verify the chicken broth label — most commercial broths are GF but some flavoured varieties contain wheat."
   },
-
   "budgetNotes": [
     "Bone-in chicken thighs or drumsticks are cheaper per kilogram. Simmer them whole in the broth for 30 minutes, then pull the meat off the bone.",
     "A whole chicken from the deli (rotisserie) is sometimes cheaper per gram of meat than raw thighs — strip it and use the carcass for extra broth.",
     "The rice will continue absorbing liquid overnight. Reheat with extra water or broth.",
     "Frozen corn or frozen peas added in the last 5 minutes add nutrition at low cost."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Bone-in skin-on chicken thighs $8.82/kg (No Frills club pack). Broth $1.50/900mL carton. Rice $0.25/100g. Onion $1.23 each. Carrots $2.93/kg. Celery $2.99/bunch."
   }
 }

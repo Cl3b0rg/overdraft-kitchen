@@ -2,40 +2,140 @@
   "id": "creamy-tomato-pasta",
   "name": "Creamy Tomato Pasta",
   "summary": "Pasta in a quick tomato sauce finished with cream cheese for richness. Cheap, fast, and the most-saved recipe on Budget Bytes for years.",
-  "totalCost": 7.22,
-  "costPerServing": 1.81,
+  "totalCost": 7.06,
+  "costPerServing": 1.77,
   "servings": 4,
   "prepTime": "5 min",
   "cookTime": "20 min",
-  "tags": ["vegetarian", "pasta", "fast", "very-low-cost", "comfort-food"],
-
-  "ingredients": [
-    { "quantity": "400 g",   "name": "penne, rigatoni, or any pasta shape",         "costContribution": 0.88 },
-    { "quantity": "1 can (796 mL)", "name": "crushed or diced tomatoes",            "costContribution": 2.00 },
-    { "quantity": "60 g",    "name": "cream cheese, cubed",                         "costContribution": 0.96 },
-    { "quantity": "1 medium","name": "onion, diced",                                "costContribution": 1.23 },
-    { "quantity": "4 cloves","name": "garlic, minced",                              "costContribution": 0.32 },
-    { "quantity": "1 tbsp",  "name": "tomato paste",                                "costContribution": 0.10 },
-    { "quantity": "1 tsp",   "name": "dried oregano",                               "costContribution": 0.05 },
-    { "quantity": "0.5 tsp", "name": "dried basil",                                 "costContribution": 0.03 },
-    { "quantity": "0.5 tsp", "name": "chili flakes",                                "costContribution": 0.03 },
-    { "quantity": "2 tbsp",  "name": "olive or vegetable oil",                      "costContribution": 0.13 },
-    { "quantity": "to taste","name": "salt and black pepper",                       "costContribution": 0.05 },
-    { "quantity": "30 g (optional)", "name": "parmesan, grated",                   "costContribution": 0.90 },
-    { "quantity": "0.5 tsp", "name": "garlic powder",                               "costContribution": 0.02 },
-    { "quantity": "0.5 tsp", "name": "onion powder",                                "costContribution": 0.02 },
-    { "quantity": "0.25 tsp","name": "sugar (to balance acidity, optional)",        "costContribution": 0.01 },
-    { "quantity": "1 tsp",   "name": "white or red wine vinegar (optional)",        "costContribution": 0.01 },
-    { "quantity": "0.5 tsp", "name": "smoked paprika (optional)",                   "costContribution": 0.03 },
-    { "quantity": "1 tsp",   "name": "Worcestershire sauce (optional)",             "costContribution": 0.08 },
-    { "quantity": "0.5 tsp", "name": "black pepper",                                "costContribution": 0.03 },
-    { "quantity": "0.5 tsp", "name": "salt",                                        "costContribution": 0.01 },
-    { "quantity": "0.25 tsp","name": "cayenne pepper (optional)",                   "costContribution": 0.01 },
-    { "quantity": "1 tbsp",  "name": "butter (optional)",                           "costContribution": 0.19 },
-    { "quantity": "1 tsp",   "name": "lemon juice (optional)",                      "costContribution": 0.05 },
-    { "quantity": "optional","name": "fresh basil or parsley",                      "costContribution": 0.08 }
+  "tags": [
+    "vegetarian",
+    "pasta",
+    "fast",
+    "very-low-cost",
+    "comfort-food"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "400 g",
+      "name": "penne, rigatoni, or any pasta shape",
+      "costContribution": 0.88
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "crushed or diced tomatoes",
+      "costContribution": 2
+    },
+    {
+      "quantity": "60 g",
+      "name": "cream cheese, cubed",
+      "costContribution": 0.96
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "tomato paste",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried oregano",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "dried basil",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "chili flakes",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "olive or vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "30 g (optional)",
+      "name": "parmesan, grated",
+      "costContribution": 0.9
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "garlic powder",
+      "costContribution": 0.02
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "onion powder",
+      "costContribution": 0.02
+    },
+    {
+      "quantity": "0.25 tsp",
+      "name": "sugar (to balance acidity, optional)",
+      "costContribution": 0.01
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "white or red wine vinegar (optional)",
+      "costContribution": 0.01
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "smoked paprika (optional)",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "Worcestershire sauce (optional)",
+      "costContribution": 0.08
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "black pepper",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "salt",
+      "costContribution": 0.01
+    },
+    {
+      "quantity": "0.25 tsp",
+      "name": "cayenne pepper (optional)",
+      "costContribution": 0.01
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "butter (optional)",
+      "costContribution": 0.19
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "lemon juice (optional)",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "optional",
+      "name": "fresh basil or parsley",
+      "costContribution": 0.08
+    }
+  ],
   "instructions": [
     "Bring a large pot of salted water to a boil. Cook pasta until al dente. Reserve 250 mL pasta water before draining.",
     "Heat oil in a large skillet over medium heat.",
@@ -48,7 +148,6 @@
     "Taste and adjust salt, pepper, and a pinch of sugar if the tomatoes are too acidic.",
     "Serve with parmesan if using."
   ],
-
   "nutrition": {
     "calories": 498,
     "protein": 16,
@@ -59,7 +158,6 @@
     "iron": "~15% DV",
     "calcium": "~8% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
@@ -71,16 +169,17 @@
     ],
     "notes": "Cream cheese, tomatoes, and seasonings are naturally gluten-free."
   },
-
   "budgetNotes": [
     "Cream cheese is the key ingredient that makes this different from a plain tomato sauce. A 250 g block costs about $3.99 — you use about a quarter of it here. Use the rest on toast or in another recipe that week.",
     "Without the parmesan this costs $4.42 for four servings, which is about $1.10 a plate.",
     "This is intentionally flexible — add whatever's in the fridge: a can of tuna, leftover chicken, frozen spinach, a handful of whatever vegetable needs to be used up."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Pasta $0.22/100g from 900g bag ($2.00). Crushed tomatoes $2.00/796mL can. Cream cheese proportional from 250g block at $3.99. Onion $1.23 each. Garlic $0.08/clove. Tomato paste proportional from 156mL can at $1.00. Oil $0.42/100mL. Butter $1.36/100g (1 tbsp ≈ 14g = $0.19). Parmesan optional, from 200g block (estimate)."
   }
 }

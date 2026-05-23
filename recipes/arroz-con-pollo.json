@@ -2,29 +2,85 @@
   "id": "arroz-con-pollo",
   "name": "Arroz con Pollo",
   "summary": "Chicken thighs braised directly in seasoned rice and tomatoes until everything cooks together in one pot. A Latin staple that earns its place on any budget list.",
-  "totalCost": 14.16,
-  "costPerServing": 3.54,
+  "totalCost": 14.05,
+  "costPerServing": 3.51,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "45 min",
-  "tags": ["chicken", "rice", "one-pot", "high-protein", "latin"],
-
-  "ingredients": [
-    { "quantity": "1 kg",    "name": "bone-in skin-on chicken thighs (about 5–6)",   "costContribution": 8.82 },
-    { "quantity": "300 g",   "name": "dry long-grain white rice",                    "costContribution": 0.75 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 2.00 },
-    { "quantity": "250 mL",  "name": "chicken broth or water",                       "costContribution": 0.42 },
-    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 1.23 },
-    { "quantity": "4 cloves","name": "garlic, minced",                               "costContribution": 0.32 },
-    { "quantity": "1 tsp",   "name": "ground cumin",                                 "costContribution": 0.05 },
-    { "quantity": "1 tsp",   "name": "dried oregano",                                "costContribution": 0.05 },
-    { "quantity": "0.5 tsp", "name": "smoked paprika",                               "costContribution": 0.05 },
-    { "quantity": "0.5 tsp", "name": "turmeric (for colour)",                        "costContribution": 0.03 },
-    { "quantity": "2 tbsp",  "name": "vegetable oil",                                "costContribution": 0.13 },
-    { "quantity": "100 g (optional)", "name": "frozen peas",                         "costContribution": 0.26 },
-    { "quantity": "to taste","name": "salt and black pepper",                        "costContribution": 0.05 }
+  "tags": [
+    "chicken",
+    "rice",
+    "one-pot",
+    "high-protein",
+    "latin"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "1 kg",
+      "name": "bone-in skin-on chicken thighs (about 5–6)",
+      "costContribution": 8.82
+    },
+    {
+      "quantity": "300 g",
+      "name": "dry long-grain white rice",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2
+    },
+    {
+      "quantity": "250 mL",
+      "name": "chicken broth or water",
+      "costContribution": 0.47
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried oregano",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "turmeric (for colour)",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "100 g (optional)",
+      "name": "frozen peas",
+      "costContribution": 0.26
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
   "instructions": [
     "Pat the chicken dry and season generously with salt, pepper, cumin, oregano, and smoked paprika on both sides.",
     "Heat oil in a large heavy-bottomed pot or Dutch oven over medium-high heat.",
@@ -39,7 +95,6 @@
     "Scatter frozen peas over the top (if using), cover for 2 minutes to warm them through.",
     "Remove lid. Let rest 5 minutes before serving."
   ],
-
   "nutrition": {
     "calories": 556,
     "protein": 40,
@@ -50,22 +105,22 @@
     "iron": "~15% DV",
     "calcium": "~6% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": true,
     "notes": "All ingredients are naturally gluten-free. Use a GF-labelled chicken broth if celiac is a concern."
   },
-
   "budgetNotes": [
     "Bone-in, skin-on thighs are the right cut for this. The skin crisps during the sear, and the bones add flavour to the rice as it cooks.",
     "Turmeric is mainly for colour — the rice turns a pleasant yellow. The flavour contribution is minimal. Skip it if you don't have it.",
     "Do not lift the lid during the 25-minute cook. Steam is doing the work.",
     "Leftovers reheat well with a splash of water to loosen the rice."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Bone-in skin-on thighs $8.82/kg (club pack), 1kg = $8.82. Rice $0.25/100g. Diced tomatoes $2.00/796mL can. Chicken broth $1.50/900mL (250mL = $0.42). Onion $1.23 each."
   }
 }

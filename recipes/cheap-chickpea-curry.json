@@ -2,29 +2,86 @@
   "id": "cheap-chickpea-curry",
   "name": "Cheap Chickpea Curry",
   "summary": "A thick, spiced curry with chickpeas and canned tomatoes in coconut milk. Serve over rice.",
-  "totalCost": 10.31,
-  "costPerServing": 2.58,
+  "totalCost": 10.15,
+  "costPerServing": 2.54,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "25 min",
-  "tags": ["vegan", "gluten-free", "chickpeas", "curry", "rice", "high-fiber"],
-
-  "ingredients": [
-    { "quantity": "2 cans (540 mL each)", "name": "chickpeas, drained and rinsed",     "costContribution": 3.00 },
-    { "quantity": "1 can (400 mL)",        "name": "coconut milk",                       "costContribution": 2.80 },
-    { "quantity": "1 can (796 mL)",        "name": "diced tomatoes",                     "costContribution": 2.00 },
-    { "quantity": "200 g",                 "name": "dry long-grain white rice",           "costContribution": 0.50 },
-    { "quantity": "1 medium",              "name": "onion, diced",                        "costContribution": 1.23 },
-    { "quantity": "4 cloves",              "name": "garlic, minced",                      "costContribution": 0.32 },
-    { "quantity": "1 tsp",                 "name": "fresh ginger, grated (or 0.5 tsp ground)", "costContribution": 0.15 },
-    { "quantity": "1.5 tsp",              "name": "curry powder",                         "costContribution": 0.08 },
-    { "quantity": "1 tsp",                "name": "ground cumin",                         "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",              "name": "turmeric",                             "costContribution": 0.05 },
-    { "quantity": "0.25 tsp",             "name": "cayenne pepper",                       "costContribution": 0.03 },
-    { "quantity": "1 tbsp",               "name": "vegetable oil",                        "costContribution": 0.06 },
-    { "quantity": "to taste",             "name": "salt",                                 "costContribution": 0.04 }
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "chickpeas",
+    "curry",
+    "rice",
+    "high-fiber"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "2 cans (540 mL each)",
+      "name": "chickpeas, drained and rinsed",
+      "costContribution": 3
+    },
+    {
+      "quantity": "1 can (400 mL)",
+      "name": "coconut milk",
+      "costContribution": 2.8
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2
+    },
+    {
+      "quantity": "200 g",
+      "name": "dry long-grain white rice",
+      "costContribution": 0.5
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "fresh ginger, grated (or 0.5 tsp ground)",
+      "costContribution": 0.15
+    },
+    {
+      "quantity": "1.5 tsp",
+      "name": "curry powder",
+      "costContribution": 0.08
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "turmeric",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.25 tsp",
+      "name": "cayenne pepper",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.04
+    }
+  ],
   "instructions": [
     "Cook the rice according to package directions. Set aside.",
     "Heat oil in a large pot or deep skillet over medium heat.",
@@ -36,7 +93,6 @@
     "Bring to a gentle boil, then reduce heat to medium-low. Simmer uncovered 15 minutes, stirring occasionally, until the sauce thickens.",
     "Taste and adjust salt. Serve over rice."
   ],
-
   "nutrition": {
     "calories": 580,
     "protein": 18,
@@ -47,22 +103,22 @@
     "iron": "~20% DV",
     "vitaminC": "~18% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": true,
     "notes": "All ingredients are naturally gluten-free. Check curry powder and spice blend labels for wheat-based fillers."
   },
-
   "budgetNotes": [
     "Store-brand coconut milk (PC, Great Value) is significantly cheaper than premium brands.",
     "One can of coconut milk can be replaced with 400 mL of evaporated milk for a different but still rich sauce.",
     "Add a handful of frozen spinach in the last 5 minutes for extra nutrition.",
     "This freezes well — make a double batch and freeze half in portions."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Coconut milk $2.80/400mL can (Thai Kitchen). Chickpeas $1.50/540mL can. Diced tomatoes $2.00/796mL can. Onion $1.23 each."
   }
 }

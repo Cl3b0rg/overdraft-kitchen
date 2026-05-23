@@ -2,28 +2,82 @@
   "id": "chickpea-spinach-stew",
   "name": "Chickpea and Spinach Stew",
   "summary": "A Spanish-style stew with chickpeas, frozen spinach, and smoked tomato broth over rice. Very filling, very cheap.",
-  "totalCost": 11.12,
-  "costPerServing": 2.78,
+  "totalCost": 11.01,
+  "costPerServing": 2.75,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "30 min",
-  "tags": ["vegan", "gluten-free", "chickpeas", "spinach", "rice", "high-fiber", "high-iron"],
-
-  "ingredients": [
-    { "quantity": "3 cans (540 mL each)", "name": "chickpeas, drained and rinsed",   "costContribution": 4.50 },
-    { "quantity": "1 can (796 mL)",       "name": "diced tomatoes",                  "costContribution": 2.00 },
-    { "quantity": "300 g",                "name": "frozen spinach",                  "costContribution": 1.87 },
-    { "quantity": "200 g",                "name": "dry long-grain white rice",        "costContribution": 0.50 },
-    { "quantity": "1 large",              "name": "onion, diced",                    "costContribution": 1.23 },
-    { "quantity": "4 cloves",             "name": "garlic, minced",                  "costContribution": 0.32 },
-    { "quantity": "1.5 tsp",             "name": "smoked paprika",                   "costContribution": 0.07 },
-    { "quantity": "1 tsp",               "name": "ground cumin",                     "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",             "name": "turmeric",                         "costContribution": 0.05 },
-    { "quantity": "250 mL",              "name": "vegetable broth or water",          "costContribution": 0.42 },
-    { "quantity": "1 tbsp",              "name": "olive or vegetable oil",            "costContribution": 0.06 },
-    { "quantity": "to taste",            "name": "salt and black pepper",             "costContribution": 0.05 }
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "chickpeas",
+    "spinach",
+    "rice",
+    "high-fiber",
+    "high-iron"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "3 cans (540 mL each)",
+      "name": "chickpeas, drained and rinsed",
+      "costContribution": 4.5
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2
+    },
+    {
+      "quantity": "300 g",
+      "name": "frozen spinach",
+      "costContribution": 1.87
+    },
+    {
+      "quantity": "200 g",
+      "name": "dry long-grain white rice",
+      "costContribution": 0.5
+    },
+    {
+      "quantity": "1 large",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "1.5 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.07
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "turmeric",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "250 mL",
+      "name": "vegetable broth or water",
+      "costContribution": 0.47
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "olive or vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
   "instructions": [
     "Cook the rice according to package directions. Set aside.",
     "Heat oil in a large pot over medium heat.",
@@ -36,7 +90,6 @@
     "Taste and adjust salt, pepper, and paprika.",
     "Serve over rice."
   ],
-
   "nutrition": {
     "calories": 559,
     "protein": 24,
@@ -48,22 +101,22 @@
     "vitaminC": "~25% DV",
     "calcium": "~18% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": true,
     "notes": "All ingredients are naturally gluten-free. Verify vegetable broth if using — most are GF, but check labels."
   },
-
   "budgetNotes": [
     "Frozen spinach is much cheaper per kilogram than fresh and works better in stews.",
     "Drop to 2 cans of chickpeas to reduce cost to about $9.00 — calories per serving will drop to approximately 455.",
     "A can of white beans can substitute for one can of chickpeas if cheaper that week.",
     "A squeeze of lemon over each serving adds brightness cheaply."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Chickpeas $1.50/540mL can. Diced tomatoes $2.00/796mL can. Chicken broth $1.50/900mL; 250mL = $0.42. Onion $1.23 each. Frozen spinach estimated from store-brand 400g bag."
   }
 }

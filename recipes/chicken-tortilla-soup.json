@@ -2,29 +2,86 @@
   "id": "chicken-tortilla-soup",
   "name": "Chicken Tortilla Soup",
   "summary": "Shredded chicken thighs with black beans, corn, and tomatoes in a spiced broth. A Tex-Mex staple that appears on virtually every budget meal-prep list.",
-  "totalCost": 12.48,
-  "costPerServing": 3.12,
+  "totalCost": 12.51,
+  "costPerServing": 3.13,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "35 min",
-  "tags": ["chicken", "beans", "soup", "tex-mex", "high-protein", "meal-prep"],
-
-  "ingredients": [
-    { "quantity": "450 g",   "name": "bone-in, skin-on chicken thighs",               "costContribution": 3.97 },
-    { "quantity": "1 can (540 mL)", "name": "black beans, drained",                  "costContribution": 1.50 },
-    { "quantity": "1 can (341 mL)", "name": "corn kernels, drained (or 250 g frozen)","costContribution": 1.25 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 2.00 },
-    { "quantity": "900 mL",  "name": "chicken broth",                                "costContribution": 1.50 },
-    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 1.23 },
-    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.24 },
-    { "quantity": "1 tsp",   "name": "ground cumin",                                 "costContribution": 0.05 },
-    { "quantity": "1 tsp",   "name": "chili powder",                                 "costContribution": 0.08 },
-    { "quantity": "0.5 tsp", "name": "smoked paprika",                               "costContribution": 0.03 },
-    { "quantity": "1 tbsp",  "name": "vegetable oil",                                "costContribution": 0.06 },
-    { "quantity": "handful", "name": "tortilla chips, crushed (for serving)",        "costContribution": 0.50 },
-    { "quantity": "to taste","name": "salt, pepper, and lime juice",                 "costContribution": 0.07 }
+  "tags": [
+    "chicken",
+    "beans",
+    "soup",
+    "tex-mex",
+    "high-protein",
+    "meal-prep"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "450 g",
+      "name": "bone-in, skin-on chicken thighs",
+      "costContribution": 3.97
+    },
+    {
+      "quantity": "1 can (540 mL)",
+      "name": "black beans, drained",
+      "costContribution": 1.5
+    },
+    {
+      "quantity": "1 can (341 mL)",
+      "name": "corn kernels, drained (or 250 g frozen)",
+      "costContribution": 1.25
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2
+    },
+    {
+      "quantity": "900 mL",
+      "name": "chicken broth",
+      "costContribution": 1.69
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.24
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "chili powder",
+      "costContribution": 0.08
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "handful",
+      "name": "tortilla chips, crushed (for serving)",
+      "costContribution": 0.5
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt, pepper, and lime juice",
+      "costContribution": 0.07
+    }
+  ],
   "instructions": [
     "Heat oil in a large pot over medium heat.",
     "Add onion. Cook 5 minutes until softened.",
@@ -36,7 +93,6 @@
     "Taste and adjust salt, pepper, and lime juice.",
     "Serve topped with crushed tortilla chips and any optional toppings."
   ],
-
   "nutrition": {
     "calories": 410,
     "protein": 34,
@@ -48,22 +104,22 @@
     "calcium": "~8% DV",
     "vitaminC": "~15% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": true,
     "notes": "All ingredients are naturally gluten-free. Verify the tortilla chips and broth are GF-certified if celiac is a concern."
   },
-
   "budgetNotes": [
     "Adding the chicken thighs whole and shredding after is not a style choice — the meat stays juicier and falls apart more easily than if you cube it first.",
     "A 900 mL carton of chicken broth costs about $2.69 in 2026. It is the second-biggest cost after the chicken itself.",
     "The tortilla chips on top aren't decorative. They soften slightly in the hot soup and add body.",
     "This freezes well and tastes better the next day. Add toppings fresh."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Bone-in skin-on chicken thighs $8.82/kg (Butcher's Choice club pack). Black beans $1.50/540mL can. Corn $1.25/341mL can. Diced tomatoes $2.00/796mL can. Chicken broth $1.50/900mL carton. Onion $1.23 each. Garlic $0.08/clove. Tortilla chips estimated."
   }
 }

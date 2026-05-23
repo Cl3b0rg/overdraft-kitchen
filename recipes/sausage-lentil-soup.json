@@ -2,28 +2,81 @@
   "id": "sausage-lentil-soup",
   "name": "Sausage and Lentil Soup",
   "summary": "Sliced kielbasa, green lentils, and vegetables simmered in broth until thick and filling.",
-  "totalCost": 13.06,
+  "totalCost": 13.09,
   "costPerServing": 3.27,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "40 min",
-  "tags": ["pork", "soup", "one-pot", "meal-prep", "high-protein", "comfort-food"],
-
-  "ingredients": [
-    { "quantity": "375 g",         "name": "Pillers kolbassa sausage, sliced into rounds", "costContribution": 6.50 },
-    { "quantity": "200 g",         "name": "green lentils, dry",                     "costContribution": 0.84 },
-    { "quantity": "1 can (796 mL)","name": "diced tomatoes",                          "costContribution": 2.00 },
-    { "quantity": "2 medium",      "name": "carrots, diced",                          "costContribution": 0.59 },
-    { "quantity": "1 medium",      "name": "yellow onion, diced",                     "costContribution": 1.23 },
-    { "quantity": "3 cloves",      "name": "garlic, minced",                          "costContribution": 0.24 },
-    { "quantity": "1 can (900 mL)","name": "chicken broth",                           "costContribution": 1.50 },
-    { "quantity": "500 mL",        "name": "water",                                   "costContribution": 0.00 },
-    { "quantity": "1 tbsp",        "name": "vegetable oil",                           "costContribution": 0.06 },
-    { "quantity": "1 tsp",         "name": "smoked paprika",                          "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",       "name": "dried thyme",                             "costContribution": 0.03 },
-    { "quantity": "to taste",      "name": "salt and pepper",                         "costContribution": 0.02 }
+  "tags": [
+    "pork",
+    "soup",
+    "one-pot",
+    "meal-prep",
+    "high-protein",
+    "comfort-food"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "375 g",
+      "name": "Pillers kolbassa sausage, sliced into rounds",
+      "costContribution": 6.5
+    },
+    {
+      "quantity": "200 g",
+      "name": "green lentils, dry",
+      "costContribution": 0.84
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2
+    },
+    {
+      "quantity": "2 medium",
+      "name": "carrots, diced",
+      "costContribution": 0.59
+    },
+    {
+      "quantity": "1 medium",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.24
+    },
+    {
+      "quantity": "1 can (900 mL)",
+      "name": "chicken broth",
+      "costContribution": 1.69
+    },
+    {
+      "quantity": "500 mL",
+      "name": "water",
+      "costContribution": 0
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "dried thyme",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and pepper",
+      "costContribution": 0.02
+    }
+  ],
   "instructions": [
     "Heat oil in a large pot over medium-high heat. Add the sausage slices and brown on both sides — about 4 minutes. Remove and set aside.",
     "Add onion and carrot to the same pot. Cook 5 minutes until softened.",
@@ -34,7 +87,6 @@
     "Simmer 5 more minutes. Taste and adjust salt — the sausage is already salty, so hold back at first.",
     "Serve as-is. The soup thickens considerably as it cools."
   ],
-
   "nutrition": {
     "calories": 490,
     "protein": 28,
@@ -46,22 +98,21 @@
     "calcium": "~6% DV",
     "vitaminC": "~15% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [],
     "notes": "Lentils, tomatoes, vegetables, and broth are gluten-free. Kielbasa/kolbassa may contain gluten fillers — check the label. Pillers brand contains no gluten ingredients but is not certified GF."
   },
-
   "budgetNotes": [
     "Pillers kolbassa is $6.50 at the current sale price (regular $7.49). This recipe was priced at the sale price, which No Frills runs frequently. At regular price the total rises to $7.01, still well under $15.",
     "Green lentils do not need soaking — rinse and add them dry. They cook in about 30 minutes in simmering broth.",
     "This freezes very well and the flavor improves overnight."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills"],
+    "sources": [
+      "Ottawa No Frills"
+    ],
     "notes": "Pillers Kolbassa 375g = $6.50 (verified sale price, regularly $7.49). Green lentils PC Blue Menu $0.42/100g, 200g = $0.84. Diced tomatoes $2.00. Carrots $2.93/kg, 200g = $0.59. Onion $1.23. Garlic $0.08 × 3 = $0.24. Broth $1.50. Oil $0.06. Spices estimated $0.10."
   }
 }

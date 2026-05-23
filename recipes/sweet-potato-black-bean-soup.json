@@ -2,28 +2,82 @@
   "id": "sweet-potato-black-bean-soup",
   "name": "Sweet Potato and Black Bean Soup",
   "summary": "Diced sweet potatoes and black beans simmered in a spiced tomato broth until thick.",
-  "totalCost": 10.20,
-  "costPerServing": 2.55,
+  "totalCost": 11.55,
+  "costPerServing": 2.89,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "30 min",
-  "tags": ["vegan", "vegetarian", "beans", "soup", "one-pot", "gluten-free", "high-protein"],
-
-  "ingredients": [
-    { "quantity": "600 g (about 2 medium)", "name": "sweet potatoes, peeled and diced", "costContribution": 1.97 },
-    { "quantity": "2 cans (540 mL each)", "name": "black beans, drained and rinsed", "costContribution": 3.00 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                         "costContribution": 2.00 },
-    { "quantity": "1 can (900 mL)", "name": "chicken or vegetable broth",             "costContribution": 1.50 },
-    { "quantity": "500 mL",         "name": "water",                                  "costContribution": 0.00 },
-    { "quantity": "1 medium",       "name": "yellow onion, diced",                    "costContribution": 1.23 },
-    { "quantity": "3 cloves",       "name": "garlic, minced",                         "costContribution": 0.24 },
-    { "quantity": "1 tbsp",         "name": "vegetable oil",                          "costContribution": 0.06 },
-    { "quantity": "2 tsp",          "name": "ground cumin",                           "costContribution": 0.10 },
-    { "quantity": "1 tsp",          "name": "chili powder",                           "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",        "name": "smoked paprika",                         "costContribution": 0.03 },
-    { "quantity": "to taste",       "name": "salt and pepper",                        "costContribution": 0.02 }
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "beans",
+    "soup",
+    "one-pot",
+    "gluten-free",
+    "high-protein"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "600 g (about 2 medium)",
+      "name": "sweet potatoes, peeled and diced",
+      "costContribution": 3.29
+    },
+    {
+      "quantity": "2 cans (540 mL each)",
+      "name": "black beans, drained and rinsed",
+      "costContribution": 3
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2
+    },
+    {
+      "quantity": "1 can (900 mL)",
+      "name": "chicken or vegetable broth",
+      "costContribution": 1.69
+    },
+    {
+      "quantity": "500 mL",
+      "name": "water",
+      "costContribution": 0
+    },
+    {
+      "quantity": "1 medium",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.24
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "2 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "chili powder",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and pepper",
+      "costContribution": 0.02
+    }
+  ],
   "instructions": [
     "Heat oil in a large pot over medium heat. Add onion and cook 5 minutes until softened.",
     "Add garlic, cumin, chili powder, and paprika. Cook 1 minute, stirring constantly.",
@@ -33,7 +87,6 @@
     "Use a potato masher or the back of a spoon to partially mash some of the sweet potato — this thickens the soup naturally.",
     "Taste and adjust salt. Serve as-is or with rice or bread."
   ],
-
   "nutrition": {
     "calories": 410,
     "protein": 12,
@@ -45,22 +98,21 @@
     "calcium": "~8% DV",
     "vitaminC": "~30% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": true,
     "substitutions": [],
     "notes": "All ingredients are naturally gluten-free. Use vegetable broth to make this fully vegan."
   },
-
   "budgetNotes": [
-    "Sweet potatoes loose at No Frills are $3.28/kg. Two medium ones weigh about 600g and cost under $2.00.",
+    "Sweet potatoes at No Frills are $5.49/kg (~$2.49/lb). Two medium ones weigh about 600g = $3.29.",
     "Use vegetable broth to make this fully vegan. The price is identical to chicken broth.",
     "This is a thick soup, not a brothy one. The partial mashing step is what makes it feel substantial without adding ingredients."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills"],
-    "notes": "Sweet potatoes $3.28/kg (verified loose price), 600g = $1.97. Black beans $1.50. Diced tomatoes $2.00. Broth $1.50. Onion $1.23. Garlic $0.08 × 3 = $0.24. Oil $0.06. Cumin/chili/paprika estimated $0.18. Salt/pepper $0.02."
+    "sources": [
+      "Ottawa No Frills"
+    ],
+    "notes": "Sweet potatoes $5.49/kg (~$2.49/lb), 600g = $3.29. Black beans $1.50 × 2 = $3.00. Diced tomatoes $2.00. Broth (Campbell's 900mL) $1.69. Onion $1.07. Garlic $0.08 × 3 = $0.24. Oil $0.06. Cumin/chili/paprika estimated $0.18. Salt/pepper $0.02. Total: $11.55."
   }
 }

@@ -2,28 +2,81 @@
   "id": "shakshuka",
   "name": "Shakshuka",
   "summary": "Eggs poached directly in a spiced tomato and chickpea sauce. One pan, minimal cleanup, ready in 30 minutes.",
-  "totalCost": 12.08,
-  "costPerServing": 3.02,
+  "totalCost": 11.92,
+  "costPerServing": 2.98,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "25 min",
-  "tags": ["vegetarian", "gluten-free", "eggs", "tomatoes", "chickpeas", "one-pan"],
-
-  "ingredients": [
-    { "quantity": "2 cans (796 mL each)", "name": "crushed or diced tomatoes",              "costContribution": 4.00 },
-    { "quantity": "2 cans (540 mL each)", "name": "chickpeas, drained and rinsed",          "costContribution": 3.00 },
-    { "quantity": "8 large",              "name": "eggs",                                   "costContribution": 2.64 },
-    { "quantity": "1 large",              "name": "onion, diced",                           "costContribution": 1.23 },
-    { "quantity": "1 cup",                "name": "frozen diced peppers (any colour)",      "costContribution": 0.50 },
-    { "quantity": "5 cloves",             "name": "garlic, minced",                         "costContribution": 0.40 },
-    { "quantity": "1.5 tsp",              "name": "smoked paprika",                         "costContribution": 0.07 },
-    { "quantity": "1 tsp",                "name": "ground cumin",                           "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",              "name": "ground coriander",                       "costContribution": 0.05 },
-    { "quantity": "0.25 tsp",             "name": "cayenne pepper",                         "costContribution": 0.03 },
-    { "quantity": "1 tbsp",               "name": "vegetable oil",                          "costContribution": 0.06 },
-    { "quantity": "to taste",             "name": "salt and black pepper",                  "costContribution": 0.05 }
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "eggs",
+    "tomatoes",
+    "chickpeas",
+    "one-pan"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "2 cans (796 mL each)",
+      "name": "crushed or diced tomatoes",
+      "costContribution": 4
+    },
+    {
+      "quantity": "2 cans (540 mL each)",
+      "name": "chickpeas, drained and rinsed",
+      "costContribution": 3
+    },
+    {
+      "quantity": "8 large",
+      "name": "eggs",
+      "costContribution": 2.64
+    },
+    {
+      "quantity": "1 large",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "1 cup",
+      "name": "frozen diced peppers (any colour)",
+      "costContribution": 0.5
+    },
+    {
+      "quantity": "5 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.4
+    },
+    {
+      "quantity": "1.5 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.07
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "ground coriander",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.25 tsp",
+      "name": "cayenne pepper",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
   "instructions": [
     "Heat oil in a large skillet with a lid over medium heat.",
     "Add the onion and frozen peppers. Cook 5–6 minutes until softened.",
@@ -35,7 +88,6 @@
     "Cover the skillet with the lid. Cook on medium-low heat 6–8 minutes, until the egg whites are fully set but the yolks are still slightly runny. Cook 2–3 minutes longer for fully set yolks.",
     "Serve directly from the skillet with bread if available."
   ],
-
   "nutrition": {
     "calories": 495,
     "protein": 30,
@@ -46,22 +98,22 @@
     "iron": "~30% DV",
     "vitaminC": "~35% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": true,
     "notes": "All ingredients in this recipe are naturally gluten-free. If serving with bread, use a gluten-free variety."
   },
-
   "budgetNotes": [
     "Serve with any cheap bread — a baguette or white sandwich bread works fine for scooping.",
     "One can of chickpeas can be omitted if cost is a concern. The calories per serving will drop to approximately 380.",
     "Crushed tomatoes give a smoother sauce; diced tomatoes give a chunkier texture. Either works.",
     "Leftover sauce (without the eggs) reheats well. Crack fresh eggs in when reheating."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Diced/crushed tomatoes $2.00/796mL can. Chickpeas $1.50/540mL can. Eggs $0.33 each from 12-count carton ($3.93). Onion $1.23 each. Note: this recipe exceeds $15 at corrected prices — two cans of chickpeas are needed to meet calorie targets."
   }
 }

@@ -2,32 +2,100 @@
   "id": "mushroom-stroganoff",
   "name": "Mushroom Stroganoff",
   "summary": "Cremini mushrooms cooked in a creamy sour cream and broth sauce over egg noodles. The standard vegetarian weeknight option on every meal planning forum.",
-  "totalCost": 9.66,
-  "costPerServing": 2.42,
+  "totalCost": 9.56,
+  "costPerServing": 2.39,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "25 min",
-  "tags": ["vegetarian", "pasta", "mushrooms", "fast", "comfort-food"],
-
-  "ingredients": [
-    { "quantity": "600 g",   "name": "cremini or button mushrooms, sliced",          "costContribution": 3.97 },
-    { "quantity": "400 g",   "name": "egg noodles or fettuccine",                    "costContribution": 1.49 },
-    { "quantity": "1 cup",   "name": "sour cream",                                   "costContribution": 1.25 },
-    { "quantity": "300 mL",  "name": "vegetable broth",                              "costContribution": 0.50 },
-    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 1.23 },
-    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.24 },
-    { "quantity": "2 tbsp",  "name": "butter",                                       "costContribution": 0.38 },
-    { "quantity": "2 tbsp",  "name": "flour",                                        "costContribution": 0.05 },
-    { "quantity": "1 tbsp",  "name": "Worcestershire sauce",                         "costContribution": 0.15 },
-    { "quantity": "1 tsp",   "name": "dried thyme",                                  "costContribution": 0.05 },
-    { "quantity": "1 tsp",   "name": "smoked paprika",                               "costContribution": 0.05 },
-    { "quantity": "to taste","name": "salt and black pepper",                        "costContribution": 0.03 },
-    { "quantity": "optional","name": "fresh parsley for serving",                    "costContribution": 0.10 },
-    { "quantity": "1 tbsp",  "name": "vegetable oil",                                "costContribution": 0.06 },
-    { "quantity": "0.5 tsp", "name": "Dijon mustard (optional)",                     "costContribution": 0.02 },
-    { "quantity": "1 tbsp",  "name": "lemon juice (optional)",                       "costContribution": 0.09 }
+  "tags": [
+    "vegetarian",
+    "pasta",
+    "mushrooms",
+    "fast",
+    "comfort-food"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "600 g",
+      "name": "cremini or button mushrooms, sliced",
+      "costContribution": 3.97
+    },
+    {
+      "quantity": "400 g",
+      "name": "egg noodles or fettuccine",
+      "costContribution": 1.49
+    },
+    {
+      "quantity": "1 cup",
+      "name": "sour cream",
+      "costContribution": 1.25
+    },
+    {
+      "quantity": "300 mL",
+      "name": "vegetable broth",
+      "costContribution": 0.56
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.24
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "butter",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "flour",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "Worcestershire sauce",
+      "costContribution": 0.15
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried thyme",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "optional",
+      "name": "fresh parsley for serving",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "Dijon mustard (optional)",
+      "costContribution": 0.02
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "lemon juice (optional)",
+      "costContribution": 0.09
+    }
+  ],
   "instructions": [
     "Cook egg noodles in salted boiling water according to package directions. Drain and set aside.",
     "Heat butter and oil in a large skillet over medium-high heat.",
@@ -42,7 +110,6 @@
     "Add lemon juice if using. Taste and adjust seasoning.",
     "Serve over egg noodles. Top with parsley."
   ],
-
   "nutrition": {
     "calories": 488,
     "protein": 16,
@@ -53,7 +120,6 @@
     "iron": "~15% DV",
     "calcium": "~8% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
@@ -74,17 +140,18 @@
       }
     ]
   },
-
   "budgetNotes": [
     "Mushrooms are the most expensive ingredient here. Buying a 2 lb (907 g) tray is more cost-effective than individual 227 g packages.",
     "Do not stir the mushrooms immediately after adding them. Letting them sit in the hot pan is what gives them their browned, meaty texture.",
     "Do not boil the sour cream — gentle heat only or the sauce breaks.",
     "Serve over rice instead of egg noodles to cut about $0.80 from the total cost."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Broth $1.50/900mL (300mL = $0.50). Butter $1.36/100g (2 tbsp ≈ 28g = $0.38). Onion $1.23 each. Mushrooms and egg noodles estimated from standard shelf prices."
   }
 }

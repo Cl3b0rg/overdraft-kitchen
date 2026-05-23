@@ -2,38 +2,130 @@
   "id": "corn-chowder",
   "name": "Corn Chowder",
   "summary": "Thick, creamy corn and potato soup with bacon. Uses canned and frozen corn to keep costs down and make it a year-round option.",
-  "totalCost": 8.73,
-  "costPerServing": 2.18,
+  "totalCost": 8.87,
+  "costPerServing": 2.22,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "35 min",
-  "tags": ["soup", "pork", "potatoes", "comfort-food", "fast"],
-
-  "ingredients": [
-    { "quantity": "1 can (341 mL)", "name": "corn kernels, drained",                 "costContribution": 1.25 },
-    { "quantity": "250 g",   "name": "frozen corn",                                  "costContribution": 0.65 },
-    { "quantity": "3 medium","name": "potatoes (~450 g), peeled and diced small",    "costContribution": 0.20 },
-    { "quantity": "100 g",   "name": "bacon, roughly chopped",                       "costContribution": 1.87 },
-    { "quantity": "1 medium","name": "onion, diced",                                 "costContribution": 1.23 },
-    { "quantity": "3 cloves","name": "garlic, minced",                               "costContribution": 0.24 },
-    { "quantity": "500 mL",  "name": "chicken or vegetable broth",                   "costContribution": 0.83 },
-    { "quantity": "400 mL",  "name": "milk",                                         "costContribution": 0.78 },
-    { "quantity": "2 tbsp",  "name": "butter",                                       "costContribution": 0.38 },
-    { "quantity": "3 tbsp",  "name": "flour",                                        "costContribution": 0.05 },
-    { "quantity": "0.5 tsp", "name": "smoked paprika",                               "costContribution": 0.03 },
-    { "quantity": "1 tsp",   "name": "dried thyme",                                  "costContribution": 0.05 },
-    { "quantity": "to taste","name": "salt, black pepper, and hot sauce",            "costContribution": 0.03 },
-    { "quantity": "3",       "name": "green onions, sliced (for serving)",           "costContribution": 1.00 },
-    { "quantity": "0.5 tsp", "name": "onion powder",                                 "costContribution": 0.02 },
-    { "quantity": "0.25 tsp","name": "cayenne pepper (optional)",                    "costContribution": 0.02 },
-    { "quantity": "1 tsp",   "name": "vegetable oil",                                "costContribution": 0.01 },
-    { "quantity": "0.5 tsp", "name": "white or black pepper",                        "costContribution": 0.02 },
-    { "quantity": "0.5 tsp", "name": "garlic powder",                                "costContribution": 0.03 },
-    { "quantity": "0.5 tsp", "name": "salt",                                         "costContribution": 0.01 },
-    { "quantity": "1 tsp",   "name": "apple cider vinegar (optional)",               "costContribution": 0.01 },
-    { "quantity": "0.25 tsp","name": "mustard powder (optional)",                    "costContribution": 0.01 }
+  "tags": [
+    "soup",
+    "pork",
+    "potatoes",
+    "comfort-food",
+    "fast"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "1 can (341 mL)",
+      "name": "corn kernels, drained",
+      "costContribution": 1.25
+    },
+    {
+      "quantity": "250 g",
+      "name": "frozen corn",
+      "costContribution": 0.65
+    },
+    {
+      "quantity": "3 medium",
+      "name": "potatoes (~450 g), peeled and diced small",
+      "costContribution": 0.4
+    },
+    {
+      "quantity": "100 g",
+      "name": "bacon, roughly chopped",
+      "costContribution": 1.87
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.24
+    },
+    {
+      "quantity": "500 mL",
+      "name": "chicken or vegetable broth",
+      "costContribution": 0.94
+    },
+    {
+      "quantity": "400 mL",
+      "name": "milk",
+      "costContribution": 0.78
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "butter",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "3 tbsp",
+      "name": "flour",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried thyme",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt, black pepper, and hot sauce",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "3",
+      "name": "green onions, sliced (for serving)",
+      "costContribution": 1
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "onion powder",
+      "costContribution": 0.02
+    },
+    {
+      "quantity": "0.25 tsp",
+      "name": "cayenne pepper (optional)",
+      "costContribution": 0.02
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "vegetable oil",
+      "costContribution": 0.01
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "white or black pepper",
+      "costContribution": 0.02
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "garlic powder",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "salt",
+      "costContribution": 0.01
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "apple cider vinegar (optional)",
+      "costContribution": 0.01
+    },
+    {
+      "quantity": "0.25 tsp",
+      "name": "mustard powder (optional)",
+      "costContribution": 0.01
+    }
+  ],
   "instructions": [
     "In a large pot over medium heat, cook the bacon until crispy. Remove and set aside, leaving the fat in the pot.",
     "Add butter to the pot. Add onion and cook 5 minutes until softened.",
@@ -47,7 +139,6 @@
     "Add cayenne and vinegar if using. Taste and adjust salt and pepper.",
     "Serve topped with bacon and green onions."
   ],
-
   "nutrition": {
     "calories": 421,
     "protein": 14,
@@ -59,7 +150,6 @@
     "calcium": "~12% DV",
     "vitaminC": "~25% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
@@ -71,16 +161,17 @@
     ],
     "notes": "Corn, potatoes, and dairy are all naturally gluten-free. Use GF broth and cornstarch to make this fully GF."
   },
-
   "budgetNotes": [
     "Using one can plus frozen corn gives the best texture — some kernels stay firm while others soften into the broth.",
     "Skipping the bacon makes this vegetarian and saves about $1.87 — use vegetable broth and an extra tablespoon of butter for flavour.",
     "This thickens considerably as it cools. Add a splash of milk when reheating."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Corn 341mL can $1.25. Russet potatoes $0.44/kg. Broth $1.50/900mL (500mL = $0.83). Butter $1.36/100g (2 tbsp ≈ 28g = $0.38). Onion $1.23 each. Green onions $1.99/bunch. Bacon estimated from standard shelf price."
   }
 }

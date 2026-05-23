@@ -2,30 +2,91 @@
   "id": "lentil-tomato-soup",
   "name": "Lentil Tomato Soup",
   "summary": "A thick, spiced red lentil soup with tomato and vegetables. Cheap, high in protein and fiber, and freezes well.",
-  "totalCost": 11.60,
-  "costPerServing": 2.90,
+  "totalCost": 10.63,
+  "costPerServing": 2.66,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "35 min",
-  "tags": ["vegan", "gluten-free", "lentils", "soup", "high-fiber", "freezer-friendly"],
-
-  "ingredients": [
-    { "quantity": "350 g",          "name": "dry red lentils",                    "costContribution": 1.47 },
-    { "quantity": "2 cans (796 mL each)", "name": "diced tomatoes",              "costContribution": 4.00 },
-    { "quantity": "2 medium",       "name": "carrots, diced",                     "costContribution": 0.46 },
-    { "quantity": "2 stalks",       "name": "celery, diced",                      "costContribution": 0.75 },
-    { "quantity": "1 large",        "name": "onion, diced",                       "costContribution": 1.23 },
-    { "quantity": "4 cloves",       "name": "garlic, minced",                     "costContribution": 0.32 },
-    { "quantity": "900 mL",         "name": "vegetable broth (1 carton or cubes)", "costContribution": 1.50 },
-    { "quantity": "1.5 tsp",        "name": "ground cumin",                       "costContribution": 0.07 },
-    { "quantity": "1 tsp",          "name": "ground coriander",                   "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",        "name": "turmeric",                           "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",        "name": "smoked paprika",                     "costContribution": 0.05 },
-    { "quantity": "2 tbsp",         "name": "vegetable oil",                      "costContribution": 0.13 },
-    { "quantity": "1",              "name": "lemon (juice only)",                 "costContribution": 0.45 },
-    { "quantity": "to taste",       "name": "salt and black pepper",              "costContribution": 0.07 }
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "lentils",
+    "soup",
+    "high-fiber",
+    "freezer-friendly"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "350 g",
+      "name": "dry red lentils",
+      "costContribution": 1.47
+    },
+    {
+      "quantity": "2 cans (796 mL each)",
+      "name": "diced tomatoes",
+      "costContribution": 4
+    },
+    {
+      "quantity": "2 medium",
+      "name": "carrots, diced",
+      "costContribution": 0.46
+    },
+    {
+      "quantity": "2 stalks",
+      "name": "celery, diced",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "1 large",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "900 mL",
+      "name": "vegetable broth (1 carton or cubes)",
+      "costContribution": 1.69
+    },
+    {
+      "quantity": "1.5 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.07
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground coriander",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "turmeric",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "1",
+      "name": "lemon (juice only)",
+      "costContribution": 0.45
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.07
+    }
+  ],
   "instructions": [
     "Rinse the red lentils in cold water until the water runs clear. Set aside.",
     "Heat the oil in a large pot over medium heat.",
@@ -37,7 +98,6 @@
     "If the soup is thicker than you like, add 250–500 mL of water and stir. Season with salt and pepper.",
     "Squeeze lemon juice over each bowl just before serving."
   ],
-
   "nutrition": {
     "calories": 510,
     "protein": 28,
@@ -49,12 +109,10 @@
     "vitaminC": "~20% DV",
     "calcium": "~8% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": true,
     "notes": "All ingredients are naturally gluten-free. Check your vegetable broth label — some broths contain barley or wheat. Look for a broth labeled gluten-free, or use homemade."
   },
-
   "budgetNotes": [
     "Buy red lentils in bulk bags (900 g or larger) — per-kilogram cost drops significantly.",
     "Omit the lemon if unavailable or too expensive. A small splash of white vinegar adds similar brightness.",
@@ -62,10 +120,12 @@
     "This soup freezes well in portions. Double the batch and freeze half for a ready meal.",
     "Stir in a handful of frozen spinach in the last 5 minutes for added nutrition at low cost."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Red lentils at $0.42/100g from 900g bag. Vegetable broth carton $1.50. Diced tomatoes $2.00/can. Onion $1.23 each. Celery $2.99/bunch (2 stalks = half bunch). Carrots $2.93/kg."
   }
 }

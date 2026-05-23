@@ -2,25 +2,66 @@
   "id": "potato-egg-hash",
   "name": "Potato and Egg Hash",
   "summary": "Diced potatoes pan-fried with onion, peppers, and eggs. Works for breakfast, lunch, or dinner.",
-  "totalCost": 5.55,
-  "costPerServing": 1.39,
+  "totalCost": 6.05,
+  "costPerServing": 1.51,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "30 min",
-  "tags": ["gluten-free", "eggs", "potatoes", "vegetarian", "breakfast", "one-pan"],
-
-  "ingredients": [
-    { "quantity": "1.5 kg",         "name": "Russet or yellow potatoes, diced into 1 cm cubes", "costContribution": 0.66 },
-    { "quantity": "8 large",        "name": "eggs",                                              "costContribution": 2.64 },
-    { "quantity": "1 medium",       "name": "onion, diced",                                      "costContribution": 1.23 },
-    { "quantity": "1 cup",          "name": "frozen diced peppers (any colour)",                 "costContribution": 0.50 },
-    { "quantity": "3 cloves",       "name": "garlic, minced",                                    "costContribution": 0.24 },
-    { "quantity": "1 tsp",          "name": "smoked paprika",                                    "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",        "name": "onion powder",                                      "costContribution": 0.05 },
-    { "quantity": "2 tbsp",         "name": "vegetable oil",                                     "costContribution": 0.13 },
-    { "quantity": "to taste",       "name": "salt and black pepper",                             "costContribution": 0.05 }
+  "tags": [
+    "gluten-free",
+    "eggs",
+    "potatoes",
+    "vegetarian",
+    "breakfast",
+    "one-pan"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "1.5 kg",
+      "name": "Russet or yellow potatoes, diced into 1 cm cubes",
+      "costContribution": 1.32
+    },
+    {
+      "quantity": "8 large",
+      "name": "eggs",
+      "costContribution": 2.64
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "1 cup",
+      "name": "frozen diced peppers (any colour)",
+      "costContribution": 0.5
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.24
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "onion powder",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
   "instructions": [
     "Dice potatoes into roughly 1 cm cubes. No need to peel.",
     "Heat oil in a large skillet over medium-high heat.",
@@ -33,7 +74,6 @@
     "Cover the skillet and cook 4–5 minutes until the egg whites are set but yolks are still slightly runny, or cook longer for fully set yolks.",
     "Serve directly from the skillet."
   ],
-
   "nutrition": {
     "calories": 470,
     "protein": 21,
@@ -44,22 +84,22 @@
     "iron": "~15% DV",
     "vitaminC": "~30% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": true,
     "notes": "All ingredients are naturally gluten-free. This recipe contains no wheat or gluten-containing ingredients."
   },
-
   "budgetNotes": [
     "Buy potatoes in 4 kg or larger bags — per-kilogram cost drops significantly.",
     "Frozen peppers from a bulk bag are much cheaper than fresh. Any colour works.",
     "Leftover hash reheats well in a skillet over medium heat with a splash of water.",
     "Add hot sauce, salsa, or sour cream if available. Shredded cheddar also works."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Russet potatoes $0.44/kg from 10 lb bag ($1.99). Eggs $0.33 each from 12-count carton ($3.93). Onion $1.23 each."
   }
 }

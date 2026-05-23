@@ -2,25 +2,67 @@
   "id": "rice-and-peas",
   "name": "Rice and Peas",
   "summary": "Jamaican-style kidney beans cooked with rice in coconut milk and thyme. Rich, filling, and naturally vegan.",
-  "totalCost": 7.53,
-  "costPerServing": 1.88,
+  "totalCost": 7.37,
+  "costPerServing": 1.84,
   "servings": 4,
   "prepTime": "5 min",
   "cookTime": "30 min",
-  "tags": ["vegan", "gluten-free", "rice", "beans", "coconut", "jamaican", "very-low-cost"],
-
-  "ingredients": [
-    { "quantity": "300 g",     "name": "dry long-grain white rice",                     "costContribution": 0.75 },
-    { "quantity": "1 can (540 mL)", "name": "red kidney beans, drained (liquid reserved)", "costContribution": 1.50 },
-    { "quantity": "1 can (400 mL)", "name": "coconut milk",                              "costContribution": 2.80 },
-    { "quantity": "1 medium",  "name": "onion, diced",                                   "costContribution": 1.23 },
-    { "quantity": "3 cloves",  "name": "garlic, minced",                                 "costContribution": 0.24 },
-    { "quantity": "2",         "name": "green onions, bruised with the flat of a knife", "costContribution": 0.66 },
-    { "quantity": "1 tsp",     "name": "dried thyme",                                    "costContribution": 0.05 },
-    { "quantity": "1",         "name": "scotch bonnet or jalapeño, left whole",          "costContribution": 0.25 },
-    { "quantity": "to taste",  "name": "salt and black pepper",                          "costContribution": 0.05 }
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "rice",
+    "beans",
+    "coconut",
+    "jamaican",
+    "very-low-cost"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "300 g",
+      "name": "dry long-grain white rice",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "1 can (540 mL)",
+      "name": "red kidney beans, drained (liquid reserved)",
+      "costContribution": 1.5
+    },
+    {
+      "quantity": "1 can (400 mL)",
+      "name": "coconut milk",
+      "costContribution": 2.8
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.24
+    },
+    {
+      "quantity": "2",
+      "name": "green onions, bruised with the flat of a knife",
+      "costContribution": 0.66
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried thyme",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1",
+      "name": "scotch bonnet or jalapeño, left whole",
+      "costContribution": 0.25
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
   "instructions": [
     "Measure the liquid from the drained kidney beans into a measuring cup. Add water to make 500 mL total. Set aside.",
     "In a medium pot, combine the coconut milk, reserved bean liquid, diced onion, garlic, green onions, thyme, and whole pepper.",
@@ -30,7 +72,6 @@
     "Remove from heat. Let stand covered for 5 minutes.",
     "Remove the whole pepper and green onions. Fluff with a fork and serve."
   ],
-
   "nutrition": {
     "calories": 490,
     "protein": 12,
@@ -40,22 +81,22 @@
     "sodium": 310,
     "iron": "~15% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": true,
     "notes": "All ingredients are naturally gluten-free."
   },
-
   "budgetNotes": [
     "Leave the scotch bonnet or jalapeño whole throughout cooking — it adds aroma without making the dish spicy. Remove before serving.",
     "The bean liquid adds starch and flavour to the rice. Do not discard it.",
     "Store-brand coconut milk works the same as premium brands in this recipe.",
     "This is traditionally served as a side dish. Pair it with fried eggs, jerk chicken, or any inexpensive protein."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Coconut milk $2.80/400mL can (Thai Kitchen). Kidney beans $1.50/540mL can. Rice $0.25/100g from 2kg bag. Onion $1.23 each. Green onions $1.99/bunch (2 = approx. one-third bunch)."
   }
 }

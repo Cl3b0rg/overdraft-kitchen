@@ -2,28 +2,81 @@
   "id": "greek-lemon-chicken-soup",
   "name": "Greek Lemon Chicken Soup",
   "summary": "A simplified avgolemono-style soup — chicken and rice in broth finished with beaten eggs and lemon juice for a silky, tangy texture.",
-  "totalCost": 11.30,
-  "costPerServing": 2.83,
+  "totalCost": 11.52,
+  "costPerServing": 2.88,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "35 min",
-  "tags": ["chicken", "soup", "rice", "one-pot", "gluten-free", "high-protein"],
-
-  "ingredients": [
-    { "quantity": "500 g",         "name": "bone-in, skin-on chicken thighs",      "costContribution": 4.41 },
-    { "quantity": "2 cans (900 mL total)", "name": "chicken broth",               "costContribution": 3.00 },
-    { "quantity": "150 g",         "name": "long-grain white rice, dry",           "costContribution": 0.38 },
-    { "quantity": "3 large",       "name": "eggs",                                 "costContribution": 0.99 },
-    { "quantity": "1",             "name": "lemon, juiced (about 3 tbsp)",         "costContribution": 0.99 },
-    { "quantity": "1 medium",      "name": "yellow onion, finely diced",           "costContribution": 1.23 },
-    { "quantity": "2 cloves",      "name": "garlic, minced",                       "costContribution": 0.16 },
-    { "quantity": "1 tbsp",        "name": "vegetable oil",                        "costContribution": 0.06 },
-    { "quantity": "1",             "name": "bay leaf",                             "costContribution": 0.03 },
-    { "quantity": "0.5 tsp",       "name": "dried thyme",                          "costContribution": 0.03 },
-    { "quantity": "500 mL",        "name": "water",                                "costContribution": 0.00 },
-    { "quantity": "to taste",      "name": "salt and white pepper",                "costContribution": 0.02 }
+  "tags": [
+    "chicken",
+    "soup",
+    "rice",
+    "one-pot",
+    "gluten-free",
+    "high-protein"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "500 g",
+      "name": "bone-in, skin-on chicken thighs",
+      "costContribution": 4.41
+    },
+    {
+      "quantity": "2 cans (900 mL total)",
+      "name": "chicken broth",
+      "costContribution": 3.38
+    },
+    {
+      "quantity": "150 g",
+      "name": "long-grain white rice, dry",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "3 large",
+      "name": "eggs",
+      "costContribution": 0.99
+    },
+    {
+      "quantity": "1",
+      "name": "lemon, juiced (about 3 tbsp)",
+      "costContribution": 0.99
+    },
+    {
+      "quantity": "1 medium",
+      "name": "yellow onion, finely diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "2 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.16
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "1",
+      "name": "bay leaf",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "dried thyme",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "500 mL",
+      "name": "water",
+      "costContribution": 0
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and white pepper",
+      "costContribution": 0.02
+    }
+  ],
   "instructions": [
     "Heat oil in a large pot over medium heat. Add onion and cook 4 minutes until softened.",
     "Add garlic and thyme. Cook 1 minute.",
@@ -36,7 +89,6 @@
     "Return shredded chicken to the pot. Do not boil again — the egg will curdle. Reheat gently over low heat if needed.",
     "Taste and adjust salt. Serve immediately."
   ],
-
   "nutrition": {
     "calories": 400,
     "protein": 35,
@@ -48,22 +100,21 @@
     "calcium": "~6% DV",
     "vitaminC": "~12% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": true,
     "substitutions": [],
     "notes": "All ingredients are naturally gluten-free. Verify broth is GF."
   },
-
   "budgetNotes": [
     "The egg-lemon step thickens and enriches the broth without cream or flour. Tempering is not difficult but it must be done slowly — add the hot broth to the eggs a spoonful at a time at first.",
     "Do not boil the soup after adding the egg mixture. This will curdle the eggs and produce a grainy texture.",
     "A single lemon at $0.99 is enough for this recipe. The lemon flavor should be noticeable but not sharp."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills"],
+    "sources": [
+      "Ottawa No Frills"
+    ],
     "notes": "Bone-in skin-on chicken thighs $8.82/kg, 500g = $4.41. Broth $1.50 × 2 = $3.00. Rice $0.25/100g, 150g = $0.38. Eggs $0.33 × 3 = $0.99. Lemon individual $0.99. Onion $1.23. Garlic $0.08 × 2 = $0.16. Oil $0.06. Bay leaf $0.03. Thyme $0.03. Salt/pepper $0.02."
   }
 }

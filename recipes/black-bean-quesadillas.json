@@ -2,27 +2,75 @@
   "id": "black-bean-quesadillas",
   "name": "Black Bean and Cheese Quesadillas",
   "summary": "Flour tortillas filled with seasoned black beans and melted cheddar. Quick, filling, and flexible.",
-  "totalCost": 11.03,
-  "costPerServing": 2.76,
+  "totalCost": 10.87,
+  "costPerServing": 2.72,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "20 min",
-  "tags": ["vegetarian", "beans", "cheese", "fast", "kid-friendly"],
-
-  "ingredients": [
-    { "quantity": "2 cans (540 mL each)", "name": "black beans, drained and rinsed",          "costContribution": 3.00 },
-    { "quantity": "8",                    "name": "large (10-inch) flour tortillas",           "costContribution": 2.49 },
-    { "quantity": "150 g",                "name": "old cheddar, grated (from block)",          "costContribution": 1.93 },
-    { "quantity": "1 can (796 mL)",       "name": "diced tomatoes, well drained (for topping)", "costContribution": 2.00 },
-    { "quantity": "1 medium",             "name": "onion, diced",                              "costContribution": 1.23 },
-    { "quantity": "2 cloves",             "name": "garlic, minced",                            "costContribution": 0.16 },
-    { "quantity": "1 tsp",                "name": "ground cumin",                              "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",              "name": "chili powder",                              "costContribution": 0.03 },
-    { "quantity": "1 tbsp",              "name": "vegetable oil (for filling)",                "costContribution": 0.06 },
-    { "quantity": "oil or cooking spray", "name": "for pan",                                   "costContribution": 0.05 },
-    { "quantity": "to taste",             "name": "salt",                                      "costContribution": 0.03 }
+  "tags": [
+    "vegetarian",
+    "beans",
+    "cheese",
+    "fast",
+    "kid-friendly"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "2 cans (540 mL each)",
+      "name": "black beans, drained and rinsed",
+      "costContribution": 3
+    },
+    {
+      "quantity": "8",
+      "name": "large (10-inch) flour tortillas",
+      "costContribution": 2.49
+    },
+    {
+      "quantity": "150 g",
+      "name": "old cheddar, grated (from block)",
+      "costContribution": 1.93
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes, well drained (for topping)",
+      "costContribution": 2
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "2 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.16
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "chili powder",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil (for filling)",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "oil or cooking spray",
+      "name": "for pan",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.03
+    }
+  ],
   "instructions": [
     "Heat 1 tbsp oil in a skillet over medium heat. Add onion and cook 4 minutes.",
     "Add garlic, cumin, and chili powder. Cook 1 minute.",
@@ -34,7 +82,6 @@
     "Repeat with remaining tortillas.",
     "Cut each quesadilla into wedges and serve with drained tomatoes on the side."
   ],
-
   "nutrition": {
     "calories": 683,
     "protein": 27,
@@ -45,7 +92,6 @@
     "iron": "~20% DV",
     "calcium": "~25% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
@@ -57,17 +103,18 @@
     ],
     "notes": "With corn tortillas the technique changes slightly — use two small tortillas per quesadilla, one on top of the other, rather than folding."
   },
-
   "budgetNotes": [
     "Buy the largest block of cheddar available and grate it yourself.",
     "Canned pinto beans or kidney beans work just as well as black beans.",
     "Leftover bean filling keeps in the fridge for 3–4 days and works in tacos or on toast.",
     "Sour cream or plain yogurt makes a good topping if available."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Black beans $1.50/540mL can. Diced tomatoes $2.00/796mL can. Onion $1.23 each. Cheddar and tortillas estimated from standard shelf prices."
   }
 }

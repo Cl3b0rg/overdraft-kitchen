@@ -2,28 +2,80 @@
   "id": "sausage-potato-soup",
   "name": "Sausage and Potato Soup",
   "summary": "A thick, smoky soup with kielbasa, potatoes, and vegetables. The kind of thing that fixes a bad day.",
-  "totalCost": 8.42,
-  "costPerServing": 2.11,
+  "totalCost": 8.85,
+  "costPerServing": 2.21,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "35 min",
-  "tags": ["pork", "potatoes", "soup", "high-calorie", "one-pot"],
-
-  "ingredients": [
-    { "quantity": "300 g",     "name": "smoked kielbasa, sliced into rounds",         "costContribution": 3.19 },
-    { "quantity": "900 g",     "name": "Russet or yellow potatoes, diced",            "costContribution": 0.40 },
-    { "quantity": "1 large",   "name": "onion, diced",                                "costContribution": 1.23 },
-    { "quantity": "2 medium",  "name": "carrots, diced",                              "costContribution": 0.59 },
-    { "quantity": "2 stalks",  "name": "celery, diced",                               "costContribution": 0.60 },
-    { "quantity": "4 cloves",  "name": "garlic, minced",                              "costContribution": 0.32 },
-    { "quantity": "900 mL",    "name": "chicken or vegetable broth",                  "costContribution": 1.50 },
-    { "quantity": "250 mL",    "name": "2% milk",                                     "costContribution": 0.38 },
-    { "quantity": "1 tsp",     "name": "smoked paprika",                              "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",   "name": "dried thyme",                                 "costContribution": 0.05 },
-    { "quantity": "1 tbsp",    "name": "vegetable oil",                               "costContribution": 0.06 },
-    { "quantity": "to taste",  "name": "salt and black pepper",                       "costContribution": 0.05 }
+  "tags": [
+    "pork",
+    "potatoes",
+    "soup",
+    "high-calorie",
+    "one-pot"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "300 g",
+      "name": "smoked kielbasa, sliced into rounds",
+      "costContribution": 3.19
+    },
+    {
+      "quantity": "900 g",
+      "name": "Russet or yellow potatoes, diced",
+      "costContribution": 0.8
+    },
+    {
+      "quantity": "1 large",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "2 medium",
+      "name": "carrots, diced",
+      "costContribution": 0.59
+    },
+    {
+      "quantity": "2 stalks",
+      "name": "celery, diced",
+      "costContribution": 0.6
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "900 mL",
+      "name": "chicken or vegetable broth",
+      "costContribution": 1.69
+    },
+    {
+      "quantity": "250 mL",
+      "name": "2% milk",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "dried thyme",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
   "instructions": [
     "Heat oil in a large pot over medium-high heat.",
     "Add kielbasa slices and cook 3–4 minutes until lightly browned. Remove and set aside.",
@@ -35,7 +87,6 @@
     "Stir in milk and return kielbasa to the pot. Simmer 5 more minutes.",
     "Taste and adjust salt and pepper. Serve hot."
   ],
-
   "nutrition": {
     "calories": 414,
     "protein": 16,
@@ -46,7 +97,6 @@
     "vitaminC": "~25% DV",
     "iron": "~12% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
@@ -58,17 +108,18 @@
     ],
     "notes": "Potatoes, milk, and broth are naturally gluten-free. The sausage is the only item to verify."
   },
-
   "budgetNotes": [
     "Sodium is on the higher side in this recipe due to kielbasa and broth. Use low-sodium broth if available.",
     "Omit the milk for a thinner, brothier soup. Add an extra 250 mL of water instead.",
     "Any smoked sausage works — andouille, hunter sausage, or store-brand smoked sausage all produce similar results.",
     "Leftover soup thickens significantly overnight. Thin with water or broth when reheating."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Russet potatoes $0.44/kg from 10 lb bag. Broth $1.50/900mL carton. Onion $1.23 each. Carrots $2.93/kg. Celery $2.99/bunch. Kielbasa at standard shelf price."
   }
 }

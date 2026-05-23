@@ -2,28 +2,81 @@
   "id": "beef-bean-rice-skillet",
   "name": "Beef and Bean Rice Skillet",
   "summary": "A filling one-pan rice and beef skillet with two kinds of beans. Reheats well and gets better the next day.",
-  "totalCost": 14.10,
-  "costPerServing": 3.53,
+  "totalCost": 13.94,
+  "costPerServing": 3.49,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "30 min",
-  "tags": ["gluten-free", "beef", "rice", "beans", "high-protein", "one-pan"],
-
-  "ingredients": [
-    { "quantity": "350 g",    "name": "medium ground beef",          "costContribution": 6.65 },
-    { "quantity": "250 g",    "name": "dry long-grain white rice",   "costContribution": 0.63 },
-    { "quantity": "1 can (540 mL)", "name": "kidney beans, drained and rinsed", "costContribution": 1.50 },
-    { "quantity": "1 can (540 mL)", "name": "black beans, drained and rinsed",  "costContribution": 1.50 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",        "costContribution": 2.00 },
-    { "quantity": "1 medium",  "name": "onion, diced",               "costContribution": 1.23 },
-    { "quantity": "4 cloves",  "name": "garlic, minced",             "costContribution": 0.32 },
-    { "quantity": "1.5 tsp",   "name": "chili powder",               "costContribution": 0.08 },
-    { "quantity": "1 tsp",     "name": "ground cumin",               "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",   "name": "smoked paprika",             "costContribution": 0.03 },
-    { "quantity": "1 tbsp",    "name": "vegetable oil",              "costContribution": 0.06 },
-    { "quantity": "to taste",  "name": "salt and black pepper",      "costContribution": 0.05 }
+  "tags": [
+    "gluten-free",
+    "beef",
+    "rice",
+    "beans",
+    "high-protein",
+    "one-pan"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "350 g",
+      "name": "medium ground beef",
+      "costContribution": 6.65
+    },
+    {
+      "quantity": "250 g",
+      "name": "dry long-grain white rice",
+      "costContribution": 0.63
+    },
+    {
+      "quantity": "1 can (540 mL)",
+      "name": "kidney beans, drained and rinsed",
+      "costContribution": 1.5
+    },
+    {
+      "quantity": "1 can (540 mL)",
+      "name": "black beans, drained and rinsed",
+      "costContribution": 1.5
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "1.5 tsp",
+      "name": "chili powder",
+      "costContribution": 0.08
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
   "instructions": [
     "Cook the rice according to package directions. Set aside.",
     "Heat the oil in a large skillet or wide pot over medium-high heat.",
@@ -36,7 +89,6 @@
     "Add the cooked rice to the skillet and fold everything together. Heat through for 2–3 minutes.",
     "Taste and adjust salt. Serve hot."
   ],
-
   "nutrition": {
     "calories": 680,
     "protein": 38,
@@ -47,12 +99,10 @@
     "iron": "~30% DV",
     "vitaminC": "~15% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": true,
     "notes": "All ingredients in this recipe are naturally gluten-free. If using a spice blend instead of individual spices, check the label for wheat-based fillers or anti-caking agents."
   },
-
   "budgetNotes": [
     "Ground beef in Ontario runs about $18/kg for medium (regular) in 2026. Buy in larger packages when on sale and freeze in portions.",
     "Use whichever canned beans are cheapest that week — pinto, romano, or chickpeas all work here.",
@@ -60,10 +110,12 @@
     "This dish scales well. Double the recipe and refrigerate portions for up to 4 days.",
     "Rice can be swapped for frozen corn, extra beans, or left out entirely for a lower-carb version."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa Walmart", "Ottawa No Frills"],
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Medium ground beef $19.00/kg (350g = $6.65). Rice $0.25/100g from 2kg bag ($5.00). Kidney and black beans $1.50/540mL can. Diced tomatoes $2.00/796mL can. Onion $1.23 each. Garlic $0.08/clove. Oil $0.42/100mL."
   }
 }

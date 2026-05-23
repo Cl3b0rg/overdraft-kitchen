@@ -2,28 +2,81 @@
   "id": "beef-chili",
   "name": "Ground Beef Chili",
   "summary": "A thick, straightforward beef and kidney bean chili. Keeps for days and gets better the next morning.",
-  "totalCost": 13.98,
-  "costPerServing": 3.50,
+  "totalCost": 13.87,
+  "costPerServing": 3.47,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "40 min",
-  "tags": ["gluten-free", "beef", "beans", "chili", "high-protein", "freezer-friendly"],
-
-  "ingredients": [
-    { "quantity": "350 g",          "name": "medium ground beef",              "costContribution": 6.65 },
-    { "quantity": "2 cans (540 mL each)", "name": "red kidney beans, drained and rinsed", "costContribution": 3.00 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                  "costContribution": 2.00 },
-    { "quantity": "250 mL",         "name": "beef or chicken broth",           "costContribution": 0.42 },
-    { "quantity": "1 large",        "name": "onion, diced",                    "costContribution": 1.23 },
-    { "quantity": "4 cloves",       "name": "garlic, minced",                  "costContribution": 0.32 },
-    { "quantity": "2 tbsp",         "name": "chili powder",                    "costContribution": 0.10 },
-    { "quantity": "1 tsp",          "name": "ground cumin",                    "costContribution": 0.05 },
-    { "quantity": "1 tsp",          "name": "smoked paprika",                  "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",        "name": "cayenne pepper",                  "costContribution": 0.03 },
-    { "quantity": "1 tbsp",         "name": "vegetable oil",                   "costContribution": 0.06 },
-    { "quantity": "to taste",       "name": "salt and black pepper",           "costContribution": 0.07 }
+  "tags": [
+    "gluten-free",
+    "beef",
+    "beans",
+    "chili",
+    "high-protein",
+    "freezer-friendly"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "350 g",
+      "name": "medium ground beef",
+      "costContribution": 6.65
+    },
+    {
+      "quantity": "2 cans (540 mL each)",
+      "name": "red kidney beans, drained and rinsed",
+      "costContribution": 3
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2
+    },
+    {
+      "quantity": "250 mL",
+      "name": "beef or chicken broth",
+      "costContribution": 0.47
+    },
+    {
+      "quantity": "1 large",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "chili powder",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "cayenne pepper",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.07
+    }
+  ],
   "instructions": [
     "Heat oil in a large pot over medium-high heat.",
     "Add the onion and cook 4–5 minutes until softened.",
@@ -35,7 +88,6 @@
     "Taste and adjust salt, pepper, and chili powder.",
     "Serve on its own or over rice or with bread."
   ],
-
   "nutrition": {
     "calories": 530,
     "protein": 34,
@@ -46,22 +98,22 @@
     "iron": "~35% DV",
     "vitaminC": "~20% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": true,
     "notes": "All ingredients are naturally gluten-free. Check chili powder blends for wheat-based fillers if using a pre-mixed brand."
   },
-
   "budgetNotes": [
     "Ground beef in Ontario is approximately $18/kg for medium grade in 2026. Serve over rice to stretch it further.",
     "Freeze leftovers in individual portions — chili reheats perfectly.",
     "Ground turkey can replace beef at lower cost.",
     "The two cans of beans carry most of the protein load here. The 350 g of beef is enough to flavor the whole pot."
   ],
-
   "pricingMetadata": {
     "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
     "notes": "Prices verified at Ottawa No Frills, May 2026. Medium ground beef $19.00/kg. Kidney beans $1.50/540mL can. Diced tomatoes $2.00/796mL can. Broth $1.50/900mL carton, 250mL used ($0.42). Onion $1.23 each. Garlic $0.08/clove. Oil $0.42/100mL."
   }
 }
