@@ -10,7 +10,7 @@
   "tags": ["chicken", "rice", "curry", "one-pot", "japanese", "high-protein"],
 
   "ingredients": [
-    { "quantity": "600 g",   "name": "boneless skinless chicken thighs, cut into chunks","costContribution": 5.29 },
+    { "quantity": "600 g",   "name": "bone-in, skin-on chicken thighs",                  "costContribution": 5.29 },
     { "quantity": "300 g",   "name": "dry long-grain white rice",                    "costContribution": 0.75 },
     { "quantity": "1 box (112 g)", "name": "S&B Golden Curry roux, medium heat",    "costContribution": 2.99 },
     { "quantity": "2 medium","name": "potatoes (~300 g), peeled and cubed",          "costContribution": 0.13 },
@@ -24,11 +24,11 @@
   "instructions": [
     "Cook the rice according to package directions.",
     "Heat oil in a large pot or Dutch oven over medium-high heat.",
-    "Add the chicken and cook, stirring occasionally, until lightly browned on all sides — about 5 minutes. It doesn't need to be fully cooked yet.",
-    "Add the onion. Cook 3 minutes.",
-    "Add potatoes and carrots. Stir to combine.",
+    "Add the chicken thighs skin-side down and cook 4–5 minutes until browned. Flip and cook 2 more minutes. Remove and set aside. Remove and discard the skin. Pull the meat off the bones in large pieces; discard the bones.",
+    "Add the onion to the pot. Cook 3 minutes.",
+    "Return the chicken pieces to the pot. Add potatoes and carrots. Stir to combine.",
     "Pour in the water. Bring to a boil.",
-    "Reduce heat to medium-low. Skim any foam from the surface. Simmer 15 minutes until the potatoes and carrots are just tender.",
+    "Reduce heat to medium-low. Skim any foam from the surface. Simmer 15 minutes until the potatoes and carrots are just tender and the chicken is cooked through.",
     "Break the curry roux block into pieces and add to the pot. Stir until fully dissolved.",
     "Simmer on low heat, stirring often, for 10 minutes until the sauce thickens considerably.",
     "Taste and adjust salt. Serve over rice."
@@ -66,6 +66,6 @@
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa No Frills", "Ottawa Walmart"],
-    "notes": "Prices verified at Ottawa No Frills, May 2026. Boneless skinless chicken thighs $8.82/kg (No Frills club pack). Rice $0.25/100g. Russet potatoes $0.44/kg. Carrots $2.93/kg. Onion $1.23 each. S&B Golden Curry roux at Walmart or T&T."
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Bone-in skin-on chicken thighs $8.82/kg, 600g = $5.29. Rice $0.25/100g. Russet potatoes $0.44/kg. Carrots $2.93/kg. Onion $1.23 each. S&B Golden Curry roux at Walmart or T&T."
   }
 }

@@ -1,16 +1,16 @@
 {
   "id": "butter-chicken",
   "name": "Budget Butter Chicken",
-  "summary": "Chicken thighs in a spiced tomato and coconut milk sauce over rice. Uses coconut milk instead of cream to cut cost without losing richness.",
-  "totalCost": 13.14,
-  "costPerServing": 3.29,
+  "summary": "Chicken breast in a spiced tomato and coconut milk sauce over rice. Uses coconut milk instead of cream to cut cost without losing richness.",
+  "totalCost": 14.01,
+  "costPerServing": 3.50,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "35 min",
   "tags": ["chicken", "rice", "curry", "high-protein", "indian-inspired"],
 
   "ingredients": [
-    { "quantity": "600 g",   "name": "boneless skinless chicken thighs, cubed",      "costContribution": 5.29 },
+    { "quantity": "400 g",   "name": "boneless skinless chicken breasts, cubed",      "costContribution": 6.16 },
     { "quantity": "300 g",   "name": "dry long-grain white rice",                    "costContribution": 0.75 },
     { "quantity": "1 can (796 mL)", "name": "crushed tomatoes",                      "costContribution": 2.00 },
     { "quantity": "1 can (400 mL)", "name": "coconut milk",                          "costContribution": 2.80 },
@@ -55,15 +55,15 @@
   },
 
   "budgetNotes": [
-    "Boneless skinless chicken thighs run about $12/kg in Ottawa in 2026. At 600 g they're the dominant cost here.",
+    "Boneless skinless chicken breasts (club pack) are $15.41/kg. At 400 g they're the dominant cost here — keep the quantity at 400 g to stay under budget.",
     "Coconut milk replaces heavy cream, which keeps the cost down and makes it dairy-free. Full-fat gives a richer result.",
-    "Chicken thighs won't dry out during the 15-minute simmer. Breast meat will — avoid it here.",
+    "Do not overcook the breast. Remove from heat as soon as it is cooked through during the simmer — 10 minutes is usually enough for cubed pieces.",
     "Make a double batch of the sauce (without chicken) and freeze it. Defrost and add freshly cooked protein whenever needed."
   ],
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Prices verified at Ottawa No Frills, May 2026. Boneless skinless chicken thighs $8.82/kg (Butcher's Choice club pack). Rice $0.25/100g from 2kg bag ($5.00). Crushed tomatoes $2.00/796mL can. Coconut milk $2.80/400mL can (Thai Kitchen). Butter $1.36/100g (2 tbsp ≈ 28g = $0.38). Onion $1.23 each. Garlic $0.08/clove."
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Boneless skinless chicken breasts $15.41/kg (club pack), 400g = $6.16. Rice $0.25/100g from 2kg bag ($5.00). Crushed tomatoes $2.00/796mL can. Coconut milk $2.80/400mL can (Thai Kitchen). Butter $1.36/100g (2 tbsp ≈ 28g = $0.38). Onion $1.23 each. Garlic $0.08/clove."
   }
 }

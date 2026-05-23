@@ -2,15 +2,15 @@
   "id": "arroz-con-pollo",
   "name": "Arroz con Pollo",
   "summary": "Chicken thighs braised directly in seasoned rice and tomatoes until everything cooks together in one pot. A Latin staple that earns its place on any budget list.",
-  "totalCost": 11.59,
-  "costPerServing": 2.90,
+  "totalCost": 14.16,
+  "costPerServing": 3.54,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "45 min",
   "tags": ["chicken", "rice", "one-pot", "high-protein", "latin"],
 
   "ingredients": [
-    { "quantity": "1 kg",    "name": "bone-in skin-on chicken thighs (about 5–6)",   "costContribution": 6.25 },
+    { "quantity": "1 kg",    "name": "bone-in skin-on chicken thighs (about 5–6)",   "costContribution": 8.82 },
     { "quantity": "300 g",   "name": "dry long-grain white rice",                    "costContribution": 0.75 },
     { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 2.00 },
     { "quantity": "250 mL",  "name": "chicken broth or water",                       "costContribution": 0.42 },
@@ -66,6 +66,6 @@
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa No Frills", "Ottawa Walmart"],
-    "notes": "Prices verified at Ottawa No Frills, May 2026. Bone-in skin-on thighs estimated at ~$6.25/kg. Rice $0.25/100g. Diced tomatoes $2.00/796mL can. Chicken broth $1.50/900mL (250mL = $0.42). Onion $1.23 each."
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Bone-in skin-on thighs $8.82/kg (club pack), 1kg = $8.82. Rice $0.25/100g. Diced tomatoes $2.00/796mL can. Chicken broth $1.50/900mL (250mL = $0.42). Onion $1.23 each."
   }
 }

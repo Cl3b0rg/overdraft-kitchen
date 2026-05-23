@@ -2,15 +2,15 @@
   "id": "chicken-adobo",
   "name": "Filipino Chicken Adobo",
   "summary": "Chicken thighs braised in soy sauce, vinegar, and garlic until the sauce reduces to a dark glaze. Consistently cited as the top answer in every 'what should I make for cheap' thread.",
-  "totalCost": 10.72,
-  "costPerServing": 2.68,
+  "totalCost": 13.80,
+  "costPerServing": 3.45,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "40 min",
   "tags": ["chicken", "rice", "high-protein", "filipino", "meal-prep"],
 
   "ingredients": [
-    { "quantity": "1.2 kg",   "name": "bone-in skin-on chicken thighs (about 6)",    "costContribution": 7.50 },
+    { "quantity": "1.2 kg",   "name": "bone-in skin-on chicken thighs (about 6)",    "costContribution": 10.58 },
     { "quantity": "300 g",    "name": "dry long-grain white rice",                    "costContribution": 0.75 },
     { "quantity": "0.5 cup",  "name": "soy sauce",                                   "costContribution": 0.64 },
     { "quantity": "0.5 cup",  "name": "white vinegar",                               "costContribution": 0.10 },
@@ -65,6 +65,6 @@
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa No Frills", "Ottawa Walmart"],
-    "notes": "Prices verified at Ottawa No Frills, May 2026. Bone-in skin-on thighs estimated at ~$6.25/kg. Rice $0.25/100g. Soy sauce $0.51/100mL (0.5 cup = ~125mL). Garlic $0.08/clove (1 head ≈ 12 cloves)."
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Bone-in skin-on thighs $8.82/kg (club pack), 1.2kg = $10.58. Rice $0.25/100g. Soy sauce $0.51/100mL (0.5 cup = ~125mL). Garlic $0.08/clove (1 head ≈ 12 cloves)."
   }
 }

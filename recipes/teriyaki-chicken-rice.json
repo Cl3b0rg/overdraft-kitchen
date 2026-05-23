@@ -1,16 +1,16 @@
 {
   "id": "teriyaki-chicken-rice",
   "name": "Teriyaki Chicken Rice",
-  "summary": "Chicken thighs glazed in a soy, brown sugar, and garlic sauce, served over rice.",
-  "totalCost": 8.09,
-  "costPerServing": 2.02,
+  "summary": "Chicken breasts glazed in a soy, brown sugar, and garlic sauce, served over rice.",
+  "totalCost": 12.05,
+  "costPerServing": 3.01,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "30 min",
   "tags": ["chicken", "rice", "fast", "meal-prep", "gluten-free"],
 
   "ingredients": [
-    { "quantity": "600 g",         "name": "boneless skinless chicken thighs",     "costContribution": 5.29 },
+    { "quantity": "600 g",         "name": "boneless skinless chicken breasts",     "costContribution": 9.25 },
     { "quantity": "400 g",         "name": "long-grain white rice, dry",           "costContribution": 1.00 },
     { "quantity": "4 tbsp",        "name": "soy sauce",                            "costContribution": 0.31 },
     { "quantity": "3 tbsp",        "name": "brown sugar",                          "costContribution": 0.14 },
@@ -55,14 +55,15 @@
   },
 
   "budgetNotes": [
+    "Boneless skinless chicken breasts (club pack) at $15.41/kg are the main cost at 600g = $9.25. This is a leaner, firmer result than thighs — do not overcook.",
     "Soy sauce at $0.51/100mL — 4 tablespoons (60 mL) comes to about $0.31. Use No Name brand.",
     "The sesame oil is optional but adds the characteristic flavor. A 100 mL bottle is around $2.00 at No Frills and will last for many recipes.",
-    "Brown sugar Lantic brand 1 kg is $3.79. Three tablespoons is about 37g = $0.14 at that rate — note this recipe rounded to $0.43 for safety."
+    "Brown sugar Lantic brand 1 kg is $3.79. Three tablespoons is about 37g = $0.14 at that rate."
   ],
 
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa No Frills"],
-    "notes": "Chicken thighs $8.82/kg, 600g = $5.29. Rice $0.25/100g, 400g = $1.00. Soy sauce $0.51/100mL, 4 tbsp = 60mL = $0.31. Brown sugar $3.79/kg, 3 tbsp ≈ 37g = $0.14. Garlic $0.08 × 4 = $0.32. Ginger estimate $0.20. Oil $0.06/tbsp × 2 = $0.12. Vinegar estimate $0.05. Cornstarch trace $0.03. Green onions $1.99/bunch, 2 stalks ≈ 1/6 = $0.33. Sesame oil $2.00/100mL, 1 tsp = 5mL = $0.10 — rounded to $0.30 for a full optional pour. Total: $8.09."
+    "notes": "Boneless skinless chicken breasts $15.41/kg (club pack), 600g = $9.25. Rice $0.25/100g, 400g = $1.00. Soy sauce $0.51/100mL, 4 tbsp = 60mL = $0.31. Brown sugar $3.79/kg, 3 tbsp ≈ 37g = $0.14. Garlic $0.08 × 4 = $0.32. Ginger estimate $0.20. Oil $0.06/tbsp × 2 = $0.12. Vinegar estimate $0.05. Cornstarch trace $0.03. Green onions $1.99/bunch, 2 stalks ≈ 1/6 = $0.33. Sesame oil $2.00/100mL, 1 tsp = 5mL = $0.10 — rounded to $0.30 for a full optional pour. Total: $12.05."
   }
 }

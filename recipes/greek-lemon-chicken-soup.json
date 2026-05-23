@@ -10,7 +10,7 @@
   "tags": ["chicken", "soup", "rice", "one-pot", "gluten-free", "high-protein"],
 
   "ingredients": [
-    { "quantity": "500 g",         "name": "boneless skinless chicken thighs",     "costContribution": 4.41 },
+    { "quantity": "500 g",         "name": "bone-in, skin-on chicken thighs",      "costContribution": 4.41 },
     { "quantity": "2 cans (900 mL total)", "name": "chicken broth",               "costContribution": 3.00 },
     { "quantity": "150 g",         "name": "long-grain white rice, dry",           "costContribution": 0.38 },
     { "quantity": "3 large",       "name": "eggs",                                 "costContribution": 0.99 },
@@ -29,7 +29,7 @@
     "Add garlic and thyme. Cook 1 minute.",
     "Add broth, water, bay leaf, and chicken thighs. Bring to a boil.",
     "Add the rice. Reduce heat and simmer 20 minutes until chicken is cooked through and rice is tender.",
-    "Remove chicken to a cutting board and shred. Discard bay leaf.",
+    "Remove chicken to a cutting board. Pull the meat off the bones, discard the skin and bones, and shred the meat. Discard bay leaf.",
     "In a bowl, beat the eggs vigorously. Add lemon juice and whisk to combine.",
     "Remove the pot from heat. Slowly ladle 250 mL of the hot broth into the egg-lemon mixture, whisking constantly. This tempers the eggs so they do not scramble.",
     "Pour the tempered egg mixture back into the pot, stirring constantly.",
@@ -64,6 +64,6 @@
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa No Frills"],
-    "notes": "Chicken thighs $8.82/kg, 500g = $4.41. Broth $1.50 × 2 = $3.00. Rice $0.25/100g, 150g = $0.38. Eggs $0.33 × 3 = $0.99. Lemon individual $0.99. Onion $1.23. Garlic $0.08 × 2 = $0.16. Oil $0.06. Bay leaf $0.03. Thyme $0.03. Salt/pepper $0.02."
+    "notes": "Bone-in skin-on chicken thighs $8.82/kg, 500g = $4.41. Broth $1.50 × 2 = $3.00. Rice $0.25/100g, 150g = $0.38. Eggs $0.33 × 3 = $0.99. Lemon individual $0.99. Onion $1.23. Garlic $0.08 × 2 = $0.16. Oil $0.06. Bay leaf $0.03. Thyme $0.03. Salt/pepper $0.02."
   }
 }

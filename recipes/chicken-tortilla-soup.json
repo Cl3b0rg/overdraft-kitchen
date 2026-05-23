@@ -10,7 +10,7 @@
   "tags": ["chicken", "beans", "soup", "tex-mex", "high-protein", "meal-prep"],
 
   "ingredients": [
-    { "quantity": "450 g",   "name": "boneless skinless chicken thighs",             "costContribution": 3.97 },
+    { "quantity": "450 g",   "name": "bone-in, skin-on chicken thighs",               "costContribution": 3.97 },
     { "quantity": "1 can (540 mL)", "name": "black beans, drained",                  "costContribution": 1.50 },
     { "quantity": "1 can (341 mL)", "name": "corn kernels, drained (or 250 g frozen)","costContribution": 1.25 },
     { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                        "costContribution": 2.00 },
@@ -30,8 +30,8 @@
     "Add onion. Cook 5 minutes until softened.",
     "Add garlic, cumin, chili powder, and paprika. Cook 1 minute.",
     "Add the diced tomatoes, broth, and whole chicken thighs (do not cut them — they shred better whole).",
-    "Bring to a boil. Reduce heat to medium-low and simmer 20 minutes until the chicken is cooked through.",
-    "Remove the chicken. Use two forks to shred it, then return it to the pot.",
+    "Bring to a boil. Reduce heat to medium-low and simmer 25 minutes until the chicken is cooked through.",
+    "Remove the chicken. Pull the meat off the bones, discard the skin and bones, then shred the meat with two forks and return it to the pot.",
     "Add the black beans and corn. Simmer 5 more minutes.",
     "Taste and adjust salt, pepper, and lime juice.",
     "Serve topped with crushed tortilla chips and any optional toppings."
@@ -64,6 +64,6 @@
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa Walmart", "Ottawa No Frills"],
-    "notes": "Prices verified at Ottawa No Frills, May 2026. Boneless skinless chicken thighs $8.82/kg (Butcher's Choice club pack). Black beans $1.50/540mL can. Corn $1.25/341mL can. Diced tomatoes $2.00/796mL can. Chicken broth $1.50/900mL carton. Onion $1.23 each. Garlic $0.08/clove. Tortilla chips estimated."
+    "notes": "Prices verified at Ottawa No Frills, May 2026. Bone-in skin-on chicken thighs $8.82/kg (Butcher's Choice club pack). Black beans $1.50/540mL can. Corn $1.25/341mL can. Diced tomatoes $2.00/796mL can. Chicken broth $1.50/900mL carton. Onion $1.23 each. Garlic $0.08/clove. Tortilla chips estimated."
   }
 }

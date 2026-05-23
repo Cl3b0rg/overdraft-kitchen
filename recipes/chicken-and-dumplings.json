@@ -10,7 +10,7 @@
   "tags": ["chicken", "soup", "one-pot", "comfort-food", "meal-prep"],
 
   "ingredients": [
-    { "quantity": "600 g",         "name": "boneless skinless chicken thighs",     "costContribution": 5.29 },
+    { "quantity": "600 g",         "name": "bone-in, skin-on chicken thighs",      "costContribution": 5.29 },
     { "quantity": "2 cans (900 mL total)", "name": "chicken broth",               "costContribution": 3.00 },
     { "quantity": "2 medium",      "name": "carrots, diced",                       "costContribution": 0.59 },
     { "quantity": "2 stalks",      "name": "celery, diced",                        "costContribution": 1.00 },
@@ -28,8 +28,8 @@
 
   "instructions": [
     "Place chicken thighs in a large pot. Add broth, onion, carrot, celery, garlic, thyme, and bay leaf.",
-    "Bring to a boil, then reduce heat to a steady simmer. Cook 20 minutes until chicken is cooked through.",
-    "Remove chicken to a cutting board. Shred into large pieces with two forks. Discard bay leaf.",
+    "Bring to a boil, then reduce heat to a steady simmer. Cook 25 minutes until chicken is cooked through.",
+    "Remove chicken to a cutting board. Pull the meat off the bones, discard the skin and bones, and shred the meat into large pieces with two forks. Discard bay leaf.",
     "Return shredded chicken to the pot. Keep the broth at a gentle simmer. Taste and season with salt and pepper.",
     "Make the dumplings: whisk flour, baking powder, and salt together in a bowl. Work in the cold butter with your fingers until the mixture looks like coarse crumbs. Stir in milk just until a rough dough forms — do not overmix.",
     "Drop the dough by heaping tablespoons onto the surface of the simmering stew. You should get 8–10 dumplings.",
@@ -66,6 +66,6 @@
   "pricingMetadata": {
     "updatedAt": "May 2026",
     "sources": ["Ottawa No Frills"],
-    "notes": "Chicken thighs $8.82/kg, 600g = $5.29. Broth $1.50 × 2 = $3.00. Carrots $2.93/kg, 200g = $0.59. Celery 2 stalks ≈ $1.00. Onion $1.23. Garlic $0.08 × 3 = $0.24. Flour estimated at $4.00/2kg = $0.20/100g, 200g = $0.40 — listed as $0.20 (No Name AP flour, estimated). Butter $1.36/100g, 2 tbsp ≈ 28g = $0.38. Milk $5.00/2L, 160mL = $0.40. Spices/bay leaf $0.09."
+    "notes": "Bone-in skin-on chicken thighs $8.82/kg, 600g = $5.29. Broth $1.50 × 2 = $3.00. Carrots $2.93/kg, 200g = $0.59. Celery 2 stalks ≈ $1.00. Onion $1.23. Garlic $0.08 × 3 = $0.24. Flour estimated at $4.00/2kg = $0.20/100g, 200g = $0.40 — listed as $0.20 (No Name AP flour, estimated). Butter $1.36/100g, 2 tbsp ≈ 28g = $0.38. Milk $5.00/2L, 160mL = $0.40. Spices/bay leaf $0.09."
   }
 }
