@@ -194,6 +194,19 @@ Verified at Ottawa No Frills, May 23 2026.
 | Green lentils (PC Blue Menu) | 900 g | $3.79 | $0.42/100 g |
 | Vegetable oil / canola oil (No Name) | 946 mL | $4.00 | $0.42/100 mL |
 | Soy sauce (No Name) | 450 mL | $2.29 | $0.51/100 mL |
+| All-purpose flour (No Name) | 10 kg | $10.00 | $0.10/100 g ($1.00/kg) |
+| Quick / rolled oats (Great Value) | 1 kg | $2.77 | $0.28/100 g |
+| Peanut butter, smooth (Great Value) | 1 kg | $4.27 | $0.43/100 g |
+| Table syrup (No Name) | 500 mL | ~$3.00 | ~$0.60/100 mL (estimate) |
+
+### Bakery, frozen & milk
+
+| Ingredient | Size / format | Price | Per-unit rate |
+|---|---|---|---|
+| White sandwich bread (Great Value) | ~675 g loaf (~20 slices) | $2.48 | ~$0.12/slice |
+| Milk, 2% (cheapest 4 L) | 4 L jug | $5.98 | $1.50/L; $0.15/100 mL |
+| Frozen mixed vegetables (Great Value) | ~750 g bag | $3.37 | $0.45/100 g; value 2 kg bag $6.97 = $0.35/100 g |
+| Bananas | loose | ~$0.69/lb ($1.52/kg) | ~$0.25 each (estimate) |
 
 ### Dairy & eggs
 
@@ -239,7 +252,7 @@ Avoid: influencer language, fake storytelling, "life changing" claims, SEO fille
 
 ## Current recipe count
 
-82 recipes as of May 2026.
+86 recipes as of June 2026.
 
 ## Git identity (this machine)
 

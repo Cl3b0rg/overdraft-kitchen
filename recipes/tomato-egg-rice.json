@@ -1,0 +1,113 @@
+{
+  "id": "tomato-egg-rice",
+  "name": "Tomato and Egg over Rice",
+  "summary": "The classic Chinese home dish — soft eggs in a quick tomato sauce over rice. Cheap, fast, comforting.",
+  "totalCost": 5.88,
+  "costPerServing": 1.47,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "15 min",
+  "tags": [
+    "vegetarian",
+    "eggs",
+    "rice",
+    "fast",
+    "kid-friendly"
+  ],
+  "ingredients": [
+    {
+      "quantity": "6 large",
+      "name": "eggs, beaten",
+      "costContribution": 1.98
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes (or 500 g fresh tomatoes, chopped)",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "250 g",
+      "name": "dry long-grain white rice",
+      "costContribution": 0.63
+    },
+    {
+      "quantity": "2",
+      "name": "green onions, sliced",
+      "costContribution": 0.66
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.24
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "soy sauce",
+      "costContribution": 0.08
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "sugar",
+      "costContribution": 0.02
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "sesame oil (optional)",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and white pepper",
+      "costContribution": 0.04
+    }
+  ],
+  "instructions": [
+    "Cook the rice according to package directions.",
+    "Heat 1 tbsp of the vegetable oil in a skillet over medium-high heat. Pour in the beaten eggs and scramble softly until just set. Scrape onto a plate.",
+    "Add the remaining oil. Add the garlic and the white parts of the green onions and cook 30 seconds.",
+    "Add the tomatoes, soy sauce, and sugar. Simmer 6–8 minutes until the tomatoes break down into a loose sauce. If using canned, mash them a little.",
+    "Return the eggs to the pan and fold them through the sauce. Heat 1 minute.",
+    "Season with salt and white pepper and stir in the sesame oil.",
+    "Spoon over rice and top with the green onion tops."
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15,
+    "fiber": 3,
+    "sodium": 480,
+    "iron": "~15% DV",
+    "vitaminC": "~20% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "soy sauce",
+        "substitute": "tamari in the same quantity",
+        "costNote": "minimal cost difference"
+      }
+    ],
+    "notes": "Eggs, tomatoes, and rice are naturally gluten-free. Use certified gluten-free tamari in place of soy sauce."
+  },
+  "budgetNotes": [
+    "Fresh tomatoes are traditional and best in summer when they are cheap. Canned diced tomatoes work year-round and keep the cost flat.",
+    "A small splash of ketchup deepens the sauce if your tomatoes are bland.",
+    "Six eggs feed four here. Add a seventh if you want it richer.",
+    "Serve over noodles instead of rice if that is what you have."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "June 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified June 2026. Eggs $0.33 each. Diced tomatoes $2.00/796mL can. Rice $0.25/100g from 2kg bag. Green onions $1.99/bunch. Garlic $0.08/clove. Soy sauce $0.51/100mL. Oil $0.42/100mL."
+  }
+}

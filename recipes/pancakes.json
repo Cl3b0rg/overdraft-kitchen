@@ -1,0 +1,102 @@
+{
+  "id": "pancakes",
+  "name": "From-Scratch Pancakes",
+  "summary": "Flour, milk, and an egg. Cheaper than a boxed mix and takes the same ten minutes.",
+  "totalCost": 2.62,
+  "costPerServing": 0.66,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "15 min",
+  "tags": [
+    "breakfast",
+    "kid-friendly",
+    "vegetarian",
+    "cheap"
+  ],
+  "ingredients": [
+    {
+      "quantity": "300 g",
+      "name": "all-purpose flour",
+      "costContribution": 0.3
+    },
+    {
+      "quantity": "2 large",
+      "name": "eggs",
+      "costContribution": 0.66
+    },
+    {
+      "quantity": "500 mL",
+      "name": "milk",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "butter, melted, plus more for the pan",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "60 mL",
+      "name": "maple or table syrup, to serve",
+      "costContribution": 0.36
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "sugar",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "baking powder",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "salt",
+      "costContribution": 0.01
+    }
+  ],
+  "instructions": [
+    "Whisk the flour, sugar, baking powder, and salt together in a large bowl.",
+    "In a second bowl, whisk the eggs, milk, and melted butter.",
+    "Pour the wet ingredients into the dry and stir just until combined. A few lumps are fine — overmixing makes tough pancakes.",
+    "Heat a lightly buttered skillet or griddle over medium heat.",
+    "Pour about 60 mL (1/4 cup) of batter per pancake. Cook until bubbles form on top and the edges look set, about 2 minutes.",
+    "Flip and cook another 1–2 minutes until golden.",
+    "Keep warm and repeat with the rest of the batter. Serve with syrup."
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 72,
+    "fat": 12,
+    "fiber": 2,
+    "sodium": 520,
+    "calcium": "~20% DV",
+    "iron": "~20% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "all-purpose flour",
+        "substitute": "1:1 gluten-free all-purpose flour blend",
+        "costNote": "GF flour blends cost more per kg; check that the blend already contains xanthan gum"
+      }
+    ],
+    "notes": "Everything except the flour is naturally gluten-free. A 1:1 GF blend works as a direct swap."
+  },
+  "budgetNotes": [
+    "This is the same cost as half a box of pancake mix and you control what goes in.",
+    "No milk? Water works, or thin a couple spoons of plain yogurt with water.",
+    "Add a handful of frozen blueberries or a sliced banana to the batter for no real extra cost if you have them.",
+    "Leftover pancakes freeze well. Reheat in the toaster straight from frozen."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "June 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified June 2026. Flour $0.10/100g (No Name $10/10kg). Eggs $0.33 each. Milk $1.50/L. Butter $1.36/100g. Sugar, baking powder, and table syrup estimated."
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "french-toast",
+  "name": "French Toast",
+  "summary": "Bread, eggs, and milk fried in butter. The cheapest breakfast that still feels like one.",
+  "totalCost": 3.62,
+  "costPerServing": 0.91,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "15 min",
+  "tags": [
+    "breakfast",
+    "kid-friendly",
+    "vegetarian",
+    "fast",
+    "cheap"
+  ],
+  "ingredients": [
+    {
+      "quantity": "8 slices",
+      "name": "white sandwich bread, slightly stale is best",
+      "costContribution": 0.99
+    },
+    {
+      "quantity": "4 large",
+      "name": "eggs",
+      "costContribution": 1.32
+    },
+    {
+      "quantity": "250 mL",
+      "name": "milk",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "butter, for the pan",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "60 mL",
+      "name": "maple or table syrup, to serve",
+      "costContribution": 0.36
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "sugar",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "vanilla extract",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cinnamon",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 pinch",
+      "name": "salt",
+      "costContribution": 0.01
+    }
+  ],
+  "instructions": [
+    "Whisk the eggs, milk, sugar, vanilla, cinnamon, and salt in a wide shallow bowl until fully combined.",
+    "Heat a large skillet or griddle over medium heat and melt a knob of the butter.",
+    "Dip a slice of bread into the egg mixture, letting it soak 5–10 seconds per side. Don't oversoak or it falls apart.",
+    "Lay the bread in the pan and cook 2–3 minutes per side until golden brown.",
+    "Wipe and re-butter the pan as needed and repeat with the remaining bread.",
+    "Serve hot with syrup."
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 58,
+    "fat": 14,
+    "fiber": 2,
+    "sodium": 430,
+    "calcium": "~12% DV",
+    "iron": "~15% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "white sandwich bread",
+        "substitute": "gluten-free sandwich bread",
+        "costNote": "GF bread runs about $5–6/loaf and adds roughly $3 to the dish"
+      }
+    ],
+    "notes": "Eggs, milk, butter, vanilla, and cinnamon are all naturally gluten-free. Only the bread needs swapping."
+  },
+  "budgetNotes": [
+    "Stale or day-old bread soaks up the egg better and is often marked down — buy the discount rack loaf for this.",
+    "No vanilla? Skip it. A little extra cinnamon covers for it.",
+    "Table syrup (No Name) is a fraction of the cost of real maple syrup and works fine here. A sprinkle of sugar also does the job.",
+    "Scale the egg mixture, not the bread: 1 egg plus 60 mL milk soaks about 2 slices."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "June 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified June 2026. Great Value white bread $2.48/loaf (~20 slices, 8 = $0.99). Eggs $0.33 each. Milk $1.50/L. Butter $1.36/100g. Table syrup and spices estimated."
+  }
+}

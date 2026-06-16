@@ -1,0 +1,107 @@
+{
+  "id": "beans-on-toast",
+  "name": "Saucy Beans on Toast",
+  "summary": "Homemade tomato beans piled on buttered toast. A whole meal from two cans and a loaf.",
+  "totalCost": 5.35,
+  "costPerServing": 1.34,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "20 min",
+  "tags": [
+    "vegetarian",
+    "beans",
+    "fast",
+    "cheap",
+    "one-pan"
+  ],
+  "ingredients": [
+    {
+      "quantity": "2 cans (540 mL each)",
+      "name": "white kidney or navy beans, drained and rinsed",
+      "costContribution": 3.0
+    },
+    {
+      "quantity": "3 tbsp",
+      "name": "tomato paste",
+      "costContribution": 0.3
+    },
+    {
+      "quantity": "0.5 medium",
+      "name": "onion, finely diced",
+      "costContribution": 0.54
+    },
+    {
+      "quantity": "8 slices",
+      "name": "bread, toasted",
+      "costContribution": 0.99
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "butter, for the toast",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "brown sugar",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a saucepan over medium heat. Add the onion and cook 4–5 minutes until soft.",
+    "Stir in the tomato paste, brown sugar, and smoked paprika. Cook 1 minute.",
+    "Add the beans and 200 mL water. Stir to coat.",
+    "Simmer uncovered 10–12 minutes, stirring now and then, until the sauce is thick and clings to the beans. Mash a few beans against the side of the pan to thicken it further.",
+    "Season with salt and pepper.",
+    "Toast the bread and butter it. Pile the beans on top and serve."
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 17,
+    "carbs": 70,
+    "fat": 9,
+    "fiber": 13,
+    "sodium": 560,
+    "iron": "~25% DV",
+    "vitaminC": "~10% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "bread",
+        "substitute": "gluten-free bread",
+        "costNote": "GF bread runs about $5–6/loaf and adds roughly $3 to the dish"
+      }
+    ],
+    "notes": "The beans and sauce are naturally gluten-free. Only the toast needs swapping. Check your tomato paste and smoked paprika labels if you are highly sensitive."
+  },
+  "budgetNotes": [
+    "This is a from-scratch take on canned baked beans for about the same money and less sugar.",
+    "Any white bean works — navy, white kidney, or cannellini. A can of chickpeas works too.",
+    "A handful of grated cheese on top turns this into a heartier dinner.",
+    "Double the beans and keep them in the fridge. They reheat in two minutes for breakfast or lunch."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "June 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified June 2026. White kidney beans $1.50/540mL can. Tomato paste ~$1.00/156mL can (3 tbsp = $0.30). Onion $1.07 each. Great Value white bread $2.48/loaf (8 slices = $0.99). Butter $1.36/100g. Oil $0.42/100mL."
+  }
+}
