@@ -263,7 +263,6 @@ function renderRecipeCard(recipe) {
       <div class="recipe-card-cost">
         <span class="card-cost-per">${fmt(recipe.costPerServing)}<span class="card-cost-label">/serving</span></span>
         <span class="card-total">${fmt(recipe.totalCost)} total</span>
-        ${recipe.pricingMetadata && recipe.pricingMetadata.updatedAt ? `<span class="card-priced">Prices verified ${escapeHtml(recipe.pricingMetadata.updatedAt)}</span>` : ''}
       </div>
       <div class="recipe-card-body">
         <h2 class="recipe-card-name"><a href="recipes/${recipe.id}.html">${escapeHtml(recipe.name)}</a></h2>
