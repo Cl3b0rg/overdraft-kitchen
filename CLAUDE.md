@@ -108,6 +108,19 @@ The footer text is in the `pageLayout` function inside `build.js`. Update it as 
 - Sources: No Frills (nofrills.ca) and Walmart Canada (walmart.ca), Ottawa, verified May 2026
 - Round to two decimal places; mark anything not in the list below as an estimate
 
+### How to check live prices
+
+nofrills.ca returns HTTP 403 to automated fetches and Reddit is fully blocked, so the reliable automated source is **Flipp's backend JSON API**, which returns live flyer prices for a given postal code:
+
+```
+https://backflipp.wishabi.com/flipp/items/search?q=ITEM&postal_code=K2J3R9
+```
+
+- `K2J3R9` is the owner's local postal code (Barrhaven, Ottawa). Swap the `q=` term per ingredient (URL-encode spaces as `%20`).
+- Returns both e-commerce listings and weekly flyer items with store names — use the **weekly flyer** entries for sale comparisons.
+- The r/ottawa "Weekly Grocery Review" threads are a good human-curated cross-check when accessible, but cannot be fetched directly.
+- **Flyer prices are temporary SALES.** Do not rewrite recipe baselines to chase weekly sales — the validated table below is meant to hold regular/typical prices so recipes don't bounce over $15 when a sale ends. Only revise a baseline when an item is consistently cheaper across many chains over multiple weeks.
+
 ## Validated ingredient prices (May 2026, Ottawa)
 
 Prices are from No Frills (nofrills.ca) unless noted. Use these exact rates when calculating costContribution values.
