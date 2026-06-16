@@ -246,7 +246,8 @@ Avoid: influencer language, fake storytelling, "life changing" claims, SEO fille
 - Warm off-white background (`#f4f1eb`)
 - Green accent (`#2a6130`) for card top borders, section headings, step numbers
 - Amber/cost color (`#7a5410`) for pricing callouts
-- System font stack — no web fonts
+- Three Google Fonts: **Zilla Slab** (headlines, titles, manifesto), **IBM Plex Sans** (body copy, steps), **IBM Plex Mono** (all prices, labels, kickers, tags, the receipt — the "ledger" device)
+- Loaded via Google Fonts CDN with `display=swap`
 - Tag filter bar on index page (vanilla JS, no dependencies)
 - Mobile-first, accessible, semantic HTML
 
