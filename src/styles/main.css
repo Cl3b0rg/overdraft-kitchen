@@ -379,7 +379,8 @@ main {
   padding: 0.75rem 1.25rem;
   display: flex;
   align-items: baseline;
-  gap: 0.5rem;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.5rem;
 }
 
 .card-cost-per {
@@ -408,6 +409,16 @@ main {
   margin-left: auto;
   align-self: center;
   font-variant-numeric: tabular-nums;
+}
+
+.card-priced {
+  flex-basis: 100%;
+  font-size: 0.625rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--cost);
+  opacity: 0.55;
 }
 
 .recipe-card-body {

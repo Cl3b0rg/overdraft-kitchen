@@ -7,21 +7,66 @@
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "10 min",
-  "tags": ["kid-friendly", "lunch", "vegetarian", "vegan", "meal-prep", "cold"],
-
-  "ingredients": [
-    { "quantity": "450 g",    "name": "rotini or penne pasta (No Name)",       "costContribution": 2.00 },
-    { "quantity": "1 medium", "name": "English cucumber, diced",               "costContribution": 1.50 },
-    { "quantity": "2 medium", "name": "tomatoes, diced",                       "costContribution": 1.00 },
-    { "quantity": "3 tbsp",   "name": "vegetable or olive oil",                "costContribution": 0.38 },
-    { "quantity": "2 tbsp",   "name": "white or red wine vinegar",             "costContribution": 0.10 },
-    { "quantity": "1 tsp",    "name": "dried oregano",                         "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",  "name": "dried basil",                           "costContribution": 0.03 },
-    { "quantity": "0.5 tsp",  "name": "garlic powder",                         "costContribution": 0.02 },
-    { "quantity": "0.5 tsp",  "name": "sugar",                                 "costContribution": 0.01 },
-    { "quantity": "to taste", "name": "salt and pepper",                       "costContribution": 0.02 }
+  "tags": [
+    "kid-friendly",
+    "lunch",
+    "vegetarian",
+    "vegan",
+    "meal-prep",
+    "cold"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "450 g",
+      "name": "rotini or penne pasta (No Name)",
+      "costContribution": 2
+    },
+    {
+      "quantity": "1 medium",
+      "name": "English cucumber, diced",
+      "costContribution": 1.5
+    },
+    {
+      "quantity": "2 medium",
+      "name": "tomatoes, diced",
+      "costContribution": 1
+    },
+    {
+      "quantity": "3 tbsp",
+      "name": "vegetable or olive oil",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "white or red wine vinegar",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried oregano",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "dried basil",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "garlic powder",
+      "costContribution": 0.02
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "sugar",
+      "costContribution": 0.01
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and pepper",
+      "costContribution": 0.02
+    }
+  ],
   "instructions": [
     "Cook pasta in well-salted boiling water according to package directions, minus 1 minute (it should be just past al dente — it will soften further as it cools in the dressing). Drain and rinse under cold water to stop cooking and cool quickly.",
     "While pasta cooks, dice the cucumber and tomatoes. If the tomatoes are particularly watery, let them drain briefly in a colander with a pinch of salt.",
@@ -30,7 +75,6 @@
     "Taste and adjust: more vinegar for tang, more salt, or a pinch more sugar if the dressing is too sharp.",
     "Refrigerate for at least 30 minutes before serving. The pasta will absorb the dressing as it sits — if it looks dry after refrigerating, add another drizzle of oil and a splash of vinegar."
   ],
-
   "nutrition": {
     "calories": 415,
     "protein": 11,
@@ -42,25 +86,29 @@
     "calcium": "~4% DV",
     "vitaminC": "~18% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
-      { "ingredient": "rotini", "substitute": "gluten-free pasta (rice or corn-based)", "costNote": "GF pasta runs $3–4 for 340g; adds $1–2 to total" }
+      {
+        "ingredient": "rotini",
+        "substitute": "gluten-free pasta (rice or corn-based)",
+        "costNote": "GF pasta runs $3–4 for 340g; adds $1–2 to total"
+      }
     ],
     "notes": "All other ingredients are naturally gluten-free. GF pasta works fine in cold salads — just be careful not to overcook it as it can get mushy."
   },
-
   "budgetNotes": [
     "No Name 900g pasta bag at $2.00: 450g used = $1.00. However, many stores only stock pasta in 450g boxes for this variety at $1.00 each — priced at $2.00 for certainty either way.",
     "English cucumber at approximately $1.50 each. Regular field cucumbers are cheaper at some times of year.",
     "Regular tomatoes at about $0.50 each work better here than cherry tomatoes, which cost significantly more.",
     "This is one of the cheapest recipes on the site. Double the batch for meal prep."
   ],
-
   "pricingMetadata": {
-    "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
+    "updatedAt": "June 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
     "notes": "No Name pasta 900g $2.00, 450g used = $1.00 allocated, rounded to $2.00 for 450g standalone pack. Cucumber ~$1.50 (estimate). Tomatoes ~$0.50 each. Oil $0.42/100mL, 3 tbsp ≈ 45mL = $0.19 per tbsp × 3 = $0.57, rounded. Vinegar, spices estimated."
   }
 }

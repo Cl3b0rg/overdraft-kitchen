@@ -7,22 +7,70 @@
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "12 min",
-  "tags": ["vegan", "pasta", "peanut-butter", "fast", "very-low-cost"],
-
-  "ingredients": [
-    { "quantity": "400 g",     "name": "spaghetti or linguine",                      "costContribution": 0.88 },
-    { "quantity": "6 tbsp (90 g)", "name": "natural peanut butter",                  "costContribution": 0.45 },
-    { "quantity": "3 tbsp",    "name": "soy sauce",                                  "costContribution": 0.23 },
-    { "quantity": "2 tbsp",    "name": "white vinegar or rice vinegar",               "costContribution": 0.10 },
-    { "quantity": "1 tbsp",    "name": "sugar or brown sugar",                        "costContribution": 0.05 },
-    { "quantity": "1 tsp",     "name": "sesame oil",                                  "costContribution": 0.10 },
-    { "quantity": "2 cloves",  "name": "garlic, minced or grated",                   "costContribution": 0.16 },
-    { "quantity": "0.5 tsp",   "name": "ground ginger (or 1 tsp fresh grated)",      "costContribution": 0.08 },
-    { "quantity": "3",         "name": "green onions, thinly sliced",                "costContribution": 1.00 },
-    { "quantity": "1 medium",  "name": "carrot, grated or cut into matchsticks",     "costContribution": 0.29 },
-    { "quantity": "0.5 tsp",   "name": "chili flakes (optional)",                   "costContribution": 0.05 }
+  "tags": [
+    "vegan",
+    "pasta",
+    "peanut-butter",
+    "fast",
+    "very-low-cost"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "400 g",
+      "name": "spaghetti or linguine",
+      "costContribution": 0.88
+    },
+    {
+      "quantity": "6 tbsp (90 g)",
+      "name": "natural peanut butter",
+      "costContribution": 0.45
+    },
+    {
+      "quantity": "3 tbsp",
+      "name": "soy sauce",
+      "costContribution": 0.23
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "white vinegar or rice vinegar",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "sugar or brown sugar",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "sesame oil",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "2 cloves",
+      "name": "garlic, minced or grated",
+      "costContribution": 0.16
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "ground ginger (or 1 tsp fresh grated)",
+      "costContribution": 0.08
+    },
+    {
+      "quantity": "3",
+      "name": "green onions, thinly sliced",
+      "costContribution": 1
+    },
+    {
+      "quantity": "1 medium",
+      "name": "carrot, grated or cut into matchsticks",
+      "costContribution": 0.29
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "chili flakes (optional)",
+      "costContribution": 0.05
+    }
+  ],
   "instructions": [
     "Cook the pasta according to package directions. Reserve 125 mL of pasta cooking water before draining.",
     "While the pasta cooks, whisk together the peanut butter, soy sauce, vinegar, sugar, sesame oil, garlic, and ginger in a large bowl. The sauce will be thick.",
@@ -32,7 +80,6 @@
     "Add the grated carrot and toss again.",
     "Divide into bowls. Top with green onions and chili flakes."
   ],
-
   "nutrition": {
     "calories": 526,
     "protein": 19,
@@ -42,7 +89,6 @@
     "sodium": 375,
     "iron": "~15% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
@@ -58,17 +104,18 @@
       }
     ]
   },
-
   "budgetNotes": [
     "This is one of the cheapest recipes on this site. The total cost can be reduced further by omitting the sesame oil.",
     "Natural peanut butter (just peanuts) is sometimes cheaper per kilogram than sweetened brands when bought in the large jar.",
     "Add a soft-boiled egg on top per serving for extra protein at low cost.",
     "The sauce keeps well in the fridge for 3–4 days. Make extra and use it as a dip or salad dressing."
   ],
-
   "pricingMetadata": {
-    "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
-    "notes": "Prices verified at Ottawa No Frills, May 2026. Pasta $0.22/100g from 900g bag. Soy sauce $0.51/100mL. Sesame oil $2.00/100mL. Green onions $1.99/bunch (3 = half bunch). Carrots $2.93/kg. Peanut butter estimated from store-brand 1kg jar."
+    "updatedAt": "June 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, June 2026. Pasta $0.22/100g from 900g bag. Soy sauce $0.51/100mL. Sesame oil $2.00/100mL. Green onions $1.99/bunch (3 = half bunch). Carrots $2.93/kg. Peanut butter estimated from store-brand 1kg jar."
   }
 }

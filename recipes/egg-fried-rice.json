@@ -7,20 +7,61 @@
   "servings": 4,
   "prepTime": "5 min",
   "cookTime": "20 min",
-  "tags": ["vegetarian", "rice", "eggs", "one-pan", "fast", "low-cost"],
-
-  "ingredients": [
-    { "quantity": "300 g",    "name": "dry long-grain white rice (or 750 g cooked day-old rice)", "costContribution": 0.75 },
-    { "quantity": "6 large",  "name": "eggs, lightly beaten",                                     "costContribution": 1.98 },
-    { "quantity": "250 g",    "name": "frozen mixed vegetables (peas, corn, carrots, green beans)", "costContribution": 0.65 },
-    { "quantity": "3",        "name": "green onions, sliced",                                      "costContribution": 1.00 },
-    { "quantity": "3 cloves", "name": "garlic, minced",                                            "costContribution": 0.24 },
-    { "quantity": "3 tbsp",   "name": "soy sauce",                                                 "costContribution": 0.23 },
-    { "quantity": "2 tbsp",   "name": "vegetable oil",                                             "costContribution": 0.13 },
-    { "quantity": "1 tsp",    "name": "sesame oil (optional but recommended)",                     "costContribution": 0.10 },
-    { "quantity": "to taste", "name": "white or black pepper",                                     "costContribution": 0.05 }
+  "tags": [
+    "vegetarian",
+    "rice",
+    "eggs",
+    "one-pan",
+    "fast",
+    "low-cost"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "300 g",
+      "name": "dry long-grain white rice (or 750 g cooked day-old rice)",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "6 large",
+      "name": "eggs, lightly beaten",
+      "costContribution": 1.98
+    },
+    {
+      "quantity": "250 g",
+      "name": "frozen mixed vegetables (peas, corn, carrots, green beans)",
+      "costContribution": 0.65
+    },
+    {
+      "quantity": "3",
+      "name": "green onions, sliced",
+      "costContribution": 1
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.24
+    },
+    {
+      "quantity": "3 tbsp",
+      "name": "soy sauce",
+      "costContribution": 0.23
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "sesame oil (optional but recommended)",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "to taste",
+      "name": "white or black pepper",
+      "costContribution": 0.05
+    }
+  ],
   "instructions": [
     "If cooking rice fresh, prepare it and spread it on a baking sheet or plate to cool. Slightly dry rice fries better than freshly cooked rice. Day-old refrigerated rice is ideal.",
     "Heat 1 tbsp of the vegetable oil in a large skillet or wok over high heat until very hot.",
@@ -32,7 +73,6 @@
     "Add the soy sauce and sesame oil. Toss everything together over high heat for 1–2 minutes.",
     "Remove from heat. Add the green onions and pepper. Stir once more and serve."
   ],
-
   "nutrition": {
     "calories": 489,
     "protein": 16,
@@ -43,7 +83,6 @@
     "iron": "~12% DV",
     "vitaminC": "~15% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
@@ -55,17 +94,18 @@
     ],
     "notes": "Rice and eggs are naturally gluten-free. Soy sauce is the only ingredient that typically contains wheat. Tamari is a direct swap."
   },
-
   "budgetNotes": [
     "This is one of the cheapest complete meals on this site. Total cost can be reduced further with smaller egg quantities.",
     "Day-old refrigerated rice gives better results than freshly cooked rice — the drier texture fries rather than steams.",
     "Add any leftover cooked meat, extra eggs, or whatever vegetables need using up.",
     "Frozen mixed vegetables are cheaper per kilogram than individual frozen vegetables."
   ],
-
   "pricingMetadata": {
-    "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
-    "notes": "Prices verified at Ottawa No Frills, May 2026. Rice $0.25/100g from 2kg bag. Eggs $0.33 each from 12-count carton ($3.93). Soy sauce $0.51/100mL from 450mL bottle. Sesame oil $2.00/100mL. Green onions $1.99/bunch (3 = half bunch)."
+    "updatedAt": "June 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, June 2026. Rice $0.25/100g from 2kg bag. Eggs $0.33 each from 12-count carton ($3.93). Soy sauce $0.51/100mL from 450mL bottle. Sesame oil $2.00/100mL. Green onions $1.99/bunch (3 = half bunch)."
   }
 }

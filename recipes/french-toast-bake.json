@@ -7,20 +7,59 @@
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "35 min",
-  "tags": ["kid-friendly", "vegetarian", "fast", "comfort-food"],
-
-  "ingredients": [
-    { "quantity": "675 g (1 loaf)", "name": "white sandwich bread, cut into cubes", "costContribution": 2.48 },
-    { "quantity": "6 large",        "name": "eggs",                                 "costContribution": 1.98 },
-    { "quantity": "250 mL",         "name": "milk (2%)",                            "costContribution": 0.63 },
-    { "quantity": "2 tbsp",         "name": "brown sugar",                          "costContribution": 0.08 },
-    { "quantity": "1 tsp",          "name": "ground cinnamon",                      "costContribution": 0.05 },
-    { "quantity": "1 tsp",          "name": "vanilla extract",                      "costContribution": 0.10 },
-    { "quantity": "1 tbsp",         "name": "butter, for greasing the pan",         "costContribution": 0.19 },
-    { "quantity": "pinch",          "name": "salt",                                 "costContribution": 0.01 },
-    { "quantity": "1 tbsp",         "name": "maple syrup or extra brown sugar, for topping (optional)", "costContribution": 0.15 }
+  "tags": [
+    "kid-friendly",
+    "vegetarian",
+    "fast",
+    "comfort-food"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "675 g (1 loaf)",
+      "name": "white sandwich bread, cut into cubes",
+      "costContribution": 2.48
+    },
+    {
+      "quantity": "6 large",
+      "name": "eggs",
+      "costContribution": 1.98
+    },
+    {
+      "quantity": "250 mL",
+      "name": "milk (2%)",
+      "costContribution": 0.63
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "brown sugar",
+      "costContribution": 0.08
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cinnamon",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "vanilla extract",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "butter, for greasing the pan",
+      "costContribution": 0.19
+    },
+    {
+      "quantity": "pinch",
+      "name": "salt",
+      "costContribution": 0.01
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "maple syrup or extra brown sugar, for topping (optional)",
+      "costContribution": 0.15
+    }
+  ],
   "instructions": [
     "Preheat oven to 190°C (375°F). Butter a 23×33 cm (9×13 inch) baking dish.",
     "Tear or cut the bread into rough 2–3 cm cubes and spread them in the baking dish.",
@@ -31,7 +70,6 @@
     "Bake 30–35 minutes until the top is golden and the center is set. A knife inserted in the middle should come out clean.",
     "Let rest 5 minutes before serving. Cut into portions directly in the pan."
   ],
-
   "nutrition": {
     "calories": 410,
     "protein": 17,
@@ -43,25 +81,28 @@
     "calcium": "~18% DV",
     "vitaminC": "~0% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
-      { "ingredient": "white sandwich bread", "substitute": "gluten-free sandwich bread (same weight)", "costNote": "GF bread typically $6–8 per loaf, which would push this over budget. Best to skip." }
+      {
+        "ingredient": "white sandwich bread",
+        "substitute": "gluten-free sandwich bread (same weight)",
+        "costNote": "GF bread typically $6–8 per loaf, which would push this over budget. Best to skip."
+      }
     ],
     "notes": "This recipe depends entirely on bread, so a GF version is not practical at this price point."
   },
-
   "budgetNotes": [
     "No Name white bread at $2.48 makes this one of the cheapest recipes on the site. The whole loaf goes in.",
     "Six eggs is a lot, but it is what makes the custard generous enough to soak a full loaf. Do not cut it to four.",
     "250 mL is just over a cup of milk, which is about one-eighth of a 2L carton ($5.00). Use whatever is in the fridge.",
     "Serve with whatever is cheap — extra brown sugar, a sprinkle of cinnamon, jam, or nothing. It works."
   ],
-
   "pricingMetadata": {
-    "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills"],
+    "updatedAt": "June 2026",
+    "sources": [
+      "Ottawa No Frills"
+    ],
     "notes": "No Name white bread 675g = $2.48. Eggs $0.33 × 6 = $1.98. Milk $5.00/2L, 250mL = $0.63. Brown sugar $3.79/kg, 2 tbsp ≈ 25g = $0.10 (estimated $0.08). Butter $1.36/100g, 1 tbsp ≈ 14g = $0.19. Vanilla and cinnamon estimated at $0.15 combined. Maple syrup topping optional, estimated $0.15."
   }
 }

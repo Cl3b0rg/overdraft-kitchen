@@ -2,23 +2,56 @@
   "id": "oatmeal-porridge",
   "name": "Peanut Butter Oatmeal",
   "summary": "Rolled oats cooked in milk with peanut butter and brown sugar. The cheapest filling breakfast on this site.",
-  "totalCost": 2.90,
+  "totalCost": 2.9,
   "costPerServing": 0.73,
   "servings": 4,
   "prepTime": "2 min",
   "cookTime": "10 min",
-  "tags": ["vegetarian", "breakfast", "oats", "peanut-butter", "very-low-cost", "fast"],
-
-  "ingredients": [
-    { "quantity": "300 g (3 cups)", "name": "large-flake or quick rolled oats",      "costContribution": 0.83 },
-    { "quantity": "1 L",            "name": "2% milk (or water for lower cost)",      "costContribution": 1.12 },
-    { "quantity": "4 tbsp",         "name": "peanut butter",                          "costContribution": 0.30 },
-    { "quantity": "4 tbsp",         "name": "brown sugar or white sugar",             "costContribution": 0.15 },
-    { "quantity": "1 tsp",          "name": "cinnamon",                               "costContribution": 0.05 },
-    { "quantity": "0.5 tsp",        "name": "salt",                                   "costContribution": 0.02 },
-    { "quantity": "optional",       "name": "banana, sliced (1 per 2 servings)",      "costContribution": 0.43 }
+  "tags": [
+    "vegetarian",
+    "breakfast",
+    "oats",
+    "peanut-butter",
+    "very-low-cost",
+    "fast"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "300 g (3 cups)",
+      "name": "large-flake or quick rolled oats",
+      "costContribution": 0.83
+    },
+    {
+      "quantity": "1 L",
+      "name": "2% milk (or water for lower cost)",
+      "costContribution": 1.12
+    },
+    {
+      "quantity": "4 tbsp",
+      "name": "peanut butter",
+      "costContribution": 0.3
+    },
+    {
+      "quantity": "4 tbsp",
+      "name": "brown sugar or white sugar",
+      "costContribution": 0.15
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "cinnamon",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "salt",
+      "costContribution": 0.02
+    },
+    {
+      "quantity": "optional",
+      "name": "banana, sliced (1 per 2 servings)",
+      "costContribution": 0.43
+    }
+  ],
   "instructions": [
     "Bring milk (or water) to a gentle simmer in a medium pot over medium heat. Do not boil.",
     "Stir in oats, salt, and cinnamon.",
@@ -27,7 +60,6 @@
     "Divide into bowls. Top each bowl with 1 tablespoon of peanut butter and 1 tablespoon of brown sugar.",
     "Add sliced banana if using. Serve immediately."
   ],
-
   "nutrition": {
     "calories": 531,
     "protein": 19,
@@ -38,7 +70,6 @@
     "iron": "~15% DV",
     "calcium": "~25% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
@@ -50,17 +81,18 @@
     ],
     "notes": "Oats are naturally gluten-free but are often processed in facilities that handle wheat. Only certified GF oats are safe for celiac disease."
   },
-
   "budgetNotes": [
     "Buy oats in the largest container available — per-kilogram cost drops significantly.",
     "Cooking with water instead of milk reduces the cost to approximately $0.45 per serving and removes about 120 calories.",
     "Any nut butter works in place of peanut butter. Sunflower seed butter is a good allergy-safe alternative.",
     "This recipe works for any meal, not just breakfast."
   ],
-
   "pricingMetadata": {
-    "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
-    "notes": "Prices verified at Ottawa No Frills, May 2026. Oats estimated from 1.8 kg container at store-brand price. Milk proportional from 2L jug. Peanut butter estimated from 1kg store-brand jar."
+    "updatedAt": "June 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, June 2026. Oats estimated from 1.8 kg container at store-brand price. Milk proportional from 2L jug. Peanut butter estimated from 1kg store-brand jar."
   }
 }

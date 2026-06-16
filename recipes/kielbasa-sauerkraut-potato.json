@@ -102,14 +102,14 @@
   },
   "budgetNotes": [
     "Sauerkraut is $4.29 for a 796 mL jar at No Frills (No Name Wine Sauerkraut or Polka brand). The recipe uses about 500 mL, which is roughly 63% of the jar — price contribution calculated proportionally at $2.69.",
-    "Russet potatoes from a 10 lb bag at $1.99 make potatoes practically free at $0.44/kg.",
+    "Russet potatoes from a 10 lb bag at $3.99 make potatoes cheap at $0.88/kg.",
     "The sodium count is high here because sauerkraut, sausage, and broth are all salty. Use water instead of broth if sodium is a concern."
   ],
   "pricingMetadata": {
-    "updatedAt": "May 2026",
+    "updatedAt": "June 2026",
     "sources": [
       "Ottawa No Frills"
     ],
-    "notes": "Pillers kolbassa 375g = $6.50. Russet potatoes $0.44/kg, 600g = $0.26. Sauerkraut Polka/No Name 796mL = $4.29, 500mL used = $4.29 × (500/796) = $2.69. Onion $1.23. Garlic $0.08 × 2 = $0.16. Broth $1.50/900mL, 500mL = $0.83. Oil $0.06. Caraway/sugar/pepper estimated $0.11."
+    "notes": "Pillers kolbassa 375g = $6.50. Russet potatoes $0.88/kg, 600g = $0.26. Sauerkraut Polka/No Name 796mL = $4.29, 500mL used = $4.29 × (500/796) = $2.69. Onion $1.07. Garlic $0.08 × 2 = $0.16. Broth $1.69/900mL, 500mL = $0.83. Oil $0.06. Caraway/sugar/pepper estimated $0.11."
   }
 }

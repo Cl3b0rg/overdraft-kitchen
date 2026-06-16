@@ -7,19 +7,54 @@
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "5 min",
-  "tags": ["kid-friendly", "lunch", "high-protein", "fast"],
-
-  "ingredients": [
-    { "quantity": "2 cans (170 g each)", "name": "No Name flaked light tuna, drained", "costContribution": 2.58 },
-    { "quantity": "4 tbsp",              "name": "mayonnaise",                          "costContribution": 0.74 },
-    { "quantity": "3 stalks",            "name": "green onion, sliced",                 "costContribution": 0.60 },
-    { "quantity": "1 tsp",               "name": "yellow mustard (optional)",           "costContribution": 0.03 },
-    { "quantity": "8 slices",            "name": "No Name white bread (675 g loaf)",    "costContribution": 2.48 },
-    { "quantity": "200 g",               "name": "cheddar cheese, sliced or shredded",  "costContribution": 2.86 },
-    { "quantity": "1 tbsp",              "name": "butter (for pan-fry method)",         "costContribution": 0.14 },
-    { "quantity": "to taste",            "name": "salt, pepper, and hot sauce",         "costContribution": 0.02 }
+  "tags": [
+    "kid-friendly",
+    "lunch",
+    "high-protein",
+    "fast"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "2 cans (170 g each)",
+      "name": "No Name flaked light tuna, drained",
+      "costContribution": 2.58
+    },
+    {
+      "quantity": "4 tbsp",
+      "name": "mayonnaise",
+      "costContribution": 0.74
+    },
+    {
+      "quantity": "3 stalks",
+      "name": "green onion, sliced",
+      "costContribution": 0.6
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "yellow mustard (optional)",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "8 slices",
+      "name": "No Name white bread (675 g loaf)",
+      "costContribution": 2.48
+    },
+    {
+      "quantity": "200 g",
+      "name": "cheddar cheese, sliced or shredded",
+      "costContribution": 2.86
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "butter (for pan-fry method)",
+      "costContribution": 0.14
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt, pepper, and hot sauce",
+      "costContribution": 0.02
+    }
+  ],
   "instructions": [
     "Drain the tuna well — press the lid against the can to squeeze out as much liquid as possible. Transfer to a bowl.",
     "Add mayonnaise, green onion, mustard if using, salt, and pepper. Mix to combine. The mixture should be moist but not wet. Add a little more mayo if it looks dry.",
@@ -27,7 +62,6 @@
     "Pan method (no oven): Spread tuna on untoasted bread. Top with cheese. Heat butter in a large skillet over medium-low heat. Cook open-faced for 3–4 minutes with a lid on the pan, until cheese melts. The bottom will be golden.",
     "Cut each slice in half. Serve hot. Two halves per person."
   ],
-
   "nutrition": {
     "calories": 445,
     "protein": 34,
@@ -39,25 +73,28 @@
     "calcium": "~30% DV",
     "vitaminC": "~4% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
-      { "ingredient": "white bread", "substitute": "gluten-free sandwich bread", "costNote": "adds approx. $3–4 to total cost" }
+      {
+        "ingredient": "white bread",
+        "substitute": "gluten-free sandwich bread",
+        "costNote": "adds approx. $3–4 to total cost"
+      }
     ],
     "notes": "The tuna mixture itself is gluten-free. Check tuna can labels as some processed varieties may contain additives."
   },
-
   "budgetNotes": [
     "No Name tuna at $1.29 per 170g can is one of the cheapest protein sources available. Two cans gives about 230g of drained tuna — enough for four generous portions.",
     "Mayonnaise priced at approximately $5.49/890mL for No Name ($0.617/100mL). Four tablespoons is about 60mL = $0.37, rounded up to account for variance.",
     "The pan method works fine without an oven and produces a crispier bottom crust. The broiler is faster but requires attention.",
     "This recipe is close to $11. If the tuna is on sale, it comes under $10."
   ],
-
   "pricingMetadata": {
-    "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills"],
+    "updatedAt": "June 2026",
+    "sources": [
+      "Ottawa No Frills"
+    ],
     "notes": "No Name tuna 170g at $1.29/can × 2 = $2.58. Bread $2.48/675g loaf (8 slices). Cheddar $1.43/100g × 200g = $2.86. Mayonnaise estimated $5.49/890mL; 4 tbsp ≈ 60mL = $0.37, rounded to $0.74. Green onion $1.99/bunch; 3 stalks ≈ $0.60. Butter $1.36/100g; 1 tbsp ≈ 14g = $0.19, rounded to $0.14."
   }
 }

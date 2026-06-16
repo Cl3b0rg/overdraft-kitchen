@@ -7,18 +7,50 @@
   "servings": 4,
   "prepTime": "5 min",
   "cookTime": "15 min",
-  "tags": ["vegetarian", "pasta", "fast", "very-low-cost", "italian"],
-
-  "ingredients": [
-    { "quantity": "400 g",    "name": "spaghetti",                                    "costContribution": 0.88 },
-    { "quantity": "8 cloves", "name": "garlic, thinly sliced",                        "costContribution": 0.64 },
-    { "quantity": "6 tbsp",   "name": "extra-virgin olive oil",                       "costContribution": 0.38 },
-    { "quantity": "0.5 tsp",  "name": "chili flakes",                                 "costContribution": 0.03 },
-    { "quantity": "40 g",     "name": "parmesan, finely grated",                      "costContribution": 1.20 },
-    { "quantity": "small handful (optional)", "name": "fresh parsley, roughly chopped","costContribution": 0.10 },
-    { "quantity": "to taste", "name": "salt and black pepper",                        "costContribution": 0.05 }
+  "tags": [
+    "vegetarian",
+    "pasta",
+    "fast",
+    "very-low-cost",
+    "italian"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "400 g",
+      "name": "spaghetti",
+      "costContribution": 0.88
+    },
+    {
+      "quantity": "8 cloves",
+      "name": "garlic, thinly sliced",
+      "costContribution": 0.64
+    },
+    {
+      "quantity": "6 tbsp",
+      "name": "extra-virgin olive oil",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "chili flakes",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "40 g",
+      "name": "parmesan, finely grated",
+      "costContribution": 1.2
+    },
+    {
+      "quantity": "small handful (optional)",
+      "name": "fresh parsley, roughly chopped",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
   "instructions": [
     "Bring a large pot of water to a boil. Salt it heavily — it should taste like the ocean.",
     "Cook the spaghetti until just al dente (1 minute less than the package says). Reserve 500 mL of pasta water before draining.",
@@ -30,7 +62,6 @@
     "Remove from heat. Add half the parmesan and toss again.",
     "Serve immediately with remaining parmesan and parsley if using."
   ],
-
   "nutrition": {
     "calories": 548,
     "protein": 15,
@@ -41,7 +72,6 @@
     "iron": "~10% DV",
     "calcium": "~8% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
@@ -52,17 +82,18 @@
       }
     ]
   },
-
   "budgetNotes": [
     "Pasta water is the actual sauce here — the starch emulsifies with the oil. Don't skip it or rush the tossing step.",
     "This is one of the cheapest meals you can make that doesn't taste like it. Total cost under $4 for four people.",
     "Use the cheapest spaghetti available. No Frills and Walmart house brands work perfectly.",
     "If parmesan is too expensive, nutritional yeast (2 tbsp per serving) works as a vegan substitute and costs less."
   ],
-
   "pricingMetadata": {
-    "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
-    "notes": "Prices verified at Ottawa No Frills, May 2026. Pasta $0.22/100g from 900g bag. Oil $0.42/100mL (6 tbsp ≈ 90mL). Garlic $0.08/clove. Parmesan estimated from PC 200g block."
+    "updatedAt": "June 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, June 2026. Pasta $0.22/100g from 900g bag. Oil $0.42/100mL (6 tbsp ≈ 90mL). Garlic $0.08/clove. Parmesan estimated from PC 200g block."
   }
 }

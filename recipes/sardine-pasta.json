@@ -7,19 +7,55 @@
   "servings": 4,
   "prepTime": "5 min",
   "cookTime": "20 min",
-  "tags": ["fish", "pasta", "fast", "high-protein", "low-cost"],
-
-  "ingredients": [
-    { "quantity": "400 g",     "name": "spaghetti or linguine",                   "costContribution": 0.88 },
-    { "quantity": "2 cans (106 g each)", "name": "sardines in olive oil",          "costContribution": 3.58 },
-    { "quantity": "1 can (796 mL)", "name": "diced tomatoes",                     "costContribution": 2.00 },
-    { "quantity": "4 cloves",  "name": "garlic, thinly sliced",                   "costContribution": 0.32 },
-    { "quantity": "0.5 tsp",   "name": "chili flakes",                            "costContribution": 0.05 },
-    { "quantity": "2 tbsp",    "name": "olive or vegetable oil",                  "costContribution": 0.13 },
-    { "quantity": "to taste",  "name": "salt and black pepper",                   "costContribution": 0.05 },
-    { "quantity": "small bunch (optional)", "name": "fresh or dried parsley",     "costContribution": 0.03 }
+  "tags": [
+    "fish",
+    "pasta",
+    "fast",
+    "high-protein",
+    "low-cost"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "400 g",
+      "name": "spaghetti or linguine",
+      "costContribution": 0.88
+    },
+    {
+      "quantity": "2 cans (106 g each)",
+      "name": "sardines in olive oil",
+      "costContribution": 3.58
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, thinly sliced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "chili flakes",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "olive or vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "small bunch (optional)",
+      "name": "fresh or dried parsley",
+      "costContribution": 0.03
+    }
+  ],
   "instructions": [
     "Cook pasta in well-salted boiling water according to package directions. Reserve 250 mL of pasta water before draining.",
     "While pasta cooks, heat oil in a large skillet over medium heat.",
@@ -31,7 +67,6 @@
     "Taste and adjust salt and chili. Add parsley if using.",
     "Serve immediately."
   ],
-
   "nutrition": {
     "calories": 517,
     "protein": 26,
@@ -42,7 +77,6 @@
     "iron": "~20% DV",
     "calcium": "~15% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
@@ -53,17 +87,18 @@
       }
     ]
   },
-
   "budgetNotes": [
     "PC or store-brand sardines are significantly cheaper than name brands and taste the same in a cooked sauce.",
     "Sardines in water work fine — just add an extra tablespoon of oil to the pan.",
     "The sardines essentially dissolve into the sauce when broken up. If you are hesitant about sardines, this is a good starting recipe — the flavour is mild.",
     "Tuna (2 cans, drained) can substitute for sardines at roughly the same price."
   ],
-
   "pricingMetadata": {
-    "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
-    "notes": "Prices verified at Ottawa No Frills, May 2026. Pasta $0.22/100g from 900g bag. Diced tomatoes $2.00/796mL can. Garlic $0.08/clove. Sardines estimated at store-brand price (~$1.79/can). Oil $0.42/100mL."
+    "updatedAt": "June 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, June 2026. Pasta $0.22/100g from 900g bag. Diced tomatoes $2.00/796mL can. Garlic $0.08/clove. Sardines estimated at store-brand price (~$1.79/can). Oil $0.42/100mL."
   }
 }

@@ -7,19 +7,56 @@
   "servings": 4,
   "prepTime": "5 min",
   "cookTime": "10 min",
-  "tags": ["vegetarian", "eggs", "rice", "fast", "very-low-cost", "meal-prep"],
-
-  "ingredients": [
-    { "quantity": "300 g",   "name": "dry long-grain white rice",                    "costContribution": 0.75 },
-    { "quantity": "8",       "name": "large eggs",                                   "costContribution": 2.64 },
-    { "quantity": "3 tbsp",  "name": "chili crisp or chili oil (store-bought)",      "costContribution": 0.60 },
-    { "quantity": "2 tbsp",  "name": "soy sauce",                                    "costContribution": 0.15 },
-    { "quantity": "1 tsp",   "name": "sesame oil",                                   "costContribution": 0.10 },
-    { "quantity": "2",       "name": "green onions, thinly sliced",                  "costContribution": 0.66 },
-    { "quantity": "1 tbsp",  "name": "vegetable oil for frying",                     "costContribution": 0.06 },
-    { "quantity": "1 tsp",   "name": "sesame seeds (optional)",                      "costContribution": 0.03 }
+  "tags": [
+    "vegetarian",
+    "eggs",
+    "rice",
+    "fast",
+    "very-low-cost",
+    "meal-prep"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "300 g",
+      "name": "dry long-grain white rice",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "8",
+      "name": "large eggs",
+      "costContribution": 2.64
+    },
+    {
+      "quantity": "3 tbsp",
+      "name": "chili crisp or chili oil (store-bought)",
+      "costContribution": 0.6
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "soy sauce",
+      "costContribution": 0.15
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "sesame oil",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "2",
+      "name": "green onions, thinly sliced",
+      "costContribution": 0.66
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil for frying",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "sesame seeds (optional)",
+      "costContribution": 0.03
+    }
+  ],
   "instructions": [
     "Cook the rice according to package directions.",
     "In a small bowl, mix together the soy sauce and sesame oil. Set aside.",
@@ -30,7 +67,6 @@
     "Drizzle the soy-sesame mixture over everything.",
     "Top with green onions and sesame seeds. Serve immediately."
   ],
-
   "nutrition": {
     "calories": 431,
     "protein": 16,
@@ -41,7 +77,6 @@
     "iron": "~15% DV",
     "calcium": "~6% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
@@ -57,17 +92,18 @@
       }
     ]
   },
-
   "budgetNotes": [
     "Chili crisp (Lao Gan Ma brand) is available at most Ontario grocery stores in the international aisle. A jar lasts months and costs around $4–$6. It's worth keeping on hand.",
     "If you don't have chili crisp, mix vegetable oil with chili flakes, a pinch of salt, and a dash of garlic powder as a rough substitute.",
     "This is a genuinely good two-egg-per-person meal that works for breakfast, lunch, or dinner. Cost per serving is under $1.25.",
     "Runny yolks act as a sauce. If you prefer cooked yolks, cover the pan with a lid for 1 minute after cracking the eggs."
   ],
-
   "pricingMetadata": {
-    "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
-    "notes": "Prices verified at Ottawa No Frills, May 2026. Eggs $0.33 each from 12-count carton ($3.93). Rice $0.25/100g. Soy sauce $0.51/100mL. Sesame oil $2.00/100mL. Green onions $1.99/bunch (2 = approx. one-third bunch)."
+    "updatedAt": "June 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, June 2026. Eggs $0.33 each from 12-count carton ($3.93). Rice $0.25/100g. Soy sauce $0.51/100mL. Sesame oil $2.00/100mL. Green onions $1.99/bunch (2 = approx. one-third bunch)."
   }
 }

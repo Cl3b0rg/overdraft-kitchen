@@ -7,20 +7,61 @@
   "servings": 4,
   "prepTime": "5 min",
   "cookTime": "20 min",
-  "tags": ["vegetarian", "pasta", "cheese", "fast", "very-low-cost", "kid-friendly"],
-
-  "ingredients": [
-    { "quantity": "350 g",    "name": "elbow macaroni",                             "costContribution": 0.77 },
-    { "quantity": "200 g",    "name": "old cheddar, grated (from block)",           "costContribution": 2.57 },
-    { "quantity": "3 tbsp",   "name": "butter",                                     "costContribution": 0.57 },
-    { "quantity": "3 tbsp",   "name": "all-purpose flour",                          "costContribution": 0.05 },
-    { "quantity": "500 mL",   "name": "2% milk",                                    "costContribution": 0.75 },
-    { "quantity": "1 tsp",    "name": "mustard powder or Dijon mustard",            "costContribution": 0.08 },
-    { "quantity": "0.5 tsp",  "name": "smoked paprika",                             "costContribution": 0.05 },
-    { "quantity": "to taste", "name": "salt and black pepper",                      "costContribution": 0.05 },
-    { "quantity": "pinch",    "name": "cayenne pepper (optional)",                  "costContribution": 0.02 }
+  "tags": [
+    "vegetarian",
+    "pasta",
+    "cheese",
+    "fast",
+    "very-low-cost",
+    "kid-friendly"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "350 g",
+      "name": "elbow macaroni",
+      "costContribution": 0.77
+    },
+    {
+      "quantity": "200 g",
+      "name": "old cheddar, grated (from block)",
+      "costContribution": 2.57
+    },
+    {
+      "quantity": "3 tbsp",
+      "name": "butter",
+      "costContribution": 0.57
+    },
+    {
+      "quantity": "3 tbsp",
+      "name": "all-purpose flour",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "500 mL",
+      "name": "2% milk",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "mustard powder or Dijon mustard",
+      "costContribution": 0.08
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "pinch",
+      "name": "cayenne pepper (optional)",
+      "costContribution": 0.02
+    }
+  ],
   "instructions": [
     "Cook macaroni in salted boiling water according to package directions. Reserve 125 mL of pasta water before draining.",
     "While pasta cooks, melt butter in a medium saucepan over medium heat.",
@@ -32,7 +73,6 @@
     "Drain the pasta and add it to the cheese sauce. Stir to coat. If the sauce is too thick, add pasta water a tablespoon at a time.",
     "Serve immediately."
   ],
-
   "nutrition": {
     "calories": 678,
     "protein": 27,
@@ -42,7 +82,6 @@
     "sodium": 390,
     "calcium": "~35% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
@@ -59,17 +98,18 @@
     ],
     "notes": "Whisk cornstarch into the cold milk before adding to the butter, rather than making a roux."
   },
-
   "budgetNotes": [
     "Buy cheddar in the largest block available — per-gram cost is lower. Grate it yourself rather than buying pre-shredded.",
     "Marble or medium cheddar works fine and is often cheaper than old cheddar.",
     "Stir in a can of drained tuna or a cup of frozen peas for extra nutrition with minimal cost.",
     "Leftovers reheat well with a splash of milk stirred in to loosen the sauce."
   ],
-
   "pricingMetadata": {
-    "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
-    "notes": "Prices verified at Ottawa No Frills, May 2026. Pasta $0.22/100g from 900g bag. Butter $1.36/100g from 454g block (3 tbsp ≈ 42g = $0.57). Cheddar estimated proportionally from block."
+    "updatedAt": "June 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, June 2026. Pasta $0.22/100g from 900g bag. Butter $1.36/100g from 454g block (3 tbsp ≈ 42g = $0.57). Cheddar estimated proportionally from block."
   }
 }

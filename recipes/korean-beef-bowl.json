@@ -7,22 +7,70 @@
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "15 min",
-  "tags": ["beef", "rice", "fast", "high-protein", "meal-prep"],
-
-  "ingredients": [
-    { "quantity": "500 g",    "name": "lean ground beef",                             "costContribution": 10.00 },
-    { "quantity": "300 g",    "name": "dry long-grain white rice",                    "costContribution": 0.75 },
-    { "quantity": "3 tbsp",   "name": "soy sauce",                                    "costContribution": 0.23 },
-    { "quantity": "1 tbsp",   "name": "sesame oil",                                   "costContribution": 0.30 },
-    { "quantity": "2 tbsp",   "name": "brown sugar",                                  "costContribution": 0.08 },
-    { "quantity": "4 cloves", "name": "garlic, minced",                               "costContribution": 0.32 },
-    { "quantity": "1 tsp",    "name": "ground ginger",                                "costContribution": 0.07 },
-    { "quantity": "1 tbsp",   "name": "vegetable oil",                                "costContribution": 0.06 },
-    { "quantity": "3",        "name": "green onions, thinly sliced",                  "costContribution": 1.00 },
-    { "quantity": "0.5 tsp",  "name": "chili flakes or gochugaru (optional)",         "costContribution": 0.03 },
-    { "quantity": "1 tsp",    "name": "sesame seeds (optional)",                      "costContribution": 0.02 }
+  "tags": [
+    "beef",
+    "rice",
+    "fast",
+    "high-protein",
+    "meal-prep"
   ],
-
+  "ingredients": [
+    {
+      "quantity": "500 g",
+      "name": "lean ground beef",
+      "costContribution": 10
+    },
+    {
+      "quantity": "300 g",
+      "name": "dry long-grain white rice",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "3 tbsp",
+      "name": "soy sauce",
+      "costContribution": 0.23
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "sesame oil",
+      "costContribution": 0.3
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "brown sugar",
+      "costContribution": 0.08
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground ginger",
+      "costContribution": 0.07
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "3",
+      "name": "green onions, thinly sliced",
+      "costContribution": 1
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "chili flakes or gochugaru (optional)",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "sesame seeds (optional)",
+      "costContribution": 0.02
+    }
+  ],
   "instructions": [
     "Cook the rice according to package directions.",
     "Heat vegetable oil in a large skillet over medium-high heat.",
@@ -32,7 +80,6 @@
     "Taste and adjust — more soy for salt, more sugar to balance, chili flakes if using.",
     "Serve over rice. Top with green onions and sesame seeds."
   ],
-
   "nutrition": {
     "calories": 524,
     "protein": 29,
@@ -43,7 +90,6 @@
     "iron": "~20% DV",
     "calcium": "~4% DV"
   },
-
   "glutenFree": {
     "isNaturallyGF": false,
     "substitutions": [
@@ -55,17 +101,18 @@
     ],
     "notes": "All other ingredients are naturally gluten-free."
   },
-
   "budgetNotes": [
     "Lean ground beef at $20/kg is the biggest cost driver. Medium ground beef at $19/kg works fine — just drain off the extra fat after browning. Saves about $0.50 total.",
     "This meal preps extremely well. The beef keeps for 4 days in the fridge and reheats in 2 minutes.",
     "Doubling the rice and halving the beef is a legitimate way to stretch this further, especially if feeding more than four people.",
     "Gochugaru (Korean chili flakes) is available at most Ontario Asian grocery stores for a very low price per gram. Regular chili flakes work the same."
   ],
-
   "pricingMetadata": {
-    "updatedAt": "May 2026",
-    "sources": ["Ottawa No Frills", "Ottawa Walmart"],
-    "notes": "Prices verified at Ottawa No Frills, May 2026. Lean ground beef $20.00/kg. Rice $0.25/100g from 2kg bag. Soy sauce $0.51/100mL. Sesame oil $2.00/100mL. Green onions $1.99/bunch (3 = half bunch)."
+    "updatedAt": "June 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, June 2026. Lean ground beef $20.00/kg. Rice $0.25/100g from 2kg bag. Soy sauce $0.51/100mL. Sesame oil $2.00/100mL. Green onions $1.99/bunch (3 = half bunch)."
   }
 }
