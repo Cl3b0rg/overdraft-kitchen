@@ -2,8 +2,8 @@
   "id": "cheap-chickpea-curry",
   "name": "Cheap Chickpea Curry",
   "summary": "A thick, spiced curry with chickpeas and canned tomatoes in coconut milk. Serve over rice.",
-  "totalCost": 10.15,
-  "costPerServing": 2.54,
+  "totalCost": 10.32,
+  "costPerServing": 2.58,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "25 min",
@@ -24,7 +24,7 @@
     {
       "quantity": "1 can (400 mL)",
       "name": "coconut milk",
-      "costContribution": 2.8
+      "costContribution": 2.97
     },
     {
       "quantity": "1 can (796 mL)",

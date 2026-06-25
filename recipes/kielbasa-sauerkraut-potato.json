@@ -2,8 +2,8 @@
   "id": "kielbasa-sauerkraut-potato",
   "name": "Kielbasa, Sauerkraut, and Potato",
   "summary": "Sliced sausage and potatoes braised with sauerkraut and broth in a single pot — Eastern European weeknight food.",
-  "totalCost": 12.06,
-  "costPerServing": 3.02,
+  "totalCost": 11.94,
+  "costPerServing": 2.98,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "35 min",
@@ -22,7 +22,7 @@
     {
       "quantity": "600 g",
       "name": "russet potatoes, cut into 2 cm cubes",
-      "costContribution": 0.52
+      "costContribution": 0.4
     },
     {
       "quantity": "500 mL",

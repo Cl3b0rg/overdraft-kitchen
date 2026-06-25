@@ -2,8 +2,8 @@
   "id": "loaded-potato-soup",
   "name": "Loaded Baked Potato Soup",
   "summary": "Thick, creamy potato soup with bacon and cheddar. One of the top-rated recipes on Pinterest and Budget Bytes for years, and one of the better uses of a $4 bag of potatoes.",
-  "totalCost": 11.65,
-  "costPerServing": 2.91,
+  "totalCost": 11.73,
+  "costPerServing": 2.93,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "35 min",
@@ -18,7 +18,7 @@
     {
       "quantity": "1 kg",
       "name": "russet or Yukon Gold potatoes, peeled and diced",
-      "costContribution": 0.88
+      "costContribution": 0.66
     },
     {
       "quantity": "150 g",
@@ -43,7 +43,7 @@
     {
       "quantity": "250 mL",
       "name": "milk",
-      "costContribution": 0.38
+      "costContribution": 0.68
     },
     {
       "quantity": "2 tbsp",

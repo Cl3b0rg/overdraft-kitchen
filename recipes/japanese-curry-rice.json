@@ -2,8 +2,8 @@
   "id": "japanese-curry-rice",
   "name": "Japanese Curry Rice",
   "summary": "Chicken, potatoes, and carrots in a thick, mildly sweet curry sauce made from S&B Golden Curry roux, served over rice. One of the most-saved 'comfort food for cheap' recipes on TikTok and r/JapaneseFood.",
-  "totalCost": 11.11,
-  "costPerServing": 2.78,
+  "totalCost": 11.05,
+  "costPerServing": 2.76,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "40 min",
@@ -34,7 +34,7 @@
     {
       "quantity": "2 medium",
       "name": "potatoes (~300 g), peeled and cubed",
-      "costContribution": 0.26
+      "costContribution": 0.2
     },
     {
       "quantity": "2 medium",

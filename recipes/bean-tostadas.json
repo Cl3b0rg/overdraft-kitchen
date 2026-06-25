@@ -2,8 +2,8 @@
   "id": "bean-tostadas",
   "name": "Bean and Cheese Tostadas",
   "summary": "Crunchy baked corn tortillas topped with seasoned refried beans, cheddar, and shredded lettuce. A Mexican-inspired staple that regularly tops budget meal lists on Reddit.",
-  "totalCost": 10.08,
-  "costPerServing": 2.52,
+  "totalCost": 12.54,
+  "costPerServing": 3.13,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "15 min",
@@ -39,7 +39,7 @@
     {
       "quantity": "0.5 head",
       "name": "romaine or iceberg lettuce, shredded (~200 g)",
-      "costContribution": 1
+      "costContribution": 3.47
     },
     {
       "quantity": "2 medium",
@@ -193,6 +193,6 @@
       "Ottawa No Frills",
       "Ottawa Walmart"
     ],
-    "notes": "Prices verified at Ottawa No Frills, June 2026. Pinto/black beans $1.50/540mL can. Garlic $0.08/clove. Butter $1.36/100g (1 tbsp ≈ 14g = $0.19). Green onions $1.99/bunch. Corn tortillas, refried beans, cheddar, sour cream estimated from standard shelf prices."
+    "notes": "Prices verified June 2026. Beans $1.50/540mL can. Garlic $0.08/clove. Butter $1.36/100g. Green onions $1.99/bunch. Romaine lettuce $3.47/head (Walmart); priced as full head per whole-item rule — recipe uses 0.5 head. Corn tortillas, refried beans, cheddar, sour cream estimated from standard shelf prices."
   }
 }

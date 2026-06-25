@@ -2,8 +2,8 @@
   "id": "chicken-and-dumplings",
   "name": "Chicken and Dumplings",
   "summary": "Chicken thighs simmered with vegetables in a simple broth, topped with drop dumplings cooked directly in the pot.",
-  "totalCost": 12.55,
-  "costPerServing": 3.14,
+  "totalCost": 12.74,
+  "costPerServing": 3.19,
   "servings": 4,
   "prepTime": "20 min",
   "cookTime": "40 min",
@@ -78,7 +78,7 @@
     {
       "quantity": "160 mL",
       "name": "milk",
-      "costContribution": 0.24
+      "costContribution": 0.43
     },
     {
       "quantity": "to taste",

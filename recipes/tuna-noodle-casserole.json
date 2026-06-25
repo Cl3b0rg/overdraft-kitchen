@@ -2,8 +2,8 @@
   "id": "tuna-noodle-casserole",
   "name": "Tuna Noodle Casserole",
   "summary": "Pasta, canned tuna, frozen peas, and cream of mushroom soup baked with a breadcrumb topping. Classic comfort food.",
-  "totalCost": 7.89,
-  "costPerServing": 1.97,
+  "totalCost": 8.72,
+  "costPerServing": 2.18,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "35 min",
@@ -33,7 +33,7 @@
     {
       "quantity": "250 mL",
       "name": "2% milk",
-      "costContribution": 0.38
+      "costContribution": 0.68
     },
     {
       "quantity": "1 cup (150 g)",
@@ -48,7 +48,7 @@
     {
       "quantity": "0.5 medium",
       "name": "onion, diced",
-      "costContribution": 0.54
+      "costContribution": 1.07
     },
     {
       "quantity": "0.5 cup (40 g)",
@@ -119,6 +119,6 @@
       "Ottawa No Frills",
       "Ottawa Walmart"
     ],
-    "notes": "Prices verified at Ottawa No Frills, June 2026. Pasta $0.22/100g from 900g bag. Tuna estimated at store-brand price (~$1.79/can). Condensed soup at standard shelf price. Onion $1.07 each (0.5 onion = $0.62). Butter $1.36/100g."
+    "notes": "Prices verified June 2026. Pasta $0.22/100g. Tuna estimated at ~$1.79/can. Condensed soup at standard shelf price. Onion $1.07 each (priced as full onion per whole-item rule — recipe uses 0.5). Milk $0.27/100mL from 2L Sealtest container ($5.48). Butter $1.36/100g."
   }
 }

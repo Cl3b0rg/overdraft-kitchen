@@ -2,8 +2,8 @@
   "id": "tomato-soup-grilled-cheese",
   "name": "Tomato Soup and Grilled Cheese",
   "summary": "Two cans of condensed tomato soup made with milk, served with pan-fried cheddar sandwiches on white bread. Four servings of each.",
-  "totalCost": 9.62,
-  "costPerServing": 2.41,
+  "totalCost": 10.27,
+  "costPerServing": 2.57,
   "servings": 4,
   "prepTime": "5 min",
   "cookTime": "20 min",
@@ -23,7 +23,7 @@
     {
       "quantity": "500 mL",
       "name": "whole or 2% milk",
-      "costContribution": 0.7
+      "costContribution": 1.35
     },
     {
       "quantity": "8 slices",

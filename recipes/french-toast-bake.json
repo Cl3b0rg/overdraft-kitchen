@@ -2,8 +2,8 @@
   "id": "french-toast-bake",
   "name": "French Toast Bake",
   "summary": "Bread cubes soaked in a cinnamon egg custard and baked until puffed — breakfast for dinner at well under $5 total.",
-  "totalCost": 5.42,
-  "costPerServing": 1.36,
+  "totalCost": 5.72,
+  "costPerServing": 1.43,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "35 min",
@@ -27,7 +27,7 @@
     {
       "quantity": "250 mL",
       "name": "milk (2%)",
-      "costContribution": 0.38
+      "costContribution": 0.68
     },
     {
       "quantity": "2 tbsp",

@@ -2,8 +2,8 @@
   "id": "kapusniak",
   "name": "Kapusniak (Sauerkraut Soup)",
   "summary": "A Polish sauerkraut soup with kielbasa, potato, carrot, and onion simmered in chicken broth with bay leaves. Tangy, filling, and better the next day.",
-  "totalCost": 12.24,
-  "costPerServing": 3.06,
+  "totalCost": 12.13,
+  "costPerServing": 3.03,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "40 min",
@@ -37,7 +37,7 @@
     {
       "quantity": "2 medium",
       "name": "russet potatoes, peeled and diced",
-      "costContribution": 0.44
+      "costContribution": 0.33
     },
     {
       "quantity": "2 medium",

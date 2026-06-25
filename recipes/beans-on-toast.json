@@ -2,8 +2,8 @@
   "id": "beans-on-toast",
   "name": "Saucy Beans on Toast",
   "summary": "Homemade tomato beans piled on buttered toast. A whole meal from two cans and a loaf.",
-  "totalCost": 5.35,
-  "costPerServing": 1.34,
+  "totalCost": 5.88,
+  "costPerServing": 1.47,
   "servings": 4,
   "prepTime": "5 min",
   "cookTime": "20 min",
@@ -28,7 +28,7 @@
     {
       "quantity": "0.5 medium",
       "name": "onion, finely diced",
-      "costContribution": 0.54
+      "costContribution": 1.07
     },
     {
       "quantity": "8 slices",
@@ -102,6 +102,6 @@
       "Ottawa Walmart",
       "Ottawa No Frills"
     ],
-    "notes": "Prices verified June 2026. White kidney beans $1.50/540mL can. Tomato paste ~$1.00/156mL can (3 tbsp = $0.30). Onion $1.07 each. Great Value white bread $2.48/loaf (8 slices = $0.99). Butter $1.36/100g. Oil $0.42/100mL."
+    "notes": "Prices verified June 2026. White kidney beans $1.50/540mL can. Tomato paste ~$1.00/156mL can. Onion $1.07 each (priced as full onion per whole-item rule — recipe uses 0.5). Bread $2.48/loaf. Butter $1.36/100g. Oil $0.42/100mL."
   }
 }

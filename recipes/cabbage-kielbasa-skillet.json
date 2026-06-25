@@ -2,8 +2,8 @@
   "id": "cabbage-kielbasa-skillet",
   "name": "Cabbage and Kielbasa Skillet",
   "summary": "Smoked sausage pan-fried with cabbage and potatoes. Simple, fast, and very cheap per serving.",
-  "totalCost": 8.78,
-  "costPerServing": 2.19,
+  "totalCost": 8.56,
+  "costPerServing": 2.14,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "30 min",
@@ -29,7 +29,7 @@
     {
       "quantity": "1 kg",
       "name": "yellow or Russet potatoes, diced into 2 cm cubes",
-      "costContribution": 0.88
+      "costContribution": 0.66
     },
     {
       "quantity": "1 medium",

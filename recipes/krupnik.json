@@ -2,8 +2,8 @@
   "id": "krupnik",
   "name": "Krupnik (Polish Barley Soup)",
   "summary": "An ancient Polish peasant soup of pearl barley, potato, carrot, celery, and onion in chicken broth with bay leaves and dried marjoram. The barley thickens it as it cooks.",
-  "totalCost": 6.74,
-  "costPerServing": 1.69,
+  "totalCost": 6.58,
+  "costPerServing": 1.65,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "45 min",
@@ -33,7 +33,7 @@
     {
       "quantity": "3 medium",
       "name": "russet potatoes, peeled and diced",
-      "costContribution": 0.66
+      "costContribution": 0.5
     },
     {
       "quantity": "2 medium",

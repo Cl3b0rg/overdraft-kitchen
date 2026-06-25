@@ -2,8 +2,8 @@
   "id": "pancakes",
   "name": "From-Scratch Pancakes",
   "summary": "Flour, milk, and an egg. Cheaper than a boxed mix and takes the same ten minutes.",
-  "totalCost": 2.62,
-  "costPerServing": 0.66,
+  "totalCost": 3.22,
+  "costPerServing": 0.81,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "15 min",
@@ -27,7 +27,7 @@
     {
       "quantity": "500 mL",
       "name": "milk",
-      "costContribution": 0.75
+      "costContribution": 1.35
     },
     {
       "quantity": "2 tbsp",

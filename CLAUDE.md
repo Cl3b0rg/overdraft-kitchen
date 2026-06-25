@@ -105,8 +105,9 @@ The footer text is in the `pageLayout` function inside `build.js`. Update it as 
 - Use the validated price list below for ALL ingredient costs — do not guess
 - Price ingredients proportionally (if a 2 kg bag is $5.00 and recipe uses 300 g: $5.00 × 300/2000 = $0.75)
 - Never hardcode totals that contradict the sum of ingredient costContributions
-- Sources: No Frills (nofrills.ca) and Walmart Canada (walmart.ca), Ottawa, verified May 2026
+- Sources: No Frills (nofrills.ca) and Walmart Canada (walmart.ca), Ottawa, verified June 2026
 - Round to two decimal places; mark anything not in the list below as an estimate
+- **Whole-item vegetables:** If a recipe uses half a head of cabbage, half an onion, half a head of lettuce, or any similar partial-unit of a whole vegetable, price it at the full item cost — not the fractional portion. The consumer must purchase the whole item. This applies to: onions, cabbage heads, lettuce heads, and any other vegetable sold as a single whole unit. It does NOT apply to bunched items like celery or green onions, where individual stalks can be taken without deterioration.
 
 ### How to check live prices
 
@@ -121,7 +122,7 @@ https://backflipp.wishabi.com/flipp/items/search?q=ITEM&postal_code=K2J3R9
 - The r/ottawa "Weekly Grocery Review" threads are a good human-curated cross-check when accessible, but cannot be fetched directly.
 - **Flyer prices are temporary SALES.** Do not rewrite recipe baselines to chase weekly sales — the validated table below is meant to hold regular/typical prices so recipes don't bounce over $15 when a sale ends. Only revise a baseline when an item is consistently cheaper across many chains over multiple weeks.
 
-## Validated ingredient prices (May 2026, Ottawa)
+## Validated ingredient prices (June 2026, Ottawa)
 
 Prices are from No Frills (nofrills.ca) unless noted. Use these exact rates when calculating costContribution values.
 
@@ -164,21 +165,22 @@ Verified at Ottawa No Frills, May 23 2026.
 | Corn kernels | 341 mL | $1.25 | No Name |
 | Chicken broth | 900 mL | $1.69 | Campbell's — cheapest; No Name is $1.79 |
 | Beef broth | 900 mL | $1.69 | Campbell's — same price as chicken broth |
-| Coconut milk (full-fat) | 400 mL | $2.80 | Thai Kitchen |
+| Coconut milk (full-fat) | 400 mL | $2.97 | Thai Kitchen (Walmart); cheaper alternatives: Chaokoh/Aroy-D $2.47, Grace $1.94 |
 | Tomato paste | 156 mL | ~$1.00 | No Name (estimate) |
 
 ### Produce
 
 | Ingredient | Format | Price | Per-unit rate |
 |---|---|---|---|
-| Russet potatoes | 10 lb bag (Farmer's Market) | $3.99 | $0.88/kg |
+| Russet potatoes | 10 lb bag (Farmer's Market) | $2.99 | $0.66/kg |
 | Yellow/white potatoes | 5 lb bag (PC) | $4.99–$5.49 | ~$2.20–2.42/kg |
 | Yellow onions | 3 lb bag (Farmer's Market) | $2.99 | $2.20/kg; ~$1.07 each |
 | Green onions | 1 bunch | $1.99 | — |
 | Carrots | 3 lb bag (Farmer's Market) | $3.99 | ~$2.93/kg |
 | Celery | 1 bunch | $2.99 | — |
 | Garlic | 3-bulb bag | $0.99 | ~$0.33/bulb; ~$0.08/clove (4 cloves/bulb) |
-| Green cabbage | whole head (~1 kg) | ~$2.99 | ~$2.99/kg |
+| Green cabbage | whole head (~1 kg) | ~$2.18 | $0.99/lb (~$2.18/kg); price as full head regardless of quantity used |
+| Romaine lettuce | 1 head | ~$3.47 | $3.47/head (Walmart); price as full head regardless of quantity used |
 | Sweet potatoes | loose | ~$5.49/kg (~$2.49/lb) | — |
 | No Name Naturally Imperfect Carrots | 2270 g bag | $4.00 | $1.76/kg (budget carrot option) |
 
@@ -190,6 +192,7 @@ Verified at Ottawa No Frills, May 23 2026.
 | Dry pasta, any shape (No Name) | 900 g | $2.00 | $0.22/100 g |
 | Red split lentils (PC Blue Menu) | 900 g | $3.79 | $0.42/100 g |
 | Red split lentils (Dunya Harvest) | 900 g | $3.19 | $0.35/100 g |
+| Red split lentils (Great Value) | 900 g | $2.97 | $0.33/100 g — cheapest option (Walmart) |
 | Red split lentils club size (PC Blue Menu) | 2 kg | $5.00 | $0.25/100 g |
 | Green lentils (PC Blue Menu) | 900 g | $3.79 | $0.42/100 g |
 | Vegetable oil / canola oil (No Name) | 946 mL | $4.00 | $0.42/100 mL |
@@ -204,7 +207,7 @@ Verified at Ottawa No Frills, May 23 2026.
 | Ingredient | Size / format | Price | Per-unit rate |
 |---|---|---|---|
 | White sandwich bread (Great Value) | ~675 g loaf (~20 slices) | $2.48 | ~$0.12/slice |
-| Milk, 2% (cheapest 4 L) | 4 L jug | $5.98 | $1.50/L; $0.15/100 mL |
+| Milk, 2% (Sealtest) | 2 L container | $5.48 | $2.74/L; $0.27/100 mL |
 | Frozen mixed vegetables (Great Value) | ~750 g bag | $3.37 | $0.45/100 g; value 2 kg bag $6.97 = $0.35/100 g |
 | Bananas | loose | ~$0.69/lb ($1.52/kg) | ~$0.25 each (estimate) |
 
@@ -226,6 +229,11 @@ Verified at Ottawa No Frills, May 23 2026.
 250 mL chicken broth from 900 mL ($1.69):  $1.69 × (250 ÷ 900) = $0.47
 1 can diced tomatoes (796 mL):        $2.00 (fixed price)
 1 can black beans (540 mL):           $1.50 (fixed price)
+1 kg russet potatoes from 10 lb bag ($2.99): $2.99 × (1000 ÷ 4536) = $0.66
+250 mL milk from 2 L container ($5.48):   $5.48 × (250 ÷ 2000) = $0.69
+0.5 head green cabbage (whole item rule):  $2.18 (full head — do not halve)
+1 whole onion:                         $1.07 (from 3 lb bag at $2.99/bag)
+0.5 onion (whole item rule):           $1.07 (full onion — do not halve)
 ```
 
 ## Writing tone

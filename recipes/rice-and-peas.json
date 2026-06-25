@@ -2,8 +2,8 @@
   "id": "rice-and-peas",
   "name": "Rice and Peas",
   "summary": "Jamaican-style kidney beans cooked with rice in coconut milk and thyme. Rich, filling, and naturally vegan.",
-  "totalCost": 7.37,
-  "costPerServing": 1.84,
+  "totalCost": 7.54,
+  "costPerServing": 1.89,
   "servings": 4,
   "prepTime": "5 min",
   "cookTime": "30 min",
@@ -30,7 +30,7 @@
     {
       "quantity": "1 can (400 mL)",
       "name": "coconut milk",
-      "costContribution": 2.8
+      "costContribution": 2.97
     },
     {
       "quantity": "1 medium",

@@ -2,8 +2,8 @@
   "id": "chicken-and-potato-bake",
   "name": "One-Pan Chicken Thighs and Potatoes",
   "summary": "Chicken thighs and potatoes roasted together on one pan with garlic and herbs. Minimal prep, almost no cleanup, and consistently one of the most-recommended beginner recipes online.",
-  "totalCost": 13.57,
-  "costPerServing": 3.39,
+  "totalCost": 13.4,
+  "costPerServing": 3.35,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "45 min",
@@ -24,7 +24,7 @@
     {
       "quantity": "800 g",
       "name": "Yukon Gold or russet potatoes, cut into chunks",
-      "costContribution": 0.7
+      "costContribution": 0.53
     },
     {
       "quantity": "1 medium",

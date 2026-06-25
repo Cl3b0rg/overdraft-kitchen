@@ -2,8 +2,8 @@
   "id": "potato-egg-hash",
   "name": "Potato and Egg Hash",
   "summary": "Diced potatoes pan-fried with onion, peppers, and eggs. Works for breakfast, lunch, or dinner.",
-  "totalCost": 6.05,
-  "costPerServing": 1.51,
+  "totalCost": 5.72,
+  "costPerServing": 1.43,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "30 min",
@@ -19,7 +19,7 @@
     {
       "quantity": "1.5 kg",
       "name": "Russet or yellow potatoes, diced into 1 cm cubes",
-      "costContribution": 1.32
+      "costContribution": 0.99
     },
     {
       "quantity": "8 large",

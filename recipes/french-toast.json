@@ -2,8 +2,8 @@
   "id": "french-toast",
   "name": "French Toast",
   "summary": "Bread, eggs, and milk fried in butter. The cheapest breakfast that still feels like one.",
-  "totalCost": 3.62,
-  "costPerServing": 0.91,
+  "totalCost": 3.92,
+  "costPerServing": 0.98,
   "servings": 4,
   "prepTime": "5 min",
   "cookTime": "15 min",
@@ -28,7 +28,7 @@
     {
       "quantity": "250 mL",
       "name": "milk",
-      "costContribution": 0.38
+      "costContribution": 0.68
     },
     {
       "quantity": "2 tbsp",

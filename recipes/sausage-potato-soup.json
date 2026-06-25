@@ -2,8 +2,8 @@
   "id": "sausage-potato-soup",
   "name": "Sausage and Potato Soup",
   "summary": "A thick, smoky soup with kielbasa, potatoes, and vegetables. The kind of thing that fixes a bad day.",
-  "totalCost": 8.85,
-  "costPerServing": 2.21,
+  "totalCost": 8.94,
+  "costPerServing": 2.23,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "35 min",
@@ -23,7 +23,7 @@
     {
       "quantity": "900 g",
       "name": "Russet or yellow potatoes, diced",
-      "costContribution": 0.8
+      "costContribution": 0.59
     },
     {
       "quantity": "1 large",
@@ -53,7 +53,7 @@
     {
       "quantity": "250 mL",
       "name": "2% milk",
-      "costContribution": 0.38
+      "costContribution": 0.68
     },
     {
       "quantity": "1 tsp",

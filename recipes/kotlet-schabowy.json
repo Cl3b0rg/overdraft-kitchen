@@ -2,8 +2,8 @@
   "id": "kotlet-schabowy",
   "name": "Kotlet Schabowy (Breaded Pork Cutlets)",
   "summary": "Classic Polish breaded pork cutlets — floured, egged, and breaded then fried — served with mashed potatoes and a simple grated carrot salad.",
-  "totalCost": 11.01,
-  "costPerServing": 2.75,
+  "totalCost": 10.95,
+  "costPerServing": 2.74,
   "servings": 4,
   "prepTime": "25 min",
   "cookTime": "30 min",
@@ -42,7 +42,7 @@
     {
       "quantity": "1 kg",
       "name": "russet potatoes, peeled and cubed",
-      "costContribution": 0.88
+      "costContribution": 0.66
     },
     {
       "quantity": "2 tbsp",
@@ -52,7 +52,7 @@
     {
       "quantity": "125 mL",
       "name": "milk (for mash)",
-      "costContribution": 0.18
+      "costContribution": 0.34
     },
     {
       "quantity": "3 medium",

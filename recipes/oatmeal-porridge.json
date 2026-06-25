@@ -2,8 +2,8 @@
   "id": "oatmeal-porridge",
   "name": "Peanut Butter Oatmeal",
   "summary": "Rolled oats cooked in milk with peanut butter and brown sugar. The cheapest filling breakfast on this site.",
-  "totalCost": 3.28,
-  "costPerServing": 0.82,
+  "totalCost": 4.48,
+  "costPerServing": 1.12,
   "servings": 4,
   "prepTime": "2 min",
   "cookTime": "10 min",
@@ -24,7 +24,7 @@
     {
       "quantity": "1 L",
       "name": "2% milk (or water for lower cost)",
-      "costContribution": 1.5
+      "costContribution": 2.7
     },
     {
       "quantity": "4 tbsp",

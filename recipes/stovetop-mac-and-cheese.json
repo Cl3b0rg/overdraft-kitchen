@@ -2,8 +2,8 @@
   "id": "stovetop-mac-and-cheese",
   "name": "Stovetop Mac and Cheese",
   "summary": "Real cheese sauce made from scratch over macaroni. Cheaper than the box stuff and considerably better.",
-  "totalCost": 4.91,
-  "costPerServing": 1.23,
+  "totalCost": 5.51,
+  "costPerServing": 1.38,
   "servings": 4,
   "prepTime": "5 min",
   "cookTime": "20 min",
@@ -39,7 +39,7 @@
     {
       "quantity": "500 mL",
       "name": "2% milk",
-      "costContribution": 0.75
+      "costContribution": 1.35
     },
     {
       "quantity": "1 tsp",

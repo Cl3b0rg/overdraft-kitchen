@@ -2,8 +2,8 @@
   "id": "corn-chowder",
   "name": "Corn Chowder",
   "summary": "Thick, creamy corn and potato soup with bacon. Uses canned and frozen corn to keep costs down and make it a year-round option.",
-  "totalCost": 8.69,
-  "costPerServing": 2.17,
+  "totalCost": 9.07,
+  "costPerServing": 2.27,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "35 min",
@@ -28,7 +28,7 @@
     {
       "quantity": "3 medium",
       "name": "potatoes (~450 g), peeled and diced small",
-      "costContribution": 0.4
+      "costContribution": 0.3
     },
     {
       "quantity": "100 g",
@@ -53,7 +53,7 @@
     {
       "quantity": "400 mL",
       "name": "milk",
-      "costContribution": 0.6
+      "costContribution": 1.08
     },
     {
       "quantity": "2 tbsp",

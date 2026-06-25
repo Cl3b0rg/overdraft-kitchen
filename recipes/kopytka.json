@@ -2,8 +2,8 @@
   "id": "kopytka",
   "name": "Kopytka (Polish Potato Dumplings)",
   "summary": "Boiled mashed potatoes mixed with flour and egg to make thick dumplings, then pan-fried in butter with caramelized onion and topped with sour cream.",
-  "totalCost": 5.66,
-  "costPerServing": 1.42,
+  "totalCost": 5.44,
+  "costPerServing": 1.36,
   "servings": 4,
   "prepTime": "30 min",
   "cookTime": "30 min",
@@ -16,7 +16,7 @@
     {
       "quantity": "1 kg",
       "name": "russet potatoes (about 4 large)",
-      "costContribution": 0.88
+      "costContribution": 0.66
     },
     {
       "quantity": "200 g",

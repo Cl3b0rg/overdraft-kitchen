@@ -2,8 +2,8 @@
   "id": "red-lentil-coconut-soup",
   "name": "Red Lentil Coconut Soup",
   "summary": "Red lentils cooked with coconut milk, tomatoes, and curry spices into a thick, warming soup. A different direction from the yellow dal already on this site.",
-  "totalCost": 8.14,
-  "costPerServing": 2.04,
+  "totalCost": 8.31,
+  "costPerServing": 2.08,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "30 min",
@@ -25,7 +25,7 @@
     {
       "quantity": "1 can (400 mL)",
       "name": "coconut milk",
-      "costContribution": 2.8
+      "costContribution": 2.97
     },
     {
       "quantity": "1 can (796 mL)",
