@@ -2,8 +2,8 @@
   "id": "chicken-adobo",
   "name": "Filipino Chicken Adobo",
   "summary": "Chicken thighs braised in soy sauce, vinegar, and garlic until the sauce reduces to a dark glaze. Consistently cited as the top answer in every 'what should I make for cheap' thread.",
-  "totalCost": 13.8,
-  "costPerServing": 3.45,
+  "totalCost": 12.67,
+  "costPerServing": 3.17,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "40 min",
@@ -38,7 +38,7 @@
     {
       "quantity": "1 head",
       "name": "garlic, cloves smashed and peeled",
-      "costContribution": 0.96
+      "costContribution": 0.33
     },
     {
       "quantity": "2",
@@ -104,6 +104,6 @@
       "Ottawa No Frills",
       "Ottawa Walmart"
     ],
-    "notes": "Prices verified at Ottawa No Frills, June 2026. Bone-in skin-on thighs $8.82/kg (club pack), 1.2kg = $10.58. Rice $0.25/100g. Soy sauce $0.51/100mL (0.5 cup = ~125mL). Garlic $0.08/clove (1 head ≈ 12 cloves)."
+    "notes": "Prices verified at Ottawa No Frills, June 2026. Bone-in skin-on thighs $8.82/kg (club pack), 1.2kg = $10.58. Rice $0.25/100g. Soy sauce $0.51/100mL (0.5 cup = ~125mL). Garlic $0.33/head (3-bulb bag $0.99 = $0.33/bulb)."
   }
 }

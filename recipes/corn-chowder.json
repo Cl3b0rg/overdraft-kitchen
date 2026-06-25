@@ -2,8 +2,8 @@
   "id": "corn-chowder",
   "name": "Corn Chowder",
   "summary": "Thick, creamy corn and potato soup with bacon. Uses canned and frozen corn to keep costs down and make it a year-round option.",
-  "totalCost": 8.87,
-  "costPerServing": 2.22,
+  "totalCost": 8.69,
+  "costPerServing": 2.17,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "35 min",
@@ -53,7 +53,7 @@
     {
       "quantity": "400 mL",
       "name": "milk",
-      "costContribution": 0.78
+      "costContribution": 0.6
     },
     {
       "quantity": "2 tbsp",
@@ -172,6 +172,6 @@
       "Ottawa No Frills",
       "Ottawa Walmart"
     ],
-    "notes": "Prices verified at Ottawa No Frills, June 2026. Corn 341mL can $1.25. Russet potatoes $0.88/kg. Broth $1.69/900mL (500mL = $0.83). Butter $1.36/100g (2 tbsp ≈ 28g = $0.38). Onion $1.07 each. Green onions $1.99/bunch. Bacon estimated from standard shelf price."
+    "notes": "Prices verified at Ottawa No Frills, June 2026. Corn 341mL can $1.25. Russet potatoes $0.88/kg. Broth $1.69/900mL (500mL = $0.94). Milk $0.15/100mL (4L jug $5.98), 400mL = $0.60. Butter $1.36/100g (2 tbsp ≈ 28g = $0.38). Onion $1.07 each. Green onions $1.99/bunch. Bacon estimated from standard shelf price."
   }
 }

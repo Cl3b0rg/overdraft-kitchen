@@ -2,8 +2,8 @@
   "id": "oatmeal-porridge",
   "name": "Peanut Butter Oatmeal",
   "summary": "Rolled oats cooked in milk with peanut butter and brown sugar. The cheapest filling breakfast on this site.",
-  "totalCost": 2.9,
-  "costPerServing": 0.73,
+  "totalCost": 3.28,
+  "costPerServing": 0.82,
   "servings": 4,
   "prepTime": "2 min",
   "cookTime": "10 min",
@@ -24,7 +24,7 @@
     {
       "quantity": "1 L",
       "name": "2% milk (or water for lower cost)",
-      "costContribution": 1.12
+      "costContribution": 1.5
     },
     {
       "quantity": "4 tbsp",
@@ -93,6 +93,6 @@
       "Ottawa No Frills",
       "Ottawa Walmart"
     ],
-    "notes": "Prices verified at Ottawa No Frills, June 2026. Oats estimated from 1.8 kg container at store-brand price. Milk proportional from 2L jug. Peanut butter estimated from 1kg store-brand jar."
+    "notes": "Prices verified at Ottawa No Frills, June 2026. Oats estimated from 1.8 kg container at store-brand price. Milk $0.15/100mL (4L jug $5.98), 1L = $1.50. Peanut butter estimated from 1kg store-brand jar."
   }
 }

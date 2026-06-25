@@ -2,8 +2,8 @@
   "id": "french-toast-bake",
   "name": "French Toast Bake",
   "summary": "Bread cubes soaked in a cinnamon egg custard and baked until puffed — breakfast for dinner at well under $5 total.",
-  "totalCost": 5.67,
-  "costPerServing": 1.42,
+  "totalCost": 5.42,
+  "costPerServing": 1.36,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "35 min",
@@ -27,7 +27,7 @@
     {
       "quantity": "250 mL",
       "name": "milk (2%)",
-      "costContribution": 0.63
+      "costContribution": 0.38
     },
     {
       "quantity": "2 tbsp",
@@ -95,7 +95,7 @@
   "budgetNotes": [
     "No Name white bread at $2.48 makes this one of the cheapest recipes on the site. The whole loaf goes in.",
     "Six eggs is a lot, but it is what makes the custard generous enough to soak a full loaf. Do not cut it to four.",
-    "250 mL is just over a cup of milk, which is about one-eighth of a 2L carton ($5.00). Use whatever is in the fridge.",
+    "250 mL is just over a cup of milk — about one-sixteenth of a 4L jug ($5.98). Use whatever is in the fridge.",
     "Serve with whatever is cheap — extra brown sugar, a sprinkle of cinnamon, jam, or nothing. It works."
   ],
   "pricingMetadata": {
@@ -103,6 +103,6 @@
     "sources": [
       "Ottawa No Frills"
     ],
-    "notes": "No Name white bread 675g = $2.48. Eggs $0.33 × 6 = $1.98. Milk $5.00/2L, 250mL = $0.63. Brown sugar $3.79/kg, 2 tbsp ≈ 25g = $0.10 (estimated $0.08). Butter $1.36/100g, 1 tbsp ≈ 14g = $0.19. Vanilla and cinnamon estimated at $0.15 combined. Maple syrup topping optional, estimated $0.15."
+    "notes": "No Name white bread 675g = $2.48. Eggs $0.33 × 6 = $1.98. Milk $0.15/100mL (4L jug $5.98), 250mL = $0.38. Brown sugar $3.79/kg, 2 tbsp ≈ 25g = $0.10 (estimated $0.08). Butter $1.36/100g, 1 tbsp ≈ 14g = $0.19. Vanilla and cinnamon estimated at $0.15 combined. Maple syrup topping optional, estimated $0.15."
   }
 }

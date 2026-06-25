@@ -2,8 +2,8 @@
   "id": "pasta-salad",
   "name": "Pasta Salad",
   "summary": "Rotini tossed with diced cucumber, tomato, and a simple oil-and-vinegar dressing with dried herbs. Served cold. Keeps well for two days.",
-  "totalCost": 5.11,
-  "costPerServing": 1.28,
+  "totalCost": 4.1,
+  "costPerServing": 1.03,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "10 min",
@@ -19,7 +19,7 @@
     {
       "quantity": "450 g",
       "name": "rotini or penne pasta (No Name)",
-      "costContribution": 2
+      "costContribution": 0.99
     },
     {
       "quantity": "1 medium",
@@ -98,7 +98,7 @@
     "notes": "All other ingredients are naturally gluten-free. GF pasta works fine in cold salads — just be careful not to overcook it as it can get mushy."
   },
   "budgetNotes": [
-    "No Name 900g pasta bag at $2.00: 450g used = $1.00. However, many stores only stock pasta in 450g boxes for this variety at $1.00 each — priced at $2.00 for certainty either way.",
+    "No Name 900g pasta bag at $2.00: 450g used = $0.99 at the validated $0.22/100g rate.",
     "English cucumber at approximately $1.50 each. Regular field cucumbers are cheaper at some times of year.",
     "Regular tomatoes at about $0.50 each work better here than cherry tomatoes, which cost significantly more.",
     "This is one of the cheapest recipes on the site. Double the batch for meal prep."
@@ -109,6 +109,6 @@
       "Ottawa No Frills",
       "Ottawa Walmart"
     ],
-    "notes": "No Name pasta 900g $2.00, 450g used = $1.00 allocated, rounded to $2.00 for 450g standalone pack. Cucumber ~$1.50 (estimate). Tomatoes ~$0.50 each. Oil $0.42/100mL, 3 tbsp ≈ 45mL = $0.19 per tbsp × 3 = $0.57, rounded. Vinegar, spices estimated."
+    "notes": "No Name pasta 900g $2.00 = $0.22/100g, 450g = $0.99. Cucumber ~$1.50 (estimate). Tomatoes ~$0.50 each. Oil $0.42/100mL, 3 tbsp ≈ 45mL = $0.19 per tbsp × 3 = $0.57, rounded. Vinegar, spices estimated."
   }
 }

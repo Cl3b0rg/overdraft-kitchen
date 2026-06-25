@@ -2,8 +2,8 @@
   "id": "pork-fried-rice",
   "name": "Pork Fried Rice",
   "summary": "Ground pork, egg, and frozen vegetables fried with day-old rice in soy sauce and sesame oil.",
-  "totalCost": 6.35,
-  "costPerServing": 1.59,
+  "totalCost": 7,
+  "costPerServing": 1.75,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "20 min",
@@ -18,7 +18,7 @@
     {
       "quantity": "300 g",
       "name": "ground pork",
-      "costContribution": 2.65
+      "costContribution": 3.3
     },
     {
       "quantity": "400 g",
@@ -108,6 +108,6 @@
     "sources": [
       "Ottawa No Frills"
     ],
-    "notes": "Ground pork Butcher's Choice club pack $8.82/kg, 300g = $2.65. Rice 200g dry = $0.50 (yields ~400g cooked). Eggs $0.33 × 3 = $0.99. Frozen mixed veg No Name 750g = $3.00, 200g = $0.80. Soy sauce $0.51/100mL, 3 tbsp = 45mL = $0.23. Sesame oil $2.00/100mL, 1 tbsp = 15mL = $0.30. Oil $0.06 × 2 = $0.12. Garlic $0.08 × 3 = $0.24. Green onions $1.99/bunch, 3 stalks ≈ $0.50. Pepper $0.02."
+    "notes": "Ground pork club pack $11.00/kg, 300g = $3.30. Rice 200g dry = $0.50 (yields ~400g cooked). Eggs $0.33 × 3 = $0.99. Frozen mixed veg No Name 750g = $3.00, 200g = $0.80. Soy sauce $0.51/100mL, 3 tbsp = 45mL = $0.23. Sesame oil $2.00/100mL, 1 tbsp = 15mL = $0.30. Oil $0.06 × 2 = $0.12. Garlic $0.08 × 3 = $0.24. Green onions $1.99/bunch, 3 stalks ≈ $0.50. Pepper $0.02."
   }
 }
