@@ -775,7 +775,7 @@ main { flex: 1; }
   margin: 9px 0;
 }
 
-.receipt-row-name { white-space: nowrap; flex-shrink: 0; max-width: 65%; overflow: hidden; text-overflow: ellipsis; }
+.receipt-row-name { flex-shrink: 1; max-width: 65%; overflow-wrap: anywhere; word-break: break-word; }
 .receipt-row-dots {
   flex: 1;
   border-bottom: 1px dotted #b3ab93;
