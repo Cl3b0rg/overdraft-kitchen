@@ -1,0 +1,67 @@
+{
+  "id": "ground-turkey-taco-bowl",
+  "name": "Ground Turkey Taco Bowl",
+  "summary": "Taco-spiced turkey with black beans and corn over rice. Naturally gluten-free.",
+  "totalCost": 13.41,
+  "costPerServing": 3.35,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "25 min",
+  "tags": [
+    "turkey",
+    "rice",
+    "beans",
+    "high-protein",
+    "gluten-free"
+  ],
+  "ingredients": [
+    { "quantity": "400 g", "name": "ground turkey", "costContribution": 7.93 },
+    { "quantity": "250 g", "name": "dry long-grain white rice", "costContribution": 0.63 },
+    { "quantity": "1 can (540 mL)", "name": "black beans, drained and rinsed", "costContribution": 1.5 },
+    { "quantity": "1 can (341 mL)", "name": "corn kernels, drained", "costContribution": 1.25 },
+    { "quantity": "1 medium", "name": "onion, diced", "costContribution": 1.07 },
+    { "quantity": "3 cloves", "name": "garlic, minced", "costContribution": 0.24 },
+    { "quantity": "2 tsp", "name": "chili powder", "costContribution": 0.08 },
+    { "quantity": "1 tsp", "name": "ground cumin", "costContribution": 0.05 },
+    { "quantity": "1 tsp", "name": "smoked paprika", "costContribution": 0.05 },
+    { "quantity": "1 tbsp", "name": "vegetable oil", "costContribution": 0.06 },
+    { "quantity": "2", "name": "green onions, sliced", "costContribution": 0.5 },
+    { "quantity": "to taste", "name": "salt and black pepper", "costContribution": 0.05 }
+  ],
+  "instructions": [
+    "Cook the rice according to package directions and set aside.",
+    "Heat the oil in a large skillet over medium-high heat. Add the onion and cook 4 minutes until softened.",
+    "Add the ground turkey and cook 7–8 minutes, breaking it up, until browned and cooked through.",
+    "Add the garlic, chili powder, cumin, and paprika and stir for 30 seconds.",
+    "Add the black beans and corn with 3 tbsp water. Simmer 5 minutes until heated through. Season with salt and pepper.",
+    "Divide the rice among four bowls and spoon the turkey mixture over top.",
+    "Scatter the green onions over each bowl and serve."
+  ],
+  "nutrition": {
+    "calories": 575,
+    "protein": 34,
+    "carbs": 80,
+    "fat": 13,
+    "fiber": 12,
+    "sodium": 520,
+    "iron": "~25% DV",
+    "vitaminC": "~15% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free. Check any pre-mixed taco seasoning for wheat-based fillers if you use it instead of individual spices."
+  },
+  "budgetNotes": [
+    "Ground turkey is the main cost. Medium ground beef is a similar price if turkey is not on sale.",
+    "The beans and corn stretch a single small package of turkey across four full bowls.",
+    "Top with hot sauce, salsa, or a squeeze of lime — all cheap ways to finish it."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "August 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, August 2026. Ground turkey $19.82/kg (400g = $7.93, $9.00/454g pkg). Rice $0.25/100g from 2kg bag ($5.00). Black beans $1.50/540mL can. Corn $1.25/341mL can. Onion $1.07 each. Garlic $0.08/clove. Green onions ~$0.25/stalk. Oil $0.42/100mL."
+  }
+}

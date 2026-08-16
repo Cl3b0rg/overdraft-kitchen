@@ -1,0 +1,64 @@
+{
+  "id": "pork-cabbage-rice-bowl",
+  "name": "Pork and Cabbage Rice Bowl",
+  "summary": "Ground pork fried down with shredded cabbage over rice. Cheap and quick.",
+  "totalCost": 8.49,
+  "costPerServing": 2.12,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "tags": [
+    "pork",
+    "rice",
+    "cabbage"
+  ],
+  "ingredients": [
+    { "quantity": "350 g", "name": "ground pork", "costContribution": 3.49 },
+    { "quantity": "1/2 head (about 500 g)", "name": "green cabbage, shredded", "costContribution": 2.99 },
+    { "quantity": "300 g", "name": "dry long-grain white rice", "costContribution": 0.75 },
+    { "quantity": "4 cloves", "name": "garlic, minced", "costContribution": 0.32 },
+    { "quantity": "3 tbsp", "name": "soy sauce", "costContribution": 0.23 },
+    { "quantity": "2 tbsp", "name": "vegetable oil", "costContribution": 0.13 },
+    { "quantity": "1 tsp", "name": "ground ginger", "costContribution": 0.05 },
+    { "quantity": "0.5 tsp", "name": "chili flakes (optional)", "costContribution": 0.03 },
+    { "quantity": "2", "name": "green onions, sliced", "costContribution": 0.5 }
+  ],
+  "instructions": [
+    "Cook the rice according to package directions and set aside.",
+    "Heat the oil in a large skillet or wok over medium-high heat. Add the ground pork and cook 6–7 minutes, breaking it up, until browned.",
+    "Add the garlic, ginger, and chili flakes and cook 30 seconds until fragrant.",
+    "Add the shredded cabbage and cook 5–6 minutes, stirring often, until wilted and starting to brown.",
+    "Pour in the soy sauce and toss for 1–2 minutes until everything is coated and glossy.",
+    "Divide the rice among four bowls, top with the pork and cabbage, and scatter the green onions over top."
+  ],
+  "nutrition": {
+    "calories": 535,
+    "protein": 24,
+    "carbs": 68,
+    "fat": 20,
+    "fiber": 5,
+    "sodium": 560,
+    "iron": "~15% DV",
+    "vitaminC": "~30% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "soy sauce", "substitute": "gluten-free tamari", "costNote": "similar price" }
+    ],
+    "notes": "Use tamari in place of soy sauce for a fully gluten-free bowl. Everything else is naturally gluten-free."
+  },
+  "budgetNotes": [
+    "Ground pork is one of the cheapest meats on the site at about $10/kg — this bowl leans on it.",
+    "You buy a whole head of cabbage; the other half keeps for slaw, soup, or a second batch.",
+    "A splash of rice vinegar at the end brightens the whole thing if you have it."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "August 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, August 2026. Ground pork $9.98/kg (350g = $3.49). Green cabbage priced at the full head cost ($2.99) per the whole-item rule even though half is used. Rice $0.25/100g from 2kg bag ($5.00). Soy sauce $0.51/100mL. Garlic $0.08/clove. Green onions ~$0.25/stalk. Oil $0.42/100mL. Ground ginger estimated."
+  }
+}

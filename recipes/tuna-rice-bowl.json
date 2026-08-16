@@ -1,0 +1,64 @@
+{
+  "id": "tuna-rice-bowl",
+  "name": "Tuna Rice Bowl",
+  "summary": "Canned tuna, rice, and corn in a soy dressing. A no-cook-protein pantry bowl.",
+  "totalCost": 6.79,
+  "costPerServing": 1.7,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "15 min",
+  "tags": [
+    "fish",
+    "rice",
+    "high-protein"
+  ],
+  "ingredients": [
+    { "quantity": "2 cans (170 g each)", "name": "flaked light tuna, drained", "costContribution": 3 },
+    { "quantity": "300 g", "name": "dry long-grain white rice", "costContribution": 0.75 },
+    { "quantity": "1 can (341 mL)", "name": "corn kernels, drained", "costContribution": 1.25 },
+    { "quantity": "200 g", "name": "frozen mixed vegetables", "costContribution": 0.9 },
+    { "quantity": "3 tbsp", "name": "soy sauce", "costContribution": 0.23 },
+    { "quantity": "1 tbsp", "name": "vegetable oil", "costContribution": 0.06 },
+    { "quantity": "1 tsp", "name": "sesame oil (optional)", "costContribution": 0.05 },
+    { "quantity": "2", "name": "green onions, sliced", "costContribution": 0.5 },
+    { "quantity": "to taste", "name": "salt and black pepper", "costContribution": 0.05 }
+  ],
+  "instructions": [
+    "Cook the rice according to package directions and set aside.",
+    "Put the frozen vegetables in a small pot with a splash of water and warm over medium heat 4–5 minutes until hot. Drain.",
+    "Stir the soy sauce, vegetable oil, and sesame oil together in a small bowl to make a dressing.",
+    "Divide the rice among four bowls. Top each with tuna, corn, and the warmed vegetables.",
+    "Spoon the dressing over each bowl and season with salt and pepper.",
+    "Finish with the green onions and serve warm."
+  ],
+  "nutrition": {
+    "calories": 485,
+    "protein": 28,
+    "carbs": 74,
+    "fat": 8,
+    "fiber": 5,
+    "sodium": 620,
+    "iron": "~12% DV",
+    "vitaminC": "~8% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "soy sauce", "substitute": "gluten-free tamari", "costNote": "similar price" }
+    ],
+    "notes": "Tuna, rice, corn, and vegetables are naturally gluten-free — use tamari in place of soy sauce and check that the tuna is packed in water or oil, not broth."
+  },
+  "budgetNotes": [
+    "Two cans of tuna carry the protein for four bowls at well under $2 total.",
+    "A spoon of mayo instead of the soy dressing makes it more of a tuna-salad bowl.",
+    "Works cold as a packed lunch — keep the dressing separate until you eat."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "August 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, August 2026. Flaked light tuna ~$1.50/170g can (estimate, not in validated table). Rice $0.25/100g from 2kg bag ($5.00). Corn $1.25/341mL can. Frozen mixed vegetables $0.45/100g. Soy sauce $0.51/100mL. Green onions ~$0.25/stalk. Oil $0.42/100mL. Sesame oil estimated."
+  }
+}

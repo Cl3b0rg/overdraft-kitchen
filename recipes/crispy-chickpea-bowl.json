@@ -1,0 +1,67 @@
+{
+  "id": "crispy-chickpea-bowl",
+  "name": "Crispy Chickpea Rice Bowl",
+  "summary": "Pan-crisped spiced chickpeas over rice and vegetables. Vegan and filling.",
+  "totalCost": 7.35,
+  "costPerServing": 1.84,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "25 min",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "beans",
+    "rice",
+    "high-fiber"
+  ],
+  "ingredients": [
+    { "quantity": "2 cans (540 mL each)", "name": "chickpeas, drained and rinsed", "costContribution": 3 },
+    { "quantity": "300 g", "name": "dry long-grain white rice", "costContribution": 0.75 },
+    { "quantity": "300 g", "name": "frozen mixed vegetables", "costContribution": 1.35 },
+    { "quantity": "1 medium", "name": "onion, diced", "costContribution": 1.07 },
+    { "quantity": "3 cloves", "name": "garlic, minced", "costContribution": 0.24 },
+    { "quantity": "3 tbsp", "name": "vegetable oil", "costContribution": 0.19 },
+    { "quantity": "2 tsp", "name": "smoked paprika", "costContribution": 0.1 },
+    { "quantity": "1 tsp", "name": "ground cumin", "costContribution": 0.05 },
+    { "quantity": "1 tsp", "name": "garlic powder", "costContribution": 0.05 },
+    { "quantity": "2", "name": "green onions, sliced", "costContribution": 0.5 },
+    { "quantity": "to taste", "name": "salt and black pepper", "costContribution": 0.05 }
+  ],
+  "instructions": [
+    "Cook the rice according to package directions and set aside.",
+    "Pat the chickpeas dry with a towel. Heat 2 tbsp of the oil in a large skillet over medium-high heat.",
+    "Add the chickpeas and cook 8–10 minutes, stirring occasionally, until browned and crisp in spots. Stir in the paprika, cumin, garlic powder, and a good pinch of salt. Scoop the chickpeas out and set aside.",
+    "Add the remaining oil to the pan. Add the onion and cook 4 minutes until softened, then add the garlic for 30 seconds.",
+    "Add the frozen vegetables and cook 3–4 minutes until heated through. Season with salt and pepper.",
+    "Divide the rice among four bowls, add the vegetables, and top with the crispy chickpeas.",
+    "Scatter the green onions over each bowl and serve."
+  ],
+  "nutrition": {
+    "calories": 575,
+    "protein": 15,
+    "carbs": 95,
+    "fat": 12,
+    "fiber": 14,
+    "sodium": 450,
+    "iron": "~20% DV",
+    "vitaminC": "~15% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free. If you use a spice blend instead of individual spices, check the label for wheat-based fillers."
+  },
+  "budgetNotes": [
+    "Dry the chickpeas well before frying — wet chickpeas steam instead of crisping.",
+    "A drizzle of hot sauce or a spoon of plain yogurt on top rounds it out.",
+    "Canned chickpeas are the cheapest protein on the site at $1.50 a can."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "August 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, August 2026. Chickpeas $1.50/540mL can. Rice $0.25/100g from 2kg bag ($5.00). Frozen mixed vegetables $0.45/100g. Onion $1.07 each. Garlic $0.08/clove. Green onions ~$0.25/stalk. Oil $0.42/100mL."
+  }
+}
