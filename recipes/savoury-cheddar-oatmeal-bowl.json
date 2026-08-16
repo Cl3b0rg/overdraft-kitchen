@@ -1,0 +1,58 @@
+{
+  "id": "savoury-cheddar-oatmeal-bowl",
+  "name": "Savoury Cheddar Oatmeal Bowl",
+  "summary": "Oats cooked like a risotto with cheddar and a soft egg on top. Not sweet.",
+  "totalCost": 4.93,
+  "costPerServing": 1.23,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "15 min",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "breakfast",
+    "eggs"
+  ],
+  "ingredients": [
+    { "quantity": "320 g", "name": "rolled oats", "costContribution": 0.9 },
+    { "quantity": "4", "name": "eggs", "costContribution": 1.32 },
+    { "quantity": "120 g", "name": "cheddar cheese, shredded", "costContribution": 1.72 },
+    { "quantity": "3", "name": "green onions, sliced", "costContribution": 0.75 },
+    { "quantity": "1 tbsp", "name": "butter", "costContribution": 0.19 },
+    { "quantity": "to taste", "name": "salt and black pepper", "costContribution": 0.05 }
+  ],
+  "instructions": [
+    "Bring 1 litre of water and a good pinch of salt to a simmer in a pot. Stir in the oats.",
+    "Cook 5–7 minutes, stirring often, until thick and creamy. Add a splash more water if it gets too stiff.",
+    "Stir in the butter and cheddar until melted. Season with salt and pepper.",
+    "Meanwhile, fry or soft-boil the eggs.",
+    "Divide the oatmeal among four bowls, top each with an egg and the green onions, and serve hot."
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 24,
+    "carbs": 52,
+    "fat": 24,
+    "fiber": 8,
+    "sodium": 420,
+    "iron": "~15% DV",
+    "calcium": "~25% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "Everything here is naturally gluten-free, but oats are often processed alongside wheat — use certified gluten-free oats if cross-contamination is a concern."
+  },
+  "budgetNotes": [
+    "This is the savoury answer to porridge — treat the oats like a quick risotto.",
+    "Any melting cheese works; a handful of frozen peas or corn stirred in adds vegetables cheaply.",
+    "A dash of hot sauce or soy sauce sharpens it up."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "August 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, August 2026. Rolled oats $0.28/100g from 1kg bag ($2.77). Eggs $0.33 each. Cheddar $1.43/100g (120g = $1.72). Butter $1.36/100g (1 tbsp ~14g = $0.19). Green onions ~$0.25/stalk."
+  }
+}

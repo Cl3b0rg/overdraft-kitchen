@@ -1,0 +1,58 @@
+{
+  "id": "peanut-butter-banana-overnight-oats",
+  "name": "Peanut Butter Banana Overnight Oats",
+  "summary": "Oats soaked overnight with peanut butter, banana, and milk. No cooking.",
+  "totalCost": 3.59,
+  "costPerServing": 0.9,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "0 min",
+  "tags": [
+    "vegetarian",
+    "breakfast",
+    "no-cook",
+    "make-ahead"
+  ],
+  "ingredients": [
+    { "quantity": "320 g", "name": "rolled oats", "costContribution": 0.9 },
+    { "quantity": "4 tbsp", "name": "smooth peanut butter", "costContribution": 0.28 },
+    { "quantity": "4", "name": "bananas, mashed or sliced", "costContribution": 1 },
+    { "quantity": "800 mL", "name": "2% milk", "costContribution": 1.2 },
+    { "quantity": "2 tbsp", "name": "table syrup or honey", "costContribution": 0.18 },
+    { "quantity": "0.5 tsp", "name": "ground cinnamon", "costContribution": 0.03 }
+  ],
+  "instructions": [
+    "Divide the oats among four jars or bowls or use one large container.",
+    "Add the peanut butter, syrup, and cinnamon, then pour in the milk. Stir well until the peanut butter loosens and everything is combined.",
+    "Fold in the mashed banana, saving a few slices for topping if you like.",
+    "Cover and refrigerate overnight, or at least 4 hours.",
+    "In the morning, stir and loosen with a splash more milk if it is too thick. Top with the reserved banana and serve cold, or warm through in the microwave."
+  ],
+  "nutrition": {
+    "calories": 625,
+    "protein": 22,
+    "carbs": 95,
+    "fat": 18,
+    "fiber": 10,
+    "sodium": 160,
+    "iron": "~15% DV",
+    "calcium": "~25% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "Oats are naturally gluten-free but are often processed alongside wheat — use certified gluten-free oats if you need to avoid cross-contamination."
+  },
+  "budgetNotes": [
+    "Make all four the night before; they keep for 3 days in the fridge.",
+    "Overripe bananas are cheaper (or free from the discount rack) and mash better.",
+    "Water or the cheapest milk both work if you are stretching the budget."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "August 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, August 2026. Rolled oats $0.28/100g from 1kg bag ($2.77). Peanut butter $0.43/100g (4 tbsp ~64g). Bananas ~$0.25 each. Milk $0.15/100mL from 4L jug ($5.98). Table syrup ~$0.60/100mL. Cinnamon estimated."
+  }
+}

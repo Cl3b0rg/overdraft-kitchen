@@ -1,0 +1,63 @@
+{
+  "id": "breakfast-burrito",
+  "name": "Breakfast Burrito",
+  "summary": "Scrambled eggs, fried potato, and cheddar rolled in a tortilla. Two per person.",
+  "totalCost": 9.04,
+  "costPerServing": 2.26,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "tags": [
+    "eggs",
+    "potato",
+    "breakfast"
+  ],
+  "ingredients": [
+    { "quantity": "8", "name": "flour tortillas (10-pack, No Name)", "costContribution": 2.15 },
+    { "quantity": "8", "name": "eggs, beaten", "costContribution": 2.64 },
+    { "quantity": "400 g", "name": "russet potatoes, diced small", "costContribution": 0.35 },
+    { "quantity": "1 medium", "name": "onion, diced", "costContribution": 1.07 },
+    { "quantity": "150 g", "name": "cheddar cheese, shredded", "costContribution": 2.15 },
+    { "quantity": "2 tbsp", "name": "vegetable oil", "costContribution": 0.13 },
+    { "quantity": "2", "name": "green onions, sliced", "costContribution": 0.5 },
+    { "quantity": "to taste", "name": "salt and black pepper", "costContribution": 0.05 }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of the oil in a large skillet over medium heat. Add the diced potato and a pinch of salt.",
+    "Cover and cook 10–12 minutes, stirring occasionally, until the potato is tender and browned. Add the onion partway through and cook until softened. Scoop out and set aside.",
+    "Add the remaining oil to the pan, lower the heat to medium-low, and pour in the beaten eggs. Stir gently until softly scrambled, then season with salt and pepper.",
+    "Warm the tortillas in a dry pan or microwave until pliable.",
+    "Divide the potato, eggs, and cheddar down the centre of each tortilla and top with green onions. Fold in the sides and roll up tightly.",
+    "Optional: return the burritos seam-side down to the hot pan for a minute per side to crisp and melt the cheese. Serve two per person."
+  ],
+  "nutrition": {
+    "calories": 715,
+    "protein": 26,
+    "carbs": 62,
+    "fat": 40,
+    "fiber": 4,
+    "sodium": 720,
+    "iron": "~18% DV",
+    "calcium": "~25% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "flour tortillas", "substitute": "gluten-free wraps, or serve as a bowl over rice", "costNote": "GF wraps run a few dollars more; a rice bowl is cheaper" }
+    ],
+    "notes": "The eggs, potato, onion, and cheddar are naturally gluten-free. Use gluten-free wraps, or skip the tortilla and serve everything as a breakfast bowl."
+  },
+  "budgetNotes": [
+    "These freeze well — wrap individually and reheat in the microwave for a fast weekday breakfast.",
+    "A spoon of salsa or hot sauce inside is a cheap upgrade.",
+    "Leftover cooked potato from another night makes this even faster."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "August 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, August 2026. No Name tortillas 10-pack $2.69, 8 of 10 used = $2.15. Eggs $0.33 each. Russet potatoes $0.88/kg (400g = $0.35). Onion $1.07 each. Cheddar $1.43/100g (150g = $2.15). Green onions ~$0.25/stalk. Oil $0.42/100mL."
+  }
+}

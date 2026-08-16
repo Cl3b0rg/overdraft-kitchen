@@ -1,0 +1,59 @@
+{
+  "id": "egg-and-cheese-breakfast-sandwich",
+  "name": "Egg and Cheese Breakfast Sandwich",
+  "summary": "Fried egg and melted cheddar on buttered toast. Ready in ten minutes.",
+  "totalCost": 5.75,
+  "costPerServing": 1.44,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "10 min",
+  "tags": [
+    "eggs",
+    "breakfast",
+    "quick"
+  ],
+  "ingredients": [
+    { "quantity": "8 slices", "name": "white sandwich bread", "costContribution": 0.96 },
+    { "quantity": "8", "name": "eggs", "costContribution": 2.64 },
+    { "quantity": "120 g", "name": "cheddar cheese, sliced or shredded", "costContribution": 1.72 },
+    { "quantity": "2 tbsp", "name": "butter", "costContribution": 0.38 },
+    { "quantity": "to taste", "name": "salt and black pepper", "costContribution": 0.05 }
+  ],
+  "instructions": [
+    "Toast the bread and butter one side of each slice.",
+    "Melt a little of the butter in a non-stick skillet over medium heat. Crack in the eggs and fry to your liking — break the yolks for firmer sandwiches.",
+    "Season the eggs with salt and pepper. Lay the cheddar over the eggs in the last minute so it melts.",
+    "Stack two eggs and a share of cheese between two slices of toast for each sandwich.",
+    "Press gently, cut in half, and serve hot."
+  ],
+  "nutrition": {
+    "calories": 470,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 28,
+    "fiber": 2,
+    "sodium": 620,
+    "iron": "~15% DV",
+    "calcium": "~25% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "white sandwich bread", "substitute": "gluten-free bread", "costNote": "GF bread runs about $3–4 more per loaf" }
+    ],
+    "notes": "Eggs, cheese, and butter are naturally gluten-free. Use gluten-free bread to make the whole sandwich gluten-free."
+  },
+  "budgetNotes": [
+    "Two eggs per person keeps it filling; drop to one egg and add a second slice of cheese to stretch it.",
+    "A slice of tomato or a handful of spinach inside costs little and adds freshness.",
+    "Fry the eggs in the same pan back-to-back to save on butter and cleanup."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "August 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, August 2026. White bread ~$0.12/slice from $2.48 loaf. Eggs $0.33 each. Cheddar $1.43/100g (120g = $1.72). Butter $1.36/100g (2 tbsp ~28g = $0.38)."
+  }
+}
