@@ -105,7 +105,7 @@ The footer text is in the `pageLayout` function inside `build.js`. Update it as 
 - Use the validated price list below for ALL ingredient costs — do not guess
 - Price ingredients proportionally (if a 2 kg bag is $5.00 and recipe uses 300 g: $5.00 × 300/2000 = $0.75)
 - Never hardcode totals that contradict the sum of ingredient costContributions
-- Sources: No Frills (nofrills.ca) and Walmart Canada (walmart.ca), Ottawa, verified July 2026
+- Sources: No Frills (nofrills.ca) and Walmart Canada (walmart.ca), Ottawa, verified August 2026
 - Round to two decimal places; mark anything not in the list below as an estimate
 - **Whole-item vegetables:** If a recipe uses half a head of cabbage, half an onion, half a head of lettuce, or any similar partial-unit of a whole vegetable, price it at the full item cost — not the fractional portion. The consumer must purchase the whole item. This applies to: onions, cabbage heads, lettuce heads, and any other vegetable sold as a single whole unit. It does NOT apply to bunched items like celery or green onions, where individual stalks can be taken without deterioration.
 
@@ -122,13 +122,13 @@ https://backflipp.wishabi.com/flipp/items/search?q=ITEM&postal_code=K2J3R9
 - The r/ottawa "Weekly Grocery Review" threads are a good human-curated cross-check when accessible, but cannot be fetched directly.
 - **Flyer prices are temporary SALES.** Do not rewrite recipe baselines to chase weekly sales — the validated table below is meant to hold regular/typical prices so recipes don't bounce over $15 when a sale ends. Only revise a baseline when an item is consistently cheaper across many chains over multiple weeks.
 
-## Validated ingredient prices (July 2026, Ottawa)
+## Validated ingredient prices (August 2026, Ottawa)
 
 Prices are from No Frills (nofrills.ca) unless noted. Use these exact rates when calculating costContribution values.
 
 ### Meat & poultry
 
-Verified at Ottawa No Frills, May 23 2026.
+Verified at Ottawa No Frills, May 23 2026. Re-confirmed against live Flipp flyer data (K2J3R9), August 2026: regular prices stable vs the July table; this week's sales (butter $4.67, pasta $0.88, No Frills ground chicken $3.88/454 g, cabbage $0.99/lb) not chased into baselines.
 
 | Ingredient | Size / format | Price | Rate used in recipes |
 |---|---|---|---|
@@ -261,7 +261,7 @@ Avoid: influencer language, fake storytelling, "life changing" claims, SEO fille
 
 ## Current recipe count
 
-86 recipes as of June 2026.
+86 recipes as of August 2026.
 
 ## Git identity (this machine)
 

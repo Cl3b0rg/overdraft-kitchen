@@ -165,7 +165,7 @@ function pageLayout({ title, description, content, isRoot }) {
           <div class="footer-wordmark"><span class="fw-overdraft">Overdraft</span> <span class="fw-kitchen">Kitchen</span></div>
           <div class="footer-tagline">Just food that works when the math doesn't.</div>
         </div>
-        <div class="footer-meta">OTTAWA, ONTARIO &middot; PRICES IN CAD<br>LAST VERIFIED JULY 2026 &middot; OVERDRAFTKITCHEN.CA</div>
+        <div class="footer-meta">OTTAWA, ONTARIO &middot; PRICES IN CAD<br>LAST VERIFIED AUGUST 2026 &middot; OVERDRAFTKITCHEN.CA</div>
       </div>
     </footer>
   </div>
