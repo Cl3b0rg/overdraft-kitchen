@@ -1,0 +1,69 @@
+{
+  "id": "burrito-bowl",
+  "name": "Burrito Bowl",
+  "summary": "Rice, two kinds of beans, and corn in one bowl. Cheap, filling, and vegan.",
+  "totalCost": 9.18,
+  "costPerServing": 2.30,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "25 min",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "beans",
+    "rice",
+    "high-fiber"
+  ],
+  "ingredients": [
+    { "quantity": "300 g", "name": "dry long-grain white rice", "costContribution": 0.75 },
+    { "quantity": "1 can (540 mL)", "name": "black beans, drained and rinsed", "costContribution": 1.5 },
+    { "quantity": "1 can (540 mL)", "name": "kidney beans, drained and rinsed", "costContribution": 1.5 },
+    { "quantity": "1 can (341 mL)", "name": "corn kernels, drained", "costContribution": 1.25 },
+    { "quantity": "1 can (796 mL)", "name": "diced tomatoes", "costContribution": 2 },
+    { "quantity": "1 medium", "name": "onion, diced", "costContribution": 1.07 },
+    { "quantity": "4 cloves", "name": "garlic, minced", "costContribution": 0.32 },
+    { "quantity": "2 tsp", "name": "chili powder", "costContribution": 0.08 },
+    { "quantity": "1 tsp", "name": "ground cumin", "costContribution": 0.05 },
+    { "quantity": "1 tsp", "name": "smoked paprika", "costContribution": 0.05 },
+    { "quantity": "1 tbsp", "name": "vegetable oil", "costContribution": 0.06 },
+    { "quantity": "2", "name": "green onions, sliced", "costContribution": 0.5 },
+    { "quantity": "to taste", "name": "salt and black pepper", "costContribution": 0.05 }
+  ],
+  "instructions": [
+    "Cook the rice according to package directions and set aside.",
+    "Heat the oil in a large skillet over medium heat. Add the onion and cook 4–5 minutes until softened.",
+    "Add the garlic, chili powder, cumin, and paprika. Stir for 30 seconds until fragrant.",
+    "Pour in the diced tomatoes with their juice. Add the black beans, kidney beans, and corn.",
+    "Simmer uncovered over medium-low heat for 10 minutes, stirring occasionally, until slightly thickened. Season with salt and pepper.",
+    "Divide the rice among four bowls and spoon the bean mixture over top.",
+    "Scatter the green onions over each bowl and serve."
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 18,
+    "carbs": 98,
+    "fat": 8,
+    "fiber": 15,
+    "sodium": 480,
+    "iron": "~25% DV",
+    "vitaminC": "~20% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free. If you use a pre-mixed taco or chili seasoning instead of individual spices, check the label for wheat-based fillers or anti-caking agents."
+  },
+  "budgetNotes": [
+    "Use whichever canned beans are cheapest that week — pinto, romano, or black-eyed peas all work.",
+    "A spoon of hot sauce or a squeeze of lime brightens it up if you have them.",
+    "Scales and reheats well. Keep components separate in the fridge for up to 4 days."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "August 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, August 2026. Rice $0.25/100g from 2kg bag ($5.00). Black and kidney beans $1.50/540mL can. Corn $1.25/341mL can. Diced tomatoes $2.00/796mL can. Onion $1.07 each. Garlic $0.08/clove. Green onions ~$0.25/stalk from $1.99 bunch. Oil $0.42/100mL."
+  }
+}

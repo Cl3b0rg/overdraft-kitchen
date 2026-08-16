@@ -1,0 +1,65 @@
+{
+  "id": "teriyaki-chicken-bowl",
+  "name": "Teriyaki Chicken Rice Bowl",
+  "summary": "Chicken and rice with a quick homemade teriyaki sauce. No bottled sauce needed.",
+  "totalCost": 10.94,
+  "costPerServing": 2.74,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "tags": [
+    "chicken",
+    "rice",
+    "high-protein"
+  ],
+  "ingredients": [
+    { "quantity": "400 g", "name": "boneless skinless chicken breast, cubed", "costContribution": 7.6 },
+    { "quantity": "300 g", "name": "dry long-grain white rice", "costContribution": 0.75 },
+    { "quantity": "300 g", "name": "frozen mixed vegetables", "costContribution": 1.35 },
+    { "quantity": "4 tbsp", "name": "soy sauce", "costContribution": 0.31 },
+    { "quantity": "2 tbsp", "name": "brown sugar", "costContribution": 0.1 },
+    { "quantity": "3 cloves", "name": "garlic, minced", "costContribution": 0.24 },
+    { "quantity": "1 tbsp", "name": "vegetable oil", "costContribution": 0.06 },
+    { "quantity": "1 tsp", "name": "cornstarch", "costContribution": 0.03 },
+    { "quantity": "2", "name": "green onions, sliced", "costContribution": 0.5 }
+  ],
+  "instructions": [
+    "Cook the rice according to package directions and set aside.",
+    "Stir the soy sauce, brown sugar, and cornstarch together with 3 tbsp water in a small bowl. Set the sauce aside.",
+    "Heat the oil in a large skillet over medium-high heat. Add the chicken and cook 6–8 minutes until browned and cooked through.",
+    "Add the garlic and cook 30 seconds until fragrant.",
+    "Add the frozen vegetables and cook 3–4 minutes until heated through.",
+    "Pour in the sauce and toss for 1–2 minutes until it thickens and coats everything.",
+    "Divide the rice among four bowls, top with the chicken and vegetables, and scatter the green onions over top."
+  ],
+  "nutrition": {
+    "calories": 475,
+    "protein": 32,
+    "carbs": 68,
+    "fat": 8,
+    "fiber": 4,
+    "sodium": 720,
+    "iron": "~15% DV",
+    "vitaminC": "~10% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "soy sauce", "substitute": "gluten-free tamari", "costNote": "similar price" }
+    ],
+    "notes": "Cornstarch is naturally gluten-free. Swapping soy sauce for tamari makes the whole bowl gluten-free."
+  },
+  "budgetNotes": [
+    "Chicken breast is the expensive part. Keep it to 400 g and let the rice and vegetables carry the bowl.",
+    "Bone-in thighs are cheaper but need deboning for a bowl; breast is worth it here for clean cubes.",
+    "Any frozen vegetable mix works — a stir-fry blend is nice if it is on sale."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "August 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, August 2026. Chicken breast $19.00/kg (400g = $7.60, PC Blue Menu). Rice $0.25/100g from 2kg bag ($5.00). Frozen mixed vegetables $0.45/100g. Soy sauce $0.51/100mL. Garlic $0.08/clove. Green onions ~$0.25/stalk. Brown sugar and cornstarch estimated."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "peanut-noodle-bowl",
+  "name": "Peanut Noodle Bowl",
+  "summary": "Pantry peanut sauce over noodles and frozen vegetables. Serve warm or cold.",
+  "totalCost": 3.96,
+  "costPerServing": 0.99,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "12 min",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "pasta",
+    "quick"
+  ],
+  "ingredients": [
+    { "quantity": "400 g", "name": "dry pasta (spaghetti or linguine)", "costContribution": 0.88 },
+    { "quantity": "4 tbsp", "name": "smooth peanut butter", "costContribution": 0.28 },
+    { "quantity": "3 tbsp", "name": "soy sauce", "costContribution": 0.23 },
+    { "quantity": "2 tbsp", "name": "vegetable oil", "costContribution": 0.13 },
+    { "quantity": "300 g", "name": "frozen mixed vegetables", "costContribution": 1.35 },
+    { "quantity": "3 cloves", "name": "garlic, minced", "costContribution": 0.24 },
+    { "quantity": "1 tbsp", "name": "brown sugar", "costContribution": 0.05 },
+    { "quantity": "3", "name": "green onions, sliced", "costContribution": 0.75 },
+    { "quantity": "1 tsp", "name": "chili flakes (optional)", "costContribution": 0.05 }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package directions. Reserve half a cup of the pasta water before draining.",
+    "While the pasta cooks, whisk the peanut butter, soy sauce, brown sugar, garlic, and chili flakes together in a bowl. Thin with a few tablespoons of the reserved pasta water until pourable.",
+    "Heat the oil in a large skillet over medium-high heat. Add the frozen vegetables and cook 4–5 minutes until heated through.",
+    "Add the drained pasta and the peanut sauce to the skillet. Toss for 1–2 minutes, adding more pasta water if it looks dry.",
+    "Divide among four bowls and top with the green onions. Serve warm, or chill and serve cold as a noodle salad."
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 17,
+    "carbs": 82,
+    "fat": 16,
+    "fiber": 6,
+    "sodium": 560,
+    "iron": "~15% DV",
+    "vitaminC": "~8% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "dry pasta", "substitute": "gluten-free pasta or rice noodles", "costNote": "GF pasta runs about $1–2 more" },
+      { "ingredient": "soy sauce", "substitute": "gluten-free tamari", "costNote": "similar price" }
+    ],
+    "notes": "Use rice noodles or gluten-free pasta and swap the soy sauce for tamari. The peanut sauce itself is naturally gluten-free."
+  },
+  "budgetNotes": [
+    "Peanut butter and soy sauce do the heavy lifting — this is one of the cheapest bowls on the site.",
+    "A splash of rice vinegar or lime juice cuts the richness if you have it.",
+    "Holds up cold, so it doubles as a packed lunch the next day."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "August 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, August 2026. Pasta $0.22/100g from 900g bag ($2.00). Peanut butter $0.43/100g (4 tbsp ~64g). Soy sauce $0.51/100mL. Frozen mixed vegetables $0.45/100g. Garlic $0.08/clove. Green onions ~$0.25/stalk. Oil $0.42/100mL. Brown sugar and chili flakes estimated."
+  }
+}

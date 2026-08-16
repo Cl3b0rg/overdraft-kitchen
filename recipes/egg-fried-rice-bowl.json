@@ -1,0 +1,65 @@
+{
+  "id": "egg-fried-rice-bowl",
+  "name": "Egg Fried Rice Bowl",
+  "summary": "Uses day-old rice and whatever frozen vegetables you have. Ready in 15 minutes.",
+  "totalCost": 4.87,
+  "costPerServing": 1.22,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "12 min",
+  "tags": [
+    "vegetarian",
+    "rice",
+    "eggs",
+    "quick"
+  ],
+  "ingredients": [
+    { "quantity": "320 g", "name": "dry long-grain white rice", "costContribution": 0.8 },
+    { "quantity": "4", "name": "eggs, beaten", "costContribution": 1.32 },
+    { "quantity": "300 g", "name": "frozen mixed vegetables", "costContribution": 1.35 },
+    { "quantity": "3", "name": "green onions, sliced", "costContribution": 0.75 },
+    { "quantity": "3 cloves", "name": "garlic, minced", "costContribution": 0.24 },
+    { "quantity": "3 tbsp", "name": "soy sauce", "costContribution": 0.23 },
+    { "quantity": "2 tbsp", "name": "vegetable oil", "costContribution": 0.13 },
+    { "quantity": "to taste", "name": "salt and black pepper", "costContribution": 0.05 }
+  ],
+  "instructions": [
+    "Cook the rice ahead of time and chill it, or use leftover rice — cold rice fries best.",
+    "Heat 1 tbsp of the oil in a large skillet or wok over medium-high heat. Pour in the beaten eggs and scramble until just set, then scoop them out.",
+    "Add the remaining oil to the pan. Add the garlic and the white parts of the green onions and cook 30 seconds.",
+    "Add the frozen vegetables and cook 3–4 minutes until heated through.",
+    "Add the cold rice, breaking up any clumps, and stir-fry 3–4 minutes until hot.",
+    "Return the eggs to the pan, add the soy sauce, and toss everything together. Season with salt and pepper.",
+    "Divide among four bowls and top with the remaining green onions."
+  ],
+  "nutrition": {
+    "calories": 470,
+    "protein": 14,
+    "carbs": 72,
+    "fat": 13,
+    "fiber": 4,
+    "sodium": 560,
+    "iron": "~12% DV",
+    "vitaminC": "~10% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      { "ingredient": "soy sauce", "substitute": "gluten-free tamari", "costNote": "similar price" }
+    ],
+    "notes": "Everything except the soy sauce is naturally gluten-free. Use tamari to make the bowl fully gluten-free."
+  },
+  "budgetNotes": [
+    "This is a use-it-up bowl — swap in any leftover cooked vegetables or a handful of frozen peas.",
+    "A dash of sesame oil at the end adds a lot if you keep it on hand.",
+    "Day-old rice from another recipe makes this nearly free to throw together."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "August 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, August 2026. Rice $0.25/100g from 2kg bag ($5.00). Eggs $0.33 each. Frozen mixed vegetables $0.45/100g. Soy sauce $0.51/100mL. Garlic $0.08/clove. Green onions ~$0.25/stalk. Oil $0.42/100mL."
+  }
+}
