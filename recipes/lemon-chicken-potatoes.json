@@ -1,0 +1,88 @@
+{
+  "id": "lemon-chicken-potatoes",
+  "name": "Lemon Chicken and Potatoes",
+  "summary": "Bone-in chicken thighs roasted over potatoes with garlic and lemon.",
+  "totalCost": 13.27,
+  "costPerServing": 3.32,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "45 min",
+  "tags": [
+    "chicken",
+    "potato",
+    "one-pan",
+    "gluten-free",
+    "high-protein"
+  ],
+  "ingredients": [
+    {
+      "quantity": "1.2 kg",
+      "name": "bone-in skin-on chicken thighs (about 6)",
+      "costContribution": 10.58
+    },
+    {
+      "quantity": "900 g",
+      "name": "russet potatoes, cut into chunks",
+      "costContribution": 0.59
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, cut into wedges",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "1",
+      "name": "lemon, juiced",
+      "costContribution": 0.5
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried oregano, plus salt and pepper",
+      "costContribution": 0.08
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 200°C (400°F).",
+    "Toss the potatoes and onion with the oil, garlic, lemon juice, oregano, salt, and pepper in a roasting pan.",
+    "Nestle the chicken thighs on top, skin-side up, and season the skin with salt.",
+    "Roast 45 minutes, until the chicken reaches 74°C (165°F) and the potatoes are tender and golden.",
+    "Rest 5 minutes, then serve with the pan juices spooned over."
+  ],
+  "nutrition": {
+    "calories": 685,
+    "protein": 38,
+    "carbs": 40,
+    "fat": 40,
+    "fiber": 4,
+    "sodium": 480,
+    "iron": "~15% DV",
+    "vitaminC": "~25% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free."
+  },
+  "budgetNotes": [
+    "Bone-in skin-on thighs are far cheaper than boneless and stay juicy while roasting.",
+    "The potatoes cook in the chicken fat — do not skip them.",
+    "A cheap lemon or a splash of bottled lemon juice does the job."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "September 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, September 2026. Bone-in skin-on chicken thighs $8.82/kg (1.2kg = $10.58). Russet potatoes $0.66/kg (900g = $0.59). Onion $1.07 each. Garlic $0.08/clove. Oil $0.42/100mL. Lemon ~$0.50 (estimate)."
+  }
+}

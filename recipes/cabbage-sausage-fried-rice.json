@@ -1,0 +1,104 @@
+{
+  "id": "cabbage-sausage-fried-rice",
+  "name": "Cabbage and Sausage Fried Rice",
+  "summary": "Fried rice bulked out with shredded cabbage and smoked sausage.",
+  "totalCost": 7.34,
+  "costPerServing": 1.84,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "15 min",
+  "tags": [
+    "pork",
+    "rice",
+    "cabbage"
+  ],
+  "ingredients": [
+    {
+      "quantity": "300 g",
+      "name": "dry long-grain white rice",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "250 g",
+      "name": "smoked kielbasa, diced",
+      "costContribution": 2.65
+    },
+    {
+      "quantity": "1/2 head (about 500 g)",
+      "name": "green cabbage, shredded",
+      "costContribution": 2.18
+    },
+    {
+      "quantity": "2",
+      "name": "eggs, beaten",
+      "costContribution": 0.66
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.24
+    },
+    {
+      "quantity": "3 tbsp",
+      "name": "soy sauce",
+      "costContribution": 0.23
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "2",
+      "name": "green onions, sliced",
+      "costContribution": 0.5
+    }
+  ],
+  "instructions": [
+    "Cook the rice ahead and chill it, or use leftover rice — cold rice fries best.",
+    "Heat 1 tbsp oil in a large skillet over medium-high heat. Scramble the eggs until just set, then scoop out.",
+    "Add the remaining oil and the diced sausage. Cook 3–4 minutes until browned.",
+    "Add the garlic and cabbage and stir-fry 5–6 minutes until the cabbage wilts.",
+    "Add the cold rice, breaking up clumps, and stir-fry 3 minutes. Return the eggs, add the soy sauce, and toss.",
+    "Top with green onions and serve."
+  ],
+  "nutrition": {
+    "calories": 585,
+    "protein": 19,
+    "carbs": 70,
+    "fat": 25,
+    "fiber": 5,
+    "sodium": 820,
+    "iron": "~15% DV",
+    "vitaminC": "~35% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "soy sauce",
+        "substitute": "gluten-free tamari",
+        "costNote": "similar price"
+      },
+      {
+        "ingredient": "smoked kielbasa",
+        "substitute": "certified gluten-free smoked sausage",
+        "costNote": "comparable price"
+      }
+    ],
+    "notes": "Use tamari instead of soy sauce and a certified gluten-free sausage to make the dish gluten-free."
+  },
+  "budgetNotes": [
+    "A great use for leftover rice and half a cabbage.",
+    "Any smoked sausage or even hot dogs work here.",
+    "Add a splash of sesame oil at the end if you keep it on hand."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "September 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, September 2026. Rice $0.25/100g. Smoked kielbasa $1.06/100g (250g = $2.65). Green cabbage priced at full head cost ($2.18) per the whole-item rule. Eggs $0.33 each. Garlic $0.08/clove. Soy sauce $0.51/100mL. Green onions ~$0.25/stalk. Oil $0.42/100mL."
+  }
+}

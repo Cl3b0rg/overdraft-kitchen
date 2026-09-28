@@ -1,0 +1,99 @@
+{
+  "id": "tomato-chickpea-rice",
+  "name": "One-Pot Tomato Chickpea Rice",
+  "summary": "Chickpeas and rice cooked together in a spiced tomato base. One pot, vegan.",
+  "totalCost": 7.92,
+  "costPerServing": 1.98,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "25 min",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "beans",
+    "rice",
+    "one-pan"
+  ],
+  "ingredients": [
+    {
+      "quantity": "2 cans (540 mL each)",
+      "name": "chickpeas, drained and rinsed",
+      "costContribution": 3.0
+    },
+    {
+      "quantity": "300 g",
+      "name": "dry long-grain white rice",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin, plus paprika",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "2",
+      "name": "green onions, sliced",
+      "costContribution": 0.5
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a pot with a lid over medium heat. Cook the onion 4 minutes, then add the garlic, cumin, and paprika for 30 seconds.",
+    "Add the diced tomatoes, chickpeas, rice, and 500 mL water. Season with salt and stir.",
+    "Bring to a boil, then cover and reduce to low. Simmer 15 minutes until the rice is tender and the liquid is absorbed.",
+    "Turn off the heat and let it sit, covered, 5 minutes. Fluff with a fork.",
+    "Top with green onions and pepper and serve."
+  ],
+  "nutrition": {
+    "calories": 545,
+    "protein": 16,
+    "carbs": 98,
+    "fat": 10,
+    "fiber": 13,
+    "sodium": 480,
+    "iron": "~20% DV",
+    "vitaminC": "~15% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free. Check any spice blend for wheat-based fillers."
+  },
+  "budgetNotes": [
+    "One pot, pantry ingredients — one of the cheapest full meals on the site.",
+    "A squeeze of lemon or a spoon of yogurt brightens it.",
+    "Add frozen peas or spinach in the last few minutes for more vegetables."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "September 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, September 2026. Chickpeas $1.50/540mL can. Rice $0.25/100g. Diced tomatoes $2.00/796mL can. Onion $1.07 each. Garlic $0.08/clove. Green onions ~$0.25/stalk. Oil $0.42/100mL. Spices estimated."
+  }
+}

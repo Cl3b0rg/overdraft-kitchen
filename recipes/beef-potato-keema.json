@@ -1,0 +1,104 @@
+{
+  "id": "beef-potato-keema",
+  "name": "Beef and Potato Keema",
+  "summary": "Spiced ground beef with potato and peas, served over rice. A cheap curry.",
+  "totalCost": 12.23,
+  "costPerServing": 3.06,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": [
+    "beef",
+    "rice",
+    "potato",
+    "high-protein"
+  ],
+  "ingredients": [
+    {
+      "quantity": "350 g",
+      "name": "medium ground beef",
+      "costContribution": 6.65
+    },
+    {
+      "quantity": "500 g",
+      "name": "russet potatoes, diced",
+      "costContribution": 0.33
+    },
+    {
+      "quantity": "200 g",
+      "name": "frozen mixed vegetables (with peas)",
+      "costContribution": 0.9
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "curry powder",
+      "costContribution": 0.15
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "250 g",
+      "name": "dry long-grain white rice",
+      "costContribution": 0.63
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.05
+    }
+  ],
+  "instructions": [
+    "Cook the rice according to package directions and set aside.",
+    "Heat the oil in a large skillet over medium-high heat. Add the onion and cook 4 minutes.",
+    "Add the ground beef and cook 6–7 minutes, breaking it up, until browned.",
+    "Add the garlic and curry powder and stir for 1 minute.",
+    "Add the diced potato, diced tomatoes, and 250 mL water. Cover and simmer 15 minutes until the potato is tender.",
+    "Stir in the frozen vegetables and cook 4 minutes more. Season with salt.",
+    "Serve over the rice."
+  ],
+  "nutrition": {
+    "calories": 665,
+    "protein": 27,
+    "carbs": 86,
+    "fat": 22,
+    "fiber": 8,
+    "sodium": 540,
+    "iron": "~25% DV",
+    "vitaminC": "~20% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free. Check any pre-mixed curry powder for wheat-based fillers."
+  },
+  "budgetNotes": [
+    "Potato and frozen vegetables stretch a small amount of beef across four plates.",
+    "Ground turkey or pork works too.",
+    "Make it hotter with a pinch of cayenne or chili flakes."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "September 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, September 2026. Medium ground beef $19.00/kg (350g = $6.65). Russet potatoes $0.66/kg (500g = $0.33). Frozen mixed vegetables $0.45/100g. Diced tomatoes $2.00/796mL can. Onion $1.07 each. Garlic $0.08/clove. Rice $0.25/100g. Oil $0.42/100mL. Curry powder estimated."
+  }
+}

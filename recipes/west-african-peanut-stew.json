@@ -1,0 +1,108 @@
+{
+  "id": "west-african-peanut-stew",
+  "name": "Peanut Stew with Sweet Potato",
+  "summary": "Sweet potato and chickpeas simmered in a tomato-peanut sauce over rice. Vegan.",
+  "totalCost": 9.49,
+  "costPerServing": 2.37,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "beans",
+    "rice"
+  ],
+  "ingredients": [
+    {
+      "quantity": "4 tbsp",
+      "name": "smooth peanut butter",
+      "costContribution": 0.28
+    },
+    {
+      "quantity": "600 g",
+      "name": "sweet potatoes, peeled and cubed",
+      "costContribution": 3.29
+    },
+    {
+      "quantity": "1 can (540 mL)",
+      "name": "chickpeas, drained and rinsed",
+      "costContribution": 1.5
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "tomato paste",
+      "costContribution": 0.19
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin, plus chili flakes to taste",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "250 g",
+      "name": "dry long-grain white rice",
+      "costContribution": 0.63
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.05
+    }
+  ],
+  "instructions": [
+    "Cook the rice according to package directions and set aside.",
+    "Heat the oil in a pot over medium heat. Cook the onion 4 minutes, then add the garlic, cumin, and chili for 30 seconds.",
+    "Stir in the tomato paste and peanut butter, then the diced tomatoes and 500 mL water. Whisk smooth.",
+    "Add the sweet potato and chickpeas. Simmer 20–25 minutes until the sweet potato is tender and the sauce is thick.",
+    "Season with salt and serve over the rice."
+  ],
+  "nutrition": {
+    "calories": 605,
+    "protein": 18,
+    "carbs": 98,
+    "fat": 16,
+    "fiber": 15,
+    "sodium": 500,
+    "iron": "~25% DV",
+    "vitaminC": "~30% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free. Check the peanut butter label if you are highly sensitive."
+  },
+  "budgetNotes": [
+    "Peanut butter is the secret — it thickens the sauce and adds protein cheaply.",
+    "Stir in a handful of frozen spinach or greens at the end if you have them.",
+    "Keeps and reheats beautifully; make extra."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "September 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, September 2026. Peanut butter $0.43/100g (4 tbsp ~64g). Sweet potatoes ~$5.49/kg (600g = $3.29). Chickpeas $1.50/540mL can. Diced tomatoes $2.00/796mL can. Onion $1.07 each. Garlic $0.08/clove. Tomato paste $1.00/156mL. Rice $0.25/100g. Oil $0.42/100mL."
+  }
+}

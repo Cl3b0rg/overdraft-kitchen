@@ -1,0 +1,93 @@
+{
+  "id": "curried-chickpea-salad-sandwiches",
+  "name": "Curried Chickpea Salad Sandwiches",
+  "summary": "Mashed chickpeas with curried mayo on bread. A no-cook lunch for four.",
+  "totalCost": 4.98,
+  "costPerServing": 1.24,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "0 min",
+  "tags": [
+    "vegetarian",
+    "no-cook",
+    "beans",
+    "lunch"
+  ],
+  "ingredients": [
+    {
+      "quantity": "2 cans (540 mL each)",
+      "name": "chickpeas, drained and rinsed",
+      "costContribution": 3.0
+    },
+    {
+      "quantity": "4 tbsp",
+      "name": "mayonnaise",
+      "costContribution": 0.37
+    },
+    {
+      "quantity": "8 slices",
+      "name": "white sandwich bread",
+      "costContribution": 0.96
+    },
+    {
+      "quantity": "2",
+      "name": "green onions, sliced",
+      "costContribution": 0.5
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "curry powder",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "lemon juice or vinegar",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
+  "instructions": [
+    "Tip the chickpeas into a bowl and mash roughly with a fork, leaving some texture.",
+    "Stir in the mayonnaise, curry powder, lemon juice, and green onions. Season with salt and pepper.",
+    "Taste and adjust — more curry powder for spice, more mayo to loosen.",
+    "Divide between four slices of bread, top with the remaining slices, and cut in half."
+  ],
+  "nutrition": {
+    "calories": 445,
+    "protein": 16,
+    "carbs": 62,
+    "fat": 16,
+    "fiber": 11,
+    "sodium": 640,
+    "iron": "~15% DV",
+    "vitaminC": "~4% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "white sandwich bread",
+        "substitute": "gluten-free bread",
+        "costNote": "GF bread runs about $3–4 more per loaf"
+      }
+    ],
+    "notes": "The chickpea filling is naturally gluten-free — serve it on gluten-free bread or over greens."
+  },
+  "budgetNotes": [
+    "Chickpeas mashed with mayo are a cheap stand-in for chicken or egg salad.",
+    "Add diced celery or apple if you have it for crunch.",
+    "The filling keeps 3 days in the fridge."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "September 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, September 2026. Chickpeas $1.50/540mL can. Mayonnaise ~$0.62/100mL (4 tbsp ~60mL = $0.37, estimate). White bread ~$0.12/slice. Green onions ~$0.25/stalk. Curry powder estimated."
+  }
+}

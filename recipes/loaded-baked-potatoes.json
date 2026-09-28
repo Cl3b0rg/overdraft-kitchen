@@ -1,0 +1,82 @@
+{
+  "id": "loaded-baked-potatoes",
+  "name": "Loaded Baked Potatoes",
+  "summary": "Baked potatoes stuffed with cheddar, black beans, and green onion.",
+  "totalCost": 5.24,
+  "costPerServing": 1.31,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "60 min",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "potato",
+    "beans"
+  ],
+  "ingredients": [
+    {
+      "quantity": "4 large (about 1 kg)",
+      "name": "russet potatoes",
+      "costContribution": 0.66
+    },
+    {
+      "quantity": "150 g",
+      "name": "cheddar cheese, shredded",
+      "costContribution": 2.15
+    },
+    {
+      "quantity": "1 can (540 mL)",
+      "name": "black beans, drained and rinsed",
+      "costContribution": 1.5
+    },
+    {
+      "quantity": "2",
+      "name": "green onions, sliced",
+      "costContribution": 0.5
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "butter",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 200°C (400°F). Prick the potatoes all over with a fork.",
+    "Bake directly on the rack for 55–65 minutes, until a knife slides in easily.",
+    "Warm the black beans in a small pot with a pinch of salt.",
+    "Split each potato open, fluff the inside with a fork, and add a knob of butter.",
+    "Top with the black beans, cheddar, and green onions. Season and serve."
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 19,
+    "carbs": 58,
+    "fat": 20,
+    "fiber": 11,
+    "sodium": 520,
+    "iron": "~15% DV",
+    "calcium": "~25% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free."
+  },
+  "budgetNotes": [
+    "Microwave the potatoes for 10 minutes first if you are short on time, then crisp in the oven.",
+    "Any leftover chili, beans, or vegetables make a good topping.",
+    "A spoon of plain yogurt stands in for sour cream."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "September 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, September 2026. Russet potatoes $0.66/kg (1kg = $0.66). Cheddar $1.43/100g (150g = $2.15). Black beans $1.50/540mL can. Green onions ~$0.25/stalk. Butter $1.36/100g (2 tbsp ~28g = $0.38)."
+  }
+}

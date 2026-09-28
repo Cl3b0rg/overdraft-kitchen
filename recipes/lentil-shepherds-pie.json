@@ -1,0 +1,103 @@
+{
+  "id": "lentil-shepherds-pie",
+  "name": "Lentil Shepherd's Pie",
+  "summary": "Saucy lentils and vegetables under a mashed potato crust. Vegan.",
+  "totalCost": 5.77,
+  "costPerServing": 1.44,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "40 min",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "lentils",
+    "high-fiber"
+  ],
+  "ingredients": [
+    {
+      "quantity": "300 g",
+      "name": "dry green or brown lentils",
+      "costContribution": 1.26
+    },
+    {
+      "quantity": "1 kg",
+      "name": "russet potatoes, peeled and cubed",
+      "costContribution": 0.66
+    },
+    {
+      "quantity": "300 g",
+      "name": "carrots, diced",
+      "costContribution": 0.88
+    },
+    {
+      "quantity": "200 g",
+      "name": "frozen mixed vegetables (with peas)",
+      "costContribution": 0.9
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "tomato paste",
+      "costContribution": 0.19
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "butter",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt, pepper, and dried thyme",
+      "costContribution": 0.05
+    }
+  ],
+  "instructions": [
+    "Simmer the lentils in plenty of water for 20 minutes until tender. Drain.",
+    "Meanwhile, boil the potatoes until soft, then mash with the butter and a splash of water. Season.",
+    "Heat the oil in a wide oven-safe pan. Cook the onion and carrots 6–7 minutes, then add the garlic and tomato paste for 1 minute.",
+    "Stir in the cooked lentils, frozen vegetables, and 250 mL water. Simmer 5 minutes and season well.",
+    "Spread the mashed potato over the top. Bake at 200°C (400°F) for 20 minutes until golden."
+  ],
+  "nutrition": {
+    "calories": 590,
+    "protein": 24,
+    "carbs": 98,
+    "fat": 11,
+    "fiber": 18,
+    "sodium": 420,
+    "iron": "~35% DV",
+    "vitaminC": "~25% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free."
+  },
+  "budgetNotes": [
+    "Green or brown lentils hold their shape; red lentils go mushy here.",
+    "Use up any leftover vegetables in the filling.",
+    "Assembles ahead and bakes straight from the fridge — add 10 minutes."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "September 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, September 2026. Green lentils $0.42/100g (300g = $1.26). Russet potatoes $0.66/kg (1kg = $0.66). Carrots $2.93/kg (300g = $0.88). Frozen mixed vegetables $0.45/100g. Onion $1.07 each. Garlic $0.08/clove. Tomato paste $1.00/156mL. Butter $1.36/100g. Oil $0.42/100mL."
+  }
+}

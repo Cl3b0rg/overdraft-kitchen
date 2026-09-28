@@ -1,0 +1,114 @@
+{
+  "id": "three-bean-chili",
+  "name": "Three-Bean Chili",
+  "summary": "Three canned beans, tomatoes, and corn in a spiced chili. Vegan and freezer-friendly.",
+  "totalCost": 9.64,
+  "costPerServing": 2.41,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "beans",
+    "high-fiber"
+  ],
+  "ingredients": [
+    {
+      "quantity": "1 can (540 mL)",
+      "name": "black beans, drained and rinsed",
+      "costContribution": 1.5
+    },
+    {
+      "quantity": "1 can (540 mL)",
+      "name": "red kidney beans, drained and rinsed",
+      "costContribution": 1.5
+    },
+    {
+      "quantity": "1 can (540 mL)",
+      "name": "white kidney beans, drained and rinsed",
+      "costContribution": 1.5
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "1 can (341 mL)",
+      "name": "corn kernels, drained",
+      "costContribution": 1.25
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "tomato paste",
+      "costContribution": 0.19
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "chili powder",
+      "costContribution": 0.15
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat. Add the onion and cook 4–5 minutes until softened.",
+    "Add the garlic, chili powder, and cumin and stir for 30 seconds until fragrant.",
+    "Stir in the tomato paste and cook 1 minute.",
+    "Add the diced tomatoes, all three cans of beans, and the corn. Add about half a cup of water.",
+    "Simmer uncovered over medium-low heat for 20 minutes, stirring occasionally, until thickened. Season with salt and pepper.",
+    "Serve hot. Good with rice, bread, or a little grated cheese on top."
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 20,
+    "carbs": 78,
+    "fat": 6,
+    "fiber": 19,
+    "sodium": 520,
+    "iron": "~30% DV",
+    "vitaminC": "~20% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free. Check any pre-mixed chili seasoning for wheat-based fillers."
+  },
+  "budgetNotes": [
+    "Use whatever three canned beans are cheapest that week.",
+    "Freezes well — make a double batch and portion it.",
+    "A spoon of rice or a slice of bread turns it into a bigger meal."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "September 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, September 2026. Beans/chickpeas $1.50/540mL can. Diced tomatoes $2.00/796mL can. Corn $1.25/341mL can. Onion $1.07 each. Garlic $0.08/clove. Tomato paste $1.00/156mL. Oil $0.42/100mL. Spices estimated."
+  }
+}

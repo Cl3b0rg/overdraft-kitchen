@@ -1,0 +1,99 @@
+{
+  "id": "tuna-white-bean-pasta-salad",
+  "name": "Tuna and White Bean Pasta Salad",
+  "summary": "Pasta tossed with canned tuna, white beans, and a lemon-oil dressing. Serve cold.",
+  "totalCost": 7.27,
+  "costPerServing": 1.82,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "12 min",
+  "tags": [
+    "fish",
+    "pasta",
+    "high-protein",
+    "make-ahead"
+  ],
+  "ingredients": [
+    {
+      "quantity": "300 g",
+      "name": "dry pasta (short shape)",
+      "costContribution": 0.66
+    },
+    {
+      "quantity": "2 cans (170 g each)",
+      "name": "flaked light tuna, drained",
+      "costContribution": 3.0
+    },
+    {
+      "quantity": "1 can (540 mL)",
+      "name": "white kidney beans, drained and rinsed",
+      "costContribution": 1.5
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, finely diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3",
+      "name": "green onions, sliced",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "3 tbsp",
+      "name": "vegetable or olive oil",
+      "costContribution": 0.19
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "lemon juice or vinegar",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
+  "instructions": [
+    "Cook the pasta according to package directions, then drain and rinse under cold water.",
+    "Whisk the oil, lemon juice, salt, and pepper together in a large bowl.",
+    "Add the drained pasta, tuna, white beans, onion, and green onions.",
+    "Toss well to coat. Taste and adjust seasoning.",
+    "Serve at room temperature or chilled. Keeps 2 days in the fridge."
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 32,
+    "carbs": 68,
+    "fat": 14,
+    "fiber": 9,
+    "sodium": 560,
+    "iron": "~20% DV",
+    "vitaminC": "~8% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "dry pasta",
+        "substitute": "gluten-free pasta",
+        "costNote": "GF pasta runs about $1–2 more"
+      }
+    ],
+    "notes": "Tuna and beans are naturally gluten-free — use gluten-free pasta to make the whole salad gluten-free. Check that the tuna is packed in water or oil, not broth."
+  },
+  "budgetNotes": [
+    "Two cans of tuna and a can of beans make this filling and protein-rich for under $2 of protein.",
+    "A spoon of mayo instead of the oil makes it creamier.",
+    "Great packed lunch — it holds up cold."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "September 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, September 2026. Pasta $0.22/100g (300g = $0.66). Flaked light tuna ~$1.50/170g can (estimate). White kidney beans $1.50/540mL can. Onion $1.07 each. Green onions ~$0.25/stalk. Oil $0.42/100mL. Lemon juice estimated."
+  }
+}

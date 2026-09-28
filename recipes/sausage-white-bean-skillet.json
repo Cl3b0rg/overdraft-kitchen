@@ -1,0 +1,99 @@
+{
+  "id": "sausage-white-bean-skillet",
+  "name": "Sausage and White Bean Skillet",
+  "summary": "Smoked sausage and white beans simmered in tomato. One pan, twenty-five minutes.",
+  "totalCost": 10.61,
+  "costPerServing": 2.65,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "20 min",
+  "tags": [
+    "pork",
+    "beans",
+    "one-pan",
+    "high-protein"
+  ],
+  "ingredients": [
+    {
+      "quantity": "375 g",
+      "name": "smoked kielbasa, sliced into rounds",
+      "costContribution": 3.99
+    },
+    {
+      "quantity": "2 cans (540 mL each)",
+      "name": "white kidney beans, drained and rinsed",
+      "costContribution": 3.0
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat. Add the sausage rounds and brown 4–5 minutes.",
+    "Add the onion and cook 4 minutes until softened, then add the garlic and paprika for 30 seconds.",
+    "Pour in the diced tomatoes and add the white beans. Stir to combine.",
+    "Simmer over medium-low heat for 10 minutes, mashing a few beans against the side to thicken the sauce.",
+    "Season with salt and pepper and serve. Good with bread to mop up the sauce."
+  ],
+  "nutrition": {
+    "calories": 555,
+    "protein": 26,
+    "carbs": 48,
+    "fat": 30,
+    "fiber": 12,
+    "sodium": 950,
+    "iron": "~20% DV",
+    "vitaminC": "~15% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "smoked kielbasa",
+        "substitute": "a certified gluten-free smoked sausage",
+        "costNote": "comparable price"
+      }
+    ],
+    "notes": "Beans and tomatoes are naturally gluten-free. Most smoked kielbasa is gluten-free, but check the label or use a certified gluten-free sausage."
+  },
+  "budgetNotes": [
+    "Smoked kielbasa is cheaper per gram than fresh sausage and keeps for weeks.",
+    "Any white bean works — navy or cannellini.",
+    "Stretch it over rice if you need a fifth portion."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "September 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, September 2026. Smoked kielbasa $1.06/100g (375g = $3.99). White kidney beans $1.50/540mL can. Diced tomatoes $2.00/796mL can. Onion $1.07 each. Garlic $0.08/clove. Oil $0.42/100mL."
+  }
+}

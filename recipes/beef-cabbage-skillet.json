@@ -1,0 +1,98 @@
+{
+  "id": "beef-cabbage-skillet",
+  "name": "Beef and Cabbage Skillet",
+  "summary": "Ground beef, cabbage, and rice cooked down in one pan with tomato.",
+  "totalCost": 13.08,
+  "costPerServing": 3.27,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": [
+    "beef",
+    "rice",
+    "cabbage",
+    "one-pan"
+  ],
+  "ingredients": [
+    {
+      "quantity": "350 g",
+      "name": "medium ground beef",
+      "costContribution": 6.65
+    },
+    {
+      "quantity": "1/2 head (about 500 g)",
+      "name": "green cabbage, shredded",
+      "costContribution": 2.18
+    },
+    {
+      "quantity": "250 g",
+      "name": "dry long-grain white rice",
+      "costContribution": 0.63
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
+  "instructions": [
+    "Cook the rice according to package directions and set aside.",
+    "Heat the oil in a large skillet over medium-high heat. Add the ground beef and cook 6–7 minutes, breaking it up, until browned. Drain excess fat.",
+    "Add the onion and cook 4 minutes, then add the garlic and paprika for 30 seconds.",
+    "Add the shredded cabbage and cook 6–8 minutes, stirring, until wilted.",
+    "Pour in the diced tomatoes and simmer 10 minutes until saucy. Season with salt and pepper.",
+    "Fold in the cooked rice, heat through, and serve."
+  ],
+  "nutrition": {
+    "calories": 575,
+    "protein": 24,
+    "carbs": 72,
+    "fat": 22,
+    "fiber": 6,
+    "sodium": 520,
+    "iron": "~20% DV",
+    "vitaminC": "~35% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "notes": "All ingredients are naturally gluten-free."
+  },
+  "budgetNotes": [
+    "You buy a whole head of cabbage; the rest keeps for slaw or soup.",
+    "Medium ground beef is cheaper than lean and the tomato covers the extra fat — drain it well.",
+    "Leftovers reheat well for lunch."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "September 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, September 2026. Medium ground beef $19.00/kg (350g = $6.65). Green cabbage priced at full head cost ($2.18) per the whole-item rule. Rice $0.25/100g. Diced tomatoes $2.00/796mL can. Onion $1.07 each. Garlic $0.08/clove. Oil $0.42/100mL."
+  }
+}

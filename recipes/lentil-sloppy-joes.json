@@ -1,0 +1,109 @@
+{
+  "id": "lentil-sloppy-joes",
+  "name": "Lentil Sloppy Joes",
+  "summary": "Red lentils simmered in a sweet-tangy tomato sauce, piled on bread. Vegan.",
+  "totalCost": 5.88,
+  "costPerServing": 1.47,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "lentils",
+    "high-fiber"
+  ],
+  "ingredients": [
+    {
+      "quantity": "250 g",
+      "name": "dry red lentils",
+      "costContribution": 1.05
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "tomato paste",
+      "costContribution": 0.19
+    },
+    {
+      "quantity": "1 medium",
+      "name": "onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.32
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "brown sugar",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "chili powder",
+      "costContribution": 0.08
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "8 slices",
+      "name": "white sandwich bread",
+      "costContribution": 0.96
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.05
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils. Heat the oil in a pot over medium heat and cook the onion 4 minutes.",
+    "Add the garlic and chili powder for 30 seconds, then stir in the tomato paste.",
+    "Add the lentils, diced tomatoes, brown sugar, and 500 mL water. Stir well.",
+    "Simmer 25–30 minutes, stirring often, until the lentils are soft and the mixture is thick and spoonable. Add water if it dries out.",
+    "Season with salt and pepper. Pile onto bread or toasted buns and serve."
+  ],
+  "nutrition": {
+    "calories": 465,
+    "protein": 19,
+    "carbs": 88,
+    "fat": 6,
+    "fiber": 15,
+    "sodium": 560,
+    "iron": "~30% DV",
+    "vitaminC": "~15% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "white sandwich bread",
+        "substitute": "gluten-free buns or serve over rice",
+        "costNote": "GF bread costs more; rice is cheaper"
+      }
+    ],
+    "notes": "The lentil filling is naturally gluten-free. Serve on gluten-free buns or over rice."
+  },
+  "budgetNotes": [
+    "Red lentils cook fast and thicken on their own — no need for a thickener.",
+    "Serve on buns, over rice, or over a baked potato.",
+    "The filling freezes well."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "September 2026",
+    "sources": [
+      "Ottawa Walmart",
+      "Ottawa No Frills"
+    ],
+    "notes": "Prices verified at Ottawa No Frills, September 2026. Red lentils $0.42/100g (250g = $1.05). Diced tomatoes $2.00/796mL can. Tomato paste $1.00/156mL. Onion $1.07 each. Garlic $0.08/clove. White bread ~$0.12/slice. Oil $0.42/100mL. Brown sugar estimated."
+  }
+}
