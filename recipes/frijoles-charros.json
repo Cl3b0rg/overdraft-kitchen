@@ -1,0 +1,112 @@
+{
+  "id": "frijoles-charros",
+  "name": "Frijoles Charros",
+  "summary": "Pinto beans simmered with bacon, onion, and tomato into a smoky stew, served over rice.",
+  "totalCost": 11.77,
+  "costPerServing": 2.94,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "35 min",
+  "tags": [
+    "pork",
+    "beans",
+    "rice",
+    "mexican",
+    "gluten-free",
+    "high-fiber",
+    "one-pot"
+  ],
+  "ingredients": [
+    {
+      "quantity": "200 g (about half a pack)",
+      "name": "bacon, chopped",
+      "costContribution": 2.12
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.25
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "3 cans (540 mL each)",
+      "name": "pinto beans, drained and rinsed",
+      "costContribution": 4.5
+    },
+    {
+      "quantity": "500 mL",
+      "name": "chicken broth",
+      "costContribution": 0.94
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "chili powder",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "dried oregano",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "300 g",
+      "name": "long-grain white rice",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt (bacon is already salty)",
+      "costContribution": 0.01
+    }
+  ],
+  "instructions": [
+    "Cook the bacon in a large pot over medium heat 6–8 minutes until browned. Leave the fat in the pot.",
+    "Add the onion and cook 5 minutes, then the garlic, cumin, chili, and oregano for 1 minute.",
+    "Add the tomatoes, beans, and broth. Simmer uncovered 20 minutes, mashing a few beans to thicken it.",
+    "Cook the rice: 300 g rice with 600 mL water, simmered covered for 15 minutes, then rested 5 minutes.",
+    "Taste before adding salt. Serve the beans in bowls over the rice."
+  ],
+  "nutrition": {
+    "calories": 868,
+    "protein": 35,
+    "carbs": 126,
+    "fat": 20,
+    "fiber": 23,
+    "sodium": 1600,
+    "iron": "~40% DV",
+    "calcium": "~15% DV",
+    "vitaminC": "~25% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Beans, bacon, tomatoes, and rice are naturally gluten-free. Check the bacon and broth labels."
+  },
+  "budgetNotes": [
+    "Freeze the other half of the bacon pack for next time, or for Sopa de Lentejas.",
+    "Traditionally cooked with sliced hot dogs as well as bacon. It's cowboy food. Add them if you have them.",
+    "Even better the next day."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Bacon $3.97/375 g pack (Great Value, Walmart regular; estimate, pack size assumed). Pinto beans $1.50/540 mL. Diced tomatoes $2.00. Broth $1.69/900 mL. Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+  }
+}

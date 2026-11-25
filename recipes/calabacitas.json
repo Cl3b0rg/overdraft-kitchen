@@ -1,0 +1,116 @@
+{
+  "id": "calabacitas",
+  "name": "Calabacitas con Elote",
+  "summary": "Zucchini, corn, and tomato cooked down with melted cheese, served with rice and pinto beans.",
+  "totalCost": 11.1,
+  "costPerServing": 2.77,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "25 min",
+  "tags": [
+    "vegetarian",
+    "beans",
+    "rice",
+    "cheese",
+    "mexican",
+    "gluten-free"
+  ],
+  "ingredients": [
+    {
+      "quantity": "3",
+      "name": "zucchini, diced",
+      "costContribution": 1.98
+    },
+    {
+      "quantity": "1 can (341 mL)",
+      "name": "corn kernels, drained",
+      "costContribution": 1.25
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "2 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.17
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "150 g",
+      "name": "cheddar, shredded",
+      "costContribution": 2.15
+    },
+    {
+      "quantity": "1 can (540 mL)",
+      "name": "pinto beans, drained",
+      "costContribution": 1.5
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "dried oregano",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "300 g",
+      "name": "long-grain white rice",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Cook the rice: 300 g rice with 600 mL water, simmered covered for 15 minutes, then rested 5 minutes.",
+    "Heat the oil in a large pan over medium heat. Cook the onion 4 minutes, then the garlic and cumin for 1 minute.",
+    "Add the zucchini and cook 5 minutes, stirring, until it starts to soften.",
+    "Add the tomatoes, corn, oregano, and 1 tsp salt. Simmer 8 minutes until the zucchini is tender and the liquid has mostly cooked off. Warm the beans in a small pot.",
+    "Take off the heat and stir in the cheese until melted. Serve with the rice and beans."
+  ],
+  "nutrition": {
+    "calories": 718,
+    "protein": 27,
+    "carbs": 105,
+    "fat": 21,
+    "fiber": 13,
+    "sodium": 1280,
+    "iron": "~25% DV",
+    "calcium": "~35% DV",
+    "vitaminC": "~50% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Vegetables, beans, rice, and cheese are naturally gluten-free."
+  },
+  "budgetNotes": [
+    "Zucchini is cheap year-round at about $0.66 each and is priced here as whole items.",
+    "Leave out the cheese and use more beans for a vegan version, at about $10.45.",
+    "Also good as a taco filling with corn tortillas."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Zucchini $0.66 each (Walmart regular; estimate, whole item). Corn kernels $1.25/341 mL (No Name). Diced tomatoes $2.00. Pinto beans $1.50/540 mL. Cheddar $1.43/100 g (site estimate; stands in for queso fresco, which isn't reliably stocked). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+  }
+}

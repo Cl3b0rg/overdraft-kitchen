@@ -1,0 +1,117 @@
+{
+  "id": "sopa-de-albondigas",
+  "name": "Sopa de Albóndigas",
+  "summary": "Beef and rice meatballs simmered in a tomato broth with potatoes and carrots. One pot, no breadcrumbs.",
+  "totalCost": 14.14,
+  "costPerServing": 3.54,
+  "servings": 4,
+  "prepTime": "20 min",
+  "cookTime": "35 min",
+  "tags": [
+    "beef",
+    "soup",
+    "mexican",
+    "gluten-free",
+    "high-protein",
+    "one-pot",
+    "comfort-food"
+  ],
+  "ingredients": [
+    {
+      "quantity": "400 g",
+      "name": "medium ground beef",
+      "costContribution": 7.6
+    },
+    {
+      "quantity": "50 g",
+      "name": "long-grain white rice (raw, for the meatballs)",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "1 large",
+      "name": "egg",
+      "costContribution": 0.33
+    },
+    {
+      "quantity": "1.5 tsp",
+      "name": "dried oregano",
+      "costContribution": 0.08
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.25
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "900 mL",
+      "name": "beef or chicken broth",
+      "costContribution": 1.69
+    },
+    {
+      "quantity": "2 (about 200 g)",
+      "name": "carrots, sliced",
+      "costContribution": 0.59
+    },
+    {
+      "quantity": "500 g",
+      "name": "russet potatoes, cut into chunks",
+      "costContribution": 0.33
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Mix the beef, raw rice, egg, 1 tsp oregano, half the garlic, and 0.5 tsp salt. Roll into 16 meatballs.",
+    "Blend or finely chop the tomatoes with half the onion and the rest of the garlic.",
+    "In a large pot, bring the tomato mixture, broth, 750 mL water, cumin, and remaining oregano to a boil.",
+    "Drop in the meatballs one at a time. Simmer 15 minutes without stirring so they set.",
+    "Add the carrots, potatoes, and the rest of the onion (diced). Simmer 15–20 minutes until the vegetables are tender and the rice in the meatballs is cooked. Season with salt."
+  ],
+  "nutrition": {
+    "calories": 477,
+    "protein": 26,
+    "carbs": 46,
+    "fat": 18,
+    "fiber": 7,
+    "sodium": 1405,
+    "iron": "~30% DV",
+    "calcium": "~8% DV",
+    "vitaminC": "~45% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "The meatballs are bound with rice and egg, not breadcrumbs, so they're naturally gluten-free. Check the broth label."
+  },
+  "budgetNotes": [
+    "Close to the $15 limit because of the beef: $7.60 of the $14.14.",
+    "The raw rice cooks inside the meatballs and gives them their soft texture. Don't use cooked rice.",
+    "A zucchini ($0.66) is common in this soup but would take it to $14.80. Add it only if you already have one."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Medium ground beef $19.00/kg (400 g = $7.60). Rice $0.25/100 g. Egg $0.33. Diced tomatoes $2.00. Broth $1.69/900 mL (Campbell's). Carrots ~$2.93/kg. Russets $0.66/kg. Onion $1.07. Garlic $0.08/clove. Spices estimated."
+  }
+}

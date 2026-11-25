@@ -1,0 +1,110 @@
+{
+  "id": "tacos-de-papa",
+  "name": "Tacos de Papa",
+  "summary": "Corn tortillas filled with cheesy mashed potato and pan-fried until crisp. Topped with shredded cabbage, salsa, and sour cream.",
+  "totalCost": 12.87,
+  "costPerServing": 3.22,
+  "servings": 4,
+  "prepTime": "20 min",
+  "cookTime": "25 min",
+  "tags": [
+    "vegetarian",
+    "potatoes",
+    "mexican",
+    "gluten-free",
+    "kid-friendly"
+  ],
+  "ingredients": [
+    {
+      "quantity": "1 kg",
+      "name": "russet potatoes, peeled and quartered",
+      "costContribution": 0.66
+    },
+    {
+      "quantity": "100 g",
+      "name": "cheddar, shredded",
+      "costContribution": 1.43
+    },
+    {
+      "quantity": "16",
+      "name": "corn tortillas",
+      "costContribution": 5.36
+    },
+    {
+      "quantity": "6 tbsp",
+      "name": "vegetable oil, for frying",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "1 head",
+      "name": "green cabbage (use about a quarter, finely shredded)",
+      "costContribution": 2.18
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes, for salsa",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "1 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.08
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "chili powder",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "125 mL",
+      "name": "sour cream",
+      "costContribution": 0.7
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes 15 minutes until soft. Drain and mash with the cheese, cumin, and 1 tsp salt.",
+    "Blend or mash the tomatoes with the garlic, chili powder, and a pinch of salt for a quick salsa.",
+    "Warm the tortillas so they bend without cracking. Spread a heaping spoonful of potato on half of each and fold over. Pin with a toothpick if they spring open.",
+    "Heat a thin layer of oil in a skillet over medium-high heat. Fry the tacos 2–3 minutes per side until golden and crisp. Drain on paper towel.",
+    "Serve four per person, topped with cabbage, salsa, and sour cream."
+  ],
+  "nutrition": {
+    "calories": 745,
+    "protein": 20,
+    "carbs": 99,
+    "fat": 30,
+    "fiber": 15,
+    "sodium": 1040,
+    "iron": "~25% DV",
+    "calcium": "~30% DV",
+    "vitaminC": "~90% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Corn tortillas are naturally gluten-free, but a few brands add wheat flour. Check the label."
+  },
+  "budgetNotes": [
+    "The cabbage is priced as a whole head ($2.18), and you'll use about a quarter. The rest keeps for weeks. Use it in Pork and Cabbage Rice Bowls or Cabbage and Kielbasa Skillet.",
+    "Fry in batches. Crowding the pan makes them greasy instead of crisp.",
+    "Leftover mashed potatoes work as the filling."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Russets $0.66/kg. Corn tortillas $2.68/8 (Tia Rosa, Walmart regular, November 2026; estimate). Green cabbage $2.18/head (whole-item rule). Diced tomatoes $2.00. Oil $0.42/100 mL. Cheddar $1.43/100 g (site estimate; stands in for queso fresco, which isn't reliably stocked). Sour cream $2.80/500 mL (No Name, estimate). Spices estimated."
+  }
+}

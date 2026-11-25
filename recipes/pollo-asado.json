@@ -1,0 +1,117 @@
+{
+  "id": "pollo-asado",
+  "name": "Pollo Asado with Rice and Beans",
+  "summary": "Chicken thighs marinated in lime, garlic, and chili and roasted until charred, with rice and pinto beans.",
+  "totalCost": 13.55,
+  "costPerServing": 3.39,
+  "servings": 4,
+  "prepTime": "10 min (plus 30 min marinating)",
+  "cookTime": "40 min",
+  "tags": [
+    "chicken",
+    "rice",
+    "beans",
+    "mexican",
+    "gluten-free",
+    "high-protein",
+    "oven"
+  ],
+  "ingredients": [
+    {
+      "quantity": "1 kg",
+      "name": "bone-in, skin-on chicken thighs",
+      "costContribution": 8.82
+    },
+    {
+      "quantity": "1",
+      "name": "lime",
+      "costContribution": 0.77
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "white vinegar",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.33
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried oregano",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "2 tsp",
+      "name": "chili powder",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "300 g",
+      "name": "long-grain white rice",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "1 can (540 mL)",
+      "name": "pinto beans, drained",
+      "costContribution": 1.5
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion (half in the rice, half diced for topping)",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "1.5 tsp",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Mix the lime juice, vinegar, garlic, oregano, cumin, chili, oil, and salt. Coat the chicken and marinate at least 30 minutes, or overnight in the fridge.",
+    "Heat the oven to 425°F (220°C). Roast the thighs skin-side up on a foil-lined sheet 40 minutes, until charred at the edges and 175°F (80°C) inside.",
+    "Cook the rice with half the onion, finely chopped, and a pinch of salt: 300 g rice with 600 mL water, simmered covered for 15 minutes.",
+    "Warm the beans in a small pot with a splash of water and a pinch of cumin.",
+    "Serve the chicken with rice and beans, topped with the diced raw onion."
+  ],
+  "nutrition": {
+    "calories": 780,
+    "protein": 44,
+    "carbs": 83,
+    "fat": 29,
+    "fiber": 8,
+    "sodium": 1140,
+    "iron": "~20% DV",
+    "calcium": "~8% DV",
+    "vitaminC": "~12% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Chicken, rice, beans, and spices are naturally gluten-free."
+  },
+  "budgetNotes": [
+    "Pollo asado is normally done on the grill. The oven version works year-round.",
+    "Vinegar stretches the lime juice. One lime is enough for the marinade.",
+    "Leftover chicken shredded into tortillas makes the next day's lunch."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Bone-in skin-on chicken thighs $8.82/kg. Pinto beans $1.50/540 mL. Vinegar estimated. Lime $0.77 each (Walmart regular; estimate, whole item). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "sopa-de-fideo",
+  "name": "Sopa de Fideo",
+  "summary": "Thin noodles toasted golden, then simmered in tomato broth with pinto beans. Mexican comfort soup.",
+  "totalCost": 10.91,
+  "costPerServing": 2.73,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "25 min",
+  "tags": [
+    "vegetarian",
+    "pasta",
+    "soup",
+    "beans",
+    "mexican",
+    "one-pot",
+    "high-fiber"
+  ],
+  "ingredients": [
+    {
+      "quantity": "250 g",
+      "name": "thin spaghetti or vermicelli, broken into 3 cm pieces",
+      "costContribution": 0.55
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "2 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.17
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "900 mL",
+      "name": "chicken or vegetable broth",
+      "costContribution": 1.69
+    },
+    {
+      "quantity": "2 cans (540 mL each)",
+      "name": "pinto beans, drained and rinsed",
+      "costContribution": 3.0
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "dried oregano",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "100 g",
+      "name": "cheddar, crumbled or shredded, for serving",
+      "costContribution": 1.43
+    },
+    {
+      "quantity": "1",
+      "name": "lime",
+      "costContribution": 0.77
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a pot over medium heat. Add the broken noodles and stir constantly 3–4 minutes until golden brown. Watch them, because they burn fast.",
+    "Add the onion and garlic and cook 2 minutes.",
+    "Add the tomatoes, broth, 500 mL water, beans, cumin, and oregano. Bring to a boil.",
+    "Simmer 8–10 minutes until the noodles are soft. Season with salt.",
+    "Serve topped with cheese and a squeeze of lime."
+  ],
+  "nutrition": {
+    "calories": 685,
+    "protein": 31,
+    "carbs": 96,
+    "fat": 17,
+    "fiber": 18,
+    "sodium": 1405,
+    "iron": "~30% DV",
+    "calcium": "~20% DV",
+    "vitaminC": "~30% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "thin spaghetti (250 g)",
+        "substitute": "rice vermicelli, toasted the same way",
+        "costNote": "About $1.08 for 250 g (Y&Y 454 g, $1.97; estimate)"
+      }
+    ],
+    "notes": "Beans, tomatoes, and cheese are naturally gluten-free. Check the broth label."
+  },
+  "budgetNotes": [
+    "Toasting the noodles in oil is the step that makes this taste like fideo and not tomato pasta soup. Don't skip it.",
+    "Use vegetable broth and leave out the cheese for a vegan version, at about $9.50.",
+    "The noodles keep soaking up broth, so add water when reheating."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Pasta $0.22/100 g (No Name). Pinto beans $1.50/540 mL (Great Value $1.48). Diced tomatoes $2.00. Broth $1.69/900 mL (Campbell's). Cheddar $1.43/100 g (site estimate; stands in for queso fresco, which isn't reliably stocked). Lime $0.77 each (Walmart regular; estimate, whole item). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+  }
+}

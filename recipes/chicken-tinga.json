@@ -1,0 +1,120 @@
+{
+  "id": "chicken-tinga",
+  "name": "Chicken Tinga",
+  "summary": "Shredded chicken in a smoky tomato and onion sauce, served with warm corn tortillas and rice.",
+  "totalCost": 13.93,
+  "costPerServing": 3.48,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "45 min",
+  "tags": [
+    "chicken",
+    "rice",
+    "mexican",
+    "gluten-free",
+    "high-protein"
+  ],
+  "ingredients": [
+    {
+      "quantity": "800 g",
+      "name": "bone-in, skin-on chicken thighs",
+      "costContribution": 7.06
+    },
+    {
+      "quantity": "2",
+      "name": "bay leaves",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, thinly sliced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.25
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "crushed tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "2 tsp",
+      "name": "smoked paprika",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "chili powder",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried oregano",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "8",
+      "name": "corn tortillas",
+      "costContribution": 2.68
+    },
+    {
+      "quantity": "200 g",
+      "name": "long-grain white rice",
+      "costContribution": 0.5
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Put the chicken and bay leaves in a pot, cover with water, add 1 tsp salt, and simmer 30 minutes. Lift out the chicken, keep 250 mL of the broth, and shred the meat off the bones. Discard skin and bones.",
+    "Cook the rice: 200 g rice with 400 mL water, simmered covered for 15 minutes, then rested 5 minutes.",
+    "Heat the oil in a wide pan over medium heat and cook the onion 8 minutes until soft. Add the garlic, smoked paprika, chili, oregano, and cumin for 1 minute.",
+    "Add the crushed tomatoes and the reserved broth. Simmer 8 minutes until thick.",
+    "Stir in the shredded chicken and simmer 5 minutes. Serve with warm tortillas and rice, two tortillas per person."
+  ],
+  "nutrition": {
+    "calories": 568,
+    "protein": 38,
+    "carbs": 72,
+    "fat": 15,
+    "fiber": 6,
+    "sodium": 975,
+    "iron": "~20% DV",
+    "calcium": "~10% DV",
+    "vitaminC": "~25% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Corn tortillas are naturally gluten-free, but a few brands add wheat flour. Check the label."
+  },
+  "budgetNotes": [
+    "Real tinga uses chipotle peppers in adobo. They're hard to find in Ottawa chain stores, so smoked paprika and chili powder stand in. If you find a can at a Latin grocer, one or two chopped peppers is plenty.",
+    "Leftover tinga makes good tostadas: bake corn tortillas until crisp and pile it on.",
+    "The poaching broth is free chicken stock. Freeze the rest for soup."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Bone-in skin-on chicken thighs $8.82/kg (800 g = $7.06). Crushed tomatoes $2.00/796 mL. Corn tortillas $2.68/8 (Tia Rosa, Walmart regular, November 2026; estimate). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+  }
+}

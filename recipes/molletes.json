@@ -1,0 +1,103 @@
+{
+  "id": "molletes",
+  "name": "Molletes",
+  "summary": "Toasted rolls spread with homemade refried pinto beans and melted cheese, topped with a quick tomato salsa.",
+  "totalCost": 13.02,
+  "costPerServing": 3.25,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "tags": [
+    "vegetarian",
+    "beans",
+    "cheese",
+    "mexican",
+    "breakfast",
+    "kid-friendly",
+    "oven"
+  ],
+  "ingredients": [
+    {
+      "quantity": "12",
+      "name": "dinner rolls (or 4–6 crusty rolls), halved",
+      "costContribution": 3.97
+    },
+    {
+      "quantity": "2 cans (540 mL each)",
+      "name": "pinto beans, drained (keep a little liquid)",
+      "costContribution": 3.0
+    },
+    {
+      "quantity": "4 tbsp (56 g)",
+      "name": "butter, divided",
+      "costContribution": 0.76
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, finely diced (half for the beans, half for salsa)",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "150 g",
+      "name": "cheddar, shredded",
+      "costContribution": 2.15
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes, well drained, for salsa",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Melt 2 tbsp butter in a pan and cook half the onion 4 minutes. Add the beans, cumin, and a splash of their liquid, and mash into a thick paste over low heat, about 5 minutes. Season with salt.",
+    "Heat the oven to 400°F (200°C). Spread the cut sides of the rolls with the rest of the butter and bake 5 minutes until lightly toasted.",
+    "Spread each half with refried beans and top with cheese.",
+    "Bake 6–8 minutes until the cheese is melted and bubbling.",
+    "Mix the drained tomatoes with the rest of the onion and a pinch of salt, and spoon over the molletes."
+  ],
+  "nutrition": {
+    "calories": 858,
+    "protein": 35,
+    "carbs": 108,
+    "fat": 29,
+    "fiber": 18,
+    "sodium": 1660,
+    "iron": "~35% DV",
+    "calcium": "~40% DV",
+    "vitaminC": "~20% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "dinner rolls (12)",
+        "substitute": "8 corn tortillas, baked flat until crisp (as tostadas), with the same toppings",
+        "costNote": "$2.68 instead of $3.97, bringing the total to about $11.70"
+      }
+    ],
+    "notes": "The beans, cheese, and salsa are naturally gluten-free. The rolls are the only source of gluten."
+  },
+  "budgetNotes": [
+    "Traditionally made on bolillo rolls. Any crusty roll or a split baguette works.",
+    "Homemade refried beans from canned pintos cost less than half the price of canned refried beans ($3.87 a can for La Costeña).",
+    "A good breakfast or late-night meal. Most of it can be made ahead."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Dinner rolls $3.97/12 (Your Fresh Market, Walmart regular; estimate). Pinto beans $1.50/540 mL. Butter $1.36/100 g. Diced tomatoes $2.00. Cheddar $1.43/100 g (site estimate; stands in for queso fresco, which isn't reliably stocked). Onion $1.07. Spices estimated."
+  }
+}

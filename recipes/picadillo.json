@@ -1,0 +1,117 @@
+{
+  "id": "picadillo",
+  "name": "Picadillo",
+  "summary": "Ground beef cooked with potatoes, carrots, and tomato, served over rice. Mexican home cooking that stretches a pound of beef.",
+  "totalCost": 13.75,
+  "costPerServing": 3.44,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": [
+    "beef",
+    "rice",
+    "potatoes",
+    "mexican",
+    "gluten-free",
+    "kid-friendly",
+    "one-pan"
+  ],
+  "ingredients": [
+    {
+      "quantity": "450 g",
+      "name": "medium ground beef",
+      "costContribution": 8.55
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.25
+    },
+    {
+      "quantity": "500 g",
+      "name": "russet potatoes, cut into 1 cm cubes",
+      "costContribution": 0.33
+    },
+    {
+      "quantity": "2 (about 200 g)",
+      "name": "carrots, cut into 1 cm cubes",
+      "costContribution": 0.59
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried oregano",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "chili powder",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "300 g",
+      "name": "long-grain white rice",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Cook the rice: 300 g rice with 600 mL water, simmered covered for 15 minutes, then rested 5 minutes.",
+    "Heat the oil in a large skillet over medium-high heat. Brown the beef with the onion for 8 minutes, breaking it up.",
+    "Add the garlic, cumin, oregano, and chili for 1 minute.",
+    "Add the potatoes, carrots, tomatoes, 1 tsp salt, and 250 mL water. Cover and simmer 15 minutes until the potatoes are tender.",
+    "Uncover and simmer a few minutes more until saucy rather than soupy. Serve over the rice."
+  ],
+  "nutrition": {
+    "calories": 734,
+    "protein": 30,
+    "carbs": 96,
+    "fat": 23,
+    "fiber": 8,
+    "sodium": 900,
+    "iron": "~30% DV",
+    "calcium": "~8% DV",
+    "vitaminC": "~45% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Beef, vegetables, rice, and spices are naturally gluten-free."
+  },
+  "budgetNotes": [
+    "The potatoes and carrots are there to make 450 g of beef feed four. That's the point of the dish.",
+    "Some families add raisins or green olives. Use them if you have them.",
+    "Also good as a filling for tacos or stuffed into baked potatoes."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Medium ground beef $19.00/kg (450 g = $8.55). Russets $0.66/kg. Carrots $3.99/3 lb (~$2.93/kg). Diced tomatoes $2.00/796 mL. Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+  }
+}

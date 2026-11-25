@@ -1,0 +1,97 @@
+{
+  "id": "huevos-a-la-mexicana",
+  "name": "Huevos a la Mexicana",
+  "summary": "Eggs scrambled with tomato, onion, and chili, served with refried beans and warm corn tortillas.",
+  "totalCost": 12.11,
+  "costPerServing": 3.03,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "15 min",
+  "tags": [
+    "vegetarian",
+    "eggs",
+    "beans",
+    "mexican",
+    "breakfast",
+    "gluten-free",
+    "fast"
+  ],
+  "ingredients": [
+    {
+      "quantity": "10 large",
+      "name": "eggs",
+      "costContribution": 3.28
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes, well drained",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "chili powder",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "3 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.19
+    },
+    {
+      "quantity": "1 can (540 mL)",
+      "name": "pinto beans, drained (keep a little liquid)",
+      "costContribution": 1.5
+    },
+    {
+      "quantity": "12",
+      "name": "corn tortillas",
+      "costContribution": 4.02
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Mash the beans in a small pot with 1 tbsp oil, a splash of their liquid, and a pinch of salt. Keep warm on low.",
+    "Heat 2 tbsp oil in a large pan over medium heat. Cook the onion 4 minutes, then add the drained tomatoes and chili and cook 3 minutes until most of the liquid is gone.",
+    "Beat the eggs with 0.5 tsp salt, pour into the pan, and stir gently until just set.",
+    "Warm the tortillas in a dry pan, about 20 seconds per side, and keep them wrapped in a towel.",
+    "Serve the eggs with the beans and three tortillas per person."
+  ],
+  "nutrition": {
+    "calories": 590,
+    "protein": 28,
+    "carbs": 61,
+    "fat": 25,
+    "fiber": 13,
+    "sodium": 1080,
+    "iron": "~30% DV",
+    "calcium": "~15% DV",
+    "vitaminC": "~20% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Corn tortillas are naturally gluten-free, but a few brands add wheat flour. Check the label."
+  },
+  "budgetNotes": [
+    "Traditionally made with fresh serrano or jalapeño, which in Mexico are cheap. Here they're often sold in bulk packs, so chili powder stands in. Use a fresh pepper if you have one.",
+    "The colours are meant to match the Mexican flag: red tomato, white onion, green chili.",
+    "Drain the tomatoes well or the eggs go watery."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Eggs $0.33 each (No Name 12-pack, $3.93). Diced tomatoes $2.00. Pinto beans $1.50/540 mL. Corn tortillas $2.68/8 (Tia Rosa, Walmart regular, November 2026; estimate). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+  }
+}

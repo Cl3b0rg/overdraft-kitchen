@@ -1,0 +1,120 @@
+{
+  "id": "chilaquiles-rojos",
+  "name": "Chilaquiles Rojos",
+  "summary": "Oven-crisped tortilla wedges tossed in red sauce and topped with fried eggs, cheese, and sour cream.",
+  "totalCost": 12.8,
+  "costPerServing": 3.2,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "25 min",
+  "tags": [
+    "vegetarian",
+    "eggs",
+    "mexican",
+    "breakfast",
+    "gluten-free"
+  ],
+  "ingredients": [
+    {
+      "quantity": "12",
+      "name": "corn tortillas",
+      "costContribution": 4.02
+    },
+    {
+      "quantity": "3 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.19
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "crushed tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion (half for the sauce, half diced for topping)",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "2 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.17
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "chili powder",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "dried oregano",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "250 mL",
+      "name": "chicken or vegetable broth",
+      "costContribution": 0.47
+    },
+    {
+      "quantity": "8 large",
+      "name": "eggs",
+      "costContribution": 2.62
+    },
+    {
+      "quantity": "100 g",
+      "name": "cheddar, shredded",
+      "costContribution": 1.43
+    },
+    {
+      "quantity": "125 mL",
+      "name": "sour cream",
+      "costContribution": 0.7
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 400°F (200°C). Cut each tortilla into 6 wedges, toss with 2 tbsp oil and a pinch of salt, and bake on two sheets 12–15 minutes until crisp.",
+    "Meanwhile, finely chop half the onion and cook it with the garlic in a large pan for 3 minutes. Add the spices, crushed tomatoes, and broth and simmer 8 minutes.",
+    "Fry the eggs in the remaining oil in another pan.",
+    "Add the tortilla chips to the sauce and toss for 1 minute. They should soften at the edges but keep some crunch.",
+    "Divide between plates and top each with two eggs, cheese, sour cream, and diced onion. Serve right away."
+  ],
+  "nutrition": {
+    "calories": 610,
+    "protein": 25,
+    "carbs": 44,
+    "fat": 36,
+    "fiber": 7,
+    "sodium": 1110,
+    "iron": "~25% DV",
+    "calcium": "~30% DV",
+    "vitaminC": "~25% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Corn tortillas are naturally gluten-free, but a few brands add wheat flour. Check the label. Check the broth label too."
+  },
+  "budgetNotes": [
+    "Stale tortillas work better than fresh. This is a dish for using them up.",
+    "Store-bought tortilla chips save time but cost more, about $4 for a bag.",
+    "Toss the chips in the sauce right before serving or they go soggy."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Corn tortillas $2.68/8 (Tia Rosa, Walmart regular, November 2026; estimate). Crushed tomatoes $2.00. Eggs $0.33 each (No Name 12-pack). Broth $1.69/900 mL (Campbell's). Cheddar $1.43/100 g (site estimate; stands in for queso fresco, which isn't reliably stocked). Sour cream $2.80/500 mL (No Name, estimate). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+  }
+}

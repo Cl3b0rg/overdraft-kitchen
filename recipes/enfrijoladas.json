@@ -1,0 +1,111 @@
+{
+  "id": "enfrijoladas",
+  "name": "Enfrijoladas",
+  "summary": "Corn tortillas filled with scrambled egg and folded under a smooth black bean sauce, topped with cheese and sour cream.",
+  "totalCost": 12.43,
+  "costPerServing": 3.11,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "tags": [
+    "vegetarian",
+    "beans",
+    "eggs",
+    "mexican",
+    "gluten-free",
+    "high-fiber"
+  ],
+  "ingredients": [
+    {
+      "quantity": "12",
+      "name": "corn tortillas",
+      "costContribution": 4.02
+    },
+    {
+      "quantity": "2 cans (540 mL each)",
+      "name": "black beans, drained and rinsed",
+      "costContribution": 3.0
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion (half for the sauce, half diced for topping)",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "2 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.17
+    },
+    {
+      "quantity": "250 mL",
+      "name": "chicken or vegetable broth",
+      "costContribution": 0.47
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "3 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.19
+    },
+    {
+      "quantity": "4 large",
+      "name": "eggs",
+      "costContribution": 1.31
+    },
+    {
+      "quantity": "100 g",
+      "name": "cheddar, shredded",
+      "costContribution": 1.43
+    },
+    {
+      "quantity": "125 mL",
+      "name": "sour cream",
+      "costContribution": 0.7
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Cook half the onion, finely chopped, in 1 tbsp oil for 4 minutes. Add the garlic and cumin for 1 minute.",
+    "Add the beans and broth. Simmer 5 minutes, then mash or blend until smooth and pourable like thick cream. Add water if needed and season with salt.",
+    "Scramble the eggs softly in 1 tbsp oil and set aside.",
+    "Warm each tortilla for a few seconds per side in a lightly oiled hot pan so it's pliable. Dip it in the bean sauce, add a spoon of egg, and fold in half.",
+    "Arrange three per plate, pour the remaining sauce over, and top with cheese, sour cream, and diced onion."
+  ],
+  "nutrition": {
+    "calories": 711,
+    "protein": 32,
+    "carbs": 74,
+    "fat": 32,
+    "fiber": 19,
+    "sodium": 990,
+    "iron": "~35% DV",
+    "calcium": "~30% DV",
+    "vitaminC": "~6% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Corn tortillas are naturally gluten-free, but a few brands add wheat flour. Check the label. Check the broth label too."
+  },
+  "budgetNotes": [
+    "Enfrijoladas are the cheaper cousin of enchiladas. The bean sauce is the whole dish.",
+    "Skip the egg filling to make them plain, the way they're often eaten, at about $11.10.",
+    "The bean sauce thickens as it sits, so loosen it with water before reheating."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Corn tortillas $2.68/8 (Tia Rosa, Walmart regular, November 2026; estimate). Black beans $1.50/540 mL (No Name). Eggs $0.33 each. Broth $1.69/900 mL. Cheddar $1.43/100 g (site estimate; stands in for queso fresco, which isn't reliably stocked). Sour cream $2.80/500 mL (No Name, estimate). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+  }
+}

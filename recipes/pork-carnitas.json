@@ -1,0 +1,111 @@
+{
+  "id": "pork-carnitas",
+  "name": "Pork Carnitas",
+  "summary": "Pork shoulder slow-cooked with lime and garlic until it falls apart, then crisped under the broiler. Served with tortillas and rice.",
+  "totalCost": 13.53,
+  "costPerServing": 3.38,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "2 hr 45 min",
+  "tags": [
+    "pork",
+    "rice",
+    "mexican",
+    "gluten-free",
+    "high-protein",
+    "oven"
+  ],
+  "ingredients": [
+    {
+      "quantity": "1 kg",
+      "name": "pork picnic shoulder, bone and skin removed, cut in 5 cm chunks",
+      "costContribution": 7.72
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.33
+    },
+    {
+      "quantity": "1",
+      "name": "lime",
+      "costContribution": 0.77
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried oregano",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "chili powder",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "8",
+      "name": "corn tortillas",
+      "costContribution": 2.68
+    },
+    {
+      "quantity": "300 g",
+      "name": "long-grain white rice",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "1.5 tsp",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 325°F (160°C). Toss the pork with the salt, oregano, cumin, chili, garlic, and the juice of half the lime.",
+    "Put it in a baking dish with half the onion (in chunks) and 250 mL water. Cover tightly with foil and bake 2.5 hours until the pork falls apart.",
+    "Cook the rice: 300 g rice with 600 mL water, simmered covered for 15 minutes, then rested 5 minutes.",
+    "Shred the pork with two forks in its juices. Turn the oven to broil, drizzle the oil over the pork, and broil 8–10 minutes, stirring once, until the edges are crisp.",
+    "Dice the other half of the onion. Serve the carnitas with warm tortillas, rice, onion, and lime wedges."
+  ],
+  "nutrition": {
+    "calories": 795,
+    "protein": 40,
+    "carbs": 85,
+    "fat": 30,
+    "fiber": 5,
+    "sodium": 1010,
+    "iron": "~20% DV",
+    "calcium": "~8% DV",
+    "vitaminC": "~10% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Corn tortillas are naturally gluten-free, but a few brands add wheat flour. Check the label."
+  },
+  "budgetNotes": [
+    "Picnic shoulder at $7.72/kg is one of the cheapest cuts there is. The fat is what makes carnitas work, so don't trim it all.",
+    "Long cooking time, but almost all of it is unattended oven time.",
+    "Leftovers crisp up again in a dry pan and make good breakfast tacos with eggs."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Pork picnic shoulder $7.72/kg. Corn tortillas $2.68/8 (Tia Rosa, Walmart regular, November 2026; estimate). Lime $0.77 each (Walmart regular; estimate, whole item). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+  }
+}

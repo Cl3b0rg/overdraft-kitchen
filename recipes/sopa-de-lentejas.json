@@ -1,0 +1,128 @@
+{
+  "id": "sopa-de-lentejas",
+  "name": "Sopa de Lentejas",
+  "summary": "Mexican-style green lentil soup with potato, carrot, and tomato, served with corn tortillas and lime.",
+  "totalCost": 10.92,
+  "costPerServing": 2.73,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "40 min",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "lentils",
+    "soup",
+    "mexican",
+    "gluten-free",
+    "high-fiber",
+    "one-pot"
+  ],
+  "ingredients": [
+    {
+      "quantity": "300 g",
+      "name": "green lentils, rinsed",
+      "costContribution": 1.26
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.25
+    },
+    {
+      "quantity": "2 (about 200 g)",
+      "name": "carrots, diced",
+      "costContribution": 0.59
+    },
+    {
+      "quantity": "500 g",
+      "name": "russet potatoes, diced",
+      "costContribution": 0.33
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "900 mL",
+      "name": "vegetable broth (or chicken broth)",
+      "costContribution": 1.69
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried oregano",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1",
+      "name": "bay leaf",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1",
+      "name": "lime",
+      "costContribution": 0.77
+    },
+    {
+      "quantity": "8",
+      "name": "corn tortillas",
+      "costContribution": 2.68
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat. Cook the onion and carrot 5 minutes, then add the garlic, cumin, and oregano for 1 minute.",
+    "Add the tomatoes and cook 3 minutes.",
+    "Add the lentils, broth, 750 mL water, and bay leaf. Bring to a boil, then simmer 20 minutes.",
+    "Add the potatoes and simmer 15 minutes more until the lentils and potatoes are soft. Season with salt.",
+    "Serve with lime wedges and warm tortillas."
+  ],
+  "nutrition": {
+    "calories": 614,
+    "protein": 27,
+    "carbs": 104,
+    "fat": 9,
+    "fiber": 18,
+    "sodium": 1360,
+    "iron": "~45% DV",
+    "calcium": "~12% DV",
+    "vitaminC": "~45% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Lentils, vegetables, and spices are naturally gluten-free. Corn tortillas are naturally gluten-free, but a few brands add wheat flour. Check the label. Check the broth label."
+  },
+  "budgetNotes": [
+    "Green lentils hold their shape better than red ones, which turn to mush in this soup.",
+    "Some versions add a few slices of bacon at the start. One or two slices is enough.",
+    "Freezes well and tastes better the next day."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Green lentils $0.42/100 g (PC Blue Menu 900 g, $3.79). Carrots ~$2.93/kg. Russets $0.66/kg. Diced tomatoes $2.00. Broth $1.69/900 mL (Campbell's; vegetable assumed same price, estimate). Corn tortillas $2.68/8 (Tia Rosa, Walmart regular, November 2026; estimate). Lime $0.77 each (Walmart regular; estimate, whole item). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+  }
+}

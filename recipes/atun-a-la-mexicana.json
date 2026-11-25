@@ -1,0 +1,106 @@
+{
+  "id": "atun-a-la-mexicana",
+  "name": "Atún a la Mexicana",
+  "summary": "Canned tuna cooked with tomato, onion, and chili, served with rice, tortillas, and lime. A Lenten staple in Mexico.",
+  "totalCost": 12.78,
+  "costPerServing": 3.19,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "20 min",
+  "tags": [
+    "fish",
+    "rice",
+    "mexican",
+    "gluten-free",
+    "high-protein",
+    "fast"
+  ],
+  "ingredients": [
+    {
+      "quantity": "4 cans (170 g each)",
+      "name": "chunk light tuna, drained",
+      "costContribution": 5.16
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "2 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.17
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "chili powder",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "300 g",
+      "name": "long-grain white rice",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "8",
+      "name": "corn tortillas",
+      "costContribution": 2.68
+    },
+    {
+      "quantity": "1",
+      "name": "lime",
+      "costContribution": 0.77
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Cook the rice: 300 g rice with 600 mL water, simmered covered for 15 minutes, then rested 5 minutes.",
+    "Heat the oil in a skillet over medium heat. Cook the onion 5 minutes until soft, then the garlic and chili for 1 minute.",
+    "Add the tomatoes and simmer 5 minutes until most of the liquid is gone.",
+    "Add the tuna, break it into flakes, and cook 3 minutes until hot. Season with salt and a squeeze of lime.",
+    "Serve over rice with warm tortillas and lime wedges."
+  ],
+  "nutrition": {
+    "calories": 633,
+    "protein": 40,
+    "carbs": 93,
+    "fat": 10,
+    "fiber": 7,
+    "sodium": 910,
+    "iron": "~25% DV",
+    "calcium": "~10% DV",
+    "vitaminC": "~30% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Tuna, tomatoes, rice, and spices are naturally gluten-free. Corn tortillas are naturally gluten-free, but a few brands add wheat flour. Check the label."
+  },
+  "budgetNotes": [
+    "Chunk light tuna is cheaper than solid white and works better here because it flakes.",
+    "Also good cold the next day, stuffed into tortillas or on tostadas.",
+    "Canned sardines work the same way and are often cheaper."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Tuna $1.29/170 g can (No Name, site estimate). Diced tomatoes $2.00. Corn tortillas $2.68/8 (Tia Rosa, Walmart regular, November 2026; estimate). Lime $0.77 each (Walmart regular; estimate, whole item). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+  }
+}
