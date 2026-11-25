@@ -1,0 +1,106 @@
+{
+  "id": "pierogi-ruskie",
+  "name": "Pierogi Ruskie (Homemade)",
+  "summary": "Homemade dumplings filled with potato, cheese, and onion, boiled then topped with fried onions in butter and sour cream. About ten each.",
+  "totalCost": 8.09,
+  "costPerServing": 2.02,
+  "servings": 4,
+  "prepTime": "60 min",
+  "cookTime": "20 min",
+  "tags": [
+    "polish",
+    "vegetarian",
+    "potatoes",
+    "comfort-food",
+    "very-low-cost"
+  ],
+  "ingredients": [
+    {
+      "quantity": "400 g (about 3 cups)",
+      "name": "all-purpose flour",
+      "costContribution": 0.4
+    },
+    {
+      "quantity": "1 large",
+      "name": "egg",
+      "costContribution": 0.33
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "1 kg",
+      "name": "russet potatoes, peeled and quartered",
+      "costContribution": 0.66
+    },
+    {
+      "quantity": "250 g (half a 500 g tub)",
+      "name": "cottage cheese, well drained",
+      "costContribution": 2.24
+    },
+    {
+      "quantity": "2",
+      "name": "yellow onions, finely diced (one for the filling, one for the topping)",
+      "costContribution": 2.14
+    },
+    {
+      "quantity": "4 tbsp (56 g)",
+      "name": "butter",
+      "costContribution": 0.76
+    },
+    {
+      "quantity": "250 mL",
+      "name": "sour cream, for serving",
+      "costContribution": 1.4
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.03
+    }
+  ],
+  "instructions": [
+    "Dough: mix the flour, egg, oil, 1 tsp salt, and about 200 mL warm water into a soft dough. Knead 5 minutes until smooth, then cover and rest 30 minutes. Put the cottage cheese in a sieve to drain while it rests.",
+    "Filling: boil the potatoes 15 minutes until soft and drain well. Fry one onion in 1 tbsp butter until golden. Mash the potatoes with the fried onion, drained cottage cheese, 1 tsp salt, and plenty of pepper. Let it cool.",
+    "Roll the dough thin (2 mm) on a floured counter and cut 7–8 cm circles. Put a heaped teaspoon of filling on each, fold in half, and pinch the edges firmly shut. Re-roll the scraps.",
+    "Boil the pierogi in batches in salted water. Once they float, cook 2 minutes more and lift out with a slotted spoon.",
+    "Fry the second onion in the rest of the butter until golden, spoon over the pierogi, and serve with sour cream."
+  ],
+  "nutrition": {
+    "calories": 941,
+    "protein": 26,
+    "carbs": 131,
+    "fat": 34,
+    "fiber": 10,
+    "sodium": 1240,
+    "iron": "~30% DV",
+    "calcium": "~15% DV",
+    "vitaminC": "~45% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "all-purpose flour (400 g, dough)",
+        "substitute": "gluten-free all-purpose flour blend with xanthan gum, plus 1 extra egg. The dough is more fragile, so roll it a little thicker",
+        "costNote": "GF flour blend is about $6–$7/kg (estimate), adding about $2.50; total about $10.60"
+      }
+    ],
+    "notes": "The potato, cheese, and onion filling is naturally gluten-free. The wheat-flour dough is the only source of gluten."
+  },
+  "budgetNotes": [
+    "Substitution: drained cottage cheese replaces twaróg, the dry Polish farmer's cheese that isn't sold at most chain grocers. The taste changes: twaróg is drier, tangier, and crumbly, so the filling tastes sharper and holds together firmly. Cottage cheese is milder and wetter. Drain it well in a sieve and press out the liquid, or the filling goes soft. If you find twaróg or pressed cottage cheese at a Polish or European deli, use 250 g the same way.",
+    "This takes about an hour, but four people get about 40 pierogi for $8.09. Frozen ones cost about the same and aren't as good.",
+    "Freeze extras uncooked on a tray, then bag them. Boil from frozen and add 2 minutes."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Flour $0.10/100 g (No Name 10 kg). Egg $0.33. Oil $0.42/100 mL. Russets $0.66/kg. Cottage cheese $4.48/500 g (Great Value 2%, Walmart regular, November 2026; estimate). Onions $1.07 each. Butter $1.36/100 g. Sour cream $2.80/500 mL (No Name, estimate)."
+  }
+}

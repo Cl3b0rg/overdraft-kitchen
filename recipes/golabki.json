@@ -1,0 +1,123 @@
+{
+  "id": "golabki",
+  "name": "Gołąbki (Cabbage Rolls)",
+  "summary": "Cabbage leaves rolled around pork and rice and baked in tomato sauce. Twelve rolls, three per person.",
+  "totalCost": 11.37,
+  "costPerServing": 2.84,
+  "servings": 4,
+  "prepTime": "35 min",
+  "cookTime": "75 min",
+  "tags": [
+    "polish",
+    "pork",
+    "cabbage",
+    "rice",
+    "gluten-free",
+    "comfort-food",
+    "oven",
+    "meal-prep"
+  ],
+  "ingredients": [
+    {
+      "quantity": "1 large head",
+      "name": "green cabbage",
+      "costContribution": 2.18
+    },
+    {
+      "quantity": "450 g",
+      "name": "lean ground pork",
+      "costContribution": 4.49
+    },
+    {
+      "quantity": "150 g",
+      "name": "long-grain white rice",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, finely diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "2 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.17
+    },
+    {
+      "quantity": "1 large",
+      "name": "egg",
+      "costContribution": 0.33
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried marjoram",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "black pepper",
+      "costContribution": 0.01
+    },
+    {
+      "quantity": "1 tbsp (14 g)",
+      "name": "butter",
+      "costContribution": 0.19
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "crushed tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "250 mL",
+      "name": "chicken broth",
+      "costContribution": 0.47
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "sugar",
+      "costContribution": 0.01
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Cut the core out of the cabbage. Lower the whole head into a big pot of boiling water and peel off the outer leaves with tongs as they soften, about 12 leaves. Cut out the thick part of each centre rib. Chop the leftover cabbage.",
+    "Boil the rice in salted water for 10 minutes (it finishes in the oven) and drain. Cook the onion in the butter 5 minutes until soft.",
+    "Mix the pork, rice, onion, garlic, egg, marjoram, pepper, and 1 tsp salt. Put about 1/3 cup on the stem end of each leaf, fold in the sides, and roll up.",
+    "Heat the oven to 350°F (175°C). Scatter the chopped cabbage in a baking dish and lay the rolls on top, seam-side down. Stir the tomatoes, broth, and sugar together and pour over.",
+    "Cover tightly with foil and bake 75 minutes until the rice is tender and the leaves are soft. Rest 10 minutes before serving."
+  ],
+  "nutrition": {
+    "calories": 518,
+    "protein": 31,
+    "carbs": 55,
+    "fat": 19,
+    "fiber": 9,
+    "sodium": 1125,
+    "iron": "~20% DV",
+    "calcium": "~12% DV",
+    "vitaminC": "~90% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Bound with rice and egg, no breadcrumbs, so naturally gluten-free. Check the broth label."
+  },
+  "budgetNotes": [
+    "Substitution: all-pork filling replaces the pork-and-beef mix many Polish families use, because ground pork ($9.98/kg) costs about half as much as beef. The taste changes slightly: all-pork rolls are a little milder and softer. To use the mix, swap half the pork for 225 g medium ground beef, which adds about $2.03.",
+    "Pick the biggest, loosest cabbage head you can find. The leaves come off more easily.",
+    "Gołąbki freeze very well, and many people think they're better reheated the next day. Serve with sour cream or mashed potatoes if you have them."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Green cabbage $2.18/head (whole-item rule; a large head may cost more). Ground pork $4.49/450 g (Butcher's Choice lean). Rice $0.25/100 g. Onion $1.07. Garlic $0.08/clove. Egg $0.33. Butter $1.36/100 g. Crushed tomatoes $2.00. Broth $1.69/900 mL (Campbell's). Spices estimated."
+  }
+}

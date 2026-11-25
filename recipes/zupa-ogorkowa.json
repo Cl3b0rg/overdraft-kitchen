@@ -1,0 +1,122 @@
+{
+  "id": "zupa-ogorkowa",
+  "name": "Zupa Ogórkowa (Dill Pickle Soup)",
+  "summary": "Potato soup soured with grated dill pickles and their brine, finished with sour cream and fresh dill. Served with bread.",
+  "totalCost": 8.42,
+  "costPerServing": 2.1,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "30 min",
+  "tags": [
+    "polish",
+    "vegetarian",
+    "soup",
+    "potatoes",
+    "one-pot",
+    "low-cost"
+  ],
+  "ingredients": [
+    {
+      "quantity": "750 g",
+      "name": "russet potatoes, peeled and diced",
+      "costContribution": 0.49
+    },
+    {
+      "quantity": "2 (about 200 g)",
+      "name": "carrots, grated",
+      "costContribution": 0.59
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "about 5 large (300 g) plus 125 mL brine",
+      "name": "dill pickles, coarsely grated (half a 1 L jar)",
+      "costContribution": 1.75
+    },
+    {
+      "quantity": "500 mL",
+      "name": "vegetable or chicken broth, plus 1 L water",
+      "costContribution": 0.94
+    },
+    {
+      "quantity": "2 tbsp (28 g)",
+      "name": "butter",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "all-purpose flour",
+      "costContribution": 0.02
+    },
+    {
+      "quantity": "250 mL",
+      "name": "sour cream",
+      "costContribution": 1.4
+    },
+    {
+      "quantity": "1 bunch",
+      "name": "fresh dill, chopped",
+      "costContribution": 0.77
+    },
+    {
+      "quantity": "8 slices",
+      "name": "white sandwich bread, for serving",
+      "costContribution": 0.99
+    },
+    {
+      "quantity": "to taste",
+      "name": "black pepper (no salt until the end)",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a large pot over medium heat. Cook the onion and carrot 5 minutes until soft.",
+    "Add the grated pickles and cook 3 minutes.",
+    "Add the potatoes, broth, and water. Simmer 15–20 minutes until the potatoes are tender.",
+    "Whisk the sour cream and flour together, then whisk in a ladle of hot soup. Stir it into the pot and simmer 3 minutes until slightly thickened. Don't let it boil hard.",
+    "Add the pickle brine a little at a time until it's as sour as you like. Taste before adding any salt, since it rarely needs any. Stir in the dill and serve with bread."
+  ],
+  "nutrition": {
+    "calories": 556,
+    "protein": 14,
+    "carbs": 80,
+    "fat": 20,
+    "fiber": 8,
+    "sodium": 1680,
+    "iron": "~20% DV",
+    "calcium": "~15% DV",
+    "vitaminC": "~35% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "all-purpose flour (2 tbsp)",
+        "substitute": "1 tbsp cornstarch whisked into the sour cream",
+        "costNote": "Costs about the same"
+      },
+      {
+        "ingredient": "white sandwich bread",
+        "substitute": "gluten-free bread, or 250 g extra potatoes cooked in the soup",
+        "costNote": "Extra potatoes cost about $0.16 instead of $0.99 for the bread"
+      }
+    ],
+    "notes": "The soup base (potatoes, pickles, broth, sour cream) is naturally gluten-free apart from the flour. Check the broth label."
+  },
+  "budgetNotes": [
+    "Substitution: ordinary vinegar-brined dill pickles replace Polish ogórki kiszone (salt-fermented pickles), which are sold at Polish delis but rarely at chain grocers. The taste changes: fermented pickles give a rounder, garlicky sourness, while vinegar pickles are sharper and more acidic. Add the brine gradually and stop when it tastes right. If you find fermented pickles (check for 'no vinegar' on the label), use them and their brine the same way.",
+    "This soup is high in sodium because of the pickles and brine. Using half broth and half water keeps it lower. Don't add salt until you've tasted it.",
+    "The rest of the jar of pickles goes with sandwiches, or with the Pierogi Ruskie."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Russets $0.66/kg. Carrots ~$2.93/kg. Onion $1.07. Dill pickles $3.50/1 L jar (No Name, No Frills, November 2026; estimate, half used). Broth $1.69/900 mL (Campbell's). Butter $1.36/100 g. Fresh dill $0.77/bunch (Your Fresh Market, Walmart; estimate). Bread $2.48/~20-slice loaf. Sour cream $2.80/500 mL (No Name, estimate)."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "lazanki-z-kapusta",
+  "name": "Łazanki z Kapustą",
+  "summary": "Short noodles tossed with cabbage, onion, and bacon fried in butter until sweet and browned. One pot of noodles, one pan.",
+  "totalCost": 8.06,
+  "costPerServing": 2.02,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "30 min",
+  "tags": [
+    "polish",
+    "pork",
+    "pasta",
+    "cabbage",
+    "comfort-food",
+    "low-cost"
+  ],
+  "ingredients": [
+    {
+      "quantity": "450 g",
+      "name": "short pasta (bow ties, small shells, or broken lasagna sheets)",
+      "costContribution": 0.99
+    },
+    {
+      "quantity": "1 head",
+      "name": "green cabbage, cored and thinly sliced",
+      "costContribution": 2.18
+    },
+    {
+      "quantity": "2",
+      "name": "yellow onions, sliced",
+      "costContribution": 2.14
+    },
+    {
+      "quantity": "200 g (about half a pack)",
+      "name": "bacon, chopped",
+      "costContribution": 2.12
+    },
+    {
+      "quantity": "3 tbsp (42 g)",
+      "name": "butter",
+      "costContribution": 0.57
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "dried marjoram",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "black pepper",
+      "costContribution": 0.01
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Fry the bacon in a large, deep pan over medium heat 6–8 minutes until browned. Leave the fat in the pan.",
+    "Add the onions and cook 5 minutes. Add the cabbage, butter, marjoram, and 1 tsp salt.",
+    "Cook 20 minutes, stirring now and then, until the cabbage is soft, sweet, and browned in places. Add a splash of water if it starts to stick.",
+    "Meanwhile, cook the pasta in salted water until just tender. Drain, keeping a cup of the water.",
+    "Toss the pasta into the cabbage with a splash of pasta water. Season with pepper and serve."
+  ],
+  "nutrition": {
+    "calories": 785,
+    "protein": 25,
+    "carbs": 106,
+    "fat": 30,
+    "fiber": 11,
+    "sodium": 1450,
+    "iron": "~25% DV",
+    "calcium": "~10% DV",
+    "vitaminC": "~80% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "short pasta (450 g)",
+        "substitute": "gluten-free short pasta (rice or corn based)",
+        "costNote": "Adds roughly $2.50–$3.50 (estimate); still under $12"
+      }
+    ],
+    "notes": "Cabbage, onion, bacon, and butter are naturally gluten-free. Check the bacon label."
+  },
+  "budgetNotes": [
+    "Substitution: ordinary short pasta replaces łazanki noodles, small flat squares sold at Polish delis but not at chain grocers. The texture changes a little: łazanki are thin and flat and pick up the cabbage evenly, while bow ties or shells are thicker and chewier. Break dry lasagna sheets into 2–3 cm squares for the closest match.",
+    "Many families also stir in a cup of rinsed sauerkraut with the cabbage for sourness. About $1 from a 1 L jar.",
+    "Skip the bacon and use 2 more tbsp butter for a vegetarian version at about $6.30."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Pasta $0.22/100 g (No Name). Green cabbage $2.18/head (whole-item rule). Onions $1.07 each. Butter $1.36/100 g. Bacon $3.97/pack (Great Value, Walmart regular, November 2026; estimate, 375 g pack assumed). Spices estimated."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "placki-ziemniaczane",
+  "name": "Placki Ziemniaczane (Potato Pancakes)",
+  "summary": "Grated potato and onion fried into crisp pancakes, served with sour cream.",
+  "totalCost": 5.05,
+  "costPerServing": 1.26,
+  "servings": 4,
+  "prepTime": "20 min",
+  "cookTime": "30 min",
+  "tags": [
+    "polish",
+    "vegetarian",
+    "potatoes",
+    "eggs",
+    "very-low-cost",
+    "breakfast"
+  ],
+  "ingredients": [
+    {
+      "quantity": "1.5 kg",
+      "name": "russet potatoes, peeled",
+      "costContribution": 0.99
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 large",
+      "name": "eggs",
+      "costContribution": 0.98
+    },
+    {
+      "quantity": "60 g (1/2 cup)",
+      "name": "all-purpose flour",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "125 mL",
+      "name": "vegetable oil, for frying",
+      "costContribution": 0.53
+    },
+    {
+      "quantity": "250 mL",
+      "name": "sour cream, for serving",
+      "costContribution": 1.4
+    },
+    {
+      "quantity": "1.5 tsp",
+      "name": "salt, plus black pepper",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Grate the potatoes and onion on the fine side of a box grater into a large bowl.",
+    "Tip into a sieve set over a bowl and press out as much liquid as you can. Let the liquid sit 2 minutes, pour off the water, and keep the white potato starch at the bottom.",
+    "Mix the grated potato, the starch, eggs, flour, salt, and pepper.",
+    "Heat a thin layer of oil in a skillet over medium-high heat. Drop in heaped spoonfuls, flatten to about 1 cm, and fry 3–4 minutes per side until deep golden and crisp. Add oil between batches.",
+    "Drain on paper towel and keep warm in a low oven while you fry the rest. Serve hot with sour cream."
+  ],
+  "nutrition": {
+    "calories": 748,
+    "protein": 16,
+    "carbs": 80,
+    "fat": 41,
+    "fiber": 8,
+    "sodium": 955,
+    "iron": "~20% DV",
+    "calcium": "~10% DV",
+    "vitaminC": "~55% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "all-purpose flour (60 g)",
+        "substitute": "3 tbsp cornstarch, or simply more of the saved potato starch",
+        "costNote": "About $0.10; the total stays around $5"
+      }
+    ],
+    "notes": "Potatoes, onion, eggs, and sour cream are naturally gluten-free. The small amount of flour is the only source of gluten."
+  },
+  "budgetNotes": [
+    "Under $1.30 a serving.",
+    "Squeezing out the liquid is what makes them crisp. Wet batter makes soggy pancakes.",
+    "In Poland they're eaten with sour cream for a savoury meal, or with sugar or applesauce as a sweet one. Both are traditional."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Russets $0.66/kg. Onion $1.07. Eggs $0.33 each. Flour $0.10/100 g. Oil $0.42/100 mL. Sour cream $2.80/500 mL (No Name, estimate)."
+  }
+}
