@@ -1,0 +1,92 @@
+{
+  "id": "pierogies-kielbasa-onions",
+  "name": "Pierogies with Kielbasa and Fried Onions",
+  "summary": "Frozen pierogies pan-fried with sliced kielbasa and a lot of onion. One pan, twenty-five minutes.",
+  "totalCost": 10.08,
+  "costPerServing": 2.52,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "25 min",
+  "tags": [
+    "pork",
+    "potato",
+    "one-pan",
+    "comfort-food",
+    "polish",
+    "easy"
+  ],
+  "ingredients": [
+    {
+      "quantity": "907 g bag",
+      "name": "frozen potato and cheddar pierogies",
+      "costContribution": 3.47
+    },
+    {
+      "quantity": "300 g",
+      "name": "smoked kielbasa, sliced into rounds",
+      "costContribution": 3.18
+    },
+    {
+      "quantity": "2",
+      "name": "yellow onions, sliced",
+      "costContribution": 2.14
+    },
+    {
+      "quantity": "3 tbsp (42 g)",
+      "name": "butter",
+      "costContribution": 0.57
+    },
+    {
+      "quantity": "125 mL",
+      "name": "sour cream, for serving",
+      "costContribution": 0.7
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Boil the frozen pierogies in salted water for 4–5 minutes until they float. Drain well.",
+    "While they boil, melt 1 tbsp butter in a large skillet over medium heat. Cook the onions 10 minutes, stirring now and then, until soft and golden. Move them to a plate.",
+    "Add the kielbasa to the same pan and fry 3–4 minutes until browned. Move it to the plate with the onions.",
+    "Melt the remaining butter in the pan. Fry the pierogies in one layer, 2–3 minutes per side, until golden. Work in two batches if needed.",
+    "Return the onions and kielbasa to the pan, toss together, and season with pepper. Serve with sour cream."
+  ],
+  "nutrition": {
+    "calories": 796,
+    "protein": 24,
+    "carbs": 76,
+    "fat": 44,
+    "fiber": 6,
+    "sodium": 1700,
+    "iron": "~15% DV",
+    "calcium": "~15% DV",
+    "vitaminC": "~20% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "frozen pierogies (907 g)",
+        "substitute": "1 kg russet potatoes, cubed, par-boiled 8 minutes, then pan-fried the same way with a handful of cheddar",
+        "costNote": "Potatoes cost about $0.66, bringing the total to roughly $7.30. Gluten-free frozen pierogies are about $9 and push it over $15."
+      }
+    ],
+    "notes": "Most smoked kielbasa is gluten-free, but some brands use wheat fillers. Check the label."
+  },
+  "budgetNotes": [
+    "Great Value potato, bacon and onion pierogies ($2.73) are cheaper than Cheemo and work the same way.",
+    "Skip the kielbasa for a vegetarian version at about $6.90. Add a second bag of pierogies if you need more food.",
+    "Boiling first and then frying keeps the pierogies from splitting in the pan."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Pierogies $3.47/907 g (Cheemo, Walmart regular, November 2026; estimate, not in validated table). Kielbasa $1.06/100 g (site estimate). Onions $1.07 each, priced as whole onions. Butter $1.36/100 g (No Name). Sour cream $2.80/500 mL (No Name, estimate)."
+  }
+}

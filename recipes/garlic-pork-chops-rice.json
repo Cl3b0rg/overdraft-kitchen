@@ -1,0 +1,101 @@
+{
+  "id": "garlic-pork-chops-rice",
+  "name": "Garlic Pork Chops with Rice and Peas",
+  "summary": "Pan-seared boneless pork chops finished in garlic butter, with rice and peas. One pan plus a pot of rice.",
+  "totalCost": 10.91,
+  "costPerServing": 2.73,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "25 min",
+  "tags": [
+    "pork",
+    "rice",
+    "gluten-free",
+    "high-protein",
+    "fast",
+    "easy"
+  ],
+  "ingredients": [
+    {
+      "quantity": "600 g (4 chops)",
+      "name": "boneless centre-cut pork chops",
+      "costContribution": 7.94
+    },
+    {
+      "quantity": "300 g",
+      "name": "long-grain white rice",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "300 g",
+      "name": "frozen peas",
+      "costContribution": 1.35
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.33
+    },
+    {
+      "quantity": "2 tbsp (28 g)",
+      "name": "butter",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "paprika",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "garlic powder",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Start the rice: 300 g rice with 600 mL water, simmered covered for 15 minutes. Stir in the frozen peas, cover, and let it sit off the heat for 5 minutes.",
+    "Pat the chops dry and season both sides with paprika, garlic powder, salt, and pepper.",
+    "Heat the oil in a skillet over medium-high heat. Sear the chops 4–5 minutes per side until browned and 145°F (63°C) inside.",
+    "Turn the heat to low. Add the butter and garlic and spoon the melted butter over the chops for 1 minute.",
+    "Rest the chops 3 minutes, then serve with the rice and peas and the pan butter poured over everything."
+  ],
+  "nutrition": {
+    "calories": 671,
+    "protein": 41,
+    "carbs": 72,
+    "fat": 23,
+    "fiber": 5,
+    "sodium": 900,
+    "iron": "~15% DV",
+    "calcium": "~5% DV",
+    "vitaminC": "~30% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Pork, rice, peas, butter, and spices are naturally gluten-free."
+  },
+  "budgetNotes": [
+    "Club-pack boneless chops at $13.23/kg are the cheap way to buy them. Freeze what you don't use in pairs.",
+    "Bone-in chops are often cheaper on sale and work the same way. Add 1–2 minutes per side.",
+    "Don't move the chops while they sear. That is what browns them."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Pork chops $13.23/kg (boneless centre, club pack; 600 g = $7.94). Rice $0.25/100 g. Frozen peas $3.37/750 g (Great Value, Walmart regular, November 2026; estimate). Garlic $0.08/clove. Butter $1.36/100 g. Oil $0.42/100 mL. Spices estimated."
+  }
+}

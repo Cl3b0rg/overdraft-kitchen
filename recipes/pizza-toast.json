@@ -1,0 +1,88 @@
+{
+  "id": "pizza-toast",
+  "name": "Pizza Toast",
+  "summary": "Sandwich bread topped with pasta sauce and cheese and baked until crisp. Pizza for the price of a loaf.",
+  "totalCost": 6.93,
+  "costPerServing": 1.73,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "12 min",
+  "tags": [
+    "vegetarian",
+    "cheese",
+    "oven",
+    "kid-friendly",
+    "fast",
+    "easy",
+    "lunch"
+  ],
+  "ingredients": [
+    {
+      "quantity": "12 slices",
+      "name": "white sandwich bread",
+      "costContribution": 1.49
+    },
+    {
+      "quantity": "375 mL",
+      "name": "pasta sauce (about half a 680 mL jar)",
+      "costContribution": 1.09
+    },
+    {
+      "quantity": "300 g",
+      "name": "cheddar or mozzarella, shredded",
+      "costContribution": 4.29
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "dried oregano",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "pinch",
+      "name": "chili flakes (optional)",
+      "costContribution": 0.01
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 425°F (220°C). Lay the bread on two baking sheets.",
+    "Bake the bare bread 4 minutes so the bottom doesn't go soggy.",
+    "Spread about 2 tablespoons of sauce on each slice, right to the edges.",
+    "Cover with the cheese, then sprinkle with oregano and chili flakes.",
+    "Bake 6–8 minutes until the cheese is bubbling and the crust edges are brown. Three slices per person."
+  ],
+  "nutrition": {
+    "calories": 608,
+    "protein": 29,
+    "carbs": 55,
+    "fat": 29,
+    "fiber": 4,
+    "sodium": 1280,
+    "iron": "~20% DV",
+    "calcium": "~60% DV",
+    "vitaminC": "~6% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "white sandwich bread (12 slices)",
+        "substitute": "gluten-free sandwich bread, or halved baked potatoes as the base",
+        "costNote": "Gluten-free bread runs about $6–$7 a loaf (estimate), bringing the total to roughly $12"
+      }
+    ],
+    "notes": "Sauce, cheese, and oregano are naturally gluten-free. Check the sauce label."
+  },
+  "budgetNotes": [
+    "The other half of the sauce jar keeps a week in the fridge. Use it for Cheesy Baked Pasta or Shakshuka.",
+    "Any cheese works. Use whichever block is cheapest this week and grate it yourself.",
+    "Add sliced onion, leftover sausage, or frozen spinach if you have them. None are required."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Bread $2.48/~20-slice loaf (Great Value), $0.12/slice. Pasta sauce $1.97/680 mL (Great Value, Walmart regular, November 2026; estimate). Cheddar $1.43/100 g (site estimate). Oregano estimated."
+  }
+}

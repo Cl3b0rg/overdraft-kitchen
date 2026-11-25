@@ -1,0 +1,109 @@
+{
+  "id": "bean-rice-enchilada-bake",
+  "name": "Bean and Rice Enchilada Bake",
+  "summary": "Tortillas layered with beans, rice, spiced tomato, and cheddar and baked. No rolling.",
+  "totalCost": 10.7,
+  "costPerServing": 2.67,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "25 min",
+  "tags": [
+    "vegetarian",
+    "beans",
+    "rice",
+    "cheese",
+    "oven",
+    "tex-mex",
+    "high-fiber",
+    "easy"
+  ],
+  "ingredients": [
+    {
+      "quantity": "8",
+      "name": "flour tortillas (10-pack, No Name)",
+      "costContribution": 2.15
+    },
+    {
+      "quantity": "2 cans (540 mL each)",
+      "name": "black beans, drained and rinsed",
+      "costContribution": 3.0
+    },
+    {
+      "quantity": "200 g",
+      "name": "long-grain white rice",
+      "costContribution": 0.5
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "200 g",
+      "name": "cheddar cheese, shredded",
+      "costContribution": 2.86
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "2 tsp",
+      "name": "chili powder",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "garlic powder",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "pinch",
+      "name": "salt",
+      "costContribution": 0.01
+    }
+  ],
+  "instructions": [
+    "Cook the rice: 200 g rice with 400 mL water, simmered covered for 15 minutes. Heat the oven to 375°F (190°C).",
+    "Stir the tomatoes, cumin, chili powder, garlic powder, and salt together in a bowl. Mix the beans into the cooked rice.",
+    "Spread a third of the tomato mixture in a 9×13-inch dish. Cover with 4 tortillas (overlap and tear to fit), then half the bean-rice mix and a third of the cheese.",
+    "Repeat: 4 tortillas, the rest of the bean-rice mix, a third of the cheese. Top with the last of the tomato and cheese.",
+    "Cover with foil and bake 15 minutes, then uncover and bake 10 more until bubbling. Cut into squares."
+  ],
+  "nutrition": {
+    "calories": 932,
+    "protein": 40,
+    "carbs": 136,
+    "fat": 24,
+    "fiber": 20,
+    "sodium": 1460,
+    "iron": "~40% DV",
+    "calcium": "~50% DV",
+    "vitaminC": "~25% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "flour tortillas (8)",
+        "substitute": "12 corn tortillas, layered the same way",
+        "costNote": "Corn tortillas are cheaper, about $1.00 for 12 (estimate)"
+      }
+    ],
+    "notes": "Beans, rice, tomatoes, cheese, and spices are naturally gluten-free. Some corn tortillas are made on shared lines with wheat, so check the package if that matters to you."
+  },
+  "budgetNotes": [
+    "This is a big portion. It easily stretches to six servings with a side of shredded cabbage.",
+    "A jar of salsa can replace the canned tomatoes and spices, but it costs about $2 more and adds a lot of sodium.",
+    "Leftovers reheat well and freeze in squares."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Flour tortillas No Name 10-pack (site estimate: 8 = $2.15). Black beans $1.50/540 mL (No Name). Rice $0.25/100 g. Diced tomatoes $2.00/796 mL. Cheddar $1.43/100 g (site estimate). Spices estimated."
+  }
+}

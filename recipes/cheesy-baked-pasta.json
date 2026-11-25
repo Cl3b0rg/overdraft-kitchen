@@ -1,0 +1,92 @@
+{
+  "id": "cheesy-baked-pasta",
+  "name": "Cheesy Baked Pasta",
+  "summary": "Pasta, jarred sauce, and cheddar baked in one dish. Five steps, no skill required.",
+  "totalCost": 7.88,
+  "costPerServing": 1.97,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "35 min",
+  "tags": [
+    "vegetarian",
+    "pasta",
+    "cheese",
+    "oven",
+    "kid-friendly",
+    "easy"
+  ],
+  "ingredients": [
+    {
+      "quantity": "450 g",
+      "name": "penne or rotini",
+      "costContribution": 0.99
+    },
+    {
+      "quantity": "2 jars (680 mL each)",
+      "name": "pasta sauce (Great Value or No Name)",
+      "costContribution": 3.94
+    },
+    {
+      "quantity": "200 g",
+      "name": "cheddar cheese, shredded",
+      "costContribution": 2.86
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "Italian seasoning",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "garlic powder",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt (for the pasta water)",
+      "costContribution": 0.01
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 400°F (200°C). Bring a large pot of salted water to a boil.",
+    "Cook the pasta for 2 minutes less than the package says. It finishes in the oven. Drain.",
+    "Return the pasta to the pot. Stir in both jars of sauce, the Italian seasoning, the garlic powder, and half the cheddar.",
+    "Spread into a 9×13-inch baking dish and scatter the rest of the cheddar on top.",
+    "Bake 20 minutes until the cheese is melted and the edges are bubbling. Rest 5 minutes before serving."
+  ],
+  "nutrition": {
+    "calories": 755,
+    "protein": 30,
+    "carbs": 104,
+    "fat": 22,
+    "fiber": 7,
+    "sodium": 1400,
+    "iron": "~20% DV",
+    "calcium": "~35% DV",
+    "vitaminC": "~15% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "penne or rotini (450 g)",
+        "substitute": "gluten-free pasta (rice or corn based) in the same weight",
+        "costNote": "Adds roughly $2.50–$3.50 (estimate); still under $15"
+      }
+    ],
+    "notes": "Most plain jarred tomato sauces are gluten-free, but check the label. Cheddar is naturally gluten-free."
+  },
+  "budgetNotes": [
+    "If there is room in the budget, brown 450 g of medium ground beef ($8.55) and stir it in with the sauce. That brings the total to about $16.40, so it no longer counts as an under-$15 recipe.",
+    "A can of white kidney beans ($1.50), drained and stirred in, adds protein and keeps the total under $10.",
+    "Undercooking the pasta before baking stops it going soft."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Pasta $0.22/100 g (No Name 900 g, $2.00). Pasta sauce $1.97/680 mL jar (Great Value, Walmart regular price, November 2026; estimate, not in validated table). Cheddar $1.43/100 g (site estimate). Spices estimated."
+  }
+}

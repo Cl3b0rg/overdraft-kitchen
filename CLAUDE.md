@@ -105,7 +105,7 @@ The footer text is in the `pageLayout` function inside `build.js`. Update it as 
 - Use the validated price list below for ALL ingredient costs — do not guess
 - Price ingredients proportionally (if a 2 kg bag is $5.00 and recipe uses 300 g: $5.00 × 300/2000 = $0.75)
 - Never hardcode totals that contradict the sum of ingredient costContributions
-- Sources: No Frills (nofrills.ca) and Walmart Canada (walmart.ca), Ottawa, verified September 2026
+- Sources: No Frills (nofrills.ca) and Walmart Canada (walmart.ca), Ottawa, verified September 2026, re-confirmed November 2026
 - Round to two decimal places; mark anything not in the list below as an estimate
 - **Whole-item vegetables:** If a recipe uses half a head of cabbage, half an onion, half a head of lettuce, or any similar partial-unit of a whole vegetable, price it at the full item cost — not the fractional portion. The consumer must purchase the whole item. This applies to: onions, cabbage heads, lettuce heads, and any other vegetable sold as a single whole unit. It does NOT apply to bunched items like celery or green onions, where individual stalks can be taken without deterioration.
 
@@ -122,13 +122,17 @@ https://backflipp.wishabi.com/flipp/items/search?q=ITEM&postal_code=K2J3R9
 - The r/ottawa "Weekly Grocery Review" threads are a good human-curated cross-check when accessible, but cannot be fetched directly.
 - **Flyer prices are temporary SALES.** Do not rewrite recipe baselines to chase weekly sales — the validated table below is meant to hold regular/typical prices so recipes don't bounce over $15 when a sale ends. Only revise a baseline when an item is consistently cheaper across many chains over multiple weeks.
 
-## Validated ingredient prices (September 2026, Ottawa)
+## Validated ingredient prices (re-confirmed November 2026, Ottawa)
 
 Prices are from No Frills (nofrills.ca) unless noted. Use these exact rates when calculating costContribution values.
 
 ### Meat & poultry
 
 Verified at Ottawa No Frills, May 23 2026. Re-confirmed against live Flipp flyer data (K2J3R9), September 2026: regular prices stable vs the August table (medium ground beef $8.50/450 g, whole chicken $15/1.7 kg, boneless thighs $7.75/lb, No Name beans $1.50 all confirmed). Packaged ground pork sits near $5.00/450 g but is held at the $9.98/kg baseline pending a sustained trend. This month's sales (butter $4.97, sweet potato $1.99/lb, eggs $4.44, coconut milk $1.77) not chased into baselines.
+
+Re-confirmed against live Flipp data (K2J3R9), November 25 2026: no baseline changed. Regular prices matched the table: Great Value eggs $3.93, Sealtest 2 L milk $5.48, No Name/Great Value beans ~$1.50, diced tomatoes ~$2.00, Great Value red lentils $2.97, Great Value bread $2.48, frozen mixed vegetables $3.37/750 g, Chaokoh coconut milk $2.47, Loblaws-banner medium ground beef $8.50/450 g. Walmart's regular prices for 3 lb carrots and onions ($2.74), celery ($1.97) and medium ground beef ($6.98/450 g) are lower, but that's a single snapshot and they were held. **Watch: chicken/beef broth.** Walmart's regular price for Campbell's 900 mL is now $2.22 (London Drugs $3.29). No Frills had it on flyer at $1.50, so the $1.69 No Frills baseline is held, but if No Frills' regular price is confirmed above ~$2.00, re-check Beef and Barley Soup: it reaches $15.64 at $2.22. This week's sales not chased: whole chicken $1.99/lb (No Frills), chicken breast $4.88/lb (No Frills), pork half loin $1.99/lb (No Frills), bone-in thighs $2.99/lb (Loblaws), green cabbage $0.49/lb (No Frills), Gay Lea butter $4.97.
+
+Estimates used by the November 2026 recipes (Walmart regular prices, not sales; not part of the validated table): Great Value pasta sauce $1.97/680 mL, Great Value frozen peas $3.37/750 g, Cheemo pierogies $3.47/907 g, Mr. Noodles $0.48/85 g, Billy Bee honey $9.98/1 kg.
 
 | Ingredient | Size / format | Price | Rate used in recipes |
 |---|---|---|---|
@@ -261,7 +265,7 @@ Avoid: influencer language, fake storytelling, "life changing" claims, SEO fille
 
 ## Current recipe count
 
-116 recipes as of September 2026.
+126 recipes as of November 2026.
 
 ## Git identity (this machine)
 

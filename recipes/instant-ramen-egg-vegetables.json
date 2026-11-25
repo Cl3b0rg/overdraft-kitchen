@@ -1,0 +1,106 @@
+{
+  "id": "instant-ramen-egg-vegetables",
+  "name": "Instant Ramen with Egg and Vegetables",
+  "summary": "Packet ramen made into a meal with an egg, frozen vegetables, and a spoon of peanut butter. Ten minutes.",
+  "totalCost": 6.87,
+  "costPerServing": 1.72,
+  "servings": 4,
+  "prepTime": "2 min",
+  "cookTime": "10 min",
+  "tags": [
+    "vegetarian",
+    "eggs",
+    "fast",
+    "very-low-cost",
+    "easy"
+  ],
+  "ingredients": [
+    {
+      "quantity": "6 packs (85 g each)",
+      "name": "instant noodles (Mr. Noodles or similar)",
+      "costContribution": 2.88
+    },
+    {
+      "quantity": "4 large",
+      "name": "eggs",
+      "costContribution": 1.31
+    },
+    {
+      "quantity": "300 g",
+      "name": "frozen mixed vegetables",
+      "costContribution": 1.35
+    },
+    {
+      "quantity": "half a bunch",
+      "name": "green onions, sliced",
+      "costContribution": 1.0
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "peanut butter",
+      "costContribution": 0.14
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "soy sauce",
+      "costContribution": 0.08
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "sesame oil (optional)",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "pinch",
+      "name": "chili flakes (optional)",
+      "costContribution": 0.01
+    }
+  ],
+  "instructions": [
+    "Bring 2 L of water to a boil in a large pot. Add the frozen vegetables and cook 2 minutes.",
+    "Add the noodle blocks. Stir in only 3 of the 6 seasoning packets. The full set is very salty.",
+    "Crack the eggs into the pot, spaced apart. Cover, turn the heat to low, and cook 3 minutes until the whites set.",
+    "In each bowl, stir together a little peanut butter, soy sauce, and sesame oil with a splash of the hot broth.",
+    "Divide the noodles, eggs, vegetables, and broth between the bowls. Top with green onion and chili flakes."
+  ],
+  "nutrition": {
+    "calories": 748,
+    "protein": 22,
+    "carbs": 89,
+    "fat": 32,
+    "fiber": 6,
+    "sodium": 1725,
+    "iron": "~20% DV",
+    "calcium": "~8% DV",
+    "vitaminC": "~15% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "instant noodles (6 packs)",
+        "substitute": "400 g rice noodles, with 900 mL gluten-free broth in place of the seasoning packets",
+        "costNote": "Rice noodles about $1.97 plus broth $1.69 (estimate); total stays under $10"
+      },
+      {
+        "ingredient": "soy sauce (1 tbsp)",
+        "substitute": "tamari",
+        "costNote": "Small bottle about $3–$4; you use very little"
+      }
+    ],
+    "notes": "Instant noodles and their seasoning packets contain wheat. Eggs, vegetables, and peanut butter are naturally gluten-free."
+  },
+  "budgetNotes": [
+    "Instant noodles go on sale at No Frills for as little as $0.37 a pack, so it is worth stocking up when they do.",
+    "Using half the seasoning packets cuts the sodium a lot without losing much flavour. The peanut butter and soy make up the difference.",
+    "Any leftover cooked meat, tofu, or frozen spinach can go in with the vegetables."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Instant noodles $0.48/85 g pack (Mr. Noodles, Walmart regular, November 2026; estimate, not in validated table). Eggs $0.33 each (No Name 12-pack, $3.93). Frozen mixed vegetables $0.45/100 g (Great Value 750 g, $3.37). Green onions $1.99/bunch (bunched item, priced by portion). Peanut butter $0.43/100 g. Soy sauce $0.51/100 mL. Sesame oil estimated."
+  }
+}

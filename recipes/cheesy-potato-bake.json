@@ -1,0 +1,102 @@
+{
+  "id": "cheesy-potato-bake",
+  "name": "Cheesy Potato Bake",
+  "summary": "Sliced potatoes baked in a cheddar milk sauce. Mostly oven time.",
+  "totalCost": 7.63,
+  "costPerServing": 1.91,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "75 min",
+  "tags": [
+    "vegetarian",
+    "potatoes",
+    "cheese",
+    "oven",
+    "comfort-food",
+    "easy"
+  ],
+  "ingredients": [
+    {
+      "quantity": "1.5 kg",
+      "name": "russet potatoes, thinly sliced (no need to peel)",
+      "costContribution": 0.99
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, thinly sliced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 tbsp (42 g)",
+      "name": "butter",
+      "costContribution": 0.57
+    },
+    {
+      "quantity": "3 tbsp",
+      "name": "all-purpose flour",
+      "costContribution": 0.02
+    },
+    {
+      "quantity": "750 mL",
+      "name": "milk",
+      "costContribution": 2.06
+    },
+    {
+      "quantity": "200 g",
+      "name": "cheddar cheese, shredded",
+      "costContribution": 2.86
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "garlic powder",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.03
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 375°F (190°C). Grease a 9×13-inch baking dish.",
+    "Melt the butter in a pot over medium heat. Stir in the flour and cook 1 minute. Whisk in the milk a little at a time, then simmer 3–4 minutes, stirring, until it thickens slightly.",
+    "Take the pot off the heat. Stir in half the cheddar, the garlic powder, 1 tsp salt, and pepper.",
+    "Layer the potatoes and onion in the dish and pour the sauce over them. Press down so the potatoes are mostly covered. Top with the rest of the cheese.",
+    "Cover with foil and bake 45 minutes. Uncover and bake another 25–30 minutes, until a knife slides through easily and the top is brown."
+  ],
+  "nutrition": {
+    "calories": 691,
+    "protein": 27,
+    "carbs": 80,
+    "fat": 29,
+    "fiber": 9,
+    "sodium": 970,
+    "iron": "~15% DV",
+    "calcium": "~55% DV",
+    "vitaminC": "~45% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "all-purpose flour (3 tbsp)",
+        "substitute": "1.5 tbsp cornstarch whisked into the cold milk before heating",
+        "costNote": "Costs about the same"
+      }
+    ],
+    "notes": "Everything else (potatoes, milk, cheddar, butter) is naturally gluten-free."
+  },
+  "budgetNotes": [
+    "Russets from the 10 lb bag are the cheapest calories on this site, at about $0.66/kg.",
+    "Slice the potatoes thin and even (about 3 mm). A cheap mandoline helps but a knife is fine.",
+    "Leftovers reheat well. You can also fry squares of it in a pan the next morning and add an egg."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Russet potatoes $2.99/10 lb bag ($0.66/kg). Onion $1.07 each. Butter $1.36/100 g (No Name). Flour $0.10/100 g. Milk $2.74/L (Sealtest 2 L, $5.48). Cheddar $1.43/100 g (site estimate). Spices estimated."
+  }
+}

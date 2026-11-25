@@ -1,0 +1,117 @@
+{
+  "id": "hamburger-gravy-mashed-potatoes",
+  "name": "Hamburger Gravy over Mashed Potatoes",
+  "summary": "Ground beef in onion gravy, spooned over mashed potatoes with peas. Diner food at home.",
+  "totalCost": 13.75,
+  "costPerServing": 3.44,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "25 min",
+  "tags": [
+    "beef",
+    "potatoes",
+    "comfort-food",
+    "kid-friendly",
+    "high-protein",
+    "easy"
+  ],
+  "ingredients": [
+    {
+      "quantity": "450 g",
+      "name": "medium ground beef",
+      "costContribution": 8.55
+    },
+    {
+      "quantity": "1.5 kg",
+      "name": "russet potatoes, peeled and quartered",
+      "costContribution": 0.99
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 tbsp",
+      "name": "all-purpose flour",
+      "costContribution": 0.02
+    },
+    {
+      "quantity": "500 mL",
+      "name": "beef broth",
+      "costContribution": 0.94
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "Worcestershire sauce",
+      "costContribution": 0.08
+    },
+    {
+      "quantity": "2 tbsp (28 g)",
+      "name": "butter, for the potatoes",
+      "costContribution": 0.38
+    },
+    {
+      "quantity": "125 mL",
+      "name": "milk, for the potatoes",
+      "costContribution": 0.34
+    },
+    {
+      "quantity": "300 g",
+      "name": "frozen peas",
+      "costContribution": 1.35
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt and black pepper",
+      "costContribution": 0.03
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes in salted water for 15–18 minutes until soft. Add the frozen peas for the last 2 minutes, then drain the peas out with a slotted spoon and set them aside.",
+    "While the potatoes cook, brown the ground beef and onion in a large skillet over medium-high heat, about 8 minutes, breaking up the meat. Don't drain the fat. It makes the gravy.",
+    "Sprinkle the flour over the beef and stir for 1 minute. Pour in the broth and Worcestershire, stirring, and simmer 5 minutes until thick. Season with pepper.",
+    "Drain the potatoes and mash with the butter, milk, and salt.",
+    "Serve the mashed potatoes topped with the hamburger gravy, with the peas on the side."
+  ],
+  "nutrition": {
+    "calories": 726,
+    "protein": 33,
+    "carbs": 83,
+    "fat": 27,
+    "fiber": 11,
+    "sodium": 1025,
+    "iron": "~30% DV",
+    "calcium": "~10% DV",
+    "vitaminC": "~70% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "all-purpose flour (3 tbsp)",
+        "substitute": "1.5 tbsp cornstarch stirred into 3 tbsp cold water, added with the broth",
+        "costNote": "Costs about the same"
+      },
+      {
+        "ingredient": "Worcestershire sauce",
+        "substitute": "a gluten-free Worcestershire (Lea & Perrins in Canada contains malt vinegar), or leave it out",
+        "costNote": "Leaving it out saves $0.08"
+      }
+    ],
+    "notes": "Beef, potatoes, peas, and most ready-to-use beef broths are gluten-free. Check the broth label."
+  },
+  "budgetNotes": [
+    "This is close to the $15 limit because of the beef. It is the main cost, at $8.55 of the $13.75.",
+    "Stretch it with a can of drained lentils stirred into the gravy ($1.50) if you are feeding more than four.",
+    "Leftover gravy goes well on rice or toast."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Medium ground beef $19.00/kg (Butcher's Choice 450 g, $8.50; 450 g = $8.55). Russets $0.66/kg. Onion $1.07 each. Beef broth $1.69/900 mL (Campbell's). Butter $1.36/100 g. Milk $2.74/L. Frozen peas $3.37/750 g (Great Value, Walmart regular, November 2026; estimate). Worcestershire estimated."
+  }
+}

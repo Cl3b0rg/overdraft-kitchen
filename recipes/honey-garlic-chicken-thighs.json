@@ -1,0 +1,92 @@
+{
+  "id": "honey-garlic-chicken-thighs",
+  "name": "Baked Honey-Garlic Chicken Thighs",
+  "summary": "Bone-in chicken thighs baked in a honey, soy, and garlic glaze, served over rice. Mix, pour, bake.",
+  "totalCost": 13.0,
+  "costPerServing": 3.25,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "45 min",
+  "tags": [
+    "chicken",
+    "rice",
+    "oven",
+    "high-protein",
+    "kid-friendly",
+    "easy"
+  ],
+  "ingredients": [
+    {
+      "quantity": "1.2 kg",
+      "name": "bone-in, skin-on chicken thighs (about 8)",
+      "costContribution": 10.58
+    },
+    {
+      "quantity": "1/4 cup (85 g)",
+      "name": "liquid honey",
+      "costContribution": 0.85
+    },
+    {
+      "quantity": "60 mL",
+      "name": "soy sauce",
+      "costContribution": 0.31
+    },
+    {
+      "quantity": "6 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.5
+    },
+    {
+      "quantity": "300 g",
+      "name": "long-grain white rice",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "0.25 tsp",
+      "name": "black pepper",
+      "costContribution": 0.01
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 425°F (220°C). Arrange the thighs skin-side up in a baking dish.",
+    "Stir together the honey, soy sauce, garlic, and pepper. Pour it over the chicken.",
+    "Bake 40–45 minutes, spooning the sauce over the chicken once halfway through, until the skin is dark and the thickest piece reads 175°F (80°C).",
+    "While it bakes, cook the rice: 300 g rice with 600 mL water, simmered covered for 15 minutes.",
+    "Serve the thighs over rice with the pan sauce spooned on top."
+  ],
+  "nutrition": {
+    "calories": 821,
+    "protein": 45,
+    "carbs": 79,
+    "fat": 34,
+    "fiber": 1,
+    "sodium": 1100,
+    "iron": "~15% DV",
+    "calcium": "~3% DV",
+    "vitaminC": "~2% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "soy sauce (60 mL)",
+        "substitute": "tamari in the same amount",
+        "costNote": "A small bottle of tamari is about $3–$4; you use a quarter of it"
+      }
+    ],
+    "notes": "Chicken, honey, garlic, and rice are naturally gluten-free. Soy sauce is the only ingredient with wheat."
+  },
+  "budgetNotes": [
+    "Bone-in, skin-on thighs at $8.82/kg are less than half the price of boneless and stay juicier in the oven.",
+    "There's no vegetable in the base recipe to keep it under $15. Frozen mixed vegetables ($0.90 for 200 g) would bring it to about $13.90.",
+    "Line the dish with foil. The honey burns onto the pan otherwise."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Bone-in skin-on chicken thighs $8.82/kg (club pack; 1.2 kg = $10.58). Honey $9.98/1 kg (Billy Bee, Walmart regular, November 2026; estimate, not in validated table). Soy sauce $0.51/100 mL (No Name). Garlic $0.08/clove. Rice $0.25/100 g."
+  }
+}

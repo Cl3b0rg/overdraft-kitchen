@@ -1,0 +1,108 @@
+{
+  "id": "black-bean-soup",
+  "name": "Black Bean Soup",
+  "summary": "Canned black beans simmered with tomato and cumin, then mashed in the pot. Served over rice.",
+  "totalCost": 10.38,
+  "costPerServing": 2.6,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "beans",
+    "soup",
+    "one-pot",
+    "high-fiber",
+    "easy"
+  ],
+  "ingredients": [
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.33
+    },
+    {
+      "quantity": "3 cans (540 mL each)",
+      "name": "black beans, drained and rinsed",
+      "costContribution": 4.5
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "900 mL",
+      "name": "vegetable broth (or chicken broth)",
+      "costContribution": 1.69
+    },
+    {
+      "quantity": "2 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "chili powder",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "200 g",
+      "name": "long-grain white rice, for serving",
+      "costContribution": 0.5
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.01
+    }
+  ],
+  "instructions": [
+    "Start the rice: 200 g rice with 400 mL water, simmered covered for 15 minutes.",
+    "Heat the oil in a large pot over medium heat. Cook the onion 5 minutes, then add the garlic, cumin, and chili powder for 1 minute.",
+    "Add the beans, tomatoes, and broth. Bring to a boil, then simmer uncovered for 20 minutes.",
+    "Mash about half the beans right in the pot with a potato masher, or blend a few ladles and stir them back in. This thickens the soup.",
+    "Season with salt and serve over scoops of rice."
+  ],
+  "nutrition": {
+    "calories": 614,
+    "protein": 26,
+    "carbs": 106,
+    "fat": 8,
+    "fiber": 24,
+    "sodium": 1250,
+    "iron": "~35% DV",
+    "calcium": "~15% DV",
+    "vitaminC": "~30% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Beans, tomatoes, rice, and spices are naturally gluten-free. Most Campbell's ready-to-use broths are gluten-free, but check the label on whichever broth you buy."
+  },
+  "budgetNotes": [
+    "A squeeze of lime, a spoon of sour cream, or a handful of cheddar on top all work, but none are needed.",
+    "Freezes well for up to three months.",
+    "Rinsing the canned beans removes a good share of the sodium."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Black beans $1.50/540 mL (No Name). Diced tomatoes $2.00/796 mL (No Name). Broth $1.69/900 mL (Campbell's; vegetable broth assumed the same price as chicken, estimate). Onion $1.07 each. Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated."
+  }
+}
