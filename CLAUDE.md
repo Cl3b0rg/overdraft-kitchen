@@ -132,7 +132,7 @@ Verified at Ottawa No Frills, May 23 2026. Re-confirmed against live Flipp flyer
 
 Re-confirmed against live Flipp data (K2J3R9), November 25 2026: no baseline changed. Regular prices matched the table: Great Value eggs $3.93, Sealtest 2 L milk $5.48, No Name/Great Value beans ~$1.50, diced tomatoes ~$2.00, Great Value red lentils $2.97, Great Value bread $2.48, frozen mixed vegetables $3.37/750 g, Chaokoh coconut milk $2.47, Loblaws-banner medium ground beef $8.50/450 g. Walmart's regular prices for 3 lb carrots and onions ($2.74), celery ($1.97) and medium ground beef ($6.98/450 g) are lower, but that's a single snapshot and they were held. **Watch: chicken/beef broth.** Walmart's regular price for Campbell's 900 mL is now $2.22 (London Drugs $3.29). No Frills had it on flyer at $1.50, so the $1.69 No Frills baseline is held, but if No Frills' regular price is confirmed above ~$2.00, re-check Beef and Barley Soup: it reaches $15.64 at $2.22. This week's sales not chased: whole chicken $1.99/lb (No Frills), chicken breast $4.88/lb (No Frills), pork half loin $1.99/lb (No Frills), bone-in thighs $2.99/lb (Loblaws), green cabbage $0.49/lb (No Frills), Gay Lea butter $4.97.
 
-Estimates used by the November 2026 recipes (Walmart regular prices, not sales; not part of the validated table): Great Value pasta sauce $1.97/680 mL, Great Value frozen peas $3.37/750 g, Cheemo pierogies $3.47/907 g, Mr. Noodles $0.48/85 g, Billy Bee honey $9.98/1 kg. Indian set: Khaas plain yogurt (dahi) $3.28/750 g, Everest garam masala $2.88/100 g, Your Fresh Market dinner rolls $3.97/12, lemons $0.97 each (whole item). Mexican set: Tia Rosa corn tortillas $2.68/8 ($0.335 each; older recipes assumed less), limes $0.77 each (whole item), zucchini $0.66 each (whole item), Great Value bacon $3.97/pack (375 g assumed), La Costeña refried beans $3.87/546 mL (not used; homemade from $1.50 pintos instead). Chipotles in adobo, hominy, queso fresco and masa harina didn't appear in Ottawa Flipp data, so those dishes or ingredients were avoided or substituted.
+Estimates used by the November 2026 recipes (Walmart regular prices, not sales; not part of the validated table): Great Value pasta sauce $1.97/680 mL, Great Value frozen peas $3.37/750 g, Cheemo pierogies $3.47/907 g, Mr. Noodles $0.48/85 g, Billy Bee honey $9.98/1 kg. Indian set: Khaas plain yogurt (dahi) $3.28/750 g, Everest garam masala $2.88/100 g, Your Fresh Market dinner rolls $3.97/12, lemons $0.97 each (whole item). Mexican set: Tia Rosa corn tortillas $2.68/8 ($0.335 each; older recipes assumed less). Owner reports corn tortillas are generally cheaper at Food Basics, but Flipp shows no Food Basics corn tortilla price, so $2.68/8 is held as the conservative rate until a Food Basics price is confirmed, limes $0.77 each (whole item), zucchini $0.66 each (whole item), Great Value bacon $3.97/pack (375 g assumed), La Costeña refried beans $3.87/546 mL (not used; homemade from $1.50 pintos instead). Chipotles in adobo, hominy, queso fresco and masa harina didn't appear in Ottawa Flipp data, so those dishes or ingredients were avoided or substituted.
 
 | Ingredient | Size / format | Price | Rate used in recipes |
 |---|---|---|---|
@@ -251,6 +251,13 @@ Recipe summaries should be practical and direct. Examples:
 - Bad: "This hearty budget bowl will absolutely blow your mind!"
 
 Avoid: influencer language, fake storytelling, "life changing" claims, SEO filler, emojis, excessive adjectives.
+
+### Substitutions must be disclosed
+
+When a recipe swaps out a traditional or expected ingredient or method for a cheaper or easier one (e.g. smoked paprika for chipotles in adobo, cheddar for queso fresco, peanut butter for cashews, oven for grill/tandoor), add a `budgetNotes` entry that:
+1. Starts with "Substitution:" and names both the original and the replacement, with the reason.
+2. Says plainly how the **taste or texture changes**. Don't imply the swap is equivalent.
+3. Tells the reader how to use the original if they can get it (quantity and when to add it).
 
 ## Design notes
 
