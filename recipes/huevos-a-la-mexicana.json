@@ -2,8 +2,8 @@
   "id": "huevos-a-la-mexicana",
   "name": "Huevos a la Mexicana",
   "summary": "Eggs scrambled with tomato, onion, and chili, served with refried beans and warm corn tortillas.",
-  "totalCost": 12.11,
-  "costPerServing": 3.03,
+  "totalCost": 11.08,
+  "costPerServing": 2.77,
   "servings": 4,
   "prepTime": "5 min",
   "cookTime": "15 min",
@@ -50,7 +50,7 @@
     {
       "quantity": "12",
       "name": "corn tortillas",
-      "costContribution": 4.02
+      "costContribution": 2.99
     },
     {
       "quantity": "to taste",
@@ -90,8 +90,9 @@
     "updatedAt": "November 2026",
     "sources": [
       "Ottawa No Frills",
-      "Ottawa Walmart"
+      "Ottawa Walmart",
+      "Ottawa Food Basics"
     ],
-    "notes": "Eggs $0.33 each (No Name 12-pack, $3.93). Diced tomatoes $2.00. Pinto beans $1.50/540 mL. Corn tortillas $2.68/8 (Tia Rosa, Walmart regular, November 2026; estimate). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+    "notes": "Eggs $0.33 each (No Name 12-pack, $3.93). Diced tomatoes $2.00. Pinto beans $1.50/540 mL. Corn tortillas $2.99/454 g pack of 12 (La Burrita, Food Basics regular price, November 2026; $0.25 each). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
   }
 }

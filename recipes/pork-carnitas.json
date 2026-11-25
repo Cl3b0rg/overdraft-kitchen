@@ -2,8 +2,8 @@
   "id": "pork-carnitas",
   "name": "Pork Carnitas",
   "summary": "Pork shoulder slow-cooked with lime and garlic until it falls apart, then crisped under the broiler. Served with tortillas and rice.",
-  "totalCost": 13.53,
-  "costPerServing": 3.38,
+  "totalCost": 12.84,
+  "costPerServing": 3.21,
   "servings": 4,
   "prepTime": "15 min",
   "cookTime": "2 hr 45 min",
@@ -59,7 +59,7 @@
     {
       "quantity": "8",
       "name": "corn tortillas",
-      "costContribution": 2.68
+      "costContribution": 1.99
     },
     {
       "quantity": "300 g",
@@ -105,8 +105,9 @@
     "updatedAt": "November 2026",
     "sources": [
       "Ottawa No Frills",
-      "Ottawa Walmart"
+      "Ottawa Walmart",
+      "Ottawa Food Basics"
     ],
-    "notes": "Pork picnic shoulder $7.72/kg. Corn tortillas $2.68/8 (Tia Rosa, Walmart regular, November 2026; estimate). Lime $0.77 each (Walmart regular; estimate, whole item). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+    "notes": "Pork picnic shoulder $7.72/kg. Corn tortillas $2.99/454 g pack of 12 (La Burrita, Food Basics regular price, November 2026; $0.25 each). Lime $0.77 each (Walmart regular; estimate, whole item). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
   }
 }

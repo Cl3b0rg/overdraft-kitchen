@@ -2,8 +2,8 @@
   "id": "chilaquiles-rojos",
   "name": "Chilaquiles Rojos",
   "summary": "Oven-crisped tortilla wedges tossed in red sauce and topped with fried eggs, cheese, and sour cream.",
-  "totalCost": 12.8,
-  "costPerServing": 3.2,
+  "totalCost": 11.77,
+  "costPerServing": 2.94,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "25 min",
@@ -18,7 +18,7 @@
     {
       "quantity": "12",
       "name": "corn tortillas",
-      "costContribution": 4.02
+      "costContribution": 2.99
     },
     {
       "quantity": "3 tbsp",
@@ -114,8 +114,9 @@
     "updatedAt": "November 2026",
     "sources": [
       "Ottawa No Frills",
-      "Ottawa Walmart"
+      "Ottawa Walmart",
+      "Ottawa Food Basics"
     ],
-    "notes": "Corn tortillas $2.68/8 (Tia Rosa, Walmart regular, November 2026; estimate). Crushed tomatoes $2.00. Eggs $0.33 each (No Name 12-pack). Broth $1.69/900 mL (Campbell's). Cheddar $1.43/100 g (site estimate; stands in for queso fresco, which isn't reliably stocked). Sour cream $2.80/500 mL (No Name, estimate). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+    "notes": "Corn tortillas $2.99/454 g pack of 12 (La Burrita, Food Basics regular price, November 2026; $0.25 each). Crushed tomatoes $2.00. Eggs $0.33 each (No Name 12-pack). Broth $1.69/900 mL (Campbell's). Cheddar $1.43/100 g (site estimate; stands in for queso fresco, which isn't reliably stocked). Sour cream $2.80/500 mL (No Name, estimate). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
   }
 }

@@ -2,8 +2,8 @@
   "id": "black-bean-tacos",
   "name": "Black Bean Tacos",
   "summary": "Spiced black beans in corn tortillas with a quick tomato topping and shredded cabbage. Four tacos per serving.",
-  "totalCost": 9.91,
-  "costPerServing": 2.48,
+  "totalCost": 12.24,
+  "costPerServing": 3.06,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "15 min",
@@ -23,8 +23,8 @@
     },
     {
       "quantity": "16",
-      "name": "corn tortillas (from a 24-count package)",
-      "costContribution": 1.66
+      "name": "corn tortillas",
+      "costContribution": 3.99
     },
     {
       "quantity": "1 can (796 mL)",
@@ -108,11 +108,12 @@
     "Hot sauce or pickled jalapeños are cheap additions if you have them."
   ],
   "pricingMetadata": {
-    "updatedAt": "September 2026",
+    "updatedAt": "November 2026",
     "sources": [
       "Ottawa No Frills",
-      "Ottawa Walmart"
+      "Ottawa Walmart",
+      "Ottawa Food Basics"
     ],
-    "notes": "Prices verified at Ottawa No Frills, September 2026. Black beans $1.50/540mL can. Diced tomatoes $2.00/796mL can. Onion $1.07 each. Cabbage $2.99/kg. Corn tortillas proportional from a 24-count package."
+    "notes": "Prices verified at Ottawa No Frills, September 2026. Black beans $1.50/540mL can. Diced tomatoes $2.00/796mL can. Onion $1.07 each. Cabbage $2.99/kg. Corn tortillas $2.99/454 g pack of 12 (La Burrita, Food Basics regular price, November 2026; $0.25 each)."
   }
 }

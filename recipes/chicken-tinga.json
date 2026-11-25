@@ -2,8 +2,8 @@
   "id": "chicken-tinga",
   "name": "Chicken Tinga",
   "summary": "Shredded chicken in a smoky tomato and onion sauce, served with warm corn tortillas and rice.",
-  "totalCost": 13.93,
-  "costPerServing": 3.48,
+  "totalCost": 13.24,
+  "costPerServing": 3.31,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "45 min",
@@ -68,7 +68,7 @@
     {
       "quantity": "8",
       "name": "corn tortillas",
-      "costContribution": 2.68
+      "costContribution": 1.99
     },
     {
       "quantity": "200 g",
@@ -113,8 +113,9 @@
     "updatedAt": "November 2026",
     "sources": [
       "Ottawa No Frills",
-      "Ottawa Walmart"
+      "Ottawa Walmart",
+      "Ottawa Food Basics"
     ],
-    "notes": "Bone-in skin-on chicken thighs $8.82/kg (800 g = $7.06). Crushed tomatoes $2.00/796 mL. Corn tortillas $2.68/8 (Tia Rosa, Walmart regular, November 2026; estimate). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+    "notes": "Bone-in skin-on chicken thighs $8.82/kg (800 g = $7.06). Crushed tomatoes $2.00/796 mL. Corn tortillas $2.99/454 g pack of 12 (La Burrita, Food Basics regular price, November 2026; $0.25 each). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
   }
 }

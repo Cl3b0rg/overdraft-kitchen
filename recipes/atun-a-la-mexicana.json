@@ -2,8 +2,8 @@
   "id": "atun-a-la-mexicana",
   "name": "Atún a la Mexicana",
   "summary": "Canned tuna cooked with tomato, onion, and chili, served with rice, tortillas, and lime. A Lenten staple in Mexico.",
-  "totalCost": 12.78,
-  "costPerServing": 3.19,
+  "totalCost": 12.09,
+  "costPerServing": 3.02,
   "servings": 4,
   "prepTime": "5 min",
   "cookTime": "20 min",
@@ -54,7 +54,7 @@
     {
       "quantity": "8",
       "name": "corn tortillas",
-      "costContribution": 2.68
+      "costContribution": 1.99
     },
     {
       "quantity": "1",
@@ -100,8 +100,9 @@
     "updatedAt": "November 2026",
     "sources": [
       "Ottawa No Frills",
-      "Ottawa Walmart"
+      "Ottawa Walmart",
+      "Ottawa Food Basics"
     ],
-    "notes": "Tuna $1.29/170 g can (No Name, site estimate). Diced tomatoes $2.00. Corn tortillas $2.68/8 (Tia Rosa, Walmart regular, November 2026; estimate). Lime $0.77 each (Walmart regular; estimate, whole item). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+    "notes": "Tuna $1.29/170 g can (No Name, site estimate). Diced tomatoes $2.00. Corn tortillas $2.99/454 g pack of 12 (La Burrita, Food Basics regular price, November 2026; $0.25 each). Lime $0.77 each (Walmart regular; estimate, whole item). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
   }
 }

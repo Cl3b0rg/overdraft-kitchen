@@ -2,8 +2,8 @@
   "id": "sopa-de-lentejas",
   "name": "Sopa de Lentejas",
   "summary": "Mexican-style green lentil soup with potato, carrot, and tomato, served with corn tortillas and lime.",
-  "totalCost": 10.92,
-  "costPerServing": 2.73,
+  "totalCost": 10.23,
+  "costPerServing": 2.56,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "40 min",
@@ -81,7 +81,7 @@
     {
       "quantity": "8",
       "name": "corn tortillas",
-      "costContribution": 2.68
+      "costContribution": 1.99
     },
     {
       "quantity": "to taste",
@@ -121,8 +121,9 @@
     "updatedAt": "November 2026",
     "sources": [
       "Ottawa No Frills",
-      "Ottawa Walmart"
+      "Ottawa Walmart",
+      "Ottawa Food Basics"
     ],
-    "notes": "Green lentils $0.42/100 g (PC Blue Menu 900 g, $3.79). Carrots ~$2.93/kg. Russets $0.66/kg. Diced tomatoes $2.00. Broth $1.69/900 mL (Campbell's; vegetable assumed same price, estimate). Corn tortillas $2.68/8 (Tia Rosa, Walmart regular, November 2026; estimate). Lime $0.77 each (Walmart regular; estimate, whole item). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+    "notes": "Green lentils $0.42/100 g (PC Blue Menu 900 g, $3.79). Carrots ~$2.93/kg. Russets $0.66/kg. Diced tomatoes $2.00. Broth $1.69/900 mL (Campbell's; vegetable assumed same price, estimate). Corn tortillas $2.99/454 g pack of 12 (La Burrita, Food Basics regular price, November 2026; $0.25 each). Lime $0.77 each (Walmart regular; estimate, whole item). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
   }
 }

@@ -2,8 +2,8 @@
   "id": "tacos-de-papa",
   "name": "Tacos de Papa",
   "summary": "Corn tortillas filled with cheesy mashed potato and pan-fried until crisp. Topped with shredded cabbage, salsa, and sour cream.",
-  "totalCost": 12.87,
-  "costPerServing": 3.22,
+  "totalCost": 11.5,
+  "costPerServing": 2.88,
   "servings": 4,
   "prepTime": "20 min",
   "cookTime": "25 min",
@@ -28,7 +28,7 @@
     {
       "quantity": "16",
       "name": "corn tortillas",
-      "costContribution": 5.36
+      "costContribution": 3.99
     },
     {
       "quantity": "6 tbsp",
@@ -104,8 +104,9 @@
     "updatedAt": "November 2026",
     "sources": [
       "Ottawa No Frills",
-      "Ottawa Walmart"
+      "Ottawa Walmart",
+      "Ottawa Food Basics"
     ],
-    "notes": "Russets $0.66/kg. Corn tortillas $2.68/8 (Tia Rosa, Walmart regular, November 2026; estimate). Green cabbage $2.18/head (whole-item rule). Diced tomatoes $2.00. Oil $0.42/100 mL. Cheddar $1.43/100 g (site estimate; stands in for queso fresco, which isn't reliably stocked). Sour cream $2.80/500 mL (No Name, estimate). Spices estimated."
+    "notes": "Russets $0.66/kg. Corn tortillas $2.99/454 g pack of 12 (La Burrita, Food Basics regular price, November 2026; $0.25 each). Green cabbage $2.18/head (whole-item rule). Diced tomatoes $2.00. Oil $0.42/100 mL. Cheddar $1.43/100 g (site estimate; stands in for queso fresco, which isn't reliably stocked). Sour cream $2.80/500 mL (No Name, estimate). Spices estimated."
   }
 }

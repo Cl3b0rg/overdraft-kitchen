@@ -2,8 +2,8 @@
   "id": "enfrijoladas",
   "name": "Enfrijoladas",
   "summary": "Corn tortillas filled with scrambled egg and folded under a smooth black bean sauce, topped with cheese and sour cream.",
-  "totalCost": 12.43,
-  "costPerServing": 3.11,
+  "totalCost": 11.4,
+  "costPerServing": 2.85,
   "servings": 4,
   "prepTime": "10 min",
   "cookTime": "20 min",
@@ -19,7 +19,7 @@
     {
       "quantity": "12",
       "name": "corn tortillas",
-      "costContribution": 4.02
+      "costContribution": 2.99
     },
     {
       "quantity": "2 cans (540 mL each)",
@@ -98,15 +98,16 @@
   "budgetNotes": [
     "Substitution: cheddar replaces queso fresco, which isn't reliably stocked at Ottawa chain stores. The taste changes: queso fresco is mild, milky and slightly salty, and crumbles without melting. Cheddar is sharper and melts into strings. If you find queso fresco or feta, crumble it on at the end instead.",
     "Enfrijoladas are the cheaper cousin of enchiladas. The bean sauce is the whole dish.",
-    "Skip the egg filling to make them plain, the way they're often eaten, at about $11.10.",
+    "Skip the egg filling to make them plain, the way they're often eaten, at about $10.10.",
     "The bean sauce thickens as it sits, so loosen it with water before reheating."
   ],
   "pricingMetadata": {
     "updatedAt": "November 2026",
     "sources": [
       "Ottawa No Frills",
-      "Ottawa Walmart"
+      "Ottawa Walmart",
+      "Ottawa Food Basics"
     ],
-    "notes": "Corn tortillas $2.68/8 (Tia Rosa, Walmart regular, November 2026; estimate). Black beans $1.50/540 mL (No Name). Eggs $0.33 each. Broth $1.69/900 mL. Cheddar $1.43/100 g (site estimate; stands in for queso fresco, which isn't reliably stocked). Sour cream $2.80/500 mL (No Name, estimate). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
+    "notes": "Corn tortillas $2.99/454 g pack of 12 (La Burrita, Food Basics regular price, November 2026; $0.25 each). Black beans $1.50/540 mL (No Name). Eggs $0.33 each. Broth $1.69/900 mL. Cheddar $1.43/100 g (site estimate; stands in for queso fresco, which isn't reliably stocked). Sour cream $2.80/500 mL (No Name, estimate). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL. Rice $0.25/100 g. Spices estimated at ~$0.05/tsp."
   }
 }
