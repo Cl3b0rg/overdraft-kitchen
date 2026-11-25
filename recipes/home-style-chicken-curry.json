@@ -1,0 +1,128 @@
+{
+  "id": "home-style-chicken-curry",
+  "name": "Home-Style Chicken Curry",
+  "summary": "Bone-in chicken thighs simmered in an onion-tomato masala, served with rice. The everyday version, not the takeout one.",
+  "totalCost": 13.77,
+  "costPerServing": 3.44,
+  "servings": 4,
+  "prepTime": "15 min",
+  "cookTime": "45 min",
+  "tags": [
+    "chicken",
+    "rice",
+    "curry",
+    "indian",
+    "gluten-free",
+    "high-protein",
+    "one-pot"
+  ],
+  "ingredients": [
+    {
+      "quantity": "1 kg",
+      "name": "bone-in, skin-on chicken thighs, skin removed",
+      "costContribution": 8.82
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, finely diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "6 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.5
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "fresh ginger, grated (or 1 tsp ground)",
+      "costContribution": 0.2
+    },
+    {
+      "quantity": "1",
+      "name": "bay leaf",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground coriander",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "turmeric",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "chili powder (or cayenne for more heat)",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "garam masala",
+      "costContribution": 0.07
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "crushed tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "300 g",
+      "name": "long-grain white rice (or basmati)",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Pull the skin off the thighs (it comes away easily) and season the chicken with salt.",
+    "Heat the oil in a large pot over medium heat. Add the bay leaf and onion and cook 10 minutes until deep golden.",
+    "Add the garlic and ginger for 1 minute, then the cumin, coriander, turmeric, and chili for 30 seconds.",
+    "Add the crushed tomatoes and cook 5 minutes until thick and the oil starts to separate.",
+    "Add the chicken and 250 mL water. Cover and simmer 30–35 minutes, turning once, until the meat pulls off the bone. Meanwhile, cook the rice: 300 g rice with 600 mL water, simmered covered for 15 minutes, then rested 5 minutes.",
+    "Stir in the garam masala, season with salt, and serve over the rice."
+  ],
+  "nutrition": {
+    "calories": 628,
+    "protein": 42,
+    "carbs": 70,
+    "fat": 20,
+    "fiber": 4,
+    "sodium": 990,
+    "iron": "~20% DV",
+    "calcium": "~8% DV",
+    "vitaminC": "~25% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Chicken, tomatoes, rice, and spices are naturally gluten-free. Check the garam masala label for added flour."
+  },
+  "budgetNotes": [
+    "Bone-in thighs at $8.82/kg are half the price of boneless and give a better gravy. Pull the meat off the bones before serving if you prefer.",
+    "Removing the skin keeps the curry from going greasy. Crisp the skins in a dry pan for a cook's snack.",
+    "A spoon of plain yogurt stirred in at the end makes it creamier."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Bone-in skin-on chicken thighs $8.82/kg (club pack; 1 kg = $8.82). Crushed tomatoes $2.00/796 mL (No Name). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL (No Name). Rice $0.25/100 g (No Name 2 kg). Ginger estimated at $0.20/tbsp (site estimate). Ground spices estimated at ~$0.05/tsp; garam masala $2.88/100 g (Everest, Walmart regular, November 2026; estimate)."
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "aloo-matar",
+  "name": "Aloo Matar",
+  "summary": "Potatoes and peas in a cumin-spiced tomato gravy, served with rice. Cheap, vegan, and filling.",
+  "totalCost": 7.17,
+  "costPerServing": 1.79,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "potatoes",
+    "rice",
+    "indian",
+    "one-pot",
+    "low-cost"
+  ],
+  "ingredients": [
+    {
+      "quantity": "3 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.19
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, finely diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.25
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "fresh ginger, grated (or 1 tsp ground)",
+      "costContribution": 0.2
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground coriander",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "turmeric",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "chili powder (or cayenne for more heat)",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "garam masala",
+      "costContribution": 0.07
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "1 kg",
+      "name": "russet potatoes, peeled and cut into 2 cm cubes",
+      "costContribution": 0.66
+    },
+    {
+      "quantity": "400 g",
+      "name": "frozen peas",
+      "costContribution": 1.8
+    },
+    {
+      "quantity": "300 g",
+      "name": "long-grain white rice (or basmati)",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Cook the rice: 300 g rice with 600 mL water, simmered covered for 15 minutes, then rested 5 minutes.",
+    "Heat the oil in a pot over medium heat. Cook the onion 8 minutes until golden. Add the garlic and ginger for 1 minute, then the cumin, coriander, turmeric, and chili for 30 seconds.",
+    "Add the tomatoes and cook 5 minutes, stirring, until thick.",
+    "Add the potatoes, 1 tsp salt, and 400 mL water. Cover and simmer 15 minutes until the potatoes are tender.",
+    "Stir in the frozen peas and garam masala. Simmer uncovered 3–4 minutes. Serve with the rice."
+  ],
+  "nutrition": {
+    "calories": 681,
+    "protein": 17,
+    "carbs": 127,
+    "fat": 12,
+    "fiber": 15,
+    "sodium": 925,
+    "iron": "~25% DV",
+    "calcium": "~8% DV",
+    "vitaminC": "~90% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Potatoes, peas, tomatoes, rice, and spices are naturally gluten-free. Check the garam masala label for added flour."
+  },
+  "budgetNotes": [
+    "This is one of the cheapest dinners on the site at under $1.80 a serving.",
+    "Roti or chapati is the usual pairing. The Aloo Paratha dough (flour, water, salt) makes plain chapati for about $0.40.",
+    "Add a drained can of chickpeas ($1.50) if you want more protein."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Russets $2.99/10 lb bag ($0.66/kg). Frozen peas $3.37/750 g (Great Value, Walmart regular, November 2026; estimate). Diced tomatoes $2.00/796 mL. Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL (No Name). Rice $0.25/100 g (No Name 2 kg). Ginger estimated at $0.20/tbsp (site estimate). Ground spices estimated at ~$0.05/tsp; garam masala $2.88/100 g (Everest, Walmart regular, November 2026; estimate)."
+  }
+}

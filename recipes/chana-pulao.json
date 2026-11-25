@@ -1,0 +1,132 @@
+{
+  "id": "chana-pulao",
+  "name": "Chana Pulao",
+  "summary": "Basmati-style rice cooked with chickpeas, peas, and whole spices in broth, served with a quick yogurt raita.",
+  "totalCost": 8.84,
+  "costPerServing": 2.21,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": [
+    "vegetarian",
+    "chickpeas",
+    "rice",
+    "indian",
+    "gluten-free",
+    "one-pot",
+    "high-fiber"
+  ],
+  "ingredients": [
+    {
+      "quantity": "3 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.19
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, thinly sliced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.25
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "fresh ginger, grated (or 1 tsp ground)",
+      "costContribution": 0.2
+    },
+    {
+      "quantity": "2",
+      "name": "bay leaves",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "ground cinnamon",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "turmeric",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "garam masala",
+      "costContribution": 0.07
+    },
+    {
+      "quantity": "300 g",
+      "name": "long-grain white rice (or basmati)",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "2 cans (540 mL each)",
+      "name": "chickpeas, drained and rinsed",
+      "costContribution": 3.0
+    },
+    {
+      "quantity": "200 g",
+      "name": "frozen peas",
+      "costContribution": 0.9
+    },
+    {
+      "quantity": "600 mL",
+      "name": "vegetable or chicken broth",
+      "costContribution": 1.13
+    },
+    {
+      "quantity": "250 g",
+      "name": "plain yogurt, for the raita",
+      "costContribution": 1.09
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in a sieve until the water runs mostly clear.",
+    "Heat the oil in a pot with a tight lid over medium heat. Add the bay leaves, cinnamon, and cumin for 20 seconds, then the onion. Cook 8 minutes until golden.",
+    "Add the garlic, ginger, and turmeric for 1 minute. Add the rice and stir 1 minute to coat it in the oil.",
+    "Add the chickpeas, peas, broth, and 0.5 tsp salt. Bring to a boil, then cover and cook on the lowest heat for 15 minutes. Don't lift the lid.",
+    "Rest 5 minutes off the heat, then sprinkle with garam masala and fluff with a fork. Stir a pinch of salt and cumin into the yogurt and serve it on the side."
+  ],
+  "nutrition": {
+    "calories": 663,
+    "protein": 22,
+    "carbs": 107,
+    "fat": 16,
+    "fiber": 14,
+    "sodium": 1070,
+    "iron": "~30% DV",
+    "calcium": "~18% DV",
+    "vitaminC": "~15% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Rice, chickpeas, yogurt, and spices are naturally gluten-free. Check the broth and garam masala labels."
+  },
+  "budgetNotes": [
+    "Skip the yogurt and use vegetable broth to make it vegan, at about $7.75 total.",
+    "Rinsing the rice is what keeps the grains separate instead of mushy.",
+    "Good with a fried egg on top for extra protein, about $0.33 a person."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Chickpeas $1.50/540 mL (No Name). Broth $1.69/900 mL (Campbell's; 600 mL = $1.13; vegetable broth assumed same price, estimate). Frozen peas $3.37/750 g (Great Value, estimate). Plain yogurt $3.28/750 g (Khaas dahi, Walmart regular, November 2026; estimate, not in validated table). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL (No Name). Rice $0.25/100 g (No Name 2 kg). Ginger estimated at $0.20/tbsp (site estimate). Ground spices estimated at ~$0.05/tsp; garam masala $2.88/100 g (Everest, Walmart regular, November 2026; estimate)."
+  }
+}

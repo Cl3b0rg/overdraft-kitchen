@@ -1,0 +1,121 @@
+{
+  "id": "tandoori-chicken-thighs",
+  "name": "Tandoori-Style Chicken Thighs",
+  "summary": "Bone-in thighs marinated in spiced yogurt and roasted hot, served with rice and a yogurt-lemon sauce.",
+  "totalCost": 13.09,
+  "costPerServing": 3.27,
+  "servings": 4,
+  "prepTime": "15 min (plus 1 hour marinating)",
+  "cookTime": "40 min",
+  "tags": [
+    "chicken",
+    "rice",
+    "indian",
+    "oven",
+    "gluten-free",
+    "high-protein"
+  ],
+  "ingredients": [
+    {
+      "quantity": "1 kg",
+      "name": "bone-in, skin-on chicken thighs (about 6)",
+      "costContribution": 8.82
+    },
+    {
+      "quantity": "375 g",
+      "name": "plain yogurt, divided",
+      "costContribution": 1.64
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.33
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "fresh ginger, grated (or 1 tsp ground)",
+      "costContribution": 0.2
+    },
+    {
+      "quantity": "1",
+      "name": "lemon",
+      "costContribution": 0.97
+    },
+    {
+      "quantity": "2 tsp",
+      "name": "chili powder (or cayenne for more heat)",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground coriander",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "turmeric",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "garam masala",
+      "costContribution": 0.07
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.06
+    },
+    {
+      "quantity": "300 g",
+      "name": "long-grain white rice (or basmati)",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Mix 250 g of the yogurt with the garlic, ginger, the juice of half the lemon, the chili, cumin, coriander, turmeric, garam masala, oil, and 1.5 tsp salt.",
+    "Cut 2–3 deep slashes in each thigh and coat in the marinade. Refrigerate at least 1 hour, or overnight.",
+    "Heat the oven to 450°F (230°C). Lay the thighs skin-side up on a foil-lined baking sheet and roast 35–40 minutes until charred at the edges and 175°F (80°C) inside.",
+    "While it roasts, cook the rice: 300 g rice with 600 mL water, simmered covered for 15 minutes, then rested 5 minutes.",
+    "Stir the remaining 125 g yogurt with the juice of the other lemon half and a pinch of salt. Serve the chicken over rice with the sauce."
+  ],
+  "nutrition": {
+    "calories": 728,
+    "protein": 40,
+    "carbs": 66,
+    "fat": 33,
+    "fiber": 1,
+    "sodium": 1075,
+    "iron": "~15% DV",
+    "calcium": "~15% DV",
+    "vitaminC": "~15% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Chicken, plain yogurt, rice, and spices are naturally gluten-free. Check the garam masala label for added flour."
+  },
+  "budgetNotes": [
+    "The yogurt marinade tenderizes cheap bone-in thighs. Overnight is best, but one hour works.",
+    "Real tandoori colour comes from food colouring. This version skips it. The chili powder gives it a red edge anyway.",
+    "If the budget allows, a cucumber ($1.50) grated into the yogurt sauce makes a proper raita. That puts the total at about $14.60."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Bone-in skin-on chicken thighs $8.82/kg (club pack). Plain yogurt $3.28/750 g (Khaas dahi, Walmart regular, November 2026; estimate, not in validated table). Lemon $0.97 each (Walmart, estimate; whole item). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL (No Name). Rice $0.25/100 g (No Name 2 kg). Ginger estimated at $0.20/tbsp (site estimate). Ground spices estimated at ~$0.05/tsp; garam masala $2.88/100 g (Everest, Walmart regular, November 2026; estimate)."
+  }
+}

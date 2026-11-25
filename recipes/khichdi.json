@@ -1,0 +1,112 @@
+{
+  "id": "khichdi",
+  "name": "Khichdi",
+  "summary": "Rice and red lentils cooked together into a soft porridge with cumin, butter, and vegetables. Indian comfort food.",
+  "totalCost": 4.71,
+  "costPerServing": 1.18,
+  "servings": 4,
+  "prepTime": "5 min",
+  "cookTime": "30 min",
+  "tags": [
+    "vegetarian",
+    "lentils",
+    "rice",
+    "indian",
+    "gluten-free",
+    "one-pot",
+    "very-low-cost"
+  ],
+  "ingredients": [
+    {
+      "quantity": "200 g",
+      "name": "long-grain white rice, rinsed",
+      "costContribution": 0.5
+    },
+    {
+      "quantity": "200 g",
+      "name": "red split lentils, rinsed",
+      "costContribution": 0.66
+    },
+    {
+      "quantity": "3 tbsp (42 g)",
+      "name": "butter (or ghee)",
+      "costContribution": 0.57
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "3 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.25
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "fresh ginger, grated (or 1 tsp ground)",
+      "costContribution": 0.2
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "turmeric",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "300 g",
+      "name": "frozen mixed vegetables",
+      "costContribution": 1.35
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "salt",
+      "costContribution": 0.02
+    },
+    {
+      "quantity": "0.25 tsp",
+      "name": "black pepper",
+      "costContribution": 0.01
+    }
+  ],
+  "instructions": [
+    "Melt 2 tbsp of the butter in a large pot over medium heat. Add the cumin and let it sizzle for 20 seconds, then add the onion and cook 5 minutes.",
+    "Add the garlic, ginger, and turmeric for 1 minute.",
+    "Add the rice, lentils, salt, and 1.5 L water. Bring to a boil, then cover and simmer on low for 20 minutes, stirring now and then so it doesn't stick.",
+    "Stir in the frozen vegetables and cook 5 minutes more. It should be loose and porridge-like, so add hot water if it gets too thick.",
+    "Stir in the last tablespoon of butter and the pepper. Serve hot."
+  ],
+  "nutrition": {
+    "calories": 493,
+    "protein": 18,
+    "carbs": 82,
+    "fat": 9,
+    "fiber": 10,
+    "sodium": 680,
+    "iron": "~30% DV",
+    "calcium": "~6% DV",
+    "vitaminC": "~10% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Rice, lentils, butter, vegetables, and spices are naturally gluten-free."
+  },
+  "budgetNotes": [
+    "At about $1.18 a serving, this is among the cheapest meals on the site.",
+    "It's what a lot of Indian households make when someone is sick, or when the fridge is empty.",
+    "Use vegetable oil instead of butter for a vegan version, and it's still under $5."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Red split lentils $0.33/100 g (Great Value 900 g, $2.97). Rice $0.25/100 g. Butter $1.36/100 g (No Name). Frozen mixed vegetables $0.45/100 g (Great Value 750 g, $3.37). Onion $1.07 each. Garlic $0.08/clove. Ginger and spices estimated."
+  }
+}

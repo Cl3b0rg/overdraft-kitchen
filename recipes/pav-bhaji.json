@@ -1,0 +1,126 @@
+{
+  "id": "pav-bhaji",
+  "name": "Pav Bhaji",
+  "summary": "Potatoes and mixed vegetables mashed into a buttery spiced tomato curry, eaten with toasted buttered rolls. Mumbai street food.",
+  "totalCost": 13.63,
+  "costPerServing": 3.41,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": [
+    "vegetarian",
+    "potatoes",
+    "indian",
+    "comfort-food",
+    "kid-friendly"
+  ],
+  "ingredients": [
+    {
+      "quantity": "750 g",
+      "name": "russet potatoes, peeled and quartered",
+      "costContribution": 0.49
+    },
+    {
+      "quantity": "750 g bag",
+      "name": "frozen mixed vegetables",
+      "costContribution": 3.37
+    },
+    {
+      "quantity": "6 tbsp (85 g)",
+      "name": "butter, divided",
+      "costContribution": 1.16
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, finely diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.33
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "2 tsp",
+      "name": "chili powder (or cayenne for more heat)",
+      "costContribution": 0.1
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "garam masala",
+      "costContribution": 0.07
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "turmeric",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1",
+      "name": "lemon, cut into wedges",
+      "costContribution": 0.97
+    },
+    {
+      "quantity": "12",
+      "name": "plain dinner rolls",
+      "costContribution": 3.97
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes 15 minutes until soft. Add the frozen vegetables for the last 5 minutes. Drain, then mash together roughly.",
+    "Melt 3 tbsp butter in a wide pan over medium heat. Cook the onion 6 minutes, then add the garlic, chili powder, cumin, turmeric, and garam masala for 1 minute.",
+    "Add the tomatoes and cook 5 minutes, mashing them. Add the potato-vegetable mash and 250 mL water.",
+    "Simmer 10 minutes, mashing and stirring, until thick and smooth. Season with salt and a squeeze of lemon.",
+    "Split the rolls, spread with the rest of the butter, and toast cut-side down in a hot pan. Serve 3 rolls per person with the bhaji and lemon wedges."
+  ],
+  "nutrition": {
+    "calories": 797,
+    "protein": 22,
+    "carbs": 127,
+    "fat": 22,
+    "fiber": 17,
+    "sodium": 1640,
+    "iron": "~30% DV",
+    "calcium": "~15% DV",
+    "vitaminC": "~70% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "dinner rolls (12)",
+        "substitute": "300 g rice, cooked, with the bhaji spooned over it",
+        "costNote": "Rice costs $0.75 instead of $3.97, bringing the total to about $10.40"
+      }
+    ],
+    "notes": "The bhaji itself is naturally gluten-free. The rolls are the only source of gluten."
+  },
+  "budgetNotes": [
+    "Pav bhaji masala (a spice blend sold at South Asian grocers for about $3) is the real thing. The chili, cumin, and garam masala here are a stand-in.",
+    "Plain sandwich bread toasted in butter works if rolls aren't cheap this week. 12 slices cost about $1.49.",
+    "The bhaji freezes well. The rolls don't."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Russets $0.66/kg. Frozen mixed vegetables $3.37/750 g (Great Value). Butter $1.36/100 g (No Name). Diced tomatoes $2.00. Onion $1.07. Garlic $0.08/clove. Dinner rolls $3.97/12 (Your Fresh Market, Walmart regular, November 2026; estimate). Lemon $0.97 each (Walmart, estimate). Spices estimated; garam masala $2.88/100 g (estimate)."
+  }
+}

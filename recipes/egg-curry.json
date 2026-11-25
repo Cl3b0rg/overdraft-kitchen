@@ -1,0 +1,127 @@
+{
+  "id": "egg-curry",
+  "name": "Egg Curry",
+  "summary": "Hard-boiled eggs and peas in a spiced onion-tomato gravy over rice. Two eggs per person.",
+  "totalCost": 9.34,
+  "costPerServing": 2.33,
+  "servings": 4,
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "tags": [
+    "vegetarian",
+    "eggs",
+    "rice",
+    "curry",
+    "indian",
+    "gluten-free",
+    "low-cost"
+  ],
+  "ingredients": [
+    {
+      "quantity": "8 large",
+      "name": "eggs",
+      "costContribution": 2.62
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "vegetable oil",
+      "costContribution": 0.13
+    },
+    {
+      "quantity": "2",
+      "name": "yellow onions, finely diced",
+      "costContribution": 2.14
+    },
+    {
+      "quantity": "4 cloves",
+      "name": "garlic, minced",
+      "costContribution": 0.33
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "fresh ginger, grated (or 1 tsp ground)",
+      "costContribution": 0.2
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground coriander",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "turmeric",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "chili powder (or cayenne for more heat)",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "garam masala",
+      "costContribution": 0.07
+    },
+    {
+      "quantity": "1 can (796 mL)",
+      "name": "diced tomatoes",
+      "costContribution": 2.0
+    },
+    {
+      "quantity": "200 g",
+      "name": "frozen peas",
+      "costContribution": 0.9
+    },
+    {
+      "quantity": "300 g",
+      "name": "long-grain white rice (or basmati)",
+      "costContribution": 0.75
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Boil the eggs for 10 minutes, then cool them in cold water and peel. Cut a few shallow slits in each egg so the gravy soaks in. Cook the rice: 300 g rice with 600 mL water, simmered covered for 15 minutes, then rested 5 minutes.",
+    "Heat the oil in a wide pan over medium heat. Cook the onions 10–12 minutes until deep golden.",
+    "Add the garlic and ginger for 1 minute, then the cumin, coriander, turmeric, and chili for 30 seconds.",
+    "Add the tomatoes and 250 mL water. Simmer 8 minutes until thick, then add the peas and 1 tsp salt.",
+    "Nestle the eggs into the gravy and simmer 5 minutes, spooning it over them. Stir in the garam masala and serve over rice."
+  ],
+  "nutrition": {
+    "calories": 582,
+    "protein": 23,
+    "carbs": 82,
+    "fat": 17,
+    "fiber": 7,
+    "sodium": 1015,
+    "iron": "~25% DV",
+    "calcium": "~12% DV",
+    "vitaminC": "~35% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": true,
+    "substitutions": [],
+    "notes": "Eggs, tomatoes, peas, rice, and spices are naturally gluten-free. Check the garam masala label for added flour."
+  },
+  "budgetNotes": [
+    "Eggs are the cheapest complete protein on the site at about $0.33 each.",
+    "Frying the peeled eggs for a minute in a little oil with a pinch of turmeric before adding them gives them a chewy skin. It's traditional but optional.",
+    "Use two onions, not one. The onion is what makes the gravy thick."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Eggs $0.33 each (No Name 12-pack, $3.93). Diced tomatoes $2.00/796 mL. Frozen peas $3.37/750 g (Great Value, Walmart regular, November 2026; estimate). Onion $1.07 each (whole-item rule). Garlic $0.08/clove. Oil $0.42/100 mL (No Name). Rice $0.25/100 g (No Name 2 kg). Ginger estimated at $0.20/tbsp (site estimate). Ground spices estimated at ~$0.05/tsp; garam masala $2.88/100 g (Everest, Walmart regular, November 2026; estimate)."
+  }
+}

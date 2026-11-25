@@ -1,0 +1,112 @@
+{
+  "id": "aloo-paratha",
+  "name": "Aloo Paratha",
+  "summary": "Flatbreads stuffed with spiced mashed potato and pan-fried, served with butter and plain yogurt. Two per person.",
+  "totalCost": 4.76,
+  "costPerServing": 1.19,
+  "servings": 4,
+  "prepTime": "30 min",
+  "cookTime": "25 min",
+  "tags": [
+    "vegetarian",
+    "potatoes",
+    "indian",
+    "breakfast",
+    "comfort-food",
+    "very-low-cost"
+  ],
+  "ingredients": [
+    {
+      "quantity": "400 g (about 3 cups)",
+      "name": "all-purpose flour",
+      "costContribution": 0.4
+    },
+    {
+      "quantity": "1 kg",
+      "name": "russet potatoes, peeled and quartered",
+      "costContribution": 0.66
+    },
+    {
+      "quantity": "1",
+      "name": "yellow onion, very finely diced",
+      "costContribution": 1.07
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "ground cumin",
+      "costContribution": 0.05
+    },
+    {
+      "quantity": "1 tsp",
+      "name": "garam masala",
+      "costContribution": 0.07
+    },
+    {
+      "quantity": "0.5 tsp",
+      "name": "chili powder (or cayenne for more heat)",
+      "costContribution": 0.03
+    },
+    {
+      "quantity": "4 tbsp",
+      "name": "vegetable oil (for the dough and the pan)",
+      "costContribution": 0.25
+    },
+    {
+      "quantity": "3 tbsp (42 g)",
+      "name": "butter, for serving",
+      "costContribution": 0.57
+    },
+    {
+      "quantity": "375 g",
+      "name": "plain yogurt, for serving",
+      "costContribution": 1.64
+    },
+    {
+      "quantity": "to taste",
+      "name": "salt",
+      "costContribution": 0.02
+    }
+  ],
+  "instructions": [
+    "Mix the flour, 1 tsp salt, 1 tbsp oil, and about 250 mL water into a soft dough. Knead 3 minutes and rest it covered while you make the filling.",
+    "Boil the potatoes 15 minutes until soft. Drain well and mash with the onion, cumin, garam masala, chili, and 1 tsp salt. Let cool so it is easy to handle.",
+    "Divide the dough and filling into 8 portions each. Flatten a dough ball into a 10 cm circle, put a ball of filling in the centre, pull the edges up to seal, and press flat.",
+    "Dust with flour and gently roll each into an 18 cm round. Some filling peeking out is fine.",
+    "Cook in a dry, hot skillet 1 minute per side, then brush with oil and fry 1–2 minutes more per side until golden spots appear. Serve with butter and yogurt."
+  ],
+  "nutrition": {
+    "calories": 821,
+    "protein": 19,
+    "carbs": 125,
+    "fat": 26,
+    "fiber": 9,
+    "sodium": 970,
+    "iron": "~25% DV",
+    "calcium": "~15% DV",
+    "vitaminC": "~45% DV"
+  },
+  "glutenFree": {
+    "isNaturallyGF": false,
+    "substitutions": [
+      {
+        "ingredient": "all-purpose flour (for the dough)",
+        "substitute": "skip the dough: mix 3 tbsp cornstarch into the potato filling, shape into 12 patties (aloo tikki), and pan-fry in oil until crisp. Serve with the yogurt and rice",
+        "costNote": "Cornstarch costs about $0.10. Adding 300 g rice ($0.75) keeps it under $6"
+      }
+    ],
+    "notes": "The potato filling, yogurt, and butter are naturally gluten-free. Wheat flour is the only source of gluten."
+  },
+  "budgetNotes": [
+    "The most involved recipe in this set, but the ingredients cost under $5 for four people.",
+    "If rolling stuffed breads is too fussy, roll plain dough thin and fold the filling inside like a quesadilla.",
+    "The filling must be fully cooled and fairly dry, or it will tear through the dough."
+  ],
+  "pricingMetadata": {
+    "updatedAt": "November 2026",
+    "sources": [
+      "Ottawa No Frills",
+      "Ottawa Walmart"
+    ],
+    "notes": "Flour $0.10/100 g (No Name 10 kg). Russets $0.66/kg. Onion $1.07. Oil $0.42/100 mL. Butter $1.36/100 g. Plain yogurt $3.28/750 g (Khaas dahi, Walmart regular, November 2026; estimate, not in validated table). Spices estimated; garam masala $2.88/100 g (estimate)."
+  }
+}
