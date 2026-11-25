@@ -1,7 +1,8 @@
 'use strict';
 
-const fs   = require('fs');
-const path = require('path');
+const fs     = require('fs');
+const path   = require('path');
+const crypto = require('crypto');
 
 const DIR = {
   recipes: path.join(__dirname, 'recipes'),
@@ -18,8 +19,11 @@ function escapeHtml(s) {
     .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;');
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
 }
+
+const SAFE_ID = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 
 function fmt(n) {
   return `$${Number(n).toFixed(2)}`;
@@ -38,6 +42,9 @@ function barcodeCode(recipe) {
 
 function validate(recipe) {
   const issues = [];
+  if (!SAFE_ID.test(recipe.id ?? '')) {
+    throw new Error(`Invalid recipe id ${JSON.stringify(recipe.id)}: must be kebab-case [a-z0-9-]`);
+  }
   if (recipe.totalCost > 15)            issues.push(`total cost ${fmt(recipe.totalCost)} exceeds $15`);
   if (recipe.servings < 4)              issues.push(`servings (${recipe.servings}) under 4`);
   if (recipe.nutrition?.calories < 400) issues.push(`calories (${recipe.nutrition?.calories}) under 400`);
@@ -68,7 +75,7 @@ function renderNutrition(n) {
 
   const primaryHtml = primary.map(item => `
         <div class="nutrition-item">
-          <span class="nutrition-value">${item.value}${item.unit}</span>
+          <span class="nutrition-value">${escapeHtml(item.value)}${item.unit}</span>
           <span class="nutrition-label">${item.label}</span>
         </div>`).join('');
 
@@ -110,7 +117,27 @@ function renderGlutenFree(gf) {
 // Page layout (header + footer)
 // ---------------------------------------------------------------------------
 
-function pageLayout({ title, description, content, isRoot }) {
+/**
+ * Content-Security-Policy delivered via <meta> (GitHub Pages can't set headers).
+ * Inline scripts are allowed only by exact SHA-256 hash.
+ */
+function cspFor(inlineScripts = []) {
+  const hashes = inlineScripts.map(src =>
+    `'sha256-${crypto.createHash('sha256').update(src, 'utf8').digest('base64')}'`);
+  return [
+    "default-src 'self'",
+    `script-src ${hashes.length ? hashes.join(' ') : "'none'"}`,
+    "style-src 'self' https://fonts.googleapis.com",
+    "font-src https://fonts.gstatic.com",
+    "img-src 'self' data:",
+    "connect-src 'none'",
+    "object-src 'none'",
+    "base-uri 'self'",
+    "form-action 'none'",
+  ].join('; ');
+}
+
+function pageLayout({ title, description, content, isRoot, inlineScripts = [] }) {
   const base     = isRoot ? '' : '../';
   const logoHref = isRoot ? 'index.html' : '../index.html';
   return `<!DOCTYPE html>
@@ -118,6 +145,8 @@ function pageLayout({ title, description, content, isRoot }) {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="${escapeHtml(cspFor(inlineScripts))}">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
   <title>${escapeHtml(title)}</title>
   <meta name="description" content="${escapeHtml(description)}">
   <meta name="msvalidate.01" content="9B55CFF082D19CBE68CEA20519C74862">
@@ -180,7 +209,7 @@ function pageLayout({ title, description, content, isRoot }) {
 function renderRecipeCard(recipe) {
   const cal = recipe.nutrition?.calories ?? '—';
   return `
-  <a href="recipes/${recipe.id}.html" class="recipe-card"
+  <a href="recipes/${escapeHtml(recipe.id)}.html" class="recipe-card"
      data-tags="${escapeHtml(recipe.tags.join(','))}"
      data-name="${escapeHtml(recipe.name.toLowerCase())}"
      data-desc="${escapeHtml(recipe.summary.toLowerCase())}">
@@ -192,16 +221,16 @@ function renderRecipeCard(recipe) {
       </div>
       <div class="card-total-block">
         <span class="card-total-amount">$${fmtBare(recipe.totalCost)}</span>
-        <span class="card-total-label">Total &middot; ${recipe.servings} serv</span>
+        <span class="card-total-label">Total &middot; ${escapeHtml(recipe.servings)} serv</span>
       </div>
     </div>
     <div class="card-body">
       <h2 class="card-title">${escapeHtml(recipe.name)}</h2>
       <p class="card-desc">${escapeHtml(recipe.summary)}</p>
       <div class="card-meta">
-        <span>${recipe.servings} SERVINGS</span>
+        <span>${escapeHtml(recipe.servings)} SERVINGS</span>
         <span class="card-meta-dot">&middot;</span>
-        <span>${cal} CAL</span>
+        <span>${escapeHtml(cal)} CAL</span>
         <span class="card-meta-dot">&middot;</span>
         <span>${escapeHtml(recipe.prepTime)} PREP</span>
         <span class="card-meta-dot">&middot;</span>
@@ -216,6 +245,70 @@ function renderRecipeCard(recipe) {
     </div>
   </a>`;
 }
+
+const FILTER_SCRIPT = `
+    (function () {
+      var activeTags = [];
+      var query      = '';
+      var pills      = document.querySelectorAll('.filter-pill');
+      var cards      = document.querySelectorAll('.recipe-card');
+      var shownEl    = document.getElementById('shown-count');
+      var clearBtn   = document.getElementById('filter-clear');
+      var activeCountEl = document.getElementById('filter-active-count');
+      var emptyEl    = document.getElementById('grid-empty');
+      var gridEl     = document.getElementById('recipe-grid');
+      var searchEl   = document.getElementById('recipe-search');
+      var resetBtn   = document.getElementById('empty-reset');
+
+      function update() {
+        var q = query.toLowerCase().trim();
+        var shown = 0;
+        cards.forEach(function (card) {
+          var tags = card.dataset.tags ? card.dataset.tags.split(',') : [];
+          var matchTags = activeTags.every(function (t) { return tags.indexOf(t) !== -1; });
+          var hay = (card.dataset.name || '') + ' ' + (card.dataset.desc || '') + ' ' + (card.dataset.tags || '');
+          var matchSearch = !q || hay.indexOf(q) !== -1;
+          var visible = matchTags && matchSearch;
+          card.style.display = visible ? '' : 'none';
+          if (visible) shown++;
+        });
+        if (shownEl) shownEl.textContent = shown + ' SHOWN';
+        if (activeCountEl) activeCountEl.textContent = activeTags.length;
+        var hasFilters = activeTags.length > 0 || q.length > 0;
+        if (clearBtn) clearBtn.classList.toggle('visible', hasFilters);
+        if (emptyEl)  emptyEl.classList.toggle('visible', shown === 0);
+        if (gridEl)   gridEl.style.display = shown === 0 ? 'none' : '';
+      }
+
+      pills.forEach(function (pill) {
+        pill.addEventListener('click', function () {
+          var tag = this.dataset.tag;
+          var idx = activeTags.indexOf(tag);
+          if (idx === -1) { activeTags.push(tag); } else { activeTags.splice(idx, 1); }
+          this.classList.toggle('active', activeTags.indexOf(tag) !== -1);
+          update();
+        });
+      });
+
+      if (searchEl) {
+        searchEl.addEventListener('input', function () {
+          query = this.value;
+          update();
+        });
+      }
+
+      function clearAll() {
+        activeTags = [];
+        query = '';
+        if (searchEl) searchEl.value = '';
+        pills.forEach(function (p) { p.classList.remove('active'); });
+        update();
+      }
+
+      if (clearBtn) clearBtn.addEventListener('click', clearAll);
+      if (resetBtn) resetBtn.addEventListener('click', clearAll);
+    })();
+    `;
 
 function renderIndexPage(recipes) {
   const allTags = [...new Set(recipes.flatMap(r => r.tags))].sort();
@@ -298,75 +391,14 @@ function renderIndexPage(recipes) {
       </div>
     </section>
 
-    <script>
-    (function () {
-      var activeTags = [];
-      var query      = '';
-      var pills      = document.querySelectorAll('.filter-pill');
-      var cards      = document.querySelectorAll('.recipe-card');
-      var shownEl    = document.getElementById('shown-count');
-      var clearBtn   = document.getElementById('filter-clear');
-      var activeCountEl = document.getElementById('filter-active-count');
-      var emptyEl    = document.getElementById('grid-empty');
-      var gridEl     = document.getElementById('recipe-grid');
-      var searchEl   = document.getElementById('recipe-search');
-      var resetBtn   = document.getElementById('empty-reset');
-
-      function update() {
-        var q = query.toLowerCase().trim();
-        var shown = 0;
-        cards.forEach(function (card) {
-          var tags = card.dataset.tags ? card.dataset.tags.split(',') : [];
-          var matchTags = activeTags.every(function (t) { return tags.indexOf(t) !== -1; });
-          var hay = (card.dataset.name || '') + ' ' + (card.dataset.desc || '') + ' ' + (card.dataset.tags || '');
-          var matchSearch = !q || hay.indexOf(q) !== -1;
-          var visible = matchTags && matchSearch;
-          card.style.display = visible ? '' : 'none';
-          if (visible) shown++;
-        });
-        if (shownEl) shownEl.textContent = shown + ' SHOWN';
-        if (activeCountEl) activeCountEl.textContent = activeTags.length;
-        var hasFilters = activeTags.length > 0 || q.length > 0;
-        if (clearBtn) clearBtn.classList.toggle('visible', hasFilters);
-        if (emptyEl)  emptyEl.classList.toggle('visible', shown === 0);
-        if (gridEl)   gridEl.style.display = shown === 0 ? 'none' : '';
-      }
-
-      pills.forEach(function (pill) {
-        pill.addEventListener('click', function () {
-          var tag = this.dataset.tag;
-          var idx = activeTags.indexOf(tag);
-          if (idx === -1) { activeTags.push(tag); } else { activeTags.splice(idx, 1); }
-          this.classList.toggle('active', activeTags.indexOf(tag) !== -1);
-          update();
-        });
-      });
-
-      if (searchEl) {
-        searchEl.addEventListener('input', function () {
-          query = this.value;
-          update();
-        });
-      }
-
-      function clearAll() {
-        activeTags = [];
-        query = '';
-        if (searchEl) searchEl.value = '';
-        pills.forEach(function (p) { p.classList.remove('active'); });
-        update();
-      }
-
-      if (clearBtn) clearBtn.addEventListener('click', clearAll);
-      if (resetBtn) resetBtn.addEventListener('click', clearAll);
-    })();
-    </script>`;
+    <script>${FILTER_SCRIPT}</script>`;
 
   return pageLayout({
     title:       'Overdraft Kitchen — Affordable Recipes for Canadians',
     description: 'Straightforward recipes for when money is tight. All recipes feed four people for under $15.',
     content,
     isRoot: true,
+    inlineScripts: [FILTER_SCRIPT],
   });
 }
 
@@ -391,7 +423,7 @@ function renderReceipt(recipe) {
         <div class="receipt-store">OVERDRAFT KITCHEN</div>
         <div class="receipt-subtitle">&starf; ITEMIZED GROCERY RECEIPT &starf;</div>
         <div class="receipt-recipe-name">${escapeHtml(recipe.name)}</div>
-        <div class="receipt-serves">SERVES ${recipe.servings} &middot; OTTAWA &middot; 2026</div>
+        <div class="receipt-serves">SERVES ${escapeHtml(recipe.servings)} &middot; OTTAWA &middot; 2026</div>
       </div>
       <div class="receipt-items">${rows}</div>
       <div class="receipt-totals">
@@ -455,8 +487,8 @@ function renderRecipePage(recipe) {
       </div>
 
       <div class="detail-meta-strip">
-        <span>SERVES ${recipe.servings}</span>
-        <span>${cal} CAL / SERVING</span>
+        <span>SERVES ${escapeHtml(recipe.servings)}</span>
+        <span>${escapeHtml(cal)} CAL / SERVING</span>
         <span>${escapeHtml(recipe.prepTime)} PREP</span>
         <span>${escapeHtml(recipe.cookTime)} COOK</span>
         <span class="meta-total">$${totalFmt} TOTAL</span>
