@@ -137,9 +137,10 @@ function cspFor(inlineScripts = []) {
   ].join('; ');
 }
 
-function pageLayout({ title, description, content, isRoot, inlineScripts = [] }) {
-  const base     = isRoot ? '' : '../';
-  const logoHref = isRoot ? 'index.html' : '../index.html';
+function pageLayout({ title, description, content, isRoot, absolute = false, inlineScripts = [] }) {
+  // `absolute` is for pages served at arbitrary paths (404.html), where relative links break.
+  const base     = absolute ? '/' : isRoot ? '' : '../';
+  const logoHref = absolute ? '/' : isRoot ? 'index.html' : '../index.html';
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -154,6 +155,7 @@ function pageLayout({ title, description, content, isRoot, inlineScripts = [] })
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="icon" href="${base}favicon.ico" sizes="16x16 32x32 48x48">
   <link rel="stylesheet" href="${base}styles/main.css">
 </head>
 <body>
@@ -532,6 +534,24 @@ function renderRecipePage(recipe) {
 // Build
 // ---------------------------------------------------------------------------
 
+function renderNotFoundPage() {
+  const content = `
+    <section class="manifesto-section">
+      <div class="container">
+        <div class="manifesto-inner">
+          <div class="manifesto-kicker">&mdash; 404 &mdash;</div>
+          <p class="manifesto-body">This page isn't here. Neither is the $4 block of cheese. <a href="/">Back to the recipes</a>.</p>
+        </div>
+      </div>
+    </section>`;
+  return pageLayout({
+    title:       'Page not found — Overdraft Kitchen',
+    description: 'Page not found.',
+    content,
+    absolute: true,
+  });
+}
+
 function build() {
   const outRecipes = path.join(DIR.docs, 'recipes');
   const outStyles  = path.join(DIR.docs, 'styles');
@@ -555,6 +575,10 @@ function build() {
   });
 
   fs.writeFileSync(path.join(DIR.docs, 'index.html'), renderIndexPage(recipes));
+  fs.writeFileSync(path.join(DIR.docs, '404.html'), renderNotFoundPage());
+  for (const f of fs.readdirSync(path.join(DIR.src, 'static'))) {
+    fs.copyFileSync(path.join(DIR.src, 'static', f), path.join(DIR.docs, f));
+  }
   console.log(`  built  index.html`);
   console.log(`\nDone. ${recipes.length} recipe(s).`);
 }
